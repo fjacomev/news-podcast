@@ -1,0 +1,47 @@
+Software is crushing chips by a record margin: Chart of the Day
+
+2026-08-26
+
+Por Jared Blikre
+
+https://finance.yahoo.com/markets/article/software-is-crushing-chips-by-a-record-margin-chart-of-the-day-100000109.html
+
+Software stocks are near record highs. Chips are still stuck in a bear market — except Nvidia (NVDA) never really joined them.
+
+The handoff happened almost to the day.
+
+Chip stocks peaked on June 22. Software bottomed right around then, kicking off a multitrillion-dollar reversal that has sent the two groups in almost perfectly opposite directions.
+
+Strip out the megacaps, and the symmetry is wild. The equal-weight SPDR S&P Software & Services ETF (XSW) is up about 24% since then, while the equal-weight SPDR S&P Semiconductor ETF (XSD) is down about 24%.
+
+That nearly 50-percentage-point gap is the widest comparable software-over-chips move in the ETFs' history, dating back to 2011.
+
+And this is not an index quirk.
+
+In a Yahoo Finance basket of 45 software stocks, 37 are higher since June 22. Among 60 chip stocks, 59 are lower.
+
+The money involved is enormous. Microsoft (MSFT) alone has added nearly $900 billion in market value since the turn. Micron (MU), Taiwan Semiconductor Manufacturing (TSM), Arm (ARM), and AMD (AMD) have collectively shed roughly $950 billion.
+
+Across the full comparison, software has added about $1.5 trillion, while chips have lost roughly $2.6 trillion.
+
+Fundstrat head of technical strategy Mark Newton thinks software simply got its pain out of the way first.
+
+"They've already been through this correction, and now they've started to trade a lot better," he said.
+
+Software had tried to grab the baton from chips this spring, only to lose it again.
+
+This time seems different. Salesforce (CRM) bottomed on June 22, while Adobe (ADBE), ServiceNow (NOW), and Microsoft made lows within the next three sessions. Micron peaked on June 25.
+
+Longer-term index data shows just how unusual that handoff has been.
+
+From June 22 through Friday, the S&P North American Technology Software Index gained about 19%, while the Philadelphia Semiconductor Index (SOXX) fell about 20%. The only wider two-month software-over-chips gaps in common data going back to 1994 came around the dot-com peak, when both groups were surging.
+
+This is the biggest on record, with software rising while chips fell.
+
+Then there's Nvidia (NVDA).
+
+The stock had its worst day since July on Monday, yet it has gone essentially nowhere for roughly four months, even as the broader chip trade rolled over. At several points during the sell-off, Nvidia held up more like the megacaps that were dodging the chip wipeout than the semiconductor group around it.
+
+That makes this earnings week unusually interesting.
+
+Nvidia reports on Wednesday. After four months of trading sideways while the rest of the chip trade cracked, the chipmaker's ability to keep defying the sell-off is about to get a major test.
