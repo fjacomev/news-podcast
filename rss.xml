@@ -7,7 +7,7 @@
     <link>https://fjacomev.github.io/news-podcast</link>
     <description>Podcast personal de noticias, leido en voz local</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Aug 2026 00:40:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 10:45:39 GMT</lastBuildDate>
     <image>
       <url>https://fjacomev.github.io/news-podcast/cover.jpg</url>
       <title>Fernando AI News</title>
@@ -18,6 +18,404 @@
     <itunes:summary>Podcast personal de noticias, leido en voz local</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
+
+    <item>
+      <title>AI&#x27;s next big bottleneck isn&#x27;t infrastructure. It&#x27;s regulatory red tape.</title>
+      <author>Jake Conley</author>
+      <description>AI&#x27;s next big bottleneck isn&#x27;t infrastructure. It&#x27;s regulatory red tape.
+
+2026-08-27
+
+Por Jake Conley
+
+https://finance.yahoo.com/economy/article/ais-next-big-bottleneck-isnt-infrastructure-its-regulatory-red-tape-090000302.html
+
+As Big Tech has poured hundreds of billions of dollars into artificial intelligence development, myriad bottlenecks have given investors reason to worry, from multiyear delays in natural gas turbine deliveries to capital availability and energy access constraints.
+
+However, with midterm elections just two months away, the biggest bottleneck is elsewhere, according to Melius Research — in regulation.
+
+&quot;The binding constraint on growth has shifted,&quot; James West, managing director at Melius Research, wrote to clients on Monday. &quot;It is no longer turbines, capital, or customer intent: rolling into midterms, it is permission.&quot;
+
+West&#x27;s argument underscores the growing role of politics in the US&#x27;s AI infrastructure build-out. As resistance to data center development has grown in communities across the country, state governments have increasingly clamped down, pursuing legislation that slows construction.
+
+New York became the first state in the nation to enact a moratorium on data center construction in late July, when Gov. Kathy Hochul signed legislation putting a one-year hold on development of any &quot;hyperscale&quot; data center that consumes 50 or more megawatts of power.
+
+The Texas gubernatorial election has become a critical race for the data center industry. Throughout 2025, current Republican Gov. Greg Abbott courted developers, pointing to the state&#x27;s ream of existing energy infrastructure and open land. In November last year, the governor called Texas the &quot;epicenter of AI development&quot; as Google (GOOG, GOOGL) signed a $40 billion commitment to build three data center campuses in the state.
+
+By August 2026, the Electric Reliability Council of Texas (ERCOT) said it was reviewing 476 gigawatts&#x27; worth of proposed new electricity demand, equal to more than five times the state&#x27;s highest recorded electricity load — with roughly 90% of those requests coming from data center developers.
+
+The wave of development has prompted a growing tide of local backlash amid concerns about energy and water use, to the point that, in August, Abbott shifted his stance on the industry. The governor recently ordered an audit of proposed data center projects planned for ERCOT, prompting the Texas energy grid operator to reduce the system&#x27;s 2027 expected energy load growth from 14% to 6%, likely due to inflated demand projections.
+
+More recently, Abbott said during public remarks that data center developers &quot;dug their own grave.&quot;
+
+In the upcoming gubernatorial election, Abbott will run for reelection on the Republican ticket against Democratic candidate Gina Hinojosa, who has made Abbott&#x27;s connections to the data center industry a key point of her critique. The Democrat has proposed an immediate moratorium on data center construction, set to last until the Texas legislature can pass legislation to control development, as a key part of her platform.</description>
+      <content:encoded><![CDATA[<p>AI&#x27;s next big bottleneck isn&#x27;t infrastructure. It&#x27;s regulatory red tape.</p><p>2026-08-27</p><p>Por Jake Conley</p><p>https://finance.yahoo.com/economy/article/ais-next-big-bottleneck-isnt-infrastructure-its-regulatory-red-tape-090000302.html</p><p>As Big Tech has poured hundreds of billions of dollars into artificial intelligence development, myriad bottlenecks have given investors reason to worry, from multiyear delays in natural gas turbine deliveries to capital availability and energy access constraints.</p><p>However, with midterm elections just two months away, the biggest bottleneck is elsewhere, according to Melius Research — in regulation.</p><p>&quot;The binding constraint on growth has shifted,&quot; James West, managing director at Melius Research, wrote to clients on Monday. &quot;It is no longer turbines, capital, or customer intent: rolling into midterms, it is permission.&quot;</p><p>West&#x27;s argument underscores the growing role of politics in the US&#x27;s AI infrastructure build-out. As resistance to data center development has grown in communities across the country, state governments have increasingly clamped down, pursuing legislation that slows construction.</p><p>New York became the first state in the nation to enact a moratorium on data center construction in late July, when Gov. Kathy Hochul signed legislation putting a one-year hold on development of any &quot;hyperscale&quot; data center that consumes 50 or more megawatts of power.</p><p>The Texas gubernatorial election has become a critical race for the data center industry. Throughout 2025, current Republican Gov. Greg Abbott courted developers, pointing to the state&#x27;s ream of existing energy infrastructure and open land. In November last year, the governor called Texas the &quot;epicenter of AI development&quot; as Google (GOOG, GOOGL) signed a $40 billion commitment to build three data center campuses in the state.</p><p>By August 2026, the Electric Reliability Council of Texas (ERCOT) said it was reviewing 476 gigawatts&#x27; worth of proposed new electricity demand, equal to more than five times the state&#x27;s highest recorded electricity load — with roughly 90% of those requests coming from data center developers.</p><p>The wave of development has prompted a growing tide of local backlash amid concerns about energy and water use, to the point that, in August, Abbott shifted his stance on the industry. The governor recently ordered an audit of proposed data center projects planned for ERCOT, prompting the Texas energy grid operator to reduce the system&#x27;s 2027 expected energy load growth from 14% to 6%, likely due to inflated demand projections.</p><p>More recently, Abbott said during public remarks that data center developers &quot;dug their own grave.&quot;</p><p>In the upcoming gubernatorial election, Abbott will run for reelection on the Republican ticket against Democratic candidate Gina Hinojosa, who has made Abbott&#x27;s connections to the data center industry a key point of her critique. The Democrat has proposed an immediate moratorium on data center construction, set to last until the Texas legislature can pass legislation to control development, as a key part of her platform.</p>]]></content:encoded>
+      <pubDate>Thu, 27 Aug 2026 10:45:38 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-08-27_AIs_next_big_bottleneck_isnt_infrastructure._Its_regulatory_red_tape.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-08-27_AIs_next_big_bottleneck_isnt_infrastructure._Its_regulatory_red_tape.mp3" length="1739361" type="audio/mpeg"/>
+      <itunes:duration>00:03:06</itunes:duration>
+      <itunes:author>Jake Conley</itunes:author>
+      <itunes:summary>AI&#x27;s next big bottleneck isn&#x27;t infrastructure. It&#x27;s regulatory red tape.
+
+2026-08-27
+
+Por Jake Conley
+
+https://finance.yahoo.com/economy/article/ais-next-big-bottleneck-isnt-infrastructure-its-regulatory-red-tape-090000302.html
+
+As Big Tech has poured hundreds of billions of dollars into artificial intelligence development, myriad bottlenecks have given investors reason to worry, from multiyear delays in natural gas turbine deliveries to capital availability and energy access constraints.
+
+However, with midterm elections just two months away, the biggest bottleneck is elsewhere, according to Melius Research — in regulation.
+
+&quot;The binding constraint on growth has shifted,&quot; James West, managing director at Melius Research, wrote to clients on Monday. &quot;It is no longer turbines, capital, or customer intent: rolling into midterms, it is permission.&quot;
+
+West&#x27;s argument underscores the growing role of politics in the US&#x27;s AI infrastructure build-out. As resistance to data center development has grown in communities across the country, state governments have increasingly clamped down, pursuing legislation that slows construction.
+
+New York became the first state in the nation to enact a moratorium on data center construction in late July, when Gov. Kathy Hochul signed legislation putting a one-year hold on development of any &quot;hyperscale&quot; data center that consumes 50 or more megawatts of power.
+
+The Texas gubernatorial election has become a critical race for the data center industry. Throughout 2025, current Republican Gov. Greg Abbott courted developers, pointing to the state&#x27;s ream of existing energy infrastructure and open land. In November last year, the governor called Texas the &quot;epicenter of AI development&quot; as Google (GOOG, GOOGL) signed a $40 billion commitment to build three data center campuses in the state.
+
+By August 2026, the Electric Reliability Council of Texas (ERCOT) said it was reviewing 476 gigawatts&#x27; worth of proposed new electricity demand, equal to more than five times the state&#x27;s highest recorded electricity load — with roughly 90% of those requests coming from data center developers.
+
+The wave of development has prompted a growing tide of local backlash amid concerns about energy and water use, to the point that, in August, Abbott shifted his stance on the industry. The governor recently ordered an audit of proposed data center projects planned for ERCOT, prompting the Texas energy grid operator to reduce the system&#x27;s 2027 expected energy load growth from 14% to 6%, likely due to inflated demand projections.
+
+More recently, Abbott said during public remarks that data center developers &quot;dug their own grave.&quot;
+
+In the upcoming gubernatorial election, Abbott will run for reelection on the Republican ticket against Democratic candidate Gina Hinojosa, who has made Abbott&#x27;s connections to the data center industry a key point of her critique. The Democrat has proposed an immediate moratorium on data center construction, set to last until the Texas legislature can pass legislation to control development, as a key part of her platform.</itunes:summary>
+    </item>
+
+    <item>
+      <title>Bessent’s ‘Treasury Twist’ Has Wall Street War-Gaming a Shift in Borrowing Strategy</title>
+      <author>Greg Ritchie; Michael MacKenzie; Yash Roy</author>
+      <description>Bessent’s ‘Treasury Twist’ Has Wall Street War-Gaming a Shift in Borrowing Strategy
+
+2026-08-27
+
+Por Greg Ritchie; Michael MacKenzie; Yash Roy
+
+https://finance.yahoo.com/economy/policy/articles/bessent-treasury-twist-wall-street-185219883.html
+
+(Bloomberg) -- US Treasury Secretary Scott Bessent&#x27;s more activist style of managing the nation&#x27;s debt has Wall Street war-gaming a potentially bigger shift in the government&#x27;s borrowing strategy over the coming months.
+
+Most Read from Bloomberg
+
+One radical option would be to cut sales of long-dated bonds, according to Deutsche Bank AG, Morgan Stanley and Citigroup Inc. More likely, the Treasury could signal at its Nov. 4 quarterly refunding that future increases in borrowing will be done via bills and shorter-maturity notes, while further expanding buybacks to ease pressure on long-term yields.
+
+The rethink shows how Bessent&#x27;s actions are bringing uncertainty to a policy long known for being &quot;regular and predictable.&quot; Bank of America strategists, led by Meghan Swiber, said it signals the start of &quot;a new regime&quot; as officials take a more &quot;activist&quot; role in shaping the market.
+
+Bessent&#x27;s moves have &quot;effectively made the November refunding announcement more of a wildcard than otherwise would have been the case,&quot; said Ian Lyngen, head of US rates strategy at BMO Capital Markets. &quot;Reductions to bond auction sizes can no longer be ruled out.&quot;
+
+For now, Bessent has ruled out changes to the regular auction program, saying that Treasury will stick with its current schedule until at least the next refunding. But a revamped buyback program announced last week, which he dubbed a &quot;Treasury twist,&quot; raised the stakes around the November announcement for the $31 trillion Treasury market.
+
+The expanded buybacks are unlikely to deliver a meaningful transformation of the government&#x27;s debt maturity on their own. Unlike the Federal Reserve, Treasury cannot create money to finance its purchases, meaning buybacks must ultimately be funded with additional issuance, most likely bills, or with cash from the Treasury General Account.
+
+&quot;Expanded buybacks themselves are likely just a bridge until they get to November refunding,&quot; said Martin Tobias, a rates strategist at Morgan Stanley. &quot;The market-moving event ultimately will be the manner with which Treasury goes about shortening the weighted-average maturity.&quot;
+
+Tobias expects the Treasury will gradually increase sales of shorter-dated notes, while keeping longer-maturity sales steady. However, the risk of outright cuts to long-end auctions has gone up over the last week, he said.</description>
+      <content:encoded><![CDATA[<p>Bessent’s ‘Treasury Twist’ Has Wall Street War-Gaming a Shift in Borrowing Strategy</p><p>2026-08-27</p><p>Por Greg Ritchie; Michael MacKenzie; Yash Roy</p><p>https://finance.yahoo.com/economy/policy/articles/bessent-treasury-twist-wall-street-185219883.html</p><p>(Bloomberg) -- US Treasury Secretary Scott Bessent&#x27;s more activist style of managing the nation&#x27;s debt has Wall Street war-gaming a potentially bigger shift in the government&#x27;s borrowing strategy over the coming months.</p><p>Most Read from Bloomberg</p><p>One radical option would be to cut sales of long-dated bonds, according to Deutsche Bank AG, Morgan Stanley and Citigroup Inc. More likely, the Treasury could signal at its Nov. 4 quarterly refunding that future increases in borrowing will be done via bills and shorter-maturity notes, while further expanding buybacks to ease pressure on long-term yields.</p><p>The rethink shows how Bessent&#x27;s actions are bringing uncertainty to a policy long known for being &quot;regular and predictable.&quot; Bank of America strategists, led by Meghan Swiber, said it signals the start of &quot;a new regime&quot; as officials take a more &quot;activist&quot; role in shaping the market.</p><p>Bessent&#x27;s moves have &quot;effectively made the November refunding announcement more of a wildcard than otherwise would have been the case,&quot; said Ian Lyngen, head of US rates strategy at BMO Capital Markets. &quot;Reductions to bond auction sizes can no longer be ruled out.&quot;</p><p>For now, Bessent has ruled out changes to the regular auction program, saying that Treasury will stick with its current schedule until at least the next refunding. But a revamped buyback program announced last week, which he dubbed a &quot;Treasury twist,&quot; raised the stakes around the November announcement for the $31 trillion Treasury market.</p><p>The expanded buybacks are unlikely to deliver a meaningful transformation of the government&#x27;s debt maturity on their own. Unlike the Federal Reserve, Treasury cannot create money to finance its purchases, meaning buybacks must ultimately be funded with additional issuance, most likely bills, or with cash from the Treasury General Account.</p><p>&quot;Expanded buybacks themselves are likely just a bridge until they get to November refunding,&quot; said Martin Tobias, a rates strategist at Morgan Stanley. &quot;The market-moving event ultimately will be the manner with which Treasury goes about shortening the weighted-average maturity.&quot;</p><p>Tobias expects the Treasury will gradually increase sales of shorter-dated notes, while keeping longer-maturity sales steady. However, the risk of outright cuts to long-end auctions has gone up over the last week, he said.</p>]]></content:encoded>
+      <pubDate>Thu, 27 Aug 2026 10:44:49 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-08-27_Bessents_Treasury_Twist_Has_Wall_Street_War-Gaming_a_Shift_in_Borrowing_Strategy.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-08-27_Bessents_Treasury_Twist_Has_Wall_Street_War-Gaming_a_Shift_in_Borrowing_Strategy.mp3" length="1384385" type="audio/mpeg"/>
+      <itunes:duration>00:02:26</itunes:duration>
+      <itunes:author>Greg Ritchie; Michael MacKenzie; Yash Roy</itunes:author>
+      <itunes:summary>Bessent’s ‘Treasury Twist’ Has Wall Street War-Gaming a Shift in Borrowing Strategy
+
+2026-08-27
+
+Por Greg Ritchie; Michael MacKenzie; Yash Roy
+
+https://finance.yahoo.com/economy/policy/articles/bessent-treasury-twist-wall-street-185219883.html
+
+(Bloomberg) -- US Treasury Secretary Scott Bessent&#x27;s more activist style of managing the nation&#x27;s debt has Wall Street war-gaming a potentially bigger shift in the government&#x27;s borrowing strategy over the coming months.
+
+Most Read from Bloomberg
+
+One radical option would be to cut sales of long-dated bonds, according to Deutsche Bank AG, Morgan Stanley and Citigroup Inc. More likely, the Treasury could signal at its Nov. 4 quarterly refunding that future increases in borrowing will be done via bills and shorter-maturity notes, while further expanding buybacks to ease pressure on long-term yields.
+
+The rethink shows how Bessent&#x27;s actions are bringing uncertainty to a policy long known for being &quot;regular and predictable.&quot; Bank of America strategists, led by Meghan Swiber, said it signals the start of &quot;a new regime&quot; as officials take a more &quot;activist&quot; role in shaping the market.
+
+Bessent&#x27;s moves have &quot;effectively made the November refunding announcement more of a wildcard than otherwise would have been the case,&quot; said Ian Lyngen, head of US rates strategy at BMO Capital Markets. &quot;Reductions to bond auction sizes can no longer be ruled out.&quot;
+
+For now, Bessent has ruled out changes to the regular auction program, saying that Treasury will stick with its current schedule until at least the next refunding. But a revamped buyback program announced last week, which he dubbed a &quot;Treasury twist,&quot; raised the stakes around the November announcement for the $31 trillion Treasury market.
+
+The expanded buybacks are unlikely to deliver a meaningful transformation of the government&#x27;s debt maturity on their own. Unlike the Federal Reserve, Treasury cannot create money to finance its purchases, meaning buybacks must ultimately be funded with additional issuance, most likely bills, or with cash from the Treasury General Account.
+
+&quot;Expanded buybacks themselves are likely just a bridge until they get to November refunding,&quot; said Martin Tobias, a rates strategist at Morgan Stanley. &quot;The market-moving event ultimately will be the manner with which Treasury goes about shortening the weighted-average maturity.&quot;
+
+Tobias expects the Treasury will gradually increase sales of shorter-dated notes, while keeping longer-maturity sales steady. However, the risk of outright cuts to long-end auctions has gone up over the last week, he said.</itunes:summary>
+    </item>
+
+    <item>
+      <title>Why Anthropic&#x27;s $30 trillion sales pitch ahead of its IPO could make sense</title>
+      <author>Brian Sozzi</author>
+      <description>Why Anthropic&#x27;s $30 trillion sales pitch ahead of its IPO could make sense
+
+2026-08-27
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/markets/article/why-anthropics-30-trillion-sales-pitch-ahead-of-its-ipo-could-make-sense-145413337.html
+
+This year has already delivered one of the most extraordinary IPO periods in recent years. SpaceX (SPCX), Cerebras (CBRS), and Jersey Mike&#x27;s (JMKE) have been some of the buzzier names to debut in public markets.
+
+But this could be just the tip of the IPO iceberg as we look into the fall — and along with it, some very bold promises on future performance.
+
+Anthropic (ANTH.PVT) has filed confidentially for a potential IPO as soon as October. The Claude creator may pitch to investors that its potential revenue opportunities are above $30 trillion, per a new report from the Wall Street Journal.
+
+OpenAI (OPAI.PVT) is not far behind, judging by all the execs it has sent packing this summer. It too could follow Anthropic with a seemingly outlandish future revenue estimate.
+
+&quot;I actually like it [the revenue estimate] because it talks about sort of what the opportunity is. If it&#x27;s enterprise, if it&#x27;s consumer, it&#x27;s coding, it&#x27;s actually changing not only how we do work, but also how we develop products. I think it is viable,&quot; Connor Group managing partner Jim Neesen said on Yahoo Finance&#x27;s Opening Bid. &quot;I mean, if you look at their revenue growth, $65 billion is their run rate. They were $9 billion last year. That&#x27;s a sevenfold increase. I do think that market opportunity is out there.&quot;
+
+Connor Group has advised on 275 IPOs worth more than $4 trillion.
+
+Even without the Anthropic and OpenAI IPOs, this year may end up being a banner one for the US IPO market.
+
+Traditional US IPOs raised approximately $114.1 billion in the second quarter, more than seven times the $14.8 billion raised over the same period in 2025, according to PWC data. The figure was boosted by SpaceX&#x27;s arrival on public markets.
+
+Through the first six months of the year, 65 traditional IPOs raised about $114.2 billion, compared to 34 IPOs that raised $14.8 billion during the first half of 2025.
+
+Neesen said the outlook remains healthy for IPOs, especially for emerging biotech companies.
+
+He added that investors are likely to be patient with the profit timelines for Anthropic and OpenAI.
+
+&quot;The intuition is Anthropic is a lot closer to that profitability piece,&quot; Neesen said. &quot;But there is massive investment on the capital side that&#x27;s continuing going out there. I think there will be a lot of forgiveness.&quot;
+
+Click here for in-depth analysis of the latest stock market news and events moving stock prices
+
+Read the latest financial and business news from Yahoo Finance</description>
+      <content:encoded><![CDATA[<p>Why Anthropic&#x27;s $30 trillion sales pitch ahead of its IPO could make sense</p><p>2026-08-27</p><p>Por Brian Sozzi</p><p>https://finance.yahoo.com/markets/article/why-anthropics-30-trillion-sales-pitch-ahead-of-its-ipo-could-make-sense-145413337.html</p><p>This year has already delivered one of the most extraordinary IPO periods in recent years. SpaceX (SPCX), Cerebras (CBRS), and Jersey Mike&#x27;s (JMKE) have been some of the buzzier names to debut in public markets.</p><p>But this could be just the tip of the IPO iceberg as we look into the fall — and along with it, some very bold promises on future performance.</p><p>Anthropic (ANTH.PVT) has filed confidentially for a potential IPO as soon as October. The Claude creator may pitch to investors that its potential revenue opportunities are above $30 trillion, per a new report from the Wall Street Journal.</p><p>OpenAI (OPAI.PVT) is not far behind, judging by all the execs it has sent packing this summer. It too could follow Anthropic with a seemingly outlandish future revenue estimate.</p><p>&quot;I actually like it [the revenue estimate] because it talks about sort of what the opportunity is. If it&#x27;s enterprise, if it&#x27;s consumer, it&#x27;s coding, it&#x27;s actually changing not only how we do work, but also how we develop products. I think it is viable,&quot; Connor Group managing partner Jim Neesen said on Yahoo Finance&#x27;s Opening Bid. &quot;I mean, if you look at their revenue growth, $65 billion is their run rate. They were $9 billion last year. That&#x27;s a sevenfold increase. I do think that market opportunity is out there.&quot;</p><p>Connor Group has advised on 275 IPOs worth more than $4 trillion.</p><p>Even without the Anthropic and OpenAI IPOs, this year may end up being a banner one for the US IPO market.</p><p>Traditional US IPOs raised approximately $114.1 billion in the second quarter, more than seven times the $14.8 billion raised over the same period in 2025, according to PWC data. The figure was boosted by SpaceX&#x27;s arrival on public markets.</p><p>Through the first six months of the year, 65 traditional IPOs raised about $114.2 billion, compared to 34 IPOs that raised $14.8 billion during the first half of 2025.</p><p>Neesen said the outlook remains healthy for IPOs, especially for emerging biotech companies.</p><p>He added that investors are likely to be patient with the profit timelines for Anthropic and OpenAI.</p><p>&quot;The intuition is Anthropic is a lot closer to that profitability piece,&quot; Neesen said. &quot;But there is massive investment on the capital side that&#x27;s continuing going out there. I think there will be a lot of forgiveness.&quot;</p><p>Click here for in-depth analysis of the latest stock market news and events moving stock prices</p><p>Read the latest financial and business news from Yahoo Finance</p>]]></content:encoded>
+      <pubDate>Thu, 27 Aug 2026 10:44:10 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-08-27_Why_Anthropics_30_trillion_sales_pitch_ahead_of_its_IPO_could_make_sense.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-08-27_Why_Anthropics_30_trillion_sales_pitch_ahead_of_its_IPO_could_make_sense.mp3" length="1588888" type="audio/mpeg"/>
+      <itunes:duration>00:02:50</itunes:duration>
+      <itunes:author>Brian Sozzi</itunes:author>
+      <itunes:summary>Why Anthropic&#x27;s $30 trillion sales pitch ahead of its IPO could make sense
+
+2026-08-27
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/markets/article/why-anthropics-30-trillion-sales-pitch-ahead-of-its-ipo-could-make-sense-145413337.html
+
+This year has already delivered one of the most extraordinary IPO periods in recent years. SpaceX (SPCX), Cerebras (CBRS), and Jersey Mike&#x27;s (JMKE) have been some of the buzzier names to debut in public markets.
+
+But this could be just the tip of the IPO iceberg as we look into the fall — and along with it, some very bold promises on future performance.
+
+Anthropic (ANTH.PVT) has filed confidentially for a potential IPO as soon as October. The Claude creator may pitch to investors that its potential revenue opportunities are above $30 trillion, per a new report from the Wall Street Journal.
+
+OpenAI (OPAI.PVT) is not far behind, judging by all the execs it has sent packing this summer. It too could follow Anthropic with a seemingly outlandish future revenue estimate.
+
+&quot;I actually like it [the revenue estimate] because it talks about sort of what the opportunity is. If it&#x27;s enterprise, if it&#x27;s consumer, it&#x27;s coding, it&#x27;s actually changing not only how we do work, but also how we develop products. I think it is viable,&quot; Connor Group managing partner Jim Neesen said on Yahoo Finance&#x27;s Opening Bid. &quot;I mean, if you look at their revenue growth, $65 billion is their run rate. They were $9 billion last year. That&#x27;s a sevenfold increase. I do think that market opportunity is out there.&quot;
+
+Connor Group has advised on 275 IPOs worth more than $4 trillion.
+
+Even without the Anthropic and OpenAI IPOs, this year may end up being a banner one for the US IPO market.
+
+Traditional US IPOs raised approximately $114.1 billion in the second quarter, more than seven times the $14.8 billion raised over the same period in 2025, according to PWC data. The figure was boosted by SpaceX&#x27;s arrival on public markets.
+
+Through the first six months of the year, 65 traditional IPOs raised about $114.2 billion, compared to 34 IPOs that raised $14.8 billion during the first half of 2025.
+
+Neesen said the outlook remains healthy for IPOs, especially for emerging biotech companies.
+
+He added that investors are likely to be patient with the profit timelines for Anthropic and OpenAI.
+
+&quot;The intuition is Anthropic is a lot closer to that profitability piece,&quot; Neesen said. &quot;But there is massive investment on the capital side that&#x27;s continuing going out there. I think there will be a lot of forgiveness.&quot;
+
+Click here for in-depth analysis of the latest stock market news and events moving stock prices
+
+Read the latest financial and business news from Yahoo Finance</itunes:summary>
+    </item>
+
+    <item>
+      <title>Trump&#x27;s Canada auto tariffs could end up denting US GDP: Oxford Economics</title>
+      <author>Pras Subramanian</author>
+      <description>Trump&#x27;s Canada auto tariffs could end up denting US GDP: Oxford Economics
+
+2026-08-27
+
+Por Pras Subramanian
+
+https://finance.yahoo.com/news/trumps-canada-auto-tariffs-could-end-up-denting-us-gdp-oxford-economics-110000983.html
+
+President Trump&#x27;s threatened 50% tariffs on Canadian autos, trucks, and car parts and the ensuing trade war could hit an already weakened US economy, warns a new report from Oxford Economics.
+
+Oxford Economics said it will revise its US tariff assumptions higher in its September baseline forecast to reflect a breakdown in US-Canada trade talks over the weekend. The 50% Section 338 tariffs unveiled in July on select Canadian goods have come into effect, nudging the overall US effective tariff rate up 0.2 percentage points to 9.9%.
+
+In addition, Trump has threatened to slap 50% duties on Canadian vehicles and parts starting Jan. 1, 2027, a move that could push the overall US effective tariff rate to either 10.1% or 10.4%, depending on whether exemptions for USMCA compliance are granted.
+
+Canada vowed to match the duties &quot;dollar for dollar&quot; and just announced tariffs as high as 50% on hundreds of American products. This tit-for-tat escalation alone is poised to trim 0.1 percentage point off US GDP growth next year, the firm said.
+
+&quot;The impact of the Canadian auto tariffs on the US economy would be a rounding error, but this doesn&#x27;t account for any retaliation by Canada, which would amplify the drag on US growth,&quot; Oxford&#x27;s US economist Bernard Yaros wrote in the report.
+
+Yaros added that the auto duties would disproportionately hurt Midwestern states with large auto sectors that lean on Canadian-made components, mainly Michigan, Ohio, and Indiana. Michigan alone accounts for approximately 22% of US imports of intermediate automotive goods from Canada.
+
+For now, car buyers have largely been spared the tariff expense. New-vehicle prices are only about 0.4% higher than their pre-tariff trend, Oxford Economics estimates, as automakers and dealers absorbed most of the earlier tariff costs.
+
+Had those costs fully passed through, auto prices today would be nearly 5% above their pre-tariff baseline, with core goods inflation running 0.4 percentage points higher and core inflation up 0.1 point.
+
+While automaker profit margins took a sharp hit starting in the second quarter of 2025, refunds from the Supreme Court&#x27;s invalidation of Trump&#x27;s broad tariffs led to GM (GM) and Ford (F) boosting their 2026 profit outlooks.
+
+But further tariff pain will reverse those effects. Honda said on Tuesday that it will reconsider US investment in a new plant if a proper USMCA deal is not ratified.
+
+Inflation in the US is also a concern.
+
+&quot;If the US imposes 50% tariffs on Canadian autos, the inflationary fallout is unlikely to be benign,&quot; Yaros noted, warning that thinning margins could push more costs on to consumers and drive buyers toward the used car market.</description>
+      <content:encoded><![CDATA[<p>Trump&#x27;s Canada auto tariffs could end up denting US GDP: Oxford Economics</p><p>2026-08-27</p><p>Por Pras Subramanian</p><p>https://finance.yahoo.com/news/trumps-canada-auto-tariffs-could-end-up-denting-us-gdp-oxford-economics-110000983.html</p><p>President Trump&#x27;s threatened 50% tariffs on Canadian autos, trucks, and car parts and the ensuing trade war could hit an already weakened US economy, warns a new report from Oxford Economics.</p><p>Oxford Economics said it will revise its US tariff assumptions higher in its September baseline forecast to reflect a breakdown in US-Canada trade talks over the weekend. The 50% Section 338 tariffs unveiled in July on select Canadian goods have come into effect, nudging the overall US effective tariff rate up 0.2 percentage points to 9.9%.</p><p>In addition, Trump has threatened to slap 50% duties on Canadian vehicles and parts starting Jan. 1, 2027, a move that could push the overall US effective tariff rate to either 10.1% or 10.4%, depending on whether exemptions for USMCA compliance are granted.</p><p>Canada vowed to match the duties &quot;dollar for dollar&quot; and just announced tariffs as high as 50% on hundreds of American products. This tit-for-tat escalation alone is poised to trim 0.1 percentage point off US GDP growth next year, the firm said.</p><p>&quot;The impact of the Canadian auto tariffs on the US economy would be a rounding error, but this doesn&#x27;t account for any retaliation by Canada, which would amplify the drag on US growth,&quot; Oxford&#x27;s US economist Bernard Yaros wrote in the report.</p><p>Yaros added that the auto duties would disproportionately hurt Midwestern states with large auto sectors that lean on Canadian-made components, mainly Michigan, Ohio, and Indiana. Michigan alone accounts for approximately 22% of US imports of intermediate automotive goods from Canada.</p><p>For now, car buyers have largely been spared the tariff expense. New-vehicle prices are only about 0.4% higher than their pre-tariff trend, Oxford Economics estimates, as automakers and dealers absorbed most of the earlier tariff costs.</p><p>Had those costs fully passed through, auto prices today would be nearly 5% above their pre-tariff baseline, with core goods inflation running 0.4 percentage points higher and core inflation up 0.1 point.</p><p>While automaker profit margins took a sharp hit starting in the second quarter of 2025, refunds from the Supreme Court&#x27;s invalidation of Trump&#x27;s broad tariffs led to GM (GM) and Ford (F) boosting their 2026 profit outlooks.</p><p>But further tariff pain will reverse those effects. Honda said on Tuesday that it will reconsider US investment in a new plant if a proper USMCA deal is not ratified.</p><p>Inflation in the US is also a concern.</p><p>&quot;If the US imposes 50% tariffs on Canadian autos, the inflationary fallout is unlikely to be benign,&quot; Yaros noted, warning that thinning margins could push more costs on to consumers and drive buyers toward the used car market.</p>]]></content:encoded>
+      <pubDate>Thu, 27 Aug 2026 10:43:22 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-08-27_Trumps_Canada_auto_tariffs_could_end_up_denting_US_GDP_Oxford_Economics.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-08-27_Trumps_Canada_auto_tariffs_could_end_up_denting_US_GDP_Oxford_Economics.mp3" length="1770504" type="audio/mpeg"/>
+      <itunes:duration>00:03:11</itunes:duration>
+      <itunes:author>Pras Subramanian</itunes:author>
+      <itunes:summary>Trump&#x27;s Canada auto tariffs could end up denting US GDP: Oxford Economics
+
+2026-08-27
+
+Por Pras Subramanian
+
+https://finance.yahoo.com/news/trumps-canada-auto-tariffs-could-end-up-denting-us-gdp-oxford-economics-110000983.html
+
+President Trump&#x27;s threatened 50% tariffs on Canadian autos, trucks, and car parts and the ensuing trade war could hit an already weakened US economy, warns a new report from Oxford Economics.
+
+Oxford Economics said it will revise its US tariff assumptions higher in its September baseline forecast to reflect a breakdown in US-Canada trade talks over the weekend. The 50% Section 338 tariffs unveiled in July on select Canadian goods have come into effect, nudging the overall US effective tariff rate up 0.2 percentage points to 9.9%.
+
+In addition, Trump has threatened to slap 50% duties on Canadian vehicles and parts starting Jan. 1, 2027, a move that could push the overall US effective tariff rate to either 10.1% or 10.4%, depending on whether exemptions for USMCA compliance are granted.
+
+Canada vowed to match the duties &quot;dollar for dollar&quot; and just announced tariffs as high as 50% on hundreds of American products. This tit-for-tat escalation alone is poised to trim 0.1 percentage point off US GDP growth next year, the firm said.
+
+&quot;The impact of the Canadian auto tariffs on the US economy would be a rounding error, but this doesn&#x27;t account for any retaliation by Canada, which would amplify the drag on US growth,&quot; Oxford&#x27;s US economist Bernard Yaros wrote in the report.
+
+Yaros added that the auto duties would disproportionately hurt Midwestern states with large auto sectors that lean on Canadian-made components, mainly Michigan, Ohio, and Indiana. Michigan alone accounts for approximately 22% of US imports of intermediate automotive goods from Canada.
+
+For now, car buyers have largely been spared the tariff expense. New-vehicle prices are only about 0.4% higher than their pre-tariff trend, Oxford Economics estimates, as automakers and dealers absorbed most of the earlier tariff costs.
+
+Had those costs fully passed through, auto prices today would be nearly 5% above their pre-tariff baseline, with core goods inflation running 0.4 percentage points higher and core inflation up 0.1 point.
+
+While automaker profit margins took a sharp hit starting in the second quarter of 2025, refunds from the Supreme Court&#x27;s invalidation of Trump&#x27;s broad tariffs led to GM (GM) and Ford (F) boosting their 2026 profit outlooks.
+
+But further tariff pain will reverse those effects. Honda said on Tuesday that it will reconsider US investment in a new plant if a proper USMCA deal is not ratified.
+
+Inflation in the US is also a concern.
+
+&quot;If the US imposes 50% tariffs on Canadian autos, the inflationary fallout is unlikely to be benign,&quot; Yaros noted, warning that thinning margins could push more costs on to consumers and drive buyers toward the used car market.</itunes:summary>
+    </item>
+
+    <item>
+      <title>Iran, Oman Agree to Share Strait of Hormuz Revenue, IRGC Says</title>
+      <author>Arsalan Shahla; Patrick Sykes</author>
+      <description>Iran, Oman Agree to Share Strait of Hormuz Revenue, IRGC Says
+
+2026-08-27
+
+Por Arsalan Shahla; Patrick Sykes
+
+https://finance.yahoo.com/energy/articles/iran-oman-agree-share-strait-115050034.html
+
+(Bloomberg) -- Iran said it reached a revenue-sharing agreement with Oman on the Strait of Hormuz, as the two sides push for a wider deal on the management of the crucial waterway.
+
+Most Read from Bloomberg
+
+&quot;Agreements have been reached regarding each country&#x27;s share of the strait&#x27;s waters as well as Iran and Oman&#x27;s share of its revenues,&quot; the Islamic Revolutionary Guard Corps said on Wednesday, according to the state-run Sepah News agency.
+
+&quot;We have reached results that are acceptable to both sides,&quot; he added.
+
+The countries&#x27; foreign ministries issued a joint statement on Tuesday saying that they discussed an &quot;interim framework&quot; aimed at resuming shipping through the waterway, but stopped short of announcing a final deal and didn&#x27;t mention fees.
+
+Iranian Foreign Minister Abbas Araghchi hasn&#x27;t confirmed the latest announcement. Oman&#x27;s Foreign Ministry didn&#x27;t immediately respond to a request for comment.
+
+The Strait of Hormuz, through which about a fifth of the world&#x27;s oil and liquefied natural gas previously passed, has remained largely closed since March, when Iran moved to block the waterway following US and Israeli attacks on Feb. 28 that killed Supreme Leader Ali Khamenei.
+
+Most Read from Bloomberg Businessweek
+
+2026 Bloomberg L.P.</description>
+      <content:encoded><![CDATA[<p>Iran, Oman Agree to Share Strait of Hormuz Revenue, IRGC Says</p><p>2026-08-27</p><p>Por Arsalan Shahla; Patrick Sykes</p><p>https://finance.yahoo.com/energy/articles/iran-oman-agree-share-strait-115050034.html</p><p>(Bloomberg) -- Iran said it reached a revenue-sharing agreement with Oman on the Strait of Hormuz, as the two sides push for a wider deal on the management of the crucial waterway.</p><p>Most Read from Bloomberg</p><p>&quot;Agreements have been reached regarding each country&#x27;s share of the strait&#x27;s waters as well as Iran and Oman&#x27;s share of its revenues,&quot; the Islamic Revolutionary Guard Corps said on Wednesday, according to the state-run Sepah News agency.</p><p>&quot;We have reached results that are acceptable to both sides,&quot; he added.</p><p>The countries&#x27; foreign ministries issued a joint statement on Tuesday saying that they discussed an &quot;interim framework&quot; aimed at resuming shipping through the waterway, but stopped short of announcing a final deal and didn&#x27;t mention fees.</p><p>Iranian Foreign Minister Abbas Araghchi hasn&#x27;t confirmed the latest announcement. Oman&#x27;s Foreign Ministry didn&#x27;t immediately respond to a request for comment.</p><p>The Strait of Hormuz, through which about a fifth of the world&#x27;s oil and liquefied natural gas previously passed, has remained largely closed since March, when Iran moved to block the waterway following US and Israeli attacks on Feb. 28 that killed Supreme Leader Ali Khamenei.</p><p>Most Read from Bloomberg Businessweek</p><p>2026 Bloomberg L.P.</p>]]></content:encoded>
+      <pubDate>Thu, 27 Aug 2026 10:42:33 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-08-27_Iran_Oman_Agree_to_Share_Strait_of_Hormuz_Revenue_IRGC_Says.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-08-27_Iran_Oman_Agree_to_Share_Strait_of_Hormuz_Revenue_IRGC_Says.mp3" length="796488" type="audio/mpeg"/>
+      <itunes:duration>00:01:20</itunes:duration>
+      <itunes:author>Arsalan Shahla; Patrick Sykes</itunes:author>
+      <itunes:summary>Iran, Oman Agree to Share Strait of Hormuz Revenue, IRGC Says
+
+2026-08-27
+
+Por Arsalan Shahla; Patrick Sykes
+
+https://finance.yahoo.com/energy/articles/iran-oman-agree-share-strait-115050034.html
+
+(Bloomberg) -- Iran said it reached a revenue-sharing agreement with Oman on the Strait of Hormuz, as the two sides push for a wider deal on the management of the crucial waterway.
+
+Most Read from Bloomberg
+
+&quot;Agreements have been reached regarding each country&#x27;s share of the strait&#x27;s waters as well as Iran and Oman&#x27;s share of its revenues,&quot; the Islamic Revolutionary Guard Corps said on Wednesday, according to the state-run Sepah News agency.
+
+&quot;We have reached results that are acceptable to both sides,&quot; he added.
+
+The countries&#x27; foreign ministries issued a joint statement on Tuesday saying that they discussed an &quot;interim framework&quot; aimed at resuming shipping through the waterway, but stopped short of announcing a final deal and didn&#x27;t mention fees.
+
+Iranian Foreign Minister Abbas Araghchi hasn&#x27;t confirmed the latest announcement. Oman&#x27;s Foreign Ministry didn&#x27;t immediately respond to a request for comment.
+
+The Strait of Hormuz, through which about a fifth of the world&#x27;s oil and liquefied natural gas previously passed, has remained largely closed since March, when Iran moved to block the waterway following US and Israeli attacks on Feb. 28 that killed Supreme Leader Ali Khamenei.
+
+Most Read from Bloomberg Businessweek
+
+2026 Bloomberg L.P.</itunes:summary>
+    </item>
+
+    <item>
+      <title>Earnings live updates: Salesforce, CrowdStrike, Okta stocks surge as AI boom helps lift Q2 results</title>
+      <author>Yahoo Finance; Grace O&#x27;Donnell; Daniel Howley</author>
+      <description>Earnings live updates: Salesforce, CrowdStrike, Okta stocks surge as AI boom helps lift Q2 results
+
+2026-08-27
+
+Por Yahoo Finance; Grace O&#x27;Donnell; Daniel Howley
+
+https://finance.yahoo.com/markets/live/earnings-live-updates-q2-nvidia-115314802.html
+
+The second quarter earnings season is nearly complete, and Nvidia&#x27;s (NVDA) Q2 earnings beat on Wednesday served as a keystone to a remarkably strong stretch of corporate reports.
+
+Also on Wednesday, a slew of strong reports from software and cybersecurity stalwarts Salesforce (CRM), CrowdStrike (CRWD), and Okta (OKTA) lifted those stocks by double digits in extended trading.
+
+According to FactSet data, second quarter earnings for S&amp;P 500 companies are on pace to rise 50% year over year, the highest growth rate since 2021. Artificial intelligence has been the growth engine of that broad-based earnings growth, Bank of America strategists noted.
+
+In addition to Nvidia&#x27;s results, investors watched for key updates from dollar stores Dollar Tree (DLTR) and Dollar General (DG); software companies Intuit (INTU), and Zoom (ZM); and other retailers like Dick&#x27;s Sporting Goods (DKS) and Kohl&#x27;s (KSS).
+
+- Grace O&#x27;DonnellOkta stock surges on earnings beat as AI agents boost demand for identity controlsOkta (OKTA) stock surged over 19% in after-hours trading after the company’s subscription backlog increased 17% year over year, as agentic AI adoption helped boost demand for identity services. In the latest quarter, Okta reported total revenue of $805 million, an increase of 11% year over year and well above estimates of $793 million. Subscription revenue rose 12% annually to $793 million. Adjusted earnings per share came in at $1.05, above analyst estimates of $0.96 per share. Okta’s remaining performance obligations, or its subscription backlog for the next 12 months, increased 17% to $4.85 billion. For the full year, Okta expects revenue of $3.216 billion to $3.226 billion, representing year-over-year growth of 10% to 11%. That also beat the expected forecast on the Street of $3.19 billion.
+
+- Daniel HowleyNvidia tops Q2 expectations, offers strong outlook, but stock fallsNvidia (NVDA) reported its Q2 earnings on Wednesday, beating Wall Street&#x27;s expectations on the top and bottom lines and providing a better-than-expected outlook for the third quarter. For Q2, Nvidia saw adjusted earnings per share (EPS) of $2.22 on revenue of $96.2 billion, which is better than the EPS of $2.09 and revenue of $92.3 billion that Wall Street was anticipating. The company also says it is projecting Q3 revenue of between $105.8 billion and $110.1 billion. Wall Street was calling for $1.51 billion. Despite the beat and raise, Nvidia stock fell more than 2% following the news. &quot;AI has reached its inflection point. It&#x27;s doing useful work. Its tokens are productive and profitable. Now, compute is revenue,&quot; Nvidia CEO Jensen Huang said in a statement. &quot;And demand is accelerating. This time last year, one lab alone was driving the buildout; today, we have a golden age of new AI labs and startups, multiple frontier labs scaling in parallel, a thriving open-model ecosystem and physical AI coming online — with strong momentum across the U.S. and around the world. The AI infrastructure buildout is at full steam. Vera Rubin, now in full production, was built to power exactly this moment.&quot;
+
+- Grace O&#x27;DonnellCrowdStrike stock jumps as &#x27;Mythos moment&#x27; turbocharges cybersecurity adoptionCrowdStrike (CRWD) stock jumped over 10% after the cybersecurity company posted record net new annual recurring revenue of $333 million. “Q2 was the best quarter in CrowdStrike&#x27;s history,&quot; CEO George Kurtz said. &quot;The Mythos moment translated into mass-market acceptance that AI adoption needs security, and that&#x27;s CrowdStrike. Every enterprise will run on AI, and securing it is the largest market opportunity in our history.” CrowdStrike’s annual revenue forecast of $6.60 billion-$6.61 billion came in above Wall Street’s estimates of $5.93 billion. I
+
+[Transcripcion recortada]</description>
+      <content:encoded><![CDATA[<p>Earnings live updates: Salesforce, CrowdStrike, Okta stocks surge as AI boom helps lift Q2 results</p><p>2026-08-27</p><p>Por Yahoo Finance; Grace O&#x27;Donnell; Daniel Howley</p><p>https://finance.yahoo.com/markets/live/earnings-live-updates-q2-nvidia-115314802.html</p><p>The second quarter earnings season is nearly complete, and Nvidia&#x27;s (NVDA) Q2 earnings beat on Wednesday served as a keystone to a remarkably strong stretch of corporate reports.</p><p>Also on Wednesday, a slew of strong reports from software and cybersecurity stalwarts Salesforce (CRM), CrowdStrike (CRWD), and Okta (OKTA) lifted those stocks by double digits in extended trading.</p><p>According to FactSet data, second quarter earnings for S&amp;P 500 companies are on pace to rise 50% year over year, the highest growth rate since 2021. Artificial intelligence has been the growth engine of that broad-based earnings growth, Bank of America strategists noted.</p><p>In addition to Nvidia&#x27;s results, investors watched for key updates from dollar stores Dollar Tree (DLTR) and Dollar General (DG); software companies Intuit (INTU), and Zoom (ZM); and other retailers like Dick&#x27;s Sporting Goods (DKS) and Kohl&#x27;s (KSS).</p><p>- Grace O&#x27;DonnellOkta stock surges on earnings beat as AI agents boost demand for identity controlsOkta (OKTA) stock surged over 19% in after-hours trading after the company’s subscription backlog increased 17% year over year, as agentic AI adoption helped boost demand for identity services. In the latest quarter, Okta reported total revenue of $805 million, an increase of 11% year over year and well above estimates of $793 million. Subscription revenue rose 12% annually to $793 million. Adjusted earnings per share came in at $1.05, above analyst estimates of $0.96 per share. Okta’s remaining performance obligations, or its subscription backlog for the next 12 months, increased 17% to $4.85 billion. For the full year, Okta expects revenue of $3.216 billion to $3.226 billion, representing year-over-year growth of 10% to 11%. That also beat the expected forecast on the Street of $3.19 billion.</p><p>- Daniel HowleyNvidia tops Q2 expectations, offers strong outlook, but stock fallsNvidia (NVDA) reported its Q2 earnings on Wednesday, beating Wall Street&#x27;s expectations on the top and bottom lines and providing a better-than-expected outlook for the third quarter. For Q2, Nvidia saw adjusted earnings per share (EPS) of $2.22 on revenue of $96.2 billion, which is better than the EPS of $2.09 and revenue of $92.3 billion that Wall Street was anticipating. The company also says it is projecting Q3 revenue of between $105.8 billion and $110.1 billion. Wall Street was calling for $1.51 billion. Despite the beat and raise, Nvidia stock fell more than 2% following the news. &quot;AI has reached its inflection point. It&#x27;s doing useful work. Its tokens are productive and profitable. Now, compute is revenue,&quot; Nvidia CEO Jensen Huang said in a statement. &quot;And demand is accelerating. This time last year, one lab alone was driving the buildout; today, we have a golden age of new AI labs and startups, multiple frontier labs scaling in parallel, a thriving open-model ecosystem and physical AI coming online — with strong momentum across the U.S. and around the world. The AI infrastructure buildout is at full steam. Vera Rubin, now in full production, was built to power exactly this moment.&quot;</p><p>- Grace O&#x27;DonnellCrowdStrike stock jumps as &#x27;Mythos moment&#x27; turbocharges cybersecurity adoptionCrowdStrike (CRWD) stock jumped over 10% after the cybersecurity company posted record net new annual recurring revenue of $333 million. “Q2 was the best quarter in CrowdStrike&#x27;s history,&quot; CEO George Kurtz said. &quot;The Mythos moment translated into mass-market acceptance that AI adoption needs security, and that&#x27;s CrowdStrike. Every enterprise will run on AI, and securing it is the largest market opportunity in our history.” CrowdStrike’s annual revenue forecast of $6.60 billion-$6.61 billion came in above Wall Street’s estimates of $5.93 billion. I</p>]]></content:encoded>
+      <pubDate>Thu, 27 Aug 2026 10:42:12 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-08-27_Earnings_live_updates_Salesforce_CrowdStrike_Okta_stocks_surge_as_AI_boom_helps_lift_Q2_results.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-08-27_Earnings_live_updates_Salesforce_CrowdStrike_Okta_stocks_surge_as_AI_boom_helps_lift_Q2_results.mp3" length="7978265" type="audio/mpeg"/>
+      <itunes:duration>00:14:50</itunes:duration>
+      <itunes:author>Yahoo Finance; Grace O&#x27;Donnell; Daniel Howley</itunes:author>
+      <itunes:summary>Earnings live updates: Salesforce, CrowdStrike, Okta stocks surge as AI boom helps lift Q2 results
+
+2026-08-27
+
+Por Yahoo Finance; Grace O&#x27;Donnell; Daniel Howley
+
+https://finance.yahoo.com/markets/live/earnings-live-updates-q2-nvidia-115314802.html
+
+The second quarter earnings season is nearly complete, and Nvidia&#x27;s (NVDA) Q2 earnings beat on Wednesday served as a keystone to a remarkably strong stretch of corporate reports.
+
+Also on Wednesday, a slew of strong reports from software and cybersecurity stalwarts Salesforce (CRM), CrowdStrike (CRWD), and Okta (OKTA) lifted those stocks by double digits in extended trading.
+
+According to FactSet data, second quarter earnings for S&amp;P 500 companies are on pace to rise 50% year over year, the highest growth rate since 2021. Artificial intelligence has been the growth engine of that broad-based earnings growth, Bank of America strategists noted.
+
+In addition to Nvidia&#x27;s results, investors watched for key updates from dollar stores Dollar Tree (DLTR) and Dollar General (DG); software companies Intuit (INTU), and Zoom (ZM); and other retailers like Dick&#x27;s Sporting Goods (DKS) and Kohl&#x27;s (KSS).
+
+- Grace O&#x27;DonnellOkta stock surges on earnings beat as AI agents boost demand for identity controlsOkta (OKTA) stock surged over 19% in after-hours trading after the company’s subscription backlog increased 17% year over year, as agentic AI adoption helped boost demand for identity services. In the latest quarter, Okta reported total revenue of $805 million, an increase of 11% year over year and well above estimates of $793 million. Subscription revenue rose 12% annually to $793 million. Adjusted earnings per share came in at $1.05, above analyst estimates of $0.96 per share. Okta’s remaining performance obligations, or its subscription backlog for the next 12 months, increased 17% to $4.85 billion. For the full year, Okta expects revenue of $3.216 billion to $3.226 billion, representing year-over-year growth of 10% to 11%. That also beat the expected forecast on the Street of $3.19 billion.
+
+- Daniel HowleyNvidia tops Q2 expectations, offers strong outlook, but stock fallsNvidia (NVDA) reported its Q2 earnings on Wednesday, beating Wall Street&#x27;s expectations on the top and bottom lines and providing a better-than-expected outlook for the third quarter. For Q2, Nvidia saw adjusted earnings per share (EPS) of $2.22 on revenue of $96.2 billion, which is better than the EPS of $2.09 and revenue of $92.3 billion that Wall Street was anticipating. The company also says it is projecting Q3 revenue of between $105.8 billion and $110.1 billion. Wall Street was calling for $1.51 billion. Despite the beat and raise, Nvidia stock fell more than 2% following the news. &quot;AI has reached its inflection point. It&#x27;s doing useful work. Its tokens are productive and profitable. Now, compute is revenue,&quot; Nvidia CEO Jensen Huang said in a statement. &quot;And demand is accelerating. This time last year, one lab alone was driving the buildout; today, we have a golden age of new AI labs and startups, multiple frontier labs scaling in parallel, a thriving open-model ecosystem and physical AI coming online — with strong momentum across the U.S. and around the world. The AI infrastructure buildout is at full steam. Vera Rubin, now in full production, was built to power exactly this moment.&quot;
+
+- Grace O&#x27;DonnellCrowdStrike stock jumps as &#x27;Mythos moment&#x27; turbocharges cybersecurity adoptionCrowdStrike (CRWD) stock jumped over 10% after the cybersecurity company posted record net new annual recurring revenue of $333 million. “Q2 was the best quarter in CrowdStrike&#x27;s history,&quot; CEO George Kurtz said. &quot;The Mythos moment translated into mass-market acceptance that AI adoption needs security, and that&#x27;s CrowdStrike. Every enterprise will run on AI, and securing it is the largest market opportunity in our history.” CrowdStrike’s annual revenue forecast of $6.60 billion-$6.61 billion came in above Wall Street’s estimates of $5.93 billion. I
+
+[Transcripcion recortada]</itunes:summary>
+    </item>
 
     <item>
       <title>Meta reaches $16.68 billion settlement in social media case</title>

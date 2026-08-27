@@ -1,0 +1,27 @@
+AI's next big bottleneck isn't infrastructure. It's regulatory red tape.
+
+2026-08-27
+
+Por Jake Conley
+
+https://finance.yahoo.com/economy/article/ais-next-big-bottleneck-isnt-infrastructure-its-regulatory-red-tape-090000302.html
+
+As Big Tech has poured hundreds of billions of dollars into artificial intelligence development, myriad bottlenecks have given investors reason to worry, from multiyear delays in natural gas turbine deliveries to capital availability and energy access constraints.
+
+However, with midterm elections just two months away, the biggest bottleneck is elsewhere, according to Melius Research — in regulation.
+
+"The binding constraint on growth has shifted," James West, managing director at Melius Research, wrote to clients on Monday. "It is no longer turbines, capital, or customer intent: rolling into midterms, it is permission."
+
+West's argument underscores the growing role of politics in the US's AI infrastructure build-out. As resistance to data center development has grown in communities across the country, state governments have increasingly clamped down, pursuing legislation that slows construction.
+
+New York became the first state in the nation to enact a moratorium on data center construction in late July, when Gov. Kathy Hochul signed legislation putting a one-year hold on development of any "hyperscale" data center that consumes 50 or more megawatts of power.
+
+The Texas gubernatorial election has become a critical race for the data center industry. Throughout 2025, current Republican Gov. Greg Abbott courted developers, pointing to the state's ream of existing energy infrastructure and open land. In November last year, the governor called Texas the "epicenter of AI development" as Google (GOOG, GOOGL) signed a $40 billion commitment to build three data center campuses in the state.
+
+By August 2026, the Electric Reliability Council of Texas (ERCOT) said it was reviewing 476 gigawatts' worth of proposed new electricity demand, equal to more than five times the state's highest recorded electricity load — with roughly 90% of those requests coming from data center developers.
+
+The wave of development has prompted a growing tide of local backlash amid concerns about energy and water use, to the point that, in August, Abbott shifted his stance on the industry. The governor recently ordered an audit of proposed data center projects planned for ERCOT, prompting the Texas energy grid operator to reduce the system's 2027 expected energy load growth from 14% to 6%, likely due to inflated demand projections.
+
+More recently, Abbott said during public remarks that data center developers "dug their own grave."
+
+In the upcoming gubernatorial election, Abbott will run for reelection on the Republican ticket against Democratic candidate Gina Hinojosa, who has made Abbott's connections to the data center industry a key point of her critique. The Democrat has proposed an immediate moratorium on data center construction, set to last until the Texas legislature can pass legislation to control development, as a key part of her platform.
