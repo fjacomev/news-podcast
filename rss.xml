@@ -7,7 +7,7 @@
     <link>https://fjacomev.github.io/news-podcast</link>
     <description>Podcast personal de noticias, leido en voz local</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Aug 2026 01:36:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 11:26:03 GMT</lastBuildDate>
     <image>
       <url>https://fjacomev.github.io/news-podcast/cover.jpg</url>
       <title>Fernando AI News</title>
@@ -18,6 +18,618 @@
     <itunes:summary>Podcast personal de noticias, leido en voz local</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
+
+    <item>
+      <title>Nvidia posted a blowout quarter. China remains a quagmire.</title>
+      <author>Jake Conley</author>
+      <description>Nvidia posted a blowout quarter. China remains a quagmire.
+
+2026-08-28
+
+Por Jake Conley
+
+https://finance.yahoo.com/markets/stocks/article/nvidia-posted-a-blowout-quarter-china-remains-a-quagmire-122920310.html
+
+Nvidia (NVDA) painted a bullish picture for investors when it reported its earnings after the bell on Wednesday, raising its guidance for the third quarter and beating analyst estimates across the board on revenue, earnings per share, and a host of other metrics.
+
+Missing from that forward guidance, however, were sales projections into the world&#x27;s second-largest economy — China, where Nvidia&#x27;s ability to sell its chips has been snarled by state politics and national security concerns.
+
+&quot;Given ongoing geopolitical uncertainty, there is no China data center compute revenue in our forward outlook,&quot; Nvidia finance chief Collette Kress said during the company&#x27;s earnings call on Wednesday.
+
+That potential sales to Chinese buyers were left out of forward guidance from Nvidia gets at how complex the picture has become for one of the world&#x27;s most valuable companies in its dealings with the US&#x27;s largest AI competitor.
+
+Nvidia said in its earnings report that it had stepped back into the Chinese market, if in a small way, with the first sales of its H200 chips, the leading semiconductor design from the company&#x27;s &quot;Hopper&quot; line, a step down from its state-of-the-art Grace Blackwell chips. Yet those sales accounted for less than 1% of the $89 billion Nvidia recorded in data center revenue in the second quarter.
+
+For Jensen Huang&#x27;s company, complications come from both sides of the US-China AI arms race. Since 2022, Nvidia has wrestled with the Trump White House over sales of its chips to China, where even models such as the H200, which are now multiple generations behind Nvidia&#x27;s flagship products, remain competitive with options available in China from companies like Huawei Technologies.
+
+Huang won a key victory for his company after a concerted lobbying effort throughout 2025, securing permission for Nvidia to sell some H200 chips to Chinese buyers. But any optimism was quickly snarled by directives from Beijing to Chinese companies not to purchase the chips.
+
+&quot;Under the current rules and geopolitical landscape, we are unable to create and deliver a competitive product for wide distribution in China&#x27;s data center market with the approval from both the USG and the Chinese government,&quot; Nvidia said Wednesday.
+
+It&#x27;s unclear exactly how many H200 chips were sold to Chinese buyers in the second quarter, but the count fell below the US limit due to blocks imposed by the Chinese government, Nvidia said. The company shouldered a $400 million charge related to &quot;excess inventory&quot; of H200 chips as demand has fallen off outside China, Nvidia said Wednesday.</description>
+      <content:encoded><![CDATA[<p>Nvidia posted a blowout quarter. China remains a quagmire.</p><p>2026-08-28</p><p>Por Jake Conley</p><p>https://finance.yahoo.com/markets/stocks/article/nvidia-posted-a-blowout-quarter-china-remains-a-quagmire-122920310.html</p><p>Nvidia (NVDA) painted a bullish picture for investors when it reported its earnings after the bell on Wednesday, raising its guidance for the third quarter and beating analyst estimates across the board on revenue, earnings per share, and a host of other metrics.</p><p>Missing from that forward guidance, however, were sales projections into the world&#x27;s second-largest economy — China, where Nvidia&#x27;s ability to sell its chips has been snarled by state politics and national security concerns.</p><p>&quot;Given ongoing geopolitical uncertainty, there is no China data center compute revenue in our forward outlook,&quot; Nvidia finance chief Collette Kress said during the company&#x27;s earnings call on Wednesday.</p><p>That potential sales to Chinese buyers were left out of forward guidance from Nvidia gets at how complex the picture has become for one of the world&#x27;s most valuable companies in its dealings with the US&#x27;s largest AI competitor.</p><p>Nvidia said in its earnings report that it had stepped back into the Chinese market, if in a small way, with the first sales of its H200 chips, the leading semiconductor design from the company&#x27;s &quot;Hopper&quot; line, a step down from its state-of-the-art Grace Blackwell chips. Yet those sales accounted for less than 1% of the $89 billion Nvidia recorded in data center revenue in the second quarter.</p><p>For Jensen Huang&#x27;s company, complications come from both sides of the US-China AI arms race. Since 2022, Nvidia has wrestled with the Trump White House over sales of its chips to China, where even models such as the H200, which are now multiple generations behind Nvidia&#x27;s flagship products, remain competitive with options available in China from companies like Huawei Technologies.</p><p>Huang won a key victory for his company after a concerted lobbying effort throughout 2025, securing permission for Nvidia to sell some H200 chips to Chinese buyers. But any optimism was quickly snarled by directives from Beijing to Chinese companies not to purchase the chips.</p><p>&quot;Under the current rules and geopolitical landscape, we are unable to create and deliver a competitive product for wide distribution in China&#x27;s data center market with the approval from both the USG and the Chinese government,&quot; Nvidia said Wednesday.</p><p>It&#x27;s unclear exactly how many H200 chips were sold to Chinese buyers in the second quarter, but the count fell below the US limit due to blocks imposed by the Chinese government, Nvidia said. The company shouldered a $400 million charge related to &quot;excess inventory&quot; of H200 chips as demand has fallen off outside China, Nvidia said Wednesday.</p>]]></content:encoded>
+      <pubDate>Fri, 28 Aug 2026 11:26:02 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-08-28_Nvidia_posted_a_blowout_quarter._China_remains_a_quagmire.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-08-28_Nvidia_posted_a_blowout_quarter._China_remains_a_quagmire.mp3" length="1605276" type="audio/mpeg"/>
+      <itunes:duration>00:02:51</itunes:duration>
+      <itunes:author>Jake Conley</itunes:author>
+      <itunes:summary>Nvidia posted a blowout quarter. China remains a quagmire.
+
+2026-08-28
+
+Por Jake Conley
+
+https://finance.yahoo.com/markets/stocks/article/nvidia-posted-a-blowout-quarter-china-remains-a-quagmire-122920310.html
+
+Nvidia (NVDA) painted a bullish picture for investors when it reported its earnings after the bell on Wednesday, raising its guidance for the third quarter and beating analyst estimates across the board on revenue, earnings per share, and a host of other metrics.
+
+Missing from that forward guidance, however, were sales projections into the world&#x27;s second-largest economy — China, where Nvidia&#x27;s ability to sell its chips has been snarled by state politics and national security concerns.
+
+&quot;Given ongoing geopolitical uncertainty, there is no China data center compute revenue in our forward outlook,&quot; Nvidia finance chief Collette Kress said during the company&#x27;s earnings call on Wednesday.
+
+That potential sales to Chinese buyers were left out of forward guidance from Nvidia gets at how complex the picture has become for one of the world&#x27;s most valuable companies in its dealings with the US&#x27;s largest AI competitor.
+
+Nvidia said in its earnings report that it had stepped back into the Chinese market, if in a small way, with the first sales of its H200 chips, the leading semiconductor design from the company&#x27;s &quot;Hopper&quot; line, a step down from its state-of-the-art Grace Blackwell chips. Yet those sales accounted for less than 1% of the $89 billion Nvidia recorded in data center revenue in the second quarter.
+
+For Jensen Huang&#x27;s company, complications come from both sides of the US-China AI arms race. Since 2022, Nvidia has wrestled with the Trump White House over sales of its chips to China, where even models such as the H200, which are now multiple generations behind Nvidia&#x27;s flagship products, remain competitive with options available in China from companies like Huawei Technologies.
+
+Huang won a key victory for his company after a concerted lobbying effort throughout 2025, securing permission for Nvidia to sell some H200 chips to Chinese buyers. But any optimism was quickly snarled by directives from Beijing to Chinese companies not to purchase the chips.
+
+&quot;Under the current rules and geopolitical landscape, we are unable to create and deliver a competitive product for wide distribution in China&#x27;s data center market with the approval from both the USG and the Chinese government,&quot; Nvidia said Wednesday.
+
+It&#x27;s unclear exactly how many H200 chips were sold to Chinese buyers in the second quarter, but the count fell below the US limit due to blocks imposed by the Chinese government, Nvidia said. The company shouldered a $400 million charge related to &quot;excess inventory&quot; of H200 chips as demand has fallen off outside China, Nvidia said Wednesday.</itunes:summary>
+    </item>
+
+    <item>
+      <title>Dividends could be the next big Nvidia stock catalyst, just like they were for Apple</title>
+      <author>Brian Sozzi</author>
+      <description>Dividends could be the next big Nvidia stock catalyst, just like they were for Apple
+
+2026-08-28
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/markets/stocks/article/dividends-could-be-the-next-big-nvidia-stock-catalyst-just-like-they-were-for-apple-110850043.html
+
+Nvidia (NVDA) being more generous with dividends and stock buybacks could be a nice catalyst for the stock, just as it has been for Apple (AAPL).
+
+The AI chip darling returned a record $26 billion to shareholders in its second fiscal quarter, $20 billion through share repurchases and $6 billion by way of a $0.25 a share quarterly dividend. Relative to its plan to return 50% or more of free cash flow to shareholders, Nvidia has returned 60% year to date.
+
+Executives said the company intends to increase capital returns going forward.
+
+&quot;We forecast Nvidia to return $115 billion in cash to shareholders in 2026 and $230b billion in 2027, which we expect will translate to P/E multiple expansion, similar to what happened to Apple in 2015,&quot; Evercore ISI analyst Mark Lipacis wrote in a note on Thursday.
+
+Lipacis pointed out in the chart below that after five years of compression, Apple&#x27;s price-to-earnings ratio began expanding with increases in its capital returns program.
+
+Nvidia is certainly putting up the financial results to back up giving more cash back to shareholders.
+
+Shares of Nvidia rose 6% on the company&#x27;s second quarter results and upbeat outlook. Prior to the earnings report, Nvidia shares had slightly underperformed the S&amp;P 500&#x27;s year-to-date gain of about 14%.
+
+Nvidia saw adjusted earnings per share of $2.22 on revenue of $96.2 billion. These were better than the $2.09 a share the Street had expected and revenue of $92.3 billion.
+
+Nvidia&#x27;s Data Center revenue, which includes Hyperscalers and AI Clouds, Industrial, and Enterprise (ACIE), came in at $89 billion versus a projected $85.8 billion.
+
+Edge Computing, which includes Nvidia&#x27;s other businesses, such as physical AI and gaming, brought in $7.2 billion. Analysts were expecting $6.6 billion.
+
+Nvidia projected fiscal third quarter revenue of between $105.8 billion and $110.1 billion. Wall Street was calling for $105.1 billion.
+
+This would be the first quarter above $100 billion in revenue for Nvidia, said Stifel analyst Ruben Roy.
+
+Nvidia said it sees 70% revenue growth for fiscal year 2028. This was above analyst forecasts for 45% growth. The sales gain would be larger if not for memory chip shortages, Nvidia CEO Jensen Huang said.
+
+&quot;We see a clear path to $1 trillion revenue in fiscal year, supported by robust AI infrastructure demand and higher revenue per GW with Rubin. Despite gross margin reset to 72.5%, supply commitments increasing to $279 billion further strengthen our confidence in NVDA&#x27;s visibility and ability to support the next phase of AI infrastructure deployments,&quot; Jefferies analyst Blayne Curtis said.</description>
+      <content:encoded><![CDATA[<p>Dividends could be the next big Nvidia stock catalyst, just like they were for Apple</p><p>2026-08-28</p><p>Por Brian Sozzi</p><p>https://finance.yahoo.com/markets/stocks/article/dividends-could-be-the-next-big-nvidia-stock-catalyst-just-like-they-were-for-apple-110850043.html</p><p>Nvidia (NVDA) being more generous with dividends and stock buybacks could be a nice catalyst for the stock, just as it has been for Apple (AAPL).</p><p>The AI chip darling returned a record $26 billion to shareholders in its second fiscal quarter, $20 billion through share repurchases and $6 billion by way of a $0.25 a share quarterly dividend. Relative to its plan to return 50% or more of free cash flow to shareholders, Nvidia has returned 60% year to date.</p><p>Executives said the company intends to increase capital returns going forward.</p><p>&quot;We forecast Nvidia to return $115 billion in cash to shareholders in 2026 and $230b billion in 2027, which we expect will translate to P/E multiple expansion, similar to what happened to Apple in 2015,&quot; Evercore ISI analyst Mark Lipacis wrote in a note on Thursday.</p><p>Lipacis pointed out in the chart below that after five years of compression, Apple&#x27;s price-to-earnings ratio began expanding with increases in its capital returns program.</p><p>Nvidia is certainly putting up the financial results to back up giving more cash back to shareholders.</p><p>Shares of Nvidia rose 6% on the company&#x27;s second quarter results and upbeat outlook. Prior to the earnings report, Nvidia shares had slightly underperformed the S&amp;P 500&#x27;s year-to-date gain of about 14%.</p><p>Nvidia saw adjusted earnings per share of $2.22 on revenue of $96.2 billion. These were better than the $2.09 a share the Street had expected and revenue of $92.3 billion.</p><p>Nvidia&#x27;s Data Center revenue, which includes Hyperscalers and AI Clouds, Industrial, and Enterprise (ACIE), came in at $89 billion versus a projected $85.8 billion.</p><p>Edge Computing, which includes Nvidia&#x27;s other businesses, such as physical AI and gaming, brought in $7.2 billion. Analysts were expecting $6.6 billion.</p><p>Nvidia projected fiscal third quarter revenue of between $105.8 billion and $110.1 billion. Wall Street was calling for $105.1 billion.</p><p>This would be the first quarter above $100 billion in revenue for Nvidia, said Stifel analyst Ruben Roy.</p><p>Nvidia said it sees 70% revenue growth for fiscal year 2028. This was above analyst forecasts for 45% growth. The sales gain would be larger if not for memory chip shortages, Nvidia CEO Jensen Huang said.</p><p>&quot;We see a clear path to $1 trillion revenue in fiscal year, supported by robust AI infrastructure demand and higher revenue per GW with Rubin. Despite gross margin reset to 72.5%, supply commitments increasing to $279 billion further strengthen our confidence in NVDA&#x27;s visibility and ability to support the next phase of AI infrastructure deployments,&quot; Jefferies analyst Blayne Curtis said.</p>]]></content:encoded>
+      <pubDate>Fri, 28 Aug 2026 11:25:18 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-08-28_Dividends_could_be_the_next_big_Nvidia_stock_catalyst_just_like_they_were_for_Apple.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-08-28_Dividends_could_be_the_next_big_Nvidia_stock_catalyst_just_like_they_were_for_Apple.mp3" length="1877131" type="audio/mpeg"/>
+      <itunes:duration>00:03:22</itunes:duration>
+      <itunes:author>Brian Sozzi</itunes:author>
+      <itunes:summary>Dividends could be the next big Nvidia stock catalyst, just like they were for Apple
+
+2026-08-28
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/markets/stocks/article/dividends-could-be-the-next-big-nvidia-stock-catalyst-just-like-they-were-for-apple-110850043.html
+
+Nvidia (NVDA) being more generous with dividends and stock buybacks could be a nice catalyst for the stock, just as it has been for Apple (AAPL).
+
+The AI chip darling returned a record $26 billion to shareholders in its second fiscal quarter, $20 billion through share repurchases and $6 billion by way of a $0.25 a share quarterly dividend. Relative to its plan to return 50% or more of free cash flow to shareholders, Nvidia has returned 60% year to date.
+
+Executives said the company intends to increase capital returns going forward.
+
+&quot;We forecast Nvidia to return $115 billion in cash to shareholders in 2026 and $230b billion in 2027, which we expect will translate to P/E multiple expansion, similar to what happened to Apple in 2015,&quot; Evercore ISI analyst Mark Lipacis wrote in a note on Thursday.
+
+Lipacis pointed out in the chart below that after five years of compression, Apple&#x27;s price-to-earnings ratio began expanding with increases in its capital returns program.
+
+Nvidia is certainly putting up the financial results to back up giving more cash back to shareholders.
+
+Shares of Nvidia rose 6% on the company&#x27;s second quarter results and upbeat outlook. Prior to the earnings report, Nvidia shares had slightly underperformed the S&amp;P 500&#x27;s year-to-date gain of about 14%.
+
+Nvidia saw adjusted earnings per share of $2.22 on revenue of $96.2 billion. These were better than the $2.09 a share the Street had expected and revenue of $92.3 billion.
+
+Nvidia&#x27;s Data Center revenue, which includes Hyperscalers and AI Clouds, Industrial, and Enterprise (ACIE), came in at $89 billion versus a projected $85.8 billion.
+
+Edge Computing, which includes Nvidia&#x27;s other businesses, such as physical AI and gaming, brought in $7.2 billion. Analysts were expecting $6.6 billion.
+
+Nvidia projected fiscal third quarter revenue of between $105.8 billion and $110.1 billion. Wall Street was calling for $105.1 billion.
+
+This would be the first quarter above $100 billion in revenue for Nvidia, said Stifel analyst Ruben Roy.
+
+Nvidia said it sees 70% revenue growth for fiscal year 2028. This was above analyst forecasts for 45% growth. The sales gain would be larger if not for memory chip shortages, Nvidia CEO Jensen Huang said.
+
+&quot;We see a clear path to $1 trillion revenue in fiscal year, supported by robust AI infrastructure demand and higher revenue per GW with Rubin. Despite gross margin reset to 72.5%, supply commitments increasing to $279 billion further strengthen our confidence in NVDA&#x27;s visibility and ability to support the next phase of AI infrastructure deployments,&quot; Jefferies analyst Blayne Curtis said.</itunes:summary>
+    </item>
+
+    <item>
+      <title>Dollar Tree stock falls despite earnings beat</title>
+      <author>Sam Boughedda</author>
+      <description>Dollar Tree stock falls despite earnings beat
+
+2026-08-28
+
+Por Sam Boughedda
+
+https://finance.yahoo.com/markets/stocks/articles/dollar-tree-stock-falls-despite-111212543.html
+
+Investing.com -- Dollar Tree Inc. (NASDAQ:DLTR) reported second-quarter results that exceeded analyst expectations, but shares have dropped around 3% premarket as investors focused on weaker-than-expected third-quarter guidance.
+
+The discount retailer posted adjusted earnings per share of $2.70, significantly surpassing the analyst consensus of $1.11. Revenue reached $4.9 billion, topping the estimate of $4.85 billion and representing a 7.0% increase YoY.
+
+Comparable store net sales rose 3.7%, driven by a 3.3% increase in average ticket and a 0.4% increase in traffic. The quarter&#x27;s results included a $1.31 per share benefit related to the net impact of tariff refunds.
+
+However, the company&#x27;s third quarter guidance disappointed investors. Dollar Tree expects adjusted EPS of $0.80 to $0.95, with a midpoint of $0.88 that includes an approximate $0.50 impact related to tariff refund reinvestments. It is below the consensus estimate of $1.39.
+
+The company projects third-quarter comparable store net sales growth of 3.0% to 4.0% on revenue of $5.0 billion to $5.1 billion.
+
+&quot;What continues to set Dollar Tree apart is our ability to deliver value, convenience, and the excitement of discovery all in one shopping trip,&quot; said Mike Creedon, Chief Executive Officer. &quot;Positive traffic trends helped drive strong comparable sales growth and EPS exceeded the high end of our outlook.&quot;
+
+For the full fiscal year 2026, Dollar Tree raised its adjusted EPS outlook to a range of $7.70 to $8.05, with a midpoint of $7.88 that exceeds the analyst consensus of $7.04. This guidance includes an approximate $0.60 benefit related to the net impact of tariff refunds. The company expects full-year net sales of $20.5 billion to $20.7 billion based on comparable store net sales growth of 3% to 4%.
+
+Related articles
+
+Dollar Tree stock falls despite earnings beat
+
+Nvidia&#x27;s new Alpamayo project: What it means for Tesla?
+
+As Claude disrupts stock market, Anthropic researcher warns &#x27;world is in peril&#x27;</description>
+      <content:encoded><![CDATA[<p>Dollar Tree stock falls despite earnings beat</p><p>2026-08-28</p><p>Por Sam Boughedda</p><p>https://finance.yahoo.com/markets/stocks/articles/dollar-tree-stock-falls-despite-111212543.html</p><p>Investing.com -- Dollar Tree Inc. (NASDAQ:DLTR) reported second-quarter results that exceeded analyst expectations, but shares have dropped around 3% premarket as investors focused on weaker-than-expected third-quarter guidance.</p><p>The discount retailer posted adjusted earnings per share of $2.70, significantly surpassing the analyst consensus of $1.11. Revenue reached $4.9 billion, topping the estimate of $4.85 billion and representing a 7.0% increase YoY.</p><p>Comparable store net sales rose 3.7%, driven by a 3.3% increase in average ticket and a 0.4% increase in traffic. The quarter&#x27;s results included a $1.31 per share benefit related to the net impact of tariff refunds.</p><p>However, the company&#x27;s third quarter guidance disappointed investors. Dollar Tree expects adjusted EPS of $0.80 to $0.95, with a midpoint of $0.88 that includes an approximate $0.50 impact related to tariff refund reinvestments. It is below the consensus estimate of $1.39.</p><p>The company projects third-quarter comparable store net sales growth of 3.0% to 4.0% on revenue of $5.0 billion to $5.1 billion.</p><p>&quot;What continues to set Dollar Tree apart is our ability to deliver value, convenience, and the excitement of discovery all in one shopping trip,&quot; said Mike Creedon, Chief Executive Officer. &quot;Positive traffic trends helped drive strong comparable sales growth and EPS exceeded the high end of our outlook.&quot;</p><p>For the full fiscal year 2026, Dollar Tree raised its adjusted EPS outlook to a range of $7.70 to $8.05, with a midpoint of $7.88 that exceeds the analyst consensus of $7.04. This guidance includes an approximate $0.60 benefit related to the net impact of tariff refunds. The company expects full-year net sales of $20.5 billion to $20.7 billion based on comparable store net sales growth of 3% to 4%.</p><p>Related articles</p><p>Dollar Tree stock falls despite earnings beat</p><p>Nvidia&#x27;s new Alpamayo project: What it means for Tesla?</p><p>As Claude disrupts stock market, Anthropic researcher warns &#x27;world is in peril&#x27;</p>]]></content:encoded>
+      <pubDate>Fri, 28 Aug 2026 11:24:26 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-08-28_Dollar_Tree_stock_falls_despite_earnings_beat.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-08-28_Dollar_Tree_stock_falls_despite_earnings_beat.mp3" length="1541725" type="audio/mpeg"/>
+      <itunes:duration>00:02:44</itunes:duration>
+      <itunes:author>Sam Boughedda</itunes:author>
+      <itunes:summary>Dollar Tree stock falls despite earnings beat
+
+2026-08-28
+
+Por Sam Boughedda
+
+https://finance.yahoo.com/markets/stocks/articles/dollar-tree-stock-falls-despite-111212543.html
+
+Investing.com -- Dollar Tree Inc. (NASDAQ:DLTR) reported second-quarter results that exceeded analyst expectations, but shares have dropped around 3% premarket as investors focused on weaker-than-expected third-quarter guidance.
+
+The discount retailer posted adjusted earnings per share of $2.70, significantly surpassing the analyst consensus of $1.11. Revenue reached $4.9 billion, topping the estimate of $4.85 billion and representing a 7.0% increase YoY.
+
+Comparable store net sales rose 3.7%, driven by a 3.3% increase in average ticket and a 0.4% increase in traffic. The quarter&#x27;s results included a $1.31 per share benefit related to the net impact of tariff refunds.
+
+However, the company&#x27;s third quarter guidance disappointed investors. Dollar Tree expects adjusted EPS of $0.80 to $0.95, with a midpoint of $0.88 that includes an approximate $0.50 impact related to tariff refund reinvestments. It is below the consensus estimate of $1.39.
+
+The company projects third-quarter comparable store net sales growth of 3.0% to 4.0% on revenue of $5.0 billion to $5.1 billion.
+
+&quot;What continues to set Dollar Tree apart is our ability to deliver value, convenience, and the excitement of discovery all in one shopping trip,&quot; said Mike Creedon, Chief Executive Officer. &quot;Positive traffic trends helped drive strong comparable sales growth and EPS exceeded the high end of our outlook.&quot;
+
+For the full fiscal year 2026, Dollar Tree raised its adjusted EPS outlook to a range of $7.70 to $8.05, with a midpoint of $7.88 that exceeds the analyst consensus of $7.04. This guidance includes an approximate $0.60 benefit related to the net impact of tariff refunds. The company expects full-year net sales of $20.5 billion to $20.7 billion based on comparable store net sales growth of 3% to 4%.
+
+Related articles
+
+Dollar Tree stock falls despite earnings beat
+
+Nvidia&#x27;s new Alpamayo project: What it means for Tesla?
+
+As Claude disrupts stock market, Anthropic researcher warns &#x27;world is in peril&#x27;</itunes:summary>
+    </item>
+
+    <item>
+      <title>Nvidia says it&#x27;s building an ecosystem that can&#x27;t fail</title>
+      <author>Hamza Shaban</author>
+      <description>Nvidia says it&#x27;s building an ecosystem that can&#x27;t fail
+
+2026-08-28
+
+Por Hamza Shaban
+
+https://finance.yahoo.com/technology/article/nvidia-says-its-building-an-ecosystem-that-cant-fail-153001892.html
+
+Don&#x27;t call it circular financing. Nvidia doesn&#x27;t see its efforts to prop up upstarts and bolster key AI players as questionable financial engineering.
+
+Yes, it&#x27;s true that the beneficiaries of Nvidia&#x27;s muscular backstops and investments are also its customers. But Nvidia doesn&#x27;t see the scale of its support as something worthy of suspicion. That&#x27;s because, the company says, it&#x27;s building an ecosystem with too many scenarios for Nvidia to win.
+
+A key question from critics of Nvidia concerns the demand for AI components, tools, and infrastructure: Would the growth around AI and the confident projections of future success be attainable without Nvidia&#x27;s heavy hand?
+
+CFO Colette Kress addressed the criticism head-on during the company&#x27;s Q2 earnings call on Wednesday.
+
+&quot;We know some will call this circular financing. We see it differently. We are going through a major computing platform shift, the creation of one of the most important technologies in human history, and these are once-in-a-generation companies. Their technology leadership is proven, and their customer traction and usage are skyrocketing.&quot;
+
+From Nvidia&#x27;s perspective, the success of AI labs is independent of its partnerships. But why miss out on opportunities for more growth, greater revenue diversity, and the encouragement of other firms and would-be customers to put skin in the game?
+
+And after all, Nvidia expects some of the frontier AI labs it&#x27;s doing business with to become the largest tech companies in history (apologies to the Magnificent Seven).
+
+But what&#x27;s the difference between Nvidia&#x27;s vision of a thriving AI ecosystem (with it at the financial and technological center) and a bullheaded belief that Nvidia is building a business environment that can&#x27;t fail?
+
+Nvidia has left some room for doubt. But not much.
+
+&quot;We believe these investments, measured against the strength of their demand, the business they create for us, the ecosystem they build on Nvidia&#x27;s platform, and the equity returns on our invested capital will be excellent, and our risk is limited,&quot; Kress said on the call.
+
+Demand from AI labs receiving some form of financial support from Nvidia will account for about a quarter of the company&#x27;s business next year, Kress said.
+
+A bullish reading on all of this is that Nvidia&#x27;s true exposure to the debt they are helping finance for the AI build-out is narrow; that expanding its client base beyond the tech giants is a savvy bet-making; and that, in a rising-AI-tide that lifts all boats, Nvidia will be the one outfitting the vessels and helping to construct new ones.</description>
+      <content:encoded><![CDATA[<p>Nvidia says it&#x27;s building an ecosystem that can&#x27;t fail</p><p>2026-08-28</p><p>Por Hamza Shaban</p><p>https://finance.yahoo.com/technology/article/nvidia-says-its-building-an-ecosystem-that-cant-fail-153001892.html</p><p>Don&#x27;t call it circular financing. Nvidia doesn&#x27;t see its efforts to prop up upstarts and bolster key AI players as questionable financial engineering.</p><p>Yes, it&#x27;s true that the beneficiaries of Nvidia&#x27;s muscular backstops and investments are also its customers. But Nvidia doesn&#x27;t see the scale of its support as something worthy of suspicion. That&#x27;s because, the company says, it&#x27;s building an ecosystem with too many scenarios for Nvidia to win.</p><p>A key question from critics of Nvidia concerns the demand for AI components, tools, and infrastructure: Would the growth around AI and the confident projections of future success be attainable without Nvidia&#x27;s heavy hand?</p><p>CFO Colette Kress addressed the criticism head-on during the company&#x27;s Q2 earnings call on Wednesday.</p><p>&quot;We know some will call this circular financing. We see it differently. We are going through a major computing platform shift, the creation of one of the most important technologies in human history, and these are once-in-a-generation companies. Their technology leadership is proven, and their customer traction and usage are skyrocketing.&quot;</p><p>From Nvidia&#x27;s perspective, the success of AI labs is independent of its partnerships. But why miss out on opportunities for more growth, greater revenue diversity, and the encouragement of other firms and would-be customers to put skin in the game?</p><p>And after all, Nvidia expects some of the frontier AI labs it&#x27;s doing business with to become the largest tech companies in history (apologies to the Magnificent Seven).</p><p>But what&#x27;s the difference between Nvidia&#x27;s vision of a thriving AI ecosystem (with it at the financial and technological center) and a bullheaded belief that Nvidia is building a business environment that can&#x27;t fail?</p><p>Nvidia has left some room for doubt. But not much.</p><p>&quot;We believe these investments, measured against the strength of their demand, the business they create for us, the ecosystem they build on Nvidia&#x27;s platform, and the equity returns on our invested capital will be excellent, and our risk is limited,&quot; Kress said on the call.</p><p>Demand from AI labs receiving some form of financial support from Nvidia will account for about a quarter of the company&#x27;s business next year, Kress said.</p><p>A bullish reading on all of this is that Nvidia&#x27;s true exposure to the debt they are helping finance for the AI build-out is narrow; that expanding its client base beyond the tech giants is a savvy bet-making; and that, in a rising-AI-tide that lifts all boats, Nvidia will be the one outfitting the vessels and helping to construct new ones.</p>]]></content:encoded>
+      <pubDate>Fri, 28 Aug 2026 11:23:44 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-08-28_Nvidia_says_its_building_an_ecosystem_that_cant_fail.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-08-28_Nvidia_says_its_building_an_ecosystem_that_cant_fail.mp3" length="1504722" type="audio/mpeg"/>
+      <itunes:duration>00:02:39</itunes:duration>
+      <itunes:author>Hamza Shaban</itunes:author>
+      <itunes:summary>Nvidia says it&#x27;s building an ecosystem that can&#x27;t fail
+
+2026-08-28
+
+Por Hamza Shaban
+
+https://finance.yahoo.com/technology/article/nvidia-says-its-building-an-ecosystem-that-cant-fail-153001892.html
+
+Don&#x27;t call it circular financing. Nvidia doesn&#x27;t see its efforts to prop up upstarts and bolster key AI players as questionable financial engineering.
+
+Yes, it&#x27;s true that the beneficiaries of Nvidia&#x27;s muscular backstops and investments are also its customers. But Nvidia doesn&#x27;t see the scale of its support as something worthy of suspicion. That&#x27;s because, the company says, it&#x27;s building an ecosystem with too many scenarios for Nvidia to win.
+
+A key question from critics of Nvidia concerns the demand for AI components, tools, and infrastructure: Would the growth around AI and the confident projections of future success be attainable without Nvidia&#x27;s heavy hand?
+
+CFO Colette Kress addressed the criticism head-on during the company&#x27;s Q2 earnings call on Wednesday.
+
+&quot;We know some will call this circular financing. We see it differently. We are going through a major computing platform shift, the creation of one of the most important technologies in human history, and these are once-in-a-generation companies. Their technology leadership is proven, and their customer traction and usage are skyrocketing.&quot;
+
+From Nvidia&#x27;s perspective, the success of AI labs is independent of its partnerships. But why miss out on opportunities for more growth, greater revenue diversity, and the encouragement of other firms and would-be customers to put skin in the game?
+
+And after all, Nvidia expects some of the frontier AI labs it&#x27;s doing business with to become the largest tech companies in history (apologies to the Magnificent Seven).
+
+But what&#x27;s the difference between Nvidia&#x27;s vision of a thriving AI ecosystem (with it at the financial and technological center) and a bullheaded belief that Nvidia is building a business environment that can&#x27;t fail?
+
+Nvidia has left some room for doubt. But not much.
+
+&quot;We believe these investments, measured against the strength of their demand, the business they create for us, the ecosystem they build on Nvidia&#x27;s platform, and the equity returns on our invested capital will be excellent, and our risk is limited,&quot; Kress said on the call.
+
+Demand from AI labs receiving some form of financial support from Nvidia will account for about a quarter of the company&#x27;s business next year, Kress said.
+
+A bullish reading on all of this is that Nvidia&#x27;s true exposure to the debt they are helping finance for the AI build-out is narrow; that expanding its client base beyond the tech giants is a savvy bet-making; and that, in a rising-AI-tide that lifts all boats, Nvidia will be the one outfitting the vessels and helping to construct new ones.</itunes:summary>
+    </item>
+
+    <item>
+      <title>As Jackson Hole conference kicks off, three Fed officials issue inflation warnings</title>
+      <author>Michael S Derby</author>
+      <description>As Jackson Hole conference kicks off, three Fed officials issue inflation warnings
+
+2026-08-28
+
+Por Michael S Derby
+
+https://finance.yahoo.com/economy/policy/articles/jackson-hole-conference-kicks-off-143304791.html
+
+As Jackson Hole conference kicks off, three Fed officials issue inflation warnings
+
+By Michael S. Derby
+
+5 min read
+
+By Michael S. Derby
+
+Aug 27 (Reuters) - Federal Reserve officials shared on Thursday their ongoing concerns about the U.S. inflation landscape, as central bankers gathered in Jackson Hole, Wyoming for the Kansas City Fed&#x27;s closely watched annual economic symposium.
+
+Inflation is &quot;still stubborn and it&#x27;s still sticky and we&#x27;ve got to continue to find ways to break through&quot; and get it back to 2%, Kansas City Fed President Jeffrey Schmid said on CNBC on the sidelines of the conference.
+
+He noted that the U.S. central bank&#x27;s current policy rate, which was left in the 3.50%-3.75% range at the July 28-29 meeting, did not appear to be restrictive. &quot;I don&#x27;t know what we&#x27;re restricting currently with the rate policy that we&#x27;re at today,&quot; Schmid said.
+
+Schmid, who had recently been in favor of raising rates to help bring inflation back down to the Fed&#x27;s 2% target, seemed to suggest that he would still favor such a path, given his belief that monetary policy is not working to counter current price pressures.
+
+But even so, when asked about the outlook for a rate hike at the Fed&#x27;s September 15-16 policy meeting, he said, &quot;I think we need a little bit more information. What I&#x27;m trying to figure out is the demand side of what&#x27;s driving both growth and inflation.&quot;
+
+Cleveland Fed President Beth Hammack, also speaking on CNBC, was similarly anxious about inflation and reiterated her ongoing willingness to act to bring price pressures back in line.
+
+&quot;I don&#x27;t want to prejudge anything,&quot; Hammack said, &quot;but I believe now is the time to act.&quot;
+
+Hammack, one of three Fed officials who dissented at last month&#x27;s meeting in favor of a rate hike, said inflation has been above target for more than five years and monetary policy is not doing anything at the moment to restrain the economy in order to lower price pressures.
+
+The Cleveland Fed chief said she is hearing more and more from contacts worried about inflation and she fears the longer this trend continues, the greater the risk to the central bank&#x27;s credibility. Information from local contacts suggests &quot;we&#x27;re starting to get some of that inflationary mindset&quot; embedding itself in the economy. &quot;I don&#x27;t think we&#x27;re there yet, but that&#x27;s what I want to make sure we avoid,&quot; Hammack said.
+
+In a later interview on the Fox Business Network, Hammack said she believes the job market is in balance and that the U.S. central bank appears unlikely to achieve its price pressure target even by next year. &quot;My forecast is that inflation is going to end this year around 3% and I think we&#x27;re not going to make significant progress next year. I think we&#x27;ll get to maybe mid-twos at best,&quot; Hammack said on the network&#x27;s &quot;Big Money Show&quot; program.
+
+&#x27;WATCH THE DATA&#x27;
+
+Chicago Fed President Austan Goolsbee said his biggest fear in the short run continues to be that inflation is not under control.
+
+&quot;Everybody should be on edge,&quot; Goolsbee said on the Rapid Response podcast. &quot;We hear a lot about affordability and we better be mindful because if inflation starts going up again, it&#x27;s very hard to get rid of it.&quot;
+
+Goolsbee noted that rises in energy costs tied to the war in Iran and the constant oscillation in the Trump administration&#x27;s tariffs are also a concern, as they&#x27;re hitting households at a time of unacceptably high inflation. He said there is a danger the public could shift toward a view that above-target price pressures are not going away.
+
+The Chicago Fed chief, however, noted that the recent three-month inflation trend &quot;doesn&#x27;t look terrible.&quot; Asked about his outlook for interest rates, Goolsbee said the Fed&#x27;s policy rate could be lowered over time if there was evidence inflation was heading back 
+
+[Transcripcion recortada]</description>
+      <content:encoded><![CDATA[<p>As Jackson Hole conference kicks off, three Fed officials issue inflation warnings</p><p>2026-08-28</p><p>Por Michael S Derby</p><p>https://finance.yahoo.com/economy/policy/articles/jackson-hole-conference-kicks-off-143304791.html</p><p>As Jackson Hole conference kicks off, three Fed officials issue inflation warnings</p><p>By Michael S. Derby</p><p>5 min read</p><p>By Michael S. Derby</p><p>Aug 27 (Reuters) - Federal Reserve officials shared on Thursday their ongoing concerns about the U.S. inflation landscape, as central bankers gathered in Jackson Hole, Wyoming for the Kansas City Fed&#x27;s closely watched annual economic symposium.</p><p>Inflation is &quot;still stubborn and it&#x27;s still sticky and we&#x27;ve got to continue to find ways to break through&quot; and get it back to 2%, Kansas City Fed President Jeffrey Schmid said on CNBC on the sidelines of the conference.</p><p>He noted that the U.S. central bank&#x27;s current policy rate, which was left in the 3.50%-3.75% range at the July 28-29 meeting, did not appear to be restrictive. &quot;I don&#x27;t know what we&#x27;re restricting currently with the rate policy that we&#x27;re at today,&quot; Schmid said.</p><p>Schmid, who had recently been in favor of raising rates to help bring inflation back down to the Fed&#x27;s 2% target, seemed to suggest that he would still favor such a path, given his belief that monetary policy is not working to counter current price pressures.</p><p>But even so, when asked about the outlook for a rate hike at the Fed&#x27;s September 15-16 policy meeting, he said, &quot;I think we need a little bit more information. What I&#x27;m trying to figure out is the demand side of what&#x27;s driving both growth and inflation.&quot;</p><p>Cleveland Fed President Beth Hammack, also speaking on CNBC, was similarly anxious about inflation and reiterated her ongoing willingness to act to bring price pressures back in line.</p><p>&quot;I don&#x27;t want to prejudge anything,&quot; Hammack said, &quot;but I believe now is the time to act.&quot;</p><p>Hammack, one of three Fed officials who dissented at last month&#x27;s meeting in favor of a rate hike, said inflation has been above target for more than five years and monetary policy is not doing anything at the moment to restrain the economy in order to lower price pressures.</p><p>The Cleveland Fed chief said she is hearing more and more from contacts worried about inflation and she fears the longer this trend continues, the greater the risk to the central bank&#x27;s credibility. Information from local contacts suggests &quot;we&#x27;re starting to get some of that inflationary mindset&quot; embedding itself in the economy. &quot;I don&#x27;t think we&#x27;re there yet, but that&#x27;s what I want to make sure we avoid,&quot; Hammack said.</p><p>In a later interview on the Fox Business Network, Hammack said she believes the job market is in balance and that the U.S. central bank appears unlikely to achieve its price pressure target even by next year. &quot;My forecast is that inflation is going to end this year around 3% and I think we&#x27;re not going to make significant progress next year. I think we&#x27;ll get to maybe mid-twos at best,&quot; Hammack said on the network&#x27;s &quot;Big Money Show&quot; program.</p><p>&#x27;WATCH THE DATA&#x27;</p><p>Chicago Fed President Austan Goolsbee said his biggest fear in the short run continues to be that inflation is not under control.</p><p>&quot;Everybody should be on edge,&quot; Goolsbee said on the Rapid Response podcast. &quot;We hear a lot about affordability and we better be mindful because if inflation starts going up again, it&#x27;s very hard to get rid of it.&quot;</p><p>Goolsbee noted that rises in energy costs tied to the war in Iran and the constant oscillation in the Trump administration&#x27;s tariffs are also a concern, as they&#x27;re hitting households at a time of unacceptably high inflation. He said there is a danger the public could shift toward a view that above-target price pressures are not going away.</p><p>The Chicago Fed chief, however, noted that the recent three-month inflation trend &quot;doesn&#x27;t look terrible.&quot; Asked about his outlook for interest rates, Goolsbee said the Fed&#x27;s policy rate could be lowered over time if there was evidence inflation was heading back </p>]]></content:encoded>
+      <pubDate>Fri, 28 Aug 2026 11:23:01 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-08-28_As_Jackson_Hole_conference_kicks_off_three_Fed_officials_issue_inflation_warnings.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-08-28_As_Jackson_Hole_conference_kicks_off_three_Fed_officials_issue_inflation_warnings.mp3" length="3252351" type="audio/mpeg"/>
+      <itunes:duration>00:06:00</itunes:duration>
+      <itunes:author>Michael S Derby</itunes:author>
+      <itunes:summary>As Jackson Hole conference kicks off, three Fed officials issue inflation warnings
+
+2026-08-28
+
+Por Michael S Derby
+
+https://finance.yahoo.com/economy/policy/articles/jackson-hole-conference-kicks-off-143304791.html
+
+As Jackson Hole conference kicks off, three Fed officials issue inflation warnings
+
+By Michael S. Derby
+
+5 min read
+
+By Michael S. Derby
+
+Aug 27 (Reuters) - Federal Reserve officials shared on Thursday their ongoing concerns about the U.S. inflation landscape, as central bankers gathered in Jackson Hole, Wyoming for the Kansas City Fed&#x27;s closely watched annual economic symposium.
+
+Inflation is &quot;still stubborn and it&#x27;s still sticky and we&#x27;ve got to continue to find ways to break through&quot; and get it back to 2%, Kansas City Fed President Jeffrey Schmid said on CNBC on the sidelines of the conference.
+
+He noted that the U.S. central bank&#x27;s current policy rate, which was left in the 3.50%-3.75% range at the July 28-29 meeting, did not appear to be restrictive. &quot;I don&#x27;t know what we&#x27;re restricting currently with the rate policy that we&#x27;re at today,&quot; Schmid said.
+
+Schmid, who had recently been in favor of raising rates to help bring inflation back down to the Fed&#x27;s 2% target, seemed to suggest that he would still favor such a path, given his belief that monetary policy is not working to counter current price pressures.
+
+But even so, when asked about the outlook for a rate hike at the Fed&#x27;s September 15-16 policy meeting, he said, &quot;I think we need a little bit more information. What I&#x27;m trying to figure out is the demand side of what&#x27;s driving both growth and inflation.&quot;
+
+Cleveland Fed President Beth Hammack, also speaking on CNBC, was similarly anxious about inflation and reiterated her ongoing willingness to act to bring price pressures back in line.
+
+&quot;I don&#x27;t want to prejudge anything,&quot; Hammack said, &quot;but I believe now is the time to act.&quot;
+
+Hammack, one of three Fed officials who dissented at last month&#x27;s meeting in favor of a rate hike, said inflation has been above target for more than five years and monetary policy is not doing anything at the moment to restrain the economy in order to lower price pressures.
+
+The Cleveland Fed chief said she is hearing more and more from contacts worried about inflation and she fears the longer this trend continues, the greater the risk to the central bank&#x27;s credibility. Information from local contacts suggests &quot;we&#x27;re starting to get some of that inflationary mindset&quot; embedding itself in the economy. &quot;I don&#x27;t think we&#x27;re there yet, but that&#x27;s what I want to make sure we avoid,&quot; Hammack said.
+
+In a later interview on the Fox Business Network, Hammack said she believes the job market is in balance and that the U.S. central bank appears unlikely to achieve its price pressure target even by next year. &quot;My forecast is that inflation is going to end this year around 3% and I think we&#x27;re not going to make significant progress next year. I think we&#x27;ll get to maybe mid-twos at best,&quot; Hammack said on the network&#x27;s &quot;Big Money Show&quot; program.
+
+&#x27;WATCH THE DATA&#x27;
+
+Chicago Fed President Austan Goolsbee said his biggest fear in the short run continues to be that inflation is not under control.
+
+&quot;Everybody should be on edge,&quot; Goolsbee said on the Rapid Response podcast. &quot;We hear a lot about affordability and we better be mindful because if inflation starts going up again, it&#x27;s very hard to get rid of it.&quot;
+
+Goolsbee noted that rises in energy costs tied to the war in Iran and the constant oscillation in the Trump administration&#x27;s tariffs are also a concern, as they&#x27;re hitting households at a time of unacceptably high inflation. He said there is a danger the public could shift toward a view that above-target price pressures are not going away.
+
+The Chicago Fed chief, however, noted that the recent three-month inflation trend &quot;doesn&#x27;t look terrible.&quot; Asked about his outlook for interest rates, Goolsbee said the Fed&#x27;s policy rate could be lowered over time if there was evidence inflation was heading back 
+
+[Transcripcion recortada]</itunes:summary>
+    </item>
+
+    <item>
+      <title>Alphabet Loses $692 Billion in Market Value as AI Questions Rise</title>
+      <author>Carmen Reinicke</author>
+      <description>Alphabet Loses $692 Billion in Market Value as AI Questions Rise
+
+2026-08-28
+
+Por Carmen Reinicke
+
+https://finance.yahoo.com/technology/ai/articles/alphabet-loses-692-billion-market-123158437.html
+
+(Bloomberg) -- For much of the last year, Alphabet Inc. has been the Big Tech stock to beat as investors bet that it was the most-likely winner from the artificial intelligence boom.
+
+Most Read from Bloomberg
+
+Alphabet shares hit an all-time high on May 13 after soaring more than 150% in the previous 12 months, putting them among the 25 best performers in the S&amp;P 500 Index over that stretch and far outpacing the other Magnificent Seven technology giants. But the momentum has reversed since then due to questions about a brain drain at Google&#x27;s parent and fears that the company is losing its edge in AI.
+
+The stock is down 15% from its peak, erasing $692 billion in market value and making it the second-biggest point drag on the S&amp;P 500 in that span. At the crux of the selloff is Alphabet&#x27;s suddenly shaky standing in the AI race, with its heavy spending on building out the infrastructure to develop the technology and the delayed release of its new Gemini AI model weighing on investor sentiment.
+
+And then there&#x27;s the personnel issue.
+
+A few months ago, Google lost two top employees to Anthropic PBC and OpenAI. Earlier this month, Jeff Dean, who was key to Google&#x27;s AI strategy, departed to launch a startup and took several high-profile coworkers with him. And Demis Hassabis stepped down as chief executive officer of the Google DeepMind AI research lab, accepting a new role as chairman. Those moves sent Alphabet shares tumbling 4% on Aug. 5, erasing $186 billion in market value in a single session.
+
+&quot;You&#x27;ve had this kind of brain drain,&quot; said Angelo Zino, senior vice president and head of technology at CFRA. &quot;It does pose some risk because it&#x27;s the area of the market everybody is looking at at this point in time, right? It&#x27;s, you know, can you monetize AI?&quot;
+
+Of course, Alphabet is hardly the only firm challenged by Big Tech&#x27;s talent race. Last year, Meta Platforms Inc. poached Ruoming Pang from Apple Inc., where he ran the iPhone maker&#x27;s AI models team, with a $200 million multi-year compensation package and then brought in a couple of his senior deputies.
+
+Around that time, OpenAI Chief Executive Sam Altman complained that Meta was offering his employees signing bonuses of as much as $100 million to join its top AI team. Meanwhile, OpenAI has lured more than 400 Apple employees with rich salaries and hefty stock option offers. And Apple has sued OpenAI for stealing trade secrets.
+
+At Alphabet, however, turnover questions are just the tip of the iceberg. Its more immediate concerns surround delays in developing its most powerful AI model, Gemini 3.5 Pro, which is behind schedule as the company works on improvements, particularly with its coding capabilities, an area where Alphabet is already seen as lagging Anthropic and OpenAI. Two weeks ago, Google released a new Gemini 3.7 Flash model but gave no update on the timetable for Gemini 3.5 Pro.
+
+&quot;If you&#x27;re an AI winner, you have a leading-edge model and the market gives you a certain multiple premium, which is what was being seen in the stock over the last, let&#x27;s say nine to 12 months, which has kind of gone away a little on the margins,&quot; said Divyaunsh Divatia, analyst at Janus Henderson.
+
+Reasons for Optimism
+
+Alphabet, however, says progress is coming quickly.
+
+&quot;Our AI momentum and shipping velocity are at an all-time high. We&#x27;re rolling out model updates within weeks of each other, with Gemini 3.7 Flash becoming our fastest-growing model to date and Gemma surpassing one billion downloads,&quot; a Google spokesperson said.
+
+The optimism for Alphabet&#x27;s AI business stems from the success of its tensor processing unit, or TPU, chips and the overwhelming amount of computing power it has amassed. But it&#x27;s also facing skepticism about its spending after raising $25 billion in an early August bond of
+
+[Transcripcion recortada]</description>
+      <content:encoded><![CDATA[<p>Alphabet Loses $692 Billion in Market Value as AI Questions Rise</p><p>2026-08-28</p><p>Por Carmen Reinicke</p><p>https://finance.yahoo.com/technology/ai/articles/alphabet-loses-692-billion-market-123158437.html</p><p>(Bloomberg) -- For much of the last year, Alphabet Inc. has been the Big Tech stock to beat as investors bet that it was the most-likely winner from the artificial intelligence boom.</p><p>Most Read from Bloomberg</p><p>Alphabet shares hit an all-time high on May 13 after soaring more than 150% in the previous 12 months, putting them among the 25 best performers in the S&amp;P 500 Index over that stretch and far outpacing the other Magnificent Seven technology giants. But the momentum has reversed since then due to questions about a brain drain at Google&#x27;s parent and fears that the company is losing its edge in AI.</p><p>The stock is down 15% from its peak, erasing $692 billion in market value and making it the second-biggest point drag on the S&amp;P 500 in that span. At the crux of the selloff is Alphabet&#x27;s suddenly shaky standing in the AI race, with its heavy spending on building out the infrastructure to develop the technology and the delayed release of its new Gemini AI model weighing on investor sentiment.</p><p>And then there&#x27;s the personnel issue.</p><p>A few months ago, Google lost two top employees to Anthropic PBC and OpenAI. Earlier this month, Jeff Dean, who was key to Google&#x27;s AI strategy, departed to launch a startup and took several high-profile coworkers with him. And Demis Hassabis stepped down as chief executive officer of the Google DeepMind AI research lab, accepting a new role as chairman. Those moves sent Alphabet shares tumbling 4% on Aug. 5, erasing $186 billion in market value in a single session.</p><p>&quot;You&#x27;ve had this kind of brain drain,&quot; said Angelo Zino, senior vice president and head of technology at CFRA. &quot;It does pose some risk because it&#x27;s the area of the market everybody is looking at at this point in time, right? It&#x27;s, you know, can you monetize AI?&quot;</p><p>Of course, Alphabet is hardly the only firm challenged by Big Tech&#x27;s talent race. Last year, Meta Platforms Inc. poached Ruoming Pang from Apple Inc., where he ran the iPhone maker&#x27;s AI models team, with a $200 million multi-year compensation package and then brought in a couple of his senior deputies.</p><p>Around that time, OpenAI Chief Executive Sam Altman complained that Meta was offering his employees signing bonuses of as much as $100 million to join its top AI team. Meanwhile, OpenAI has lured more than 400 Apple employees with rich salaries and hefty stock option offers. And Apple has sued OpenAI for stealing trade secrets.</p><p>At Alphabet, however, turnover questions are just the tip of the iceberg. Its more immediate concerns surround delays in developing its most powerful AI model, Gemini 3.5 Pro, which is behind schedule as the company works on improvements, particularly with its coding capabilities, an area where Alphabet is already seen as lagging Anthropic and OpenAI. Two weeks ago, Google released a new Gemini 3.7 Flash model but gave no update on the timetable for Gemini 3.5 Pro.</p><p>&quot;If you&#x27;re an AI winner, you have a leading-edge model and the market gives you a certain multiple premium, which is what was being seen in the stock over the last, let&#x27;s say nine to 12 months, which has kind of gone away a little on the margins,&quot; said Divyaunsh Divatia, analyst at Janus Henderson.</p><p>Reasons for Optimism</p><p>Alphabet, however, says progress is coming quickly.</p><p>&quot;Our AI momentum and shipping velocity are at an all-time high. We&#x27;re rolling out model updates within weeks of each other, with Gemini 3.7 Flash becoming our fastest-growing model to date and Gemma surpassing one billion downloads,&quot; a Google spokesperson said.</p><p>The optimism for Alphabet&#x27;s AI business stems from the success of its tensor processing unit, or TPU, chips and the overwhelming amount of computing power it has amassed. But it&#x27;s also facing skepticism about its spending after raising $25 billion in an early August bond of</p>]]></content:encoded>
+      <pubDate>Fri, 28 Aug 2026 11:21:35 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-08-28_Alphabet_Loses_692_Billion_in_Market_Value_as_AI_Questions_Rise.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-08-28_Alphabet_Loses_692_Billion_in_Market_Value_as_AI_Questions_Rise.mp3" length="4256108" type="audio/mpeg"/>
+      <itunes:duration>00:07:51</itunes:duration>
+      <itunes:author>Carmen Reinicke</itunes:author>
+      <itunes:summary>Alphabet Loses $692 Billion in Market Value as AI Questions Rise
+
+2026-08-28
+
+Por Carmen Reinicke
+
+https://finance.yahoo.com/technology/ai/articles/alphabet-loses-692-billion-market-123158437.html
+
+(Bloomberg) -- For much of the last year, Alphabet Inc. has been the Big Tech stock to beat as investors bet that it was the most-likely winner from the artificial intelligence boom.
+
+Most Read from Bloomberg
+
+Alphabet shares hit an all-time high on May 13 after soaring more than 150% in the previous 12 months, putting them among the 25 best performers in the S&amp;P 500 Index over that stretch and far outpacing the other Magnificent Seven technology giants. But the momentum has reversed since then due to questions about a brain drain at Google&#x27;s parent and fears that the company is losing its edge in AI.
+
+The stock is down 15% from its peak, erasing $692 billion in market value and making it the second-biggest point drag on the S&amp;P 500 in that span. At the crux of the selloff is Alphabet&#x27;s suddenly shaky standing in the AI race, with its heavy spending on building out the infrastructure to develop the technology and the delayed release of its new Gemini AI model weighing on investor sentiment.
+
+And then there&#x27;s the personnel issue.
+
+A few months ago, Google lost two top employees to Anthropic PBC and OpenAI. Earlier this month, Jeff Dean, who was key to Google&#x27;s AI strategy, departed to launch a startup and took several high-profile coworkers with him. And Demis Hassabis stepped down as chief executive officer of the Google DeepMind AI research lab, accepting a new role as chairman. Those moves sent Alphabet shares tumbling 4% on Aug. 5, erasing $186 billion in market value in a single session.
+
+&quot;You&#x27;ve had this kind of brain drain,&quot; said Angelo Zino, senior vice president and head of technology at CFRA. &quot;It does pose some risk because it&#x27;s the area of the market everybody is looking at at this point in time, right? It&#x27;s, you know, can you monetize AI?&quot;
+
+Of course, Alphabet is hardly the only firm challenged by Big Tech&#x27;s talent race. Last year, Meta Platforms Inc. poached Ruoming Pang from Apple Inc., where he ran the iPhone maker&#x27;s AI models team, with a $200 million multi-year compensation package and then brought in a couple of his senior deputies.
+
+Around that time, OpenAI Chief Executive Sam Altman complained that Meta was offering his employees signing bonuses of as much as $100 million to join its top AI team. Meanwhile, OpenAI has lured more than 400 Apple employees with rich salaries and hefty stock option offers. And Apple has sued OpenAI for stealing trade secrets.
+
+At Alphabet, however, turnover questions are just the tip of the iceberg. Its more immediate concerns surround delays in developing its most powerful AI model, Gemini 3.5 Pro, which is behind schedule as the company works on improvements, particularly with its coding capabilities, an area where Alphabet is already seen as lagging Anthropic and OpenAI. Two weeks ago, Google released a new Gemini 3.7 Flash model but gave no update on the timetable for Gemini 3.5 Pro.
+
+&quot;If you&#x27;re an AI winner, you have a leading-edge model and the market gives you a certain multiple premium, which is what was being seen in the stock over the last, let&#x27;s say nine to 12 months, which has kind of gone away a little on the margins,&quot; said Divyaunsh Divatia, analyst at Janus Henderson.
+
+Reasons for Optimism
+
+Alphabet, however, says progress is coming quickly.
+
+&quot;Our AI momentum and shipping velocity are at an all-time high. We&#x27;re rolling out model updates within weeks of each other, with Gemini 3.7 Flash becoming our fastest-growing model to date and Gemma surpassing one billion downloads,&quot; a Google spokesperson said.
+
+The optimism for Alphabet&#x27;s AI business stems from the success of its tensor processing unit, or TPU, chips and the overwhelming amount of computing power it has amassed. But it&#x27;s also facing skepticism about its spending after raising $25 billion in an early August bond of
+
+[Transcripcion recortada]</itunes:summary>
+    </item>
+
+    <item>
+      <title>Earnings spur software and chip rally, offsetting weakness in other areas of the market: AlphaCheck</title>
+      <author>Grace O&#x27;Donnell</author>
+      <description>Earnings spur software and chip rally, offsetting weakness in other areas of the market: AlphaCheck
+
+2026-08-28
+
+Por Grace O&#x27;Donnell
+
+https://finance.yahoo.com/markets/article/earnings-spur-software-and-chip-rally-offsetting-weakness-in-other-areas-of-the-market-alphacheck-135658418.html
+
+Good morning. Stocks advanced on Thursday after Nvidia&#x27;s (NVDA) bullish outlook sparked a rally in tech stocks, offsetting weakness elsewhere. Nvidia stock gained over 6% in early trading, while semiconductor stocks like Intel (INTC) and SK Hynix (SKHY) also rose.
+
+Earnings movers Salesforce (CRM), Okta (OKTA), and CrowdStrike (CRWD) also surged by double digits on the backs of strong results and outlooks, spurring a rally in software names as well. Salesforce CEO Marc Benioff called for an end to fears of software disruption, saying, &quot;This nonsense of this SaaSpocalypse, I think it&#x27;s time for it to stop.&quot;
+
+Here&#x27;s a check of the markets in the first few minutes of trading, based on a heat map powered by Yahoo Finance AlphaSpace data.
+
+Tech (XLK) outperformed the rest of the market as the lone S&amp;P 500 sector in the green. Strength in tech helped counterbalance declines in Utilities (XLU), Energy (XLE), and Communications Services (XLC).
+
+Here are some notable stocks that Yahoo Finance readers are viewing this morning: Nvidia, Sandisk (SNDK), INTC, Marvell (MRVL), CrowdStrike, SK Hynix, Dollar Tree (DLTR).
+
+Click here for the latest stock market news and in-depth analysis, including events that move stocks
+
+Read the latest financial and business news from Yahoo Finance</description>
+      <content:encoded><![CDATA[<p>Earnings spur software and chip rally, offsetting weakness in other areas of the market: AlphaCheck</p><p>2026-08-28</p><p>Por Grace O&#x27;Donnell</p><p>https://finance.yahoo.com/markets/article/earnings-spur-software-and-chip-rally-offsetting-weakness-in-other-areas-of-the-market-alphacheck-135658418.html</p><p>Good morning. Stocks advanced on Thursday after Nvidia&#x27;s (NVDA) bullish outlook sparked a rally in tech stocks, offsetting weakness elsewhere. Nvidia stock gained over 6% in early trading, while semiconductor stocks like Intel (INTC) and SK Hynix (SKHY) also rose.</p><p>Earnings movers Salesforce (CRM), Okta (OKTA), and CrowdStrike (CRWD) also surged by double digits on the backs of strong results and outlooks, spurring a rally in software names as well. Salesforce CEO Marc Benioff called for an end to fears of software disruption, saying, &quot;This nonsense of this SaaSpocalypse, I think it&#x27;s time for it to stop.&quot;</p><p>Here&#x27;s a check of the markets in the first few minutes of trading, based on a heat map powered by Yahoo Finance AlphaSpace data.</p><p>Tech (XLK) outperformed the rest of the market as the lone S&amp;P 500 sector in the green. Strength in tech helped counterbalance declines in Utilities (XLU), Energy (XLE), and Communications Services (XLC).</p><p>Here are some notable stocks that Yahoo Finance readers are viewing this morning: Nvidia, Sandisk (SNDK), INTC, Marvell (MRVL), CrowdStrike, SK Hynix, Dollar Tree (DLTR).</p><p>Click here for the latest stock market news and in-depth analysis, including events that move stocks</p><p>Read the latest financial and business news from Yahoo Finance</p>]]></content:encoded>
+      <pubDate>Fri, 28 Aug 2026 11:19:44 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-08-28_Earnings_spur_software_and_chip_rally_offsetting_weakness_in_other_areas_of_the_market_AlphaCheck.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-08-28_Earnings_spur_software_and_chip_rally_offsetting_weakness_in_other_areas_of_the_market_AlphaCheck.mp3" length="923675" type="audio/mpeg"/>
+      <itunes:duration>00:01:35</itunes:duration>
+      <itunes:author>Grace O&#x27;Donnell</itunes:author>
+      <itunes:summary>Earnings spur software and chip rally, offsetting weakness in other areas of the market: AlphaCheck
+
+2026-08-28
+
+Por Grace O&#x27;Donnell
+
+https://finance.yahoo.com/markets/article/earnings-spur-software-and-chip-rally-offsetting-weakness-in-other-areas-of-the-market-alphacheck-135658418.html
+
+Good morning. Stocks advanced on Thursday after Nvidia&#x27;s (NVDA) bullish outlook sparked a rally in tech stocks, offsetting weakness elsewhere. Nvidia stock gained over 6% in early trading, while semiconductor stocks like Intel (INTC) and SK Hynix (SKHY) also rose.
+
+Earnings movers Salesforce (CRM), Okta (OKTA), and CrowdStrike (CRWD) also surged by double digits on the backs of strong results and outlooks, spurring a rally in software names as well. Salesforce CEO Marc Benioff called for an end to fears of software disruption, saying, &quot;This nonsense of this SaaSpocalypse, I think it&#x27;s time for it to stop.&quot;
+
+Here&#x27;s a check of the markets in the first few minutes of trading, based on a heat map powered by Yahoo Finance AlphaSpace data.
+
+Tech (XLK) outperformed the rest of the market as the lone S&amp;P 500 sector in the green. Strength in tech helped counterbalance declines in Utilities (XLU), Energy (XLE), and Communications Services (XLC).
+
+Here are some notable stocks that Yahoo Finance readers are viewing this morning: Nvidia, Sandisk (SNDK), INTC, Marvell (MRVL), CrowdStrike, SK Hynix, Dollar Tree (DLTR).
+
+Click here for the latest stock market news and in-depth analysis, including events that move stocks
+
+Read the latest financial and business news from Yahoo Finance</itunes:summary>
+    </item>
+
+    <item>
+      <title>Iran and Oman announce progress towards &#x27;future administration’ of the Strait of Hormuz. Iran says they are also talking about joint tolls.</title>
+      <author>Ben Werschkul</author>
+      <description>Iran and Oman announce progress towards &#x27;future administration’ of the Strait of Hormuz. Iran says they are also talking about joint tolls.
+
+2026-08-28
+
+Por Ben Werschkul
+
+https://finance.yahoo.com/markets/article/iran-and-oman-move-closer-on-future-administration-of-strait-of-hormuz-tolls-are-in-the-mix-143204896.html
+
+Iran and Oman — the two nations that abut the Strait of Hormuz — met this week and announced new progress toward a &quot;permanent navigational corridor and future administration&quot; of the crucial waterway.
+
+Iran went further, claiming the sides have reached a revenue-sharing agreement on future tolls.
+
+The developments could be new flashpoints with President Trump, who made threats in response to the ongoing talks, including a pledge to bomb Oman if that country &quot;gets in the way.&quot;
+
+Meanwhile, immediate effects on shipping levels in the strait are unlikely. The latest update from ship tracking service Kpler shows that transits &quot;remain subdued,&quot; with just five crossings on Tuesday, all of them through Iran&#x27;s preferred route.
+
+Strait traffic has been less than a tenth of prewar levels for weeks, while Trump continues to tout the US blockade and his administration promises new economic sanctions to cut off Iran from the world.
+
+In a note to clients, Signum Global Advisors reacted to the joint announcement, suggesting the progress between Iran and Oman could also put pressure on the US and Iran to make a deal by the fall. It could even get the US on board with joint Iran-Oman control of the strait, due to a variety of factors, including that &quot;the US midterms make the Trump administration vulnerable to last-minute Iranian escalation against Gulf energy infrastructure.&quot;
+
+Differing accounts of the talks — but clear progress
+
+This week&#x27;s round of talks between Iran and Oman saw the two sides offer somewhat different accounts, but with both touting progress.
+
+Iran&#x27;s military went the furthest, according to the Iranian state-run Sepah News agency, claiming that a revenue-sharing agreement has been reached. It was just the latest signal from Iran that it is determined to impose tolls on shippers despite US wishes.
+
+&quot;Agreements have been reached regarding each country&#x27;s share of the strait&#x27;s waters as well as Iran and Oman&#x27;s share of its revenues,&quot; Islamic Revolutionary Guard Corps spokesperson Hossein Mohebbi reportedly said.
+
+Sayyid Badr bin Hamad Al Busaidi, Oman&#x27;s foreign minister, offered his own summary of the talks, which didn&#x27;t mention revenue sharing but cited a push for &quot;practical arrangements to restore safe navigation&quot;.
+
+The Omani official also underlined the unfinished nature of the talks.
+
+&quot;I am hopeful we will soon announce a temporary corridor for the Strait of Hormuz and practical arrangements to restore safe navigation,&quot; he said.
+
+The joint statement signed off by both nations, replete with cordial photos of the meeting, discussed a phased-in approach with the two nations eventually taking charge of policing the strait on a permanent basis — in direct contradiction to Trump&#x27;s often-expressed wishes.</description>
+      <content:encoded><![CDATA[<p>Iran and Oman announce progress towards &#x27;future administration’ of the Strait of Hormuz. Iran says they are also talking about joint tolls.</p><p>2026-08-28</p><p>Por Ben Werschkul</p><p>https://finance.yahoo.com/markets/article/iran-and-oman-move-closer-on-future-administration-of-strait-of-hormuz-tolls-are-in-the-mix-143204896.html</p><p>Iran and Oman — the two nations that abut the Strait of Hormuz — met this week and announced new progress toward a &quot;permanent navigational corridor and future administration&quot; of the crucial waterway.</p><p>Iran went further, claiming the sides have reached a revenue-sharing agreement on future tolls.</p><p>The developments could be new flashpoints with President Trump, who made threats in response to the ongoing talks, including a pledge to bomb Oman if that country &quot;gets in the way.&quot;</p><p>Meanwhile, immediate effects on shipping levels in the strait are unlikely. The latest update from ship tracking service Kpler shows that transits &quot;remain subdued,&quot; with just five crossings on Tuesday, all of them through Iran&#x27;s preferred route.</p><p>Strait traffic has been less than a tenth of prewar levels for weeks, while Trump continues to tout the US blockade and his administration promises new economic sanctions to cut off Iran from the world.</p><p>In a note to clients, Signum Global Advisors reacted to the joint announcement, suggesting the progress between Iran and Oman could also put pressure on the US and Iran to make a deal by the fall. It could even get the US on board with joint Iran-Oman control of the strait, due to a variety of factors, including that &quot;the US midterms make the Trump administration vulnerable to last-minute Iranian escalation against Gulf energy infrastructure.&quot;</p><p>Differing accounts of the talks — but clear progress</p><p>This week&#x27;s round of talks between Iran and Oman saw the two sides offer somewhat different accounts, but with both touting progress.</p><p>Iran&#x27;s military went the furthest, according to the Iranian state-run Sepah News agency, claiming that a revenue-sharing agreement has been reached. It was just the latest signal from Iran that it is determined to impose tolls on shippers despite US wishes.</p><p>&quot;Agreements have been reached regarding each country&#x27;s share of the strait&#x27;s waters as well as Iran and Oman&#x27;s share of its revenues,&quot; Islamic Revolutionary Guard Corps spokesperson Hossein Mohebbi reportedly said.</p><p>Sayyid Badr bin Hamad Al Busaidi, Oman&#x27;s foreign minister, offered his own summary of the talks, which didn&#x27;t mention revenue sharing but cited a push for &quot;practical arrangements to restore safe navigation&quot;.</p><p>The Omani official also underlined the unfinished nature of the talks.</p><p>&quot;I am hopeful we will soon announce a temporary corridor for the Strait of Hormuz and practical arrangements to restore safe navigation,&quot; he said.</p><p>The joint statement signed off by both nations, replete with cordial photos of the meeting, discussed a phased-in approach with the two nations eventually taking charge of policing the strait on a permanent basis — in direct contradiction to Trump&#x27;s often-expressed wishes.</p>]]></content:encoded>
+      <pubDate>Fri, 28 Aug 2026 11:19:20 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-08-28_Iran_and_Oman_announce_progress_towards_future_administration_of_the_Strait_of_Hormuz._Iran_says_they_are_also.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-08-28_Iran_and_Oman_announce_progress_towards_future_administration_of_the_Strait_of_Hormuz._Iran_says_they_are_also.mp3" length="1603319" type="audio/mpeg"/>
+      <itunes:duration>00:02:51</itunes:duration>
+      <itunes:author>Ben Werschkul</itunes:author>
+      <itunes:summary>Iran and Oman announce progress towards &#x27;future administration’ of the Strait of Hormuz. Iran says they are also talking about joint tolls.
+
+2026-08-28
+
+Por Ben Werschkul
+
+https://finance.yahoo.com/markets/article/iran-and-oman-move-closer-on-future-administration-of-strait-of-hormuz-tolls-are-in-the-mix-143204896.html
+
+Iran and Oman — the two nations that abut the Strait of Hormuz — met this week and announced new progress toward a &quot;permanent navigational corridor and future administration&quot; of the crucial waterway.
+
+Iran went further, claiming the sides have reached a revenue-sharing agreement on future tolls.
+
+The developments could be new flashpoints with President Trump, who made threats in response to the ongoing talks, including a pledge to bomb Oman if that country &quot;gets in the way.&quot;
+
+Meanwhile, immediate effects on shipping levels in the strait are unlikely. The latest update from ship tracking service Kpler shows that transits &quot;remain subdued,&quot; with just five crossings on Tuesday, all of them through Iran&#x27;s preferred route.
+
+Strait traffic has been less than a tenth of prewar levels for weeks, while Trump continues to tout the US blockade and his administration promises new economic sanctions to cut off Iran from the world.
+
+In a note to clients, Signum Global Advisors reacted to the joint announcement, suggesting the progress between Iran and Oman could also put pressure on the US and Iran to make a deal by the fall. It could even get the US on board with joint Iran-Oman control of the strait, due to a variety of factors, including that &quot;the US midterms make the Trump administration vulnerable to last-minute Iranian escalation against Gulf energy infrastructure.&quot;
+
+Differing accounts of the talks — but clear progress
+
+This week&#x27;s round of talks between Iran and Oman saw the two sides offer somewhat different accounts, but with both touting progress.
+
+Iran&#x27;s military went the furthest, according to the Iranian state-run Sepah News agency, claiming that a revenue-sharing agreement has been reached. It was just the latest signal from Iran that it is determined to impose tolls on shippers despite US wishes.
+
+&quot;Agreements have been reached regarding each country&#x27;s share of the strait&#x27;s waters as well as Iran and Oman&#x27;s share of its revenues,&quot; Islamic Revolutionary Guard Corps spokesperson Hossein Mohebbi reportedly said.
+
+Sayyid Badr bin Hamad Al Busaidi, Oman&#x27;s foreign minister, offered his own summary of the talks, which didn&#x27;t mention revenue sharing but cited a push for &quot;practical arrangements to restore safe navigation&quot;.
+
+The Omani official also underlined the unfinished nature of the talks.
+
+&quot;I am hopeful we will soon announce a temporary corridor for the Strait of Hormuz and practical arrangements to restore safe navigation,&quot; he said.
+
+The joint statement signed off by both nations, replete with cordial photos of the meeting, discussed a phased-in approach with the two nations eventually taking charge of policing the strait on a permanent basis — in direct contradiction to Trump&#x27;s often-expressed wishes.</itunes:summary>
+    </item>
 
     <item>
       <title>Droga en carros con doble fondo y avionetas que iban desde Durán a México, así operaba red de Los Lobos en alianza con el cártel Jalisco Nueva Generación</title>

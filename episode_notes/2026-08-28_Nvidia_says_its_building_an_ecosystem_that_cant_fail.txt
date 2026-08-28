@@ -1,0 +1,31 @@
+Nvidia says it's building an ecosystem that can't fail
+
+2026-08-28
+
+Por Hamza Shaban
+
+https://finance.yahoo.com/technology/article/nvidia-says-its-building-an-ecosystem-that-cant-fail-153001892.html
+
+Don't call it circular financing. Nvidia doesn't see its efforts to prop up upstarts and bolster key AI players as questionable financial engineering.
+
+Yes, it's true that the beneficiaries of Nvidia's muscular backstops and investments are also its customers. But Nvidia doesn't see the scale of its support as something worthy of suspicion. That's because, the company says, it's building an ecosystem with too many scenarios for Nvidia to win.
+
+A key question from critics of Nvidia concerns the demand for AI components, tools, and infrastructure: Would the growth around AI and the confident projections of future success be attainable without Nvidia's heavy hand?
+
+CFO Colette Kress addressed the criticism head-on during the company's Q2 earnings call on Wednesday.
+
+"We know some will call this circular financing. We see it differently. We are going through a major computing platform shift, the creation of one of the most important technologies in human history, and these are once-in-a-generation companies. Their technology leadership is proven, and their customer traction and usage are skyrocketing."
+
+From Nvidia's perspective, the success of AI labs is independent of its partnerships. But why miss out on opportunities for more growth, greater revenue diversity, and the encouragement of other firms and would-be customers to put skin in the game?
+
+And after all, Nvidia expects some of the frontier AI labs it's doing business with to become the largest tech companies in history (apologies to the Magnificent Seven).
+
+But what's the difference between Nvidia's vision of a thriving AI ecosystem (with it at the financial and technological center) and a bullheaded belief that Nvidia is building a business environment that can't fail?
+
+Nvidia has left some room for doubt. But not much.
+
+"We believe these investments, measured against the strength of their demand, the business they create for us, the ecosystem they build on Nvidia's platform, and the equity returns on our invested capital will be excellent, and our risk is limited," Kress said on the call.
+
+Demand from AI labs receiving some form of financial support from Nvidia will account for about a quarter of the company's business next year, Kress said.
+
+A bullish reading on all of this is that Nvidia's true exposure to the debt they are helping finance for the AI build-out is narrow; that expanding its client base beyond the tech giants is a savvy bet-making; and that, in a rising-AI-tide that lifts all boats, Nvidia will be the one outfitting the vessels and helping to construct new ones.

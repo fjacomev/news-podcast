@@ -1,0 +1,25 @@
+Nvidia posted a blowout quarter. China remains a quagmire.
+
+2026-08-28
+
+Por Jake Conley
+
+https://finance.yahoo.com/markets/stocks/article/nvidia-posted-a-blowout-quarter-china-remains-a-quagmire-122920310.html
+
+Nvidia (NVDA) painted a bullish picture for investors when it reported its earnings after the bell on Wednesday, raising its guidance for the third quarter and beating analyst estimates across the board on revenue, earnings per share, and a host of other metrics.
+
+Missing from that forward guidance, however, were sales projections into the world's second-largest economy — China, where Nvidia's ability to sell its chips has been snarled by state politics and national security concerns.
+
+"Given ongoing geopolitical uncertainty, there is no China data center compute revenue in our forward outlook," Nvidia finance chief Collette Kress said during the company's earnings call on Wednesday.
+
+That potential sales to Chinese buyers were left out of forward guidance from Nvidia gets at how complex the picture has become for one of the world's most valuable companies in its dealings with the US's largest AI competitor.
+
+Nvidia said in its earnings report that it had stepped back into the Chinese market, if in a small way, with the first sales of its H200 chips, the leading semiconductor design from the company's "Hopper" line, a step down from its state-of-the-art Grace Blackwell chips. Yet those sales accounted for less than 1% of the $89 billion Nvidia recorded in data center revenue in the second quarter.
+
+For Jensen Huang's company, complications come from both sides of the US-China AI arms race. Since 2022, Nvidia has wrestled with the Trump White House over sales of its chips to China, where even models such as the H200, which are now multiple generations behind Nvidia's flagship products, remain competitive with options available in China from companies like Huawei Technologies.
+
+Huang won a key victory for his company after a concerted lobbying effort throughout 2025, securing permission for Nvidia to sell some H200 chips to Chinese buyers. But any optimism was quickly snarled by directives from Beijing to Chinese companies not to purchase the chips.
+
+"Under the current rules and geopolitical landscape, we are unable to create and deliver a competitive product for wide distribution in China's data center market with the approval from both the USG and the Chinese government," Nvidia said Wednesday.
+
+It's unclear exactly how many H200 chips were sold to Chinese buyers in the second quarter, but the count fell below the US limit due to blocks imposed by the Chinese government, Nvidia said. The company shouldered a $400 million charge related to "excess inventory" of H200 chips as demand has fallen off outside China, Nvidia said Wednesday.
