@@ -1,0 +1,25 @@
+OpenAI, Anthropic Urge Cyber Defense Action as AI Models Improve
+
+2026-08-28
+
+Por Rachel Metz
+
+https://finance.yahoo.com/technology/ai/articles/openai-anthropic-urge-cyber-defense-170920858.html
+
+(Bloomberg) -- Artificial intelligence companies OpenAI and Anthropic PBC, along with more than 100 other tech and financial services organizations, warned that businesses and governments must do more to prepare for and defend against AI-enabled hacks.
+
+Most Read from Bloomberg
+
+In an open letter Thursday, the AI startups, along with Alphabet Inc.'s Google, Microsoft Corp. and others, called for organizations, governments and technology and AI companies to focus on making cyber defense "an immediate leadership priority" and to fix existing weaknesses in their own software.
+
+The letter also asks cybersecurity companies to help defend against "AI-enabled attacks" and says governments should coordinate communication between themselves and industry channels to respond to potential threats. It also urges leading AI companies to give AI access, as well as financial support and training, to those that defend critical infrastructure.
+
+The letter comes after several recent cybersecurity breaches involving advanced AI models, including an incident in July in which models from OpenAI inadvertently hacked Hugging Face Inc. The breaches have ignited concerns about AI agents running amok, and prompted some technology and government leaders to renew calls for curbs on the technology. On Wednesday, OpenAI said in a report that it could have reacted sooner to prevent the hack on Hugging Face.
+
+The letter's signatories predicted that AI models will be used to carry out a growing number of increasingly complicated cyber attacks in the months ahead, as companies continue to build AI models that are capable at both defending against and carrying out such acts.
+
+"Today's AI advances are already giving defenders new ways to fix weaknesses that have accumulated for years," the letter states. "If we act decisively, we can use the defenders' window to make our digital world much more secure."
+
+Most Read from Bloomberg Businessweek
+
+2026 Bloomberg L.P.
