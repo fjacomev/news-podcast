@@ -7,7 +7,7 @@
     <link>https://fjacomev.github.io/news-podcast</link>
     <description>Podcast personal de noticias, leido en voz local</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Aug 2026 12:36:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:40:06 GMT</lastBuildDate>
     <image>
       <url>https://fjacomev.github.io/news-podcast/cover.jpg</url>
       <title>Fernando AI News</title>
@@ -18,6 +18,35 @@
     <itunes:summary>Podcast personal de noticias, leido en voz local</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
+
+    <item>
+      <title>2026-08-29 Fed Chairman Warsh says inflation is running too high, offers first assessment of economy</title>
+      <author>Texto propio</author>
+      <description>2026-08-29 Fed Chairman Warsh says inflation is running too high, offers first assessment of economy
+
+2026-08-29
+
+Por Texto propio
+
+Fed Chairman Warsh says inflation is running too high, offers first assessment of economy
+
+2026-08-29</description>
+      <content:encoded><![CDATA[<p>2026-08-29 Fed Chairman Warsh says inflation is running too high, offers first assessment of economy</p><p>2026-08-29</p><p>Por Texto propio</p><p>Fed Chairman Warsh says inflation is running too high, offers first assessment of economy</p><p>2026-08-29</p>]]></content:encoded>
+      <pubDate>Sat, 29 Aug 2026 12:40:06 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-08-29_2026-08-29_Fed_Chairman_Warsh_says_inflation_is_running_too_high_offers_first_assessment_of_economy.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-08-29_2026-08-29_Fed_Chairman_Warsh_says_inflation_is_running_too_high_offers_first_assessment_of_economy.mp3" length="242210" type="audio/mpeg"/>
+      <itunes:duration>00:00:18</itunes:duration>
+      <itunes:author>Texto propio</itunes:author>
+      <itunes:summary>2026-08-29 Fed Chairman Warsh says inflation is running too high, offers first assessment of economy
+
+2026-08-29
+
+Por Texto propio
+
+Fed Chairman Warsh says inflation is running too high, offers first assessment of economy
+
+2026-08-29</itunes:summary>
+    </item>
 
     <item>
       <title>Trump anuncia un acuerdo con Venezuela para controlar 65.000 millones de barriles de las reservas petroleras del país | CNN</title>
