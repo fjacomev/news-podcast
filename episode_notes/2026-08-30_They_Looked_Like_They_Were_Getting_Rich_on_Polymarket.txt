@@ -1,0 +1,155 @@
+They Looked Like They Were Getting Rich on Polymarket
+
+2026-08-30
+
+Por Texto propio
+
+They Looked Like They Were Getting Rich on Polymarket—but None of It Was Real
+
+The prediction market has flooded social media with deceptive videos by paid creators, according to a Wall Street Journal investigation
+
+By Katherine Long, Caitlin Ostroff, Neil Mehta and Brenna T. Smith
+
+June 20, 2026
+
+In his videos, George Makihara appears to have a lucrative side hustle making bets on Poly-market.
+
+In January, the college student posted a video that showed him winning $100,000 on a wager that President Trump would publicly say the word "McDonald's" that month.
+
+The bet was one of 145 that Makihara appeared to place on Polymarket's website between January and mid-May, based on his videos-bets adding up to almost $410,000.
+
+But none of those bets were real, according to a Wall Street Journal investigation.
+
+Makihara jumps up as Trump says "McDonald's" —which he never said publicly that month.
+
+The clip is from two months earlier.
+
+Makihara, who declined to comment, is one of dozens of mostly college-age creators Poly-market paid to film themselves making fake trades and sometimes scoring fake wins, according to an analysis of more than 1,100 videos by the Journal, along with instructional materials and interviews with creators who have worked with the company.
+
+On Polymarket's actual site, more than 50 accounts made the McDonald's bet in January, public data shows. All of them lost.
+
+In its push to draw users to its unregulated platform, Polymarket has flooded social media with videos like Makihara's, which appear genuine at first glance. In reality, Polymarket built near-perfect copies of its website, then instructed creators to make simulated trades on those dummy sites and hide that they were being paid by Polymarket.
+
+To get the videos to go viral, Polymarket has recruited a social-media army to copy and repost creators' footage. Though the New York-based company has been banned from offering its primary crypto platform in the U.S. since 2022, the social-media creators are paid to specifically target U.S. users, who can still access the site with a virtual private network.
+
+Polymarket said in a statement that it was "committed to maintaining accurate, fair, and transparent markets. We are part of a rapidly growing industry and are constantly evaluating ways to improve how we're engaging and earning the trust of our audience."
+
+The company said it plans to conduct a comprehensive audit of active promotional content.
+
+Polymarket hired and worked closely with a marketing contractor to promote the site. In a message reviewed by the Journal, that contractor told its social-media army to repost content made by 10 Polymarket creators in particular, Makihara among them. These creators didn't initially identify themselves as paid by Polymarket, although one offered a $20 bonus code in his social-media bio. The creators started adding "@polymarket partner" to their bios after the Journal started asking the company about its marketing operation.
+
+Polymarket has a data partnership with Dow Jones, the publisher of the Journal. The Journal used only publicly available data for this analysis.
+
+The company instructed creators not to disclose they are paid, according to creators who have worked with the company. They said the pay often added up to $2,000 to $3,000 a month.
+
+One of the earliest videos showing signs of a fake trade was posted to social media in June 2025, and it was filmed inside Polymarket's New York office. The video shows someone betting $100,000 that Jerome Powell would say "good afternoon" during a press conference.
+
+The caption described the bet as "a valid testosterone test" —and the bet would have won.
+
+The Journal identified more than a dozen discrepancies between the real Polymarket and the simulated sites.
+
+One password-protected website has the creatively misspelled URL poiymarket.com, which is indistinguishable from polymarket.com when the "i" is capitalized.
+
+Polymarket built that site, according to a person familiar with the matter. Here, a price chart is attributed to “Source: Polymarket.com.” No source appears on Polymarket’s real website.
+
+In this example, buttons read “YES” and “NIR,” short for Northern Ireland. On the real site, they would read “YES” and “NO.”
+
+A handful of videos the Journal reviewed also contained short glimpses of URLs indicating the sites were test environments for Polymarket engineers.
+
+The "poiymarket" website was taken down after the Journal reached out to Polymarket for comment.
+
+Federal advertising laws require brands to be truthful about what they are promoting and require people who are paid to endorse a product to disclose their ties, although there is some gray area about what's permitted. Commodities law, which governs prediction mar-kets, also bars deceptive and misleading practices.
+
+A spokesman for the Federal Trade Commission, which enforces advertising laws, declined to comment on the Journal's findings, citing the agency's policy of not commenting on potential investigations.
+
+Razeen Khan, a college student in California, worked as a Polymarket creator for several months until March. He compared the videos to fast-food commercials, where food can appear more appealing than it does in real life.
+
+"We're depicting what actually happens," he said. "You're still going to buy the burger."
+
+Creators said they send the finished videos to Polymarket for review. If a video isn't engaging enough, or if it bears obvious signs of being faked, Polymarket will ask for the videos to be reshot, the creators said.
+
+Text reading "Polymarket funds my life" overlaid another video of her dancing on a beach by the Golden Gate Bridge.
+
+Another video appears to show her having more than $30,000 in a Polymarket account.
+
+Nguyen declined to comment, and scrubbed the videos from her profile after the Journal contacted her.
+
+Many of the videos share a template: The creators open Polymarket, place a bet, and frequently refer to their winnings as "free money." Dozens of social-media creators have posted videos with almost identical formats. Polymarket sends creators bullet-point guidance on what to say, according to creators who have worked with the company and a recruiting website.
+
+The Commodity Futures Trading Commission, which oversees prediction markets, has previously brought enforcement actions against companies that use simulated trades to market their products and make unrealistic claims about profitability.
+
+The Trump administration has taken a relaxed approach to regulating prediction markets.
+
+The CFTC has filed more than half a dozen lawsuits to stop states from regulating and taxing prediction markets. Trump recently said in a Truth Social post that it is "critically impor-tant" that the CFTC has exclusive authority over prediction markets so that they can thrive, calling politicians who want states to regulate them "SCUM." Trump's son Don Jr. is an investor in Polymarket and a paid adviser to rival Kalshi.
+
+A White House spokesman said that there are no conflicts of interest and that Trump acts in the best interests of the American public. In response to the Journal's reporting, a spokeswoman for the CFTC said it's important to bring offshore prediction markets back into the U.S., where they can be more effectively overseen by regulators.
+
+The Hype Machine
+
+For Polymarket, virality is everything.
+
+Founder Shayne Coplan has told Polymarket's growth team to make the company impossible to ignore online, said two people familiar with his thinking. Matthew Modabber, his close friend since high school, oversees Polymarket's growth efforts as chief marketing officer.
+
+Polymarket is racing to attract more trading volume than its primary competitor, the U.S.-regulated prediction market Kalshi. Polymarket began in the lead. For most of 2025, the two grew in lockstep. But in recent months, Kalshi has begun pulling ahead. Last month, Kalshi had roughly double Polymarket’s trading volume, according to data provider The Block.
+
+In 2022, Polymarket settled allegations it was operating an unregistered options exchange by agreeing to stop offering its crypto-based exchange to U.S. customers and formally reincorporating in Panama. Late last year, it launched a regulated U.S. version of its platform, available only as a mobile app. The app has a fraction of the trading volume of the offshore crypto exchange.
+
+Now, Polymarket is seeking to reverse the outcome of the 2022 settlement and bring the crypto platform back into the U.S., according to a person familiar with the matter.
+
+At the same time, it's turning to social media to bring Americans into Polymarket.
+
+Polymarket's Social-Media Army
+
+Polymarket's strategy leverages three groups of social-media producers to get viral attention as a fountain of fast, easy cash.
+
+Streamer
+
+Online influencers discuss Polymarket, and sometimes trade, during live video feeds that can last for hours on platforms like Twitch and Kick.
+
+Creator
+
+Mostly college-age social-media users make short videos of themselves talking about Polymarket or placing trades.
+
+Clipper
+
+People across the world—often teens in Asia—redistribute videos from streamers and creators.
+
+Polymarket employs Virality, a marketing firm, to manage the clippers. Their campaign is aimed at Americans: As of early June, it only paid clippers if at least 60% of their audience was in the U.S., according to instructional materials.
+
+Polymarket publicly distances itself from the advertisements. Virality requires clippers' posts to seem "personal and organic," according to a Journal review of nearly 20,000 messages from a chat group for Polymarket's online content-creating contractors, and instructional documents and videos prepared for them.
+
+"Guys, if you have 'Polymarket' in your account name, please rename them and remove it as soon as possible," one Virality employee told a group of clippers in a group chat, "Continu-ing to use it will violate our guidelines and may lead to submission rejection. Not even 'poly' is allowed so change it as well." Virality declined to comment.
+
+Virality's clipping campaign has brought big results.
+
+Lucas Nguyen didn't respond to requests for comment.
+
+Insider influencers
+
+Polymarket and Virality targeted dozens of videos by Adin Ross, a 25-year-old manosphere phenom with millions of followers, for promotion. Ross has a multimillion-dollar deal with Polymarket, according to a person familiar with the negotiations, and he averages a half-hour per week on his livestream scrolling through Polymarket and commenting on potential trades.
+
+In at least five of the videos, Ross identified ways he could use inside information to trade on the platform.
+
+In one video targeted for promotion, Ross said he could easily use inside information to trade on the release date of a forthcoming album from the hip-hop artist Drake, who is Ross's acquaintance.
+
+Representatives for Ross and Drake declined to comment.
+
+Internal materials show that Polymarket and Virality promote videos showing how easy it is to conduct insider trades on the platform. Polymarket has paid clippers to promote at least 19 videos discussing opportunities to use inside information or other tactics to manipulate markets.
+
+Polymarket said it "prohibits trading based on stolen information, illegal tips, or information obtained in breach of a duty of trust, confidentiality, or other legal obligation." It added that "Polymarket's market integrity framework includes trade monitoring, on-chain trans-parency, reporting channels, and escalation processes to detect, review, and respond to suspicious activity. Where appropriate, we engage with regulators and law enforcement to support the integrity of our markets."
+
+As the World Cup approached, some of Polymarket's creators pivoted to filming themselves placing trades on the company's recently launched U.S. app, which is regulated by the CFTC.
+
+At first, those trades, too, appeared legitimate. The app interface shown in the social-media videos was very nearly identical to Polymarket's U.S. app interface.
+
+But a closer look revealed discrepancies. For instance, while markets on the official app were for the "26 World Cup," markets on a simulated Polymarket U.S. app were for "2026 FIFA World Cup."
+
+The simulated trades continued.
+
+About this story
+
+Nearly all of the videos posted by the 10 creators—1,105—promoted the betting platform. In 778 of the videos, creators appeared to be placing a bet. In all of those, the Journal found they were using fake websites.
+
+A total of 149 videos used news clips, articles and other media to show or imply an outcome to the bets. Of those, 128 presented that information in a false context, such as using altered articles. Most of the false outcomes involved clips of President Trump speaking. Ten of the videos showed losses or their market outcomes couldn't be determined, while 118 showed wins.
+
+To determine what the outcomes of the bets would have been if they had actually been placed, reporters built a database of Polymarket bets using public data. That data showed at least 69 supposedly winning bets would have been losses.
