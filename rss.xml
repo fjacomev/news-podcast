@@ -7,7 +7,7 @@
     <link>https://fjacomev.github.io/news-podcast</link>
     <description>Podcast personal de noticias, leido en voz local</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Aug 2026 21:59:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 22:12:56 GMT</lastBuildDate>
     <image>
       <url>https://fjacomev.github.io/news-podcast/cover.jpg</url>
       <title>Fernando AI News</title>
@@ -18,6 +18,103 @@
     <itunes:summary>Podcast personal de noticias, leido en voz local</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
+
+    <item>
+      <title>Frame of preference</title>
+      <author>Marcin Wichary</author>
+      <description>Frame of preference
+
+2026-08-30
+
+Por Marcin Wichary
+
+https://aresluna.org/frame-of-preference/
+
+Words by Marcin Wichary / Technology by Mihai Parparita at Infinite Mac
+
+8 July 2025 / 8,800 words / 10 emulators
+
+Frame of preference
+
+A history of Mac settings, 1984–2004
+
+As a designer, I’m meant to dislike settings. As a user, I love them. Every year I celebrate Settings Day: a day when I take a look at the options and toggles in all the apps I use. I do this out of curiosity – what was added since the last time I looked? – but also because I love this way of getting to know software: peeking under the hood, walking the back alleys, learning what has been tricky or important enough to be equipped with a checkbox.
+
+During the last Settings Day, I had a realization that the totemic 1984 Mac control panel, designed by Susan Kare, is still to this day perhaps the only settings screen ever brought up in casual conversation.
+
+I kept wondering about that screen, and about what happened since then. Turns out, the Mac settings have lived a far more fascinating life than I imagined, have been redesigned many times, and can tell us a lot about the early history and the troubled upbringing of this interesting machine.
+
+Join me on a journey through the first twenty years of Mac’s control panels.
+
+1984
+
+It’s rare when software matches hardware so well.
+
+Even already in 1979, the Macintosh was envisioned as a home appliance akin to a toaster or a TV. This was documented in one of my favorite memos of all time. Get the machine out of the box. Leave the screwdriver in the drawer. There is no step three.
+
+Once you do that, open the Apple menu, and then launch the Control Panel, and you will find a small appliance hiding inside the machine, too. A European appliance, even – outside of the title bar, there are absolutely no words present here.
+
+The Control Panel is a handsome and tight design, put together by Susan Kare as the last desk accessory, just weeks before the Mac’s announcement. It feels alive, depicting a perhaps surprising amount of movement sometimes via animation, and sometimes via comic book-inspired conventions: soundwaves exiting the speaker, menus blinking upon activation, a finger pressing a key, the mouse rolling on the desk. It’s also a playground of sorts for early GUI experiments: there is an early slider here, some steppers for date and time, a custom cursor, and a mini map showing a miniature desktop.
+
+The last two are in service of the most contentious addition: customizing the desktop pattern. The original Mac team was divided on this one, worrying this would lead to “abominable patterns” and therefore “ugly desktops” – an ongoing design challenge for any setting that is not about how something works, but about how something looks.
+
+Future, more garish desktop options on computers and eventually smartphones would render these early reservations quaint. This might be the best that the Mac desktop will look for about the next twenty years. But at this moment, it felt serious. The creator of MacPaint rebelled and built his app so that any custom background would be drawn over by a default 50% checkerboard anyway. But can you even make an ugly desktop pattern with just 64 black pixels to mess with? Maybe… The most surprising is the fact that the team also prepared 41 beautiful built-in patterns, but hid them inside this control panel with the only hints how to get them appearing in the manual.
+
+At this point in time, this was the only way you could truly customize your Mac to fit your personality, and it’s nice that it also happens to be one that’s fun to use, ironically perhaps inspired by MacPaint and its FatBits setting.
+
+Other controls might be slightly surprising: out of just ten settings, three are dedicated to motor memory. The two keyboard toggles make sense. Even in the early 1980s, there were keyboards – terminals or electric typewriters – whose repeating style you might have gotten used to. We already knew that onc
+
+[Transcripcion recortada]</description>
+      <content:encoded><![CDATA[<p>Frame of preference</p><p>2026-08-30</p><p>Por Marcin Wichary</p><p>https://aresluna.org/frame-of-preference/</p><p>Words by Marcin Wichary / Technology by Mihai Parparita at Infinite Mac</p><p>8 July 2025 / 8,800 words / 10 emulators</p><p>Frame of preference</p><p>A history of Mac settings, 1984–2004</p><p>As a designer, I’m meant to dislike settings. As a user, I love them. Every year I celebrate Settings Day: a day when I take a look at the options and toggles in all the apps I use. I do this out of curiosity – what was added since the last time I looked? – but also because I love this way of getting to know software: peeking under the hood, walking the back alleys, learning what has been tricky or important enough to be equipped with a checkbox.</p><p>During the last Settings Day, I had a realization that the totemic 1984 Mac control panel, designed by Susan Kare, is still to this day perhaps the only settings screen ever brought up in casual conversation.</p><p>I kept wondering about that screen, and about what happened since then. Turns out, the Mac settings have lived a far more fascinating life than I imagined, have been redesigned many times, and can tell us a lot about the early history and the troubled upbringing of this interesting machine.</p><p>Join me on a journey through the first twenty years of Mac’s control panels.</p><p>1984</p><p>It’s rare when software matches hardware so well.</p><p>Even already in 1979, the Macintosh was envisioned as a home appliance akin to a toaster or a TV. This was documented in one of my favorite memos of all time. Get the machine out of the box. Leave the screwdriver in the drawer. There is no step three.</p><p>Once you do that, open the Apple menu, and then launch the Control Panel, and you will find a small appliance hiding inside the machine, too. A European appliance, even – outside of the title bar, there are absolutely no words present here.</p><p>The Control Panel is a handsome and tight design, put together by Susan Kare as the last desk accessory, just weeks before the Mac’s announcement. It feels alive, depicting a perhaps surprising amount of movement sometimes via animation, and sometimes via comic book-inspired conventions: soundwaves exiting the speaker, menus blinking upon activation, a finger pressing a key, the mouse rolling on the desk. It’s also a playground of sorts for early GUI experiments: there is an early slider here, some steppers for date and time, a custom cursor, and a mini map showing a miniature desktop.</p><p>The last two are in service of the most contentious addition: customizing the desktop pattern. The original Mac team was divided on this one, worrying this would lead to “abominable patterns” and therefore “ugly desktops” – an ongoing design challenge for any setting that is not about how something works, but about how something looks.</p><p>Future, more garish desktop options on computers and eventually smartphones would render these early reservations quaint. This might be the best that the Mac desktop will look for about the next twenty years. But at this moment, it felt serious. The creator of MacPaint rebelled and built his app so that any custom background would be drawn over by a default 50% checkerboard anyway. But can you even make an ugly desktop pattern with just 64 black pixels to mess with? Maybe… The most surprising is the fact that the team also prepared 41 beautiful built-in patterns, but hid them inside this control panel with the only hints how to get them appearing in the manual.</p><p>At this point in time, this was the only way you could truly customize your Mac to fit your personality, and it’s nice that it also happens to be one that’s fun to use, ironically perhaps inspired by MacPaint and its FatBits setting.</p><p>Other controls might be slightly surprising: out of just ten settings, three are dedicated to motor memory. The two keyboard toggles make sense. Even in the early 1980s, there were keyboards – terminals or electric typewriters – whose repeating style you might have gotten used to. We already knew that onc</p>]]></content:encoded>
+      <pubDate>Sun, 30 Aug 2026 22:12:54 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-08-30_Frame_of_preference.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-08-30_Frame_of_preference.mp3" length="27068269" type="audio/mpeg"/>
+      <itunes:duration>00:50:45</itunes:duration>
+      <itunes:author>Marcin Wichary</itunes:author>
+      <itunes:summary>Frame of preference
+
+2026-08-30
+
+Por Marcin Wichary
+
+https://aresluna.org/frame-of-preference/
+
+Words by Marcin Wichary / Technology by Mihai Parparita at Infinite Mac
+
+8 July 2025 / 8,800 words / 10 emulators
+
+Frame of preference
+
+A history of Mac settings, 1984–2004
+
+As a designer, I’m meant to dislike settings. As a user, I love them. Every year I celebrate Settings Day: a day when I take a look at the options and toggles in all the apps I use. I do this out of curiosity – what was added since the last time I looked? – but also because I love this way of getting to know software: peeking under the hood, walking the back alleys, learning what has been tricky or important enough to be equipped with a checkbox.
+
+During the last Settings Day, I had a realization that the totemic 1984 Mac control panel, designed by Susan Kare, is still to this day perhaps the only settings screen ever brought up in casual conversation.
+
+I kept wondering about that screen, and about what happened since then. Turns out, the Mac settings have lived a far more fascinating life than I imagined, have been redesigned many times, and can tell us a lot about the early history and the troubled upbringing of this interesting machine.
+
+Join me on a journey through the first twenty years of Mac’s control panels.
+
+1984
+
+It’s rare when software matches hardware so well.
+
+Even already in 1979, the Macintosh was envisioned as a home appliance akin to a toaster or a TV. This was documented in one of my favorite memos of all time. Get the machine out of the box. Leave the screwdriver in the drawer. There is no step three.
+
+Once you do that, open the Apple menu, and then launch the Control Panel, and you will find a small appliance hiding inside the machine, too. A European appliance, even – outside of the title bar, there are absolutely no words present here.
+
+The Control Panel is a handsome and tight design, put together by Susan Kare as the last desk accessory, just weeks before the Mac’s announcement. It feels alive, depicting a perhaps surprising amount of movement sometimes via animation, and sometimes via comic book-inspired conventions: soundwaves exiting the speaker, menus blinking upon activation, a finger pressing a key, the mouse rolling on the desk. It’s also a playground of sorts for early GUI experiments: there is an early slider here, some steppers for date and time, a custom cursor, and a mini map showing a miniature desktop.
+
+The last two are in service of the most contentious addition: customizing the desktop pattern. The original Mac team was divided on this one, worrying this would lead to “abominable patterns” and therefore “ugly desktops” – an ongoing design challenge for any setting that is not about how something works, but about how something looks.
+
+Future, more garish desktop options on computers and eventually smartphones would render these early reservations quaint. This might be the best that the Mac desktop will look for about the next twenty years. But at this moment, it felt serious. The creator of MacPaint rebelled and built his app so that any custom background would be drawn over by a default 50% checkerboard anyway. But can you even make an ugly desktop pattern with just 64 black pixels to mess with? Maybe… The most surprising is the fact that the team also prepared 41 beautiful built-in patterns, but hid them inside this control panel with the only hints how to get them appearing in the manual.
+
+At this point in time, this was the only way you could truly customize your Mac to fit your personality, and it’s nice that it also happens to be one that’s fun to use, ironically perhaps inspired by MacPaint and its FatBits setting.
+
+Other controls might be slightly surprising: out of just ten settings, three are dedicated to motor memory. The two keyboard toggles make sense. Even in the early 1980s, there were keyboards – terminals or electric typewriters – whose repeating style you might have gotten used to. We already knew that onc
+
+[Transcripcion recortada]</itunes:summary>
+    </item>
 
     <item>
       <title>Nvidia Vuela Y La Deuda Asfixia</title>
