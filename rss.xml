@@ -7,7 +7,7 @@
     <link>https://fjacomev.github.io/news-podcast</link>
     <description>Podcast personal de noticias, leido en voz local</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Aug 2026 15:12:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 15:40:57 GMT</lastBuildDate>
     <image>
       <url>https://fjacomev.github.io/news-podcast/cover.jpg</url>
       <title>Fernando AI News</title>
@@ -18,6 +18,31 @@
     <itunes:summary>Podcast personal de noticias, leido en voz local</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
+
+    <item>
+      <title>Prueba de audio existente</title>
+      <author>Audio propio</author>
+      <description>Prueba de audio existente
+
+2026-08-30
+
+Por Audio propio
+
+Episodio de prueba de la funcion de audio. El archivo se publica tal cual, en m4a, sin re-codificar.</description>
+      <content:encoded><![CDATA[<p>Prueba de audio existente</p><p>2026-08-30</p><p>Por Audio propio</p><p>Episodio de prueba de la funcion de audio. El archivo se publica tal cual, en m4a, sin re-codificar.</p>]]></content:encoded>
+      <pubDate>Sun, 30 Aug 2026 15:40:57 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-08-30_Prueba_de_audio_existente.m4a</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-08-30_Prueba_de_audio_existente.m4a" length="144152" type="audio/mp4"/>
+      <itunes:duration>00:00:15</itunes:duration>
+      <itunes:author>Audio propio</itunes:author>
+      <itunes:summary>Prueba de audio existente
+
+2026-08-30
+
+Por Audio propio
+
+Episodio de prueba de la funcion de audio. El archivo se publica tal cual, en m4a, sin re-codificar.</itunes:summary>
+    </item>
 
     <item>
       <title>El intocable</title>
