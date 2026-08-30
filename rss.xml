@@ -7,7 +7,7 @@
     <link>https://fjacomev.github.io/news-podcast</link>
     <description>Podcast personal de noticias, leido en voz local</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Aug 2026 15:40:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 21:59:13 GMT</lastBuildDate>
     <image>
       <url>https://fjacomev.github.io/news-podcast/cover.jpg</url>
       <title>Fernando AI News</title>
@@ -18,6 +18,31 @@
     <itunes:summary>Podcast personal de noticias, leido en voz local</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
+
+    <item>
+      <title>Nvidia Vuela Y La Deuda Asfixia</title>
+      <author>Audio propio</author>
+      <description>Nvidia Vuela Y La Deuda Asfixia
+
+2026-08-30
+
+Por Audio propio
+
+Estas fuentes analizan el panorama financiero global actual, destacando el crecimiento de Nvidia y su papel crucial en la narrativa de la inteligencia artificial. Se examina la política monetaria de la Reserva Federal bajo el mando de Kevin Warsh, quien advierte sobre una inflación persistente y posibles alzas en las tasas de interés. Paralelamente, se detalla una intervención del Tesoro de EE. UU. mediante el rebase de la recompra de bonos, lo cual ha impulsado activos de riesgo como las criptomonedas. El contenido también explora el sorprendente rendimiento de las empresas de pequeña capitalización frente a las grandes corporaciones y el estancamiento de las salidas a bolsa en el sector de capital privado. Finalmente, se mencionan controversias corporativas, como los problemas de imagen de Callaway y la acumulación de inventario que afecta a Nike.</description>
+      <content:encoded><![CDATA[<p>Nvidia Vuela Y La Deuda Asfixia</p><p>2026-08-30</p><p>Por Audio propio</p><p>Estas fuentes analizan el panorama financiero global actual, destacando el crecimiento de Nvidia y su papel crucial en la narrativa de la inteligencia artificial. Se examina la política monetaria de la Reserva Federal bajo el mando de Kevin Warsh, quien advierte sobre una inflación persistente y posibles alzas en las tasas de interés. Paralelamente, se detalla una intervención del Tesoro de EE. UU. mediante el rebase de la recompra de bonos, lo cual ha impulsado activos de riesgo como las criptomonedas. El contenido también explora el sorprendente rendimiento de las empresas de pequeña capitalización frente a las grandes corporaciones y el estancamiento de las salidas a bolsa en el sector de capital privado. Finalmente, se mencionan controversias corporativas, como los problemas de imagen de Callaway y la acumulación de inventario que afecta a Nike.</p>]]></content:encoded>
+      <pubDate>Sun, 30 Aug 2026 21:59:13 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-08-30_Nvidia_Vuela_Y_La_Deuda_Asfixia.m4a</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-08-30_Nvidia_Vuela_Y_La_Deuda_Asfixia.m4a" length="40608005" type="audio/mp4"/>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:author>Audio propio</itunes:author>
+      <itunes:summary>Nvidia Vuela Y La Deuda Asfixia
+
+2026-08-30
+
+Por Audio propio
+
+Estas fuentes analizan el panorama financiero global actual, destacando el crecimiento de Nvidia y su papel crucial en la narrativa de la inteligencia artificial. Se examina la política monetaria de la Reserva Federal bajo el mando de Kevin Warsh, quien advierte sobre una inflación persistente y posibles alzas en las tasas de interés. Paralelamente, se detalla una intervención del Tesoro de EE. UU. mediante el rebase de la recompra de bonos, lo cual ha impulsado activos de riesgo como las criptomonedas. El contenido también explora el sorprendente rendimiento de las empresas de pequeña capitalización frente a las grandes corporaciones y el estancamiento de las salidas a bolsa en el sector de capital privado. Finalmente, se mencionan controversias corporativas, como los problemas de imagen de Callaway y la acumulación de inventario que afecta a Nike.</itunes:summary>
+    </item>
 
     <item>
       <title>Prueba de audio existente</title>
