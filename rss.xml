@@ -7,7 +7,7 @@
     <link>https://fjacomev.github.io/news-podcast</link>
     <description>Podcast personal de noticias, leido en voz local</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2026 00:06:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 13:14:46 GMT</lastBuildDate>
     <image>
       <url>https://fjacomev.github.io/news-podcast/cover.jpg</url>
       <title>Fernando AI News</title>
@@ -18,6 +18,586 @@
     <itunes:summary>Podcast personal de noticias, leido en voz local</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
+
+    <item>
+      <title>Google and Microsoft were in talks for Nscale compute deal that went to Anthropic</title>
+      <author>J D Capelouto</author>
+      <description>Google and Microsoft were in talks for Nscale compute deal that went to Anthropic
+
+2026-08-31
+
+Por J D Capelouto
+
+https://www.semafor.com/article/08/28/2026/google-and-microsoft-were-in-talks-for-nscale-compute-deal-that-went-to-anthropic
+
+The Scoop
+
+Google and Microsoft were both in talks with Nscale to rent AI computing capacity from the company’s massive data center project in West Virginia — a lease that ultimately went to Anthropic, a person familiar with the matter told Semafor.
+
+The AI startup will pay $45 billion to use the first of three buildings, covering 460 megawatts, at Nscale’s planned Monarch campus, which is aiming to come online next year.
+
+The companies’ interest in the Monarch data center shows how the feeding frenzy for compute has reached a new pitch as AI companies look to nail down capacity amid the AI buildout. When finished, Nscale said, the project will be one of the largest compute hubs in the world.
+
+Microsoft walked away over the summer amid a review of its data center portfolio and its share of on-site power generation, while the Google deal didn’t work out for reasons stemming from an internal review of the tech giant’s computing needs and capex management, the person said.
+
+Microsoft declined to comment, and Google didn’t respond to a request for comment.
+
+Know More
+
+On Google’s earnings call last month, executives noted that the company faces supply constraints and is thinking about how to best deploy computing power across its businesses, prioritizing frontier AI development first — the kind of work that happens on Google’s own custom infrastructure. The spending for that compute is ballooning: Alphabet lifted its 2026 capital expenditure forecast, said 2027 will be even higher, and posted negative free cash flow last quarter as infrastructure investment more than doubled.
+
+For Anthropic, the deal unlocks additional future processing power ahead of the company’s planned IPO. The company has reached several other major computing deals in recent months, including with Fluidstack ($50 billion) and SpaceX ($45 billion).
+
+London-based Nscale is also said to be prepping for an IPO as soon as next month.
+
+Notable
+
+- As construction begins on data centers in West Virginia, some residents feel overlooked and are pushing back amid growing national anger over AI’s data center buildout, WV Public Broadcasting reported.</description>
+      <content:encoded><![CDATA[<p>Google and Microsoft were in talks for Nscale compute deal that went to Anthropic</p><p>2026-08-31</p><p>Por J D Capelouto</p><p>https://www.semafor.com/article/08/28/2026/google-and-microsoft-were-in-talks-for-nscale-compute-deal-that-went-to-anthropic</p><p>The Scoop</p><p>Google and Microsoft were both in talks with Nscale to rent AI computing capacity from the company’s massive data center project in West Virginia — a lease that ultimately went to Anthropic, a person familiar with the matter told Semafor.</p><p>The AI startup will pay $45 billion to use the first of three buildings, covering 460 megawatts, at Nscale’s planned Monarch campus, which is aiming to come online next year.</p><p>The companies’ interest in the Monarch data center shows how the feeding frenzy for compute has reached a new pitch as AI companies look to nail down capacity amid the AI buildout. When finished, Nscale said, the project will be one of the largest compute hubs in the world.</p><p>Microsoft walked away over the summer amid a review of its data center portfolio and its share of on-site power generation, while the Google deal didn’t work out for reasons stemming from an internal review of the tech giant’s computing needs and capex management, the person said.</p><p>Microsoft declined to comment, and Google didn’t respond to a request for comment.</p><p>Know More</p><p>On Google’s earnings call last month, executives noted that the company faces supply constraints and is thinking about how to best deploy computing power across its businesses, prioritizing frontier AI development first — the kind of work that happens on Google’s own custom infrastructure. The spending for that compute is ballooning: Alphabet lifted its 2026 capital expenditure forecast, said 2027 will be even higher, and posted negative free cash flow last quarter as infrastructure investment more than doubled.</p><p>For Anthropic, the deal unlocks additional future processing power ahead of the company’s planned IPO. The company has reached several other major computing deals in recent months, including with Fluidstack ($50 billion) and SpaceX ($45 billion).</p><p>London-based Nscale is also said to be prepping for an IPO as soon as next month.</p><p>Notable</p><p>- As construction begins on data centers in West Virginia, some residents feel overlooked and are pushing back amid growing national anger over AI’s data center buildout, WV Public Broadcasting reported.</p>]]></content:encoded>
+      <pubDate>Mon, 31 Aug 2026 13:14:45 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-08-31_Google_and_Microsoft_were_in_talks_for_Nscale_compute_deal_that_went_to_Anthropic.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-08-31_Google_and_Microsoft_were_in_talks_for_Nscale_compute_deal_that_went_to_Anthropic.mp3" length="1351776" type="audio/mpeg"/>
+      <itunes:duration>00:02:22</itunes:duration>
+      <itunes:author>J D Capelouto</itunes:author>
+      <itunes:summary>Google and Microsoft were in talks for Nscale compute deal that went to Anthropic
+
+2026-08-31
+
+Por J D Capelouto
+
+https://www.semafor.com/article/08/28/2026/google-and-microsoft-were-in-talks-for-nscale-compute-deal-that-went-to-anthropic
+
+The Scoop
+
+Google and Microsoft were both in talks with Nscale to rent AI computing capacity from the company’s massive data center project in West Virginia — a lease that ultimately went to Anthropic, a person familiar with the matter told Semafor.
+
+The AI startup will pay $45 billion to use the first of three buildings, covering 460 megawatts, at Nscale’s planned Monarch campus, which is aiming to come online next year.
+
+The companies’ interest in the Monarch data center shows how the feeding frenzy for compute has reached a new pitch as AI companies look to nail down capacity amid the AI buildout. When finished, Nscale said, the project will be one of the largest compute hubs in the world.
+
+Microsoft walked away over the summer amid a review of its data center portfolio and its share of on-site power generation, while the Google deal didn’t work out for reasons stemming from an internal review of the tech giant’s computing needs and capex management, the person said.
+
+Microsoft declined to comment, and Google didn’t respond to a request for comment.
+
+Know More
+
+On Google’s earnings call last month, executives noted that the company faces supply constraints and is thinking about how to best deploy computing power across its businesses, prioritizing frontier AI development first — the kind of work that happens on Google’s own custom infrastructure. The spending for that compute is ballooning: Alphabet lifted its 2026 capital expenditure forecast, said 2027 will be even higher, and posted negative free cash flow last quarter as infrastructure investment more than doubled.
+
+For Anthropic, the deal unlocks additional future processing power ahead of the company’s planned IPO. The company has reached several other major computing deals in recent months, including with Fluidstack ($50 billion) and SpaceX ($45 billion).
+
+London-based Nscale is also said to be prepping for an IPO as soon as next month.
+
+Notable
+
+- As construction begins on data centers in West Virginia, some residents feel overlooked and are pushing back amid growing national anger over AI’s data center buildout, WV Public Broadcasting reported.</itunes:summary>
+    </item>
+
+    <item>
+      <title>US Strikes Iranian Rocket Launchers in First Attack in Weeks</title>
+      <author>Kevin Whitelaw; Wendy Benjaminson</author>
+      <description>US Strikes Iranian Rocket Launchers in First Attack in Weeks
+
+2026-08-31
+
+Por Kevin Whitelaw; Wendy Benjaminson
+
+https://finance.yahoo.com/economy/policy/articles/us-strikes-iranian-rocket-launchers-205220141.html
+
+(Bloomberg) -- The US military on Sunday struck Iranian rocket launchers that were preparing to send mines into the Strait of Hormuz, following weeks of relative calm.
+
+Most Read from Bloomberg
+
+Islamic Revolutionary Guard Corps forces were getting ready to launch rockets with sea mines into the strait, said Captain Tim Hawkins, a spokesperson for US Central Command.
+
+Last week, the US military finished clearing mines from shipping routes in the strait, once an international waterway through which one-fifth of the world&#x27;s oil and liquefied natural gas flowed.
+
+&quot;US forces are monitoring the area closely and remain prepared to protect the free flow of commerce through this essential waterway,&quot; Hawkins said.
+
+The attack by the US was the first military action against Iran in more than a month, as President Donald Trump has switched to a campaign to squeeze the economy of the Islamic Republic.
+
+The US last fired missiles at Iranian targets in late July. Since then, the Trump administration has planned to embark on a campaign to drive Iran to the negotiating table by squeezing its economy.
+
+Iran&#x27;s top diplomat said Friday that resuming diplomacy with the US &quot;isn&#x27;t impossible,&quot; after what he described as &quot;creative discussions with Qatar, a mediator in the conflict.
+
+Foreign Minister Abbas Araghchi said in a social media post that progress &quot;hinges on US understanding of one simple fact: Pressure doesn&#x27;t work.&quot;
+
+Treasury Secretary Scott Bessent promised an &quot;economic onslaught&quot; against Iran and its trading partners. That includes China, which buys 90% of Iran&#x27;s oil. He said the White House would be discussing with allies their plans to stop buying Iranian projects, but so far there have been no agreements to do so.
+
+--With assistance from Patrick Sykes.
+
+(Updates with Iran background starting in seventh paragraph.)
+
+Most Read from Bloomberg Businessweek
+
+2026 Bloomberg L.P.</description>
+      <content:encoded><![CDATA[<p>US Strikes Iranian Rocket Launchers in First Attack in Weeks</p><p>2026-08-31</p><p>Por Kevin Whitelaw; Wendy Benjaminson</p><p>https://finance.yahoo.com/economy/policy/articles/us-strikes-iranian-rocket-launchers-205220141.html</p><p>(Bloomberg) -- The US military on Sunday struck Iranian rocket launchers that were preparing to send mines into the Strait of Hormuz, following weeks of relative calm.</p><p>Most Read from Bloomberg</p><p>Islamic Revolutionary Guard Corps forces were getting ready to launch rockets with sea mines into the strait, said Captain Tim Hawkins, a spokesperson for US Central Command.</p><p>Last week, the US military finished clearing mines from shipping routes in the strait, once an international waterway through which one-fifth of the world&#x27;s oil and liquefied natural gas flowed.</p><p>&quot;US forces are monitoring the area closely and remain prepared to protect the free flow of commerce through this essential waterway,&quot; Hawkins said.</p><p>The attack by the US was the first military action against Iran in more than a month, as President Donald Trump has switched to a campaign to squeeze the economy of the Islamic Republic.</p><p>The US last fired missiles at Iranian targets in late July. Since then, the Trump administration has planned to embark on a campaign to drive Iran to the negotiating table by squeezing its economy.</p><p>Iran&#x27;s top diplomat said Friday that resuming diplomacy with the US &quot;isn&#x27;t impossible,&quot; after what he described as &quot;creative discussions with Qatar, a mediator in the conflict.</p><p>Foreign Minister Abbas Araghchi said in a social media post that progress &quot;hinges on US understanding of one simple fact: Pressure doesn&#x27;t work.&quot;</p><p>Treasury Secretary Scott Bessent promised an &quot;economic onslaught&quot; against Iran and its trading partners. That includes China, which buys 90% of Iran&#x27;s oil. He said the White House would be discussing with allies their plans to stop buying Iranian projects, but so far there have been no agreements to do so.</p><p>--With assistance from Patrick Sykes.</p><p>(Updates with Iran background starting in seventh paragraph.)</p><p>Most Read from Bloomberg Businessweek</p><p>2026 Bloomberg L.P.</p>]]></content:encoded>
+      <pubDate>Mon, 31 Aug 2026 13:14:07 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-08-31_US_Strikes_Iranian_Rocket_Launchers_in_First_Attack_in_Weeks.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-08-31_US_Strikes_Iranian_Rocket_Launchers_in_First_Attack_in_Weeks.mp3" length="1151408" type="audio/mpeg"/>
+      <itunes:duration>00:02:00</itunes:duration>
+      <itunes:author>Kevin Whitelaw; Wendy Benjaminson</itunes:author>
+      <itunes:summary>US Strikes Iranian Rocket Launchers in First Attack in Weeks
+
+2026-08-31
+
+Por Kevin Whitelaw; Wendy Benjaminson
+
+https://finance.yahoo.com/economy/policy/articles/us-strikes-iranian-rocket-launchers-205220141.html
+
+(Bloomberg) -- The US military on Sunday struck Iranian rocket launchers that were preparing to send mines into the Strait of Hormuz, following weeks of relative calm.
+
+Most Read from Bloomberg
+
+Islamic Revolutionary Guard Corps forces were getting ready to launch rockets with sea mines into the strait, said Captain Tim Hawkins, a spokesperson for US Central Command.
+
+Last week, the US military finished clearing mines from shipping routes in the strait, once an international waterway through which one-fifth of the world&#x27;s oil and liquefied natural gas flowed.
+
+&quot;US forces are monitoring the area closely and remain prepared to protect the free flow of commerce through this essential waterway,&quot; Hawkins said.
+
+The attack by the US was the first military action against Iran in more than a month, as President Donald Trump has switched to a campaign to squeeze the economy of the Islamic Republic.
+
+The US last fired missiles at Iranian targets in late July. Since then, the Trump administration has planned to embark on a campaign to drive Iran to the negotiating table by squeezing its economy.
+
+Iran&#x27;s top diplomat said Friday that resuming diplomacy with the US &quot;isn&#x27;t impossible,&quot; after what he described as &quot;creative discussions with Qatar, a mediator in the conflict.
+
+Foreign Minister Abbas Araghchi said in a social media post that progress &quot;hinges on US understanding of one simple fact: Pressure doesn&#x27;t work.&quot;
+
+Treasury Secretary Scott Bessent promised an &quot;economic onslaught&quot; against Iran and its trading partners. That includes China, which buys 90% of Iran&#x27;s oil. He said the White House would be discussing with allies their plans to stop buying Iranian projects, but so far there have been no agreements to do so.
+
+--With assistance from Patrick Sykes.
+
+(Updates with Iran background starting in seventh paragraph.)
+
+Most Read from Bloomberg Businessweek
+
+2026 Bloomberg L.P.</itunes:summary>
+    </item>
+
+    <item>
+      <title>Trump’s reignites trade wars as Americans’ opinions of tariffs continue to drop</title>
+      <author>Ben Werschkul</author>
+      <description>Trump’s reignites trade wars as Americans’ opinions of tariffs continue to drop
+
+2026-08-31
+
+Por Ben Werschkul
+
+https://finance.yahoo.com/markets/article/trump-reignites-trade-wars-as-americans-opinions-of-tariffs-continue-to-drop-150941686.html
+
+Americans are taking a very dim view of President Trump&#x27;s trade wars, with clear majorities telling pollsters they do not support the president&#x27;s tariffs and they believe their costs are being driven up as a result.
+
+The contrast with Canadians&#x27; views is stark. North of the border, Canadians appear not just OK with tit-for-tat tariffs, they say they are ready to endure economic pain to make a point.
+
+&quot;Americans have zero interest in picking a fight with Canada,&quot; Eurasia Group founder Ian Bremmer summed up one side, while former Trump Commerce Secretary Wilbur Ross noted that in the north, &quot;Canadians have adopted a very negative attitude toward the US in general.&quot;
+
+The divergent public moods could be a factor that could help Canada in the months ahead, even though the impact of a trade war would be greater on its smaller economy.
+
+About 58.7% of Americans disapprove of Trump&#x27;s approach to trade and tariffs, according to the Silver Bulletin, which has analyzed over 20 polls this summer that asked Americans their views on the topic. Just 34.5% approve.
+
+That&#x27;s a jump of over 18 percentage points since the beginning of Trump&#x27;s second term, in just one of the economic issues pulling Trump&#x27;s approval rating to second-term lows.
+
+Meanwhile, the Trump administration has sent signals that new trade tensions with China could be just around the corner, with potential plans for a new 7.5% tariffs on China under consideration around the issue of overcapacity ahead of a late September meeting planned between Trump and Chinese President Xi Jinping.
+
+Those new tariffs would come on top of what, according to the Yale Budget Lab, is already a 26% effective statutory tariff rate on China.
+
+That could kick off &quot;the next wave&quot; of tariff actions, Raymond James wrote this past week, marking &quot;the next chapter in President Trump&#x27;s push to reinstitute and expand on the tariffs struck down by the Supreme Court.&quot;
+
+&quot;Despite midterm and inflation concerns, and growing voter skepticism around tariffs and affordability, we continue to believe the U.S. has not yet reached &#x27;peak tariff.&#x27;&quot; wrote managing director of Washington policy Edward Mills and two colleagues.
+
+Energized Canadians and dour Americans
+
+The differing public moods come as trade tensions between the US and Canada appear to be heading ever upwards.
+
+Trump on Thursday signed an order to rename Lake Ontario as &#x27;Lake America&#x27; while some in Trump&#x27;s administration even toyed with the idea of cutting off trade in certain goods to Canada entirely, Semafor reported.</description>
+      <content:encoded><![CDATA[<p>Trump’s reignites trade wars as Americans’ opinions of tariffs continue to drop</p><p>2026-08-31</p><p>Por Ben Werschkul</p><p>https://finance.yahoo.com/markets/article/trump-reignites-trade-wars-as-americans-opinions-of-tariffs-continue-to-drop-150941686.html</p><p>Americans are taking a very dim view of President Trump&#x27;s trade wars, with clear majorities telling pollsters they do not support the president&#x27;s tariffs and they believe their costs are being driven up as a result.</p><p>The contrast with Canadians&#x27; views is stark. North of the border, Canadians appear not just OK with tit-for-tat tariffs, they say they are ready to endure economic pain to make a point.</p><p>&quot;Americans have zero interest in picking a fight with Canada,&quot; Eurasia Group founder Ian Bremmer summed up one side, while former Trump Commerce Secretary Wilbur Ross noted that in the north, &quot;Canadians have adopted a very negative attitude toward the US in general.&quot;</p><p>The divergent public moods could be a factor that could help Canada in the months ahead, even though the impact of a trade war would be greater on its smaller economy.</p><p>About 58.7% of Americans disapprove of Trump&#x27;s approach to trade and tariffs, according to the Silver Bulletin, which has analyzed over 20 polls this summer that asked Americans their views on the topic. Just 34.5% approve.</p><p>That&#x27;s a jump of over 18 percentage points since the beginning of Trump&#x27;s second term, in just one of the economic issues pulling Trump&#x27;s approval rating to second-term lows.</p><p>Meanwhile, the Trump administration has sent signals that new trade tensions with China could be just around the corner, with potential plans for a new 7.5% tariffs on China under consideration around the issue of overcapacity ahead of a late September meeting planned between Trump and Chinese President Xi Jinping.</p><p>Those new tariffs would come on top of what, according to the Yale Budget Lab, is already a 26% effective statutory tariff rate on China.</p><p>That could kick off &quot;the next wave&quot; of tariff actions, Raymond James wrote this past week, marking &quot;the next chapter in President Trump&#x27;s push to reinstitute and expand on the tariffs struck down by the Supreme Court.&quot;</p><p>&quot;Despite midterm and inflation concerns, and growing voter skepticism around tariffs and affordability, we continue to believe the U.S. has not yet reached &#x27;peak tariff.&#x27;&quot; wrote managing director of Washington policy Edward Mills and two colleagues.</p><p>Energized Canadians and dour Americans</p><p>The differing public moods come as trade tensions between the US and Canada appear to be heading ever upwards.</p><p>Trump on Thursday signed an order to rename Lake Ontario as &#x27;Lake America&#x27; while some in Trump&#x27;s administration even toyed with the idea of cutting off trade in certain goods to Canada entirely, Semafor reported.</p>]]></content:encoded>
+      <pubDate>Mon, 31 Aug 2026 13:13:38 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-08-31_Trumps_reignites_trade_wars_as_Americans_opinions_of_tariffs_continue_to_drop.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-08-31_Trumps_reignites_trade_wars_as_Americans_opinions_of_tariffs_continue_to_drop.mp3" length="1528757" type="audio/mpeg"/>
+      <itunes:duration>00:02:43</itunes:duration>
+      <itunes:author>Ben Werschkul</itunes:author>
+      <itunes:summary>Trump’s reignites trade wars as Americans’ opinions of tariffs continue to drop
+
+2026-08-31
+
+Por Ben Werschkul
+
+https://finance.yahoo.com/markets/article/trump-reignites-trade-wars-as-americans-opinions-of-tariffs-continue-to-drop-150941686.html
+
+Americans are taking a very dim view of President Trump&#x27;s trade wars, with clear majorities telling pollsters they do not support the president&#x27;s tariffs and they believe their costs are being driven up as a result.
+
+The contrast with Canadians&#x27; views is stark. North of the border, Canadians appear not just OK with tit-for-tat tariffs, they say they are ready to endure economic pain to make a point.
+
+&quot;Americans have zero interest in picking a fight with Canada,&quot; Eurasia Group founder Ian Bremmer summed up one side, while former Trump Commerce Secretary Wilbur Ross noted that in the north, &quot;Canadians have adopted a very negative attitude toward the US in general.&quot;
+
+The divergent public moods could be a factor that could help Canada in the months ahead, even though the impact of a trade war would be greater on its smaller economy.
+
+About 58.7% of Americans disapprove of Trump&#x27;s approach to trade and tariffs, according to the Silver Bulletin, which has analyzed over 20 polls this summer that asked Americans their views on the topic. Just 34.5% approve.
+
+That&#x27;s a jump of over 18 percentage points since the beginning of Trump&#x27;s second term, in just one of the economic issues pulling Trump&#x27;s approval rating to second-term lows.
+
+Meanwhile, the Trump administration has sent signals that new trade tensions with China could be just around the corner, with potential plans for a new 7.5% tariffs on China under consideration around the issue of overcapacity ahead of a late September meeting planned between Trump and Chinese President Xi Jinping.
+
+Those new tariffs would come on top of what, according to the Yale Budget Lab, is already a 26% effective statutory tariff rate on China.
+
+That could kick off &quot;the next wave&quot; of tariff actions, Raymond James wrote this past week, marking &quot;the next chapter in President Trump&#x27;s push to reinstitute and expand on the tariffs struck down by the Supreme Court.&quot;
+
+&quot;Despite midterm and inflation concerns, and growing voter skepticism around tariffs and affordability, we continue to believe the U.S. has not yet reached &#x27;peak tariff.&#x27;&quot; wrote managing director of Washington policy Edward Mills and two colleagues.
+
+Energized Canadians and dour Americans
+
+The differing public moods come as trade tensions between the US and Canada appear to be heading ever upwards.
+
+Trump on Thursday signed an order to rename Lake Ontario as &#x27;Lake America&#x27; while some in Trump&#x27;s administration even toyed with the idea of cutting off trade in certain goods to Canada entirely, Semafor reported.</itunes:summary>
+    </item>
+
+    <item>
+      <title>US Consumer Sentiment Drops, Year-Ahead Inflation Views Improve</title>
+      <author>Julia Fanzeres</author>
+      <description>US Consumer Sentiment Drops, Year-Ahead Inflation Views Improve
+
+2026-08-31
+
+Por Julia Fanzeres
+
+https://finance.yahoo.com/economy/articles/us-consumer-sentiment-drops-ahead-140000889.html
+
+(Bloomberg) -- US consumer sentiment fell in August for the first time in three months on a worsening economic outlook, even as expectations for inflation in the year ahead eased.
+
+Most Read from Bloomberg
+
+The University of Michigan&#x27;s sentiment index decreased to 51.7 in August, according to data released Friday. The final reading was slightly improved from the preliminary reading and above the median estimate in a Bloomberg survey of economists.
+
+The report also showed that consumers expect prices to rise at an annual rate of 4% over the next year, the lowest reading since March but still a historically elevated level.
+
+Consumers continue to worry that &quot;inflation will remain elevated for the foreseeable future,&quot; Joanne Hsu, director of the survey, said in a statement.
+
+&quot;In addition to the pocketbook issues that have been central to consumers&#x27; views of the economy, they are increasingly worried that prospects elsewhere in the economy could be weakening,&quot; she added.
+
+Consumers&#x27; views about the economy in the year ahead and five years ahead both deteriorated in August. Measures of current economic conditions and consumer expectations also declined from a month earlier. Sentiment among Republicans slumped to the lowest since November 2024.
+
+The drop in sentiment shows households continue to face pressure from elevated costs as the conflict in the Middle East drags on. National average gasoline prices held above $4 a gallon across August, and broader inflation has eroded incomes.
+
+Hsu said consumers expect higher prices at the pump in the future, too.
+
+In the longer term, consumers see overall prices climbing at an annual rate of 3.3% over the next five to 10 years.
+
+The survey period includes responses from July 28 to Aug. 24.
+
+--With assistance from Dominic Carey.
+
+Most Read from Bloomberg Businessweek
+
+2026 Bloomberg L.P.</description>
+      <content:encoded><![CDATA[<p>US Consumer Sentiment Drops, Year-Ahead Inflation Views Improve</p><p>2026-08-31</p><p>Por Julia Fanzeres</p><p>https://finance.yahoo.com/economy/articles/us-consumer-sentiment-drops-ahead-140000889.html</p><p>(Bloomberg) -- US consumer sentiment fell in August for the first time in three months on a worsening economic outlook, even as expectations for inflation in the year ahead eased.</p><p>Most Read from Bloomberg</p><p>The University of Michigan&#x27;s sentiment index decreased to 51.7 in August, according to data released Friday. The final reading was slightly improved from the preliminary reading and above the median estimate in a Bloomberg survey of economists.</p><p>The report also showed that consumers expect prices to rise at an annual rate of 4% over the next year, the lowest reading since March but still a historically elevated level.</p><p>Consumers continue to worry that &quot;inflation will remain elevated for the foreseeable future,&quot; Joanne Hsu, director of the survey, said in a statement.</p><p>&quot;In addition to the pocketbook issues that have been central to consumers&#x27; views of the economy, they are increasingly worried that prospects elsewhere in the economy could be weakening,&quot; she added.</p><p>Consumers&#x27; views about the economy in the year ahead and five years ahead both deteriorated in August. Measures of current economic conditions and consumer expectations also declined from a month earlier. Sentiment among Republicans slumped to the lowest since November 2024.</p><p>The drop in sentiment shows households continue to face pressure from elevated costs as the conflict in the Middle East drags on. National average gasoline prices held above $4 a gallon across August, and broader inflation has eroded incomes.</p><p>Hsu said consumers expect higher prices at the pump in the future, too.</p><p>In the longer term, consumers see overall prices climbing at an annual rate of 3.3% over the next five to 10 years.</p><p>The survey period includes responses from July 28 to Aug. 24.</p><p>--With assistance from Dominic Carey.</p><p>Most Read from Bloomberg Businessweek</p><p>2026 Bloomberg L.P.</p>]]></content:encoded>
+      <pubDate>Mon, 31 Aug 2026 13:12:59 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-08-31_US_Consumer_Sentiment_Drops_Year-Ahead_Inflation_Views_Improve.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-08-31_US_Consumer_Sentiment_Drops_Year-Ahead_Inflation_Views_Improve.mp3" length="1164248" type="audio/mpeg"/>
+      <itunes:duration>00:02:02</itunes:duration>
+      <itunes:author>Julia Fanzeres</itunes:author>
+      <itunes:summary>US Consumer Sentiment Drops, Year-Ahead Inflation Views Improve
+
+2026-08-31
+
+Por Julia Fanzeres
+
+https://finance.yahoo.com/economy/articles/us-consumer-sentiment-drops-ahead-140000889.html
+
+(Bloomberg) -- US consumer sentiment fell in August for the first time in three months on a worsening economic outlook, even as expectations for inflation in the year ahead eased.
+
+Most Read from Bloomberg
+
+The University of Michigan&#x27;s sentiment index decreased to 51.7 in August, according to data released Friday. The final reading was slightly improved from the preliminary reading and above the median estimate in a Bloomberg survey of economists.
+
+The report also showed that consumers expect prices to rise at an annual rate of 4% over the next year, the lowest reading since March but still a historically elevated level.
+
+Consumers continue to worry that &quot;inflation will remain elevated for the foreseeable future,&quot; Joanne Hsu, director of the survey, said in a statement.
+
+&quot;In addition to the pocketbook issues that have been central to consumers&#x27; views of the economy, they are increasingly worried that prospects elsewhere in the economy could be weakening,&quot; she added.
+
+Consumers&#x27; views about the economy in the year ahead and five years ahead both deteriorated in August. Measures of current economic conditions and consumer expectations also declined from a month earlier. Sentiment among Republicans slumped to the lowest since November 2024.
+
+The drop in sentiment shows households continue to face pressure from elevated costs as the conflict in the Middle East drags on. National average gasoline prices held above $4 a gallon across August, and broader inflation has eroded incomes.
+
+Hsu said consumers expect higher prices at the pump in the future, too.
+
+In the longer term, consumers see overall prices climbing at an annual rate of 3.3% over the next five to 10 years.
+
+The survey period includes responses from July 28 to Aug. 24.
+
+--With assistance from Dominic Carey.
+
+Most Read from Bloomberg Businessweek
+
+2026 Bloomberg L.P.</itunes:summary>
+    </item>
+
+    <item>
+      <title>Walmart settles US government&#x27;s opioid lawsuit</title>
+      <author>Reuters</author>
+      <description>Walmart settles US government&#x27;s opioid lawsuit
+
+2026-08-31
+
+Por Reuters
+
+https://finance.yahoo.com/healthcare/articles/walmart-settles-us-governments-opioid-134328640.html
+
+Aug 28 (Reuters) - Walmart has settled a U.S. government lawsuit accusing the retailer of fueling a nationwide opioid epidemic by unlawfully dispensing prescriptions from its pharmacies, the Department of Justice said on Friday.
+
+Terms were not immediately available.
+
+The Justice Department sued Walmart in 2020, accusing the Bentonville, Arkansas-based company of repeatedly violating the federal Controlled Substances Act since 2013. It said at the time that Walmart could face billions of dollars in civil penalties.
+
+&quot;The department is pleased to have reached a settlement with Walmart resolving allegations that its pharmacies failed to comply with their obligations under the Controlled Substances Act in dispensing opioids and other controlled substances,&quot; a Justice Department spokesperson said.
+
+Walmart said in a statement: &quot;We are pleased to resolve this matter and will continue supporting the exceptional work our pharmacists do every day to provide outstanding patient care.&quot;
+
+In March 2024, U.S. District Judge Colm Connolly narrowed the case, dismissing claims that Walmart failed to report suspicious prescriptions to the U.S. Drug Enforcement Administration, and that Walmart pharmacists failed to document &quot;red flags&quot; associated with prescriptions.
+
+Connolly let the government pursue a claim that pharmacists dispensed prescriptions that Walmart compliance personnel knew were invalid. A fourth claim, that pharmacists dispensed prescriptions they knew were invalid, also remained pending.
+
+The lawsuit was one of the most significant Justice Department cases against a single company over the opioid epidemic.
+
+Other companies targeted over opioids included Purdue Pharma, which pleaded guilty to criminal charges in 2020 related to its painkiller OxyContin after filing for bankruptcy protection, and the drug wholesaler Cencora, formerly known as AmerisourceBergen.
+
+In 2022, Walmart agreed to pay $3.1 billion to settle thousands of lawsuits by state and local governments over its pharmacies&#x27; role in the opioid crisis.
+
+More than 905,000 people died from opioid overdoses between 1999 and 2025, according to the U.S. Centers for Disease Control and Prevention. Annual deaths began declining after 2022, the agency said.
+
+(Reporting by Jonathan Stempel in New York and Andrew Goudsward in Washington, D.C.; Editing by Chizu Nomiyama and Deepa Babington)</description>
+      <content:encoded><![CDATA[<p>Walmart settles US government&#x27;s opioid lawsuit</p><p>2026-08-31</p><p>Por Reuters</p><p>https://finance.yahoo.com/healthcare/articles/walmart-settles-us-governments-opioid-134328640.html</p><p>Aug 28 (Reuters) - Walmart has settled a U.S. government lawsuit accusing the retailer of fueling a nationwide opioid epidemic by unlawfully dispensing prescriptions from its pharmacies, the Department of Justice said on Friday.</p><p>Terms were not immediately available.</p><p>The Justice Department sued Walmart in 2020, accusing the Bentonville, Arkansas-based company of repeatedly violating the federal Controlled Substances Act since 2013. It said at the time that Walmart could face billions of dollars in civil penalties.</p><p>&quot;The department is pleased to have reached a settlement with Walmart resolving allegations that its pharmacies failed to comply with their obligations under the Controlled Substances Act in dispensing opioids and other controlled substances,&quot; a Justice Department spokesperson said.</p><p>Walmart said in a statement: &quot;We are pleased to resolve this matter and will continue supporting the exceptional work our pharmacists do every day to provide outstanding patient care.&quot;</p><p>In March 2024, U.S. District Judge Colm Connolly narrowed the case, dismissing claims that Walmart failed to report suspicious prescriptions to the U.S. Drug Enforcement Administration, and that Walmart pharmacists failed to document &quot;red flags&quot; associated with prescriptions.</p><p>Connolly let the government pursue a claim that pharmacists dispensed prescriptions that Walmart compliance personnel knew were invalid. A fourth claim, that pharmacists dispensed prescriptions they knew were invalid, also remained pending.</p><p>The lawsuit was one of the most significant Justice Department cases against a single company over the opioid epidemic.</p><p>Other companies targeted over opioids included Purdue Pharma, which pleaded guilty to criminal charges in 2020 related to its painkiller OxyContin after filing for bankruptcy protection, and the drug wholesaler Cencora, formerly known as AmerisourceBergen.</p><p>In 2022, Walmart agreed to pay $3.1 billion to settle thousands of lawsuits by state and local governments over its pharmacies&#x27; role in the opioid crisis.</p><p>More than 905,000 people died from opioid overdoses between 1999 and 2025, according to the U.S. Centers for Disease Control and Prevention. Annual deaths began declining after 2022, the agency said.</p><p>(Reporting by Jonathan Stempel in New York and Andrew Goudsward in Washington, D.C.; Editing by Chizu Nomiyama and Deepa Babington)</p>]]></content:encoded>
+      <pubDate>Mon, 31 Aug 2026 13:12:29 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-08-31_Walmart_settles_US_governments_opioid_lawsuit.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-08-31_Walmart_settles_US_governments_opioid_lawsuit.mp3" length="1527135" type="audio/mpeg"/>
+      <itunes:duration>00:02:43</itunes:duration>
+      <itunes:author>Reuters</itunes:author>
+      <itunes:summary>Walmart settles US government&#x27;s opioid lawsuit
+
+2026-08-31
+
+Por Reuters
+
+https://finance.yahoo.com/healthcare/articles/walmart-settles-us-governments-opioid-134328640.html
+
+Aug 28 (Reuters) - Walmart has settled a U.S. government lawsuit accusing the retailer of fueling a nationwide opioid epidemic by unlawfully dispensing prescriptions from its pharmacies, the Department of Justice said on Friday.
+
+Terms were not immediately available.
+
+The Justice Department sued Walmart in 2020, accusing the Bentonville, Arkansas-based company of repeatedly violating the federal Controlled Substances Act since 2013. It said at the time that Walmart could face billions of dollars in civil penalties.
+
+&quot;The department is pleased to have reached a settlement with Walmart resolving allegations that its pharmacies failed to comply with their obligations under the Controlled Substances Act in dispensing opioids and other controlled substances,&quot; a Justice Department spokesperson said.
+
+Walmart said in a statement: &quot;We are pleased to resolve this matter and will continue supporting the exceptional work our pharmacists do every day to provide outstanding patient care.&quot;
+
+In March 2024, U.S. District Judge Colm Connolly narrowed the case, dismissing claims that Walmart failed to report suspicious prescriptions to the U.S. Drug Enforcement Administration, and that Walmart pharmacists failed to document &quot;red flags&quot; associated with prescriptions.
+
+Connolly let the government pursue a claim that pharmacists dispensed prescriptions that Walmart compliance personnel knew were invalid. A fourth claim, that pharmacists dispensed prescriptions they knew were invalid, also remained pending.
+
+The lawsuit was one of the most significant Justice Department cases against a single company over the opioid epidemic.
+
+Other companies targeted over opioids included Purdue Pharma, which pleaded guilty to criminal charges in 2020 related to its painkiller OxyContin after filing for bankruptcy protection, and the drug wholesaler Cencora, formerly known as AmerisourceBergen.
+
+In 2022, Walmart agreed to pay $3.1 billion to settle thousands of lawsuits by state and local governments over its pharmacies&#x27; role in the opioid crisis.
+
+More than 905,000 people died from opioid overdoses between 1999 and 2025, according to the U.S. Centers for Disease Control and Prevention. Annual deaths began declining after 2022, the agency said.
+
+(Reporting by Jonathan Stempel in New York and Andrew Goudsward in Washington, D.C.; Editing by Chizu Nomiyama and Deepa Babington)</itunes:summary>
+    </item>
+
+    <item>
+      <title>Trump vows legal order to break up food processing &#x27;nasty monopoly&#x27;</title>
+      <author>Reuters</author>
+      <description>Trump vows legal order to break up food processing &#x27;nasty monopoly&#x27;
+
+2026-08-31
+
+Por Reuters
+
+https://finance.yahoo.com/economy/policy/articles/trump-vows-legal-order-break-133607909.html
+
+WASHINGTON, Aug 28 (Reuters) - U.S. President Donald Trump on Friday said he was preparing a legal order to allow farmers and ranchers to be given the right to process their own food aimed at breaking what he called &quot;a nasty monopoly&quot; among the nation&#x27;s top processors.
+
+Trump did not name a particular food or industry in his post on Truth Social but said he was &quot;authorizing legal documents to be drawn&quot; quickly. Earlier this week, Trump said he would see whether there are too many beef processing plant regulations.
+
+Representatives for the White House did not immediately respond to a request for more details on the order, which comes as consumers continue to grapple with rising grocery prices ahead of November&#x27;s midterm election.
+
+Trump&#x27;s move comes as the nation&#x27;s meat processing sector grapples with a 75-year trough in supply as rising cattle costs outpace gains from soaring prices. Four companies control about 85% of U.S. meat processing: Cargill; Tyson Foods, JBS USA and National Beef Packing Co.
+
+Trump also announced last week that more ground beef could be imported into the United States without tariffs. The Justice Department has also said it is investigating whether meatpacking companies were illegally driving up consumer beef prices.
+
+(Reporting by Katharine Jackson, Daphne Psaledakis and Susan Heavey; editing by Michelle Nichols and Chizu Nomiyama )</description>
+      <content:encoded><![CDATA[<p>Trump vows legal order to break up food processing &#x27;nasty monopoly&#x27;</p><p>2026-08-31</p><p>Por Reuters</p><p>https://finance.yahoo.com/economy/policy/articles/trump-vows-legal-order-break-133607909.html</p><p>WASHINGTON, Aug 28 (Reuters) - U.S. President Donald Trump on Friday said he was preparing a legal order to allow farmers and ranchers to be given the right to process their own food aimed at breaking what he called &quot;a nasty monopoly&quot; among the nation&#x27;s top processors.</p><p>Trump did not name a particular food or industry in his post on Truth Social but said he was &quot;authorizing legal documents to be drawn&quot; quickly. Earlier this week, Trump said he would see whether there are too many beef processing plant regulations.</p><p>Representatives for the White House did not immediately respond to a request for more details on the order, which comes as consumers continue to grapple with rising grocery prices ahead of November&#x27;s midterm election.</p><p>Trump&#x27;s move comes as the nation&#x27;s meat processing sector grapples with a 75-year trough in supply as rising cattle costs outpace gains from soaring prices. Four companies control about 85% of U.S. meat processing: Cargill; Tyson Foods, JBS USA and National Beef Packing Co.</p><p>Trump also announced last week that more ground beef could be imported into the United States without tariffs. The Justice Department has also said it is investigating whether meatpacking companies were illegally driving up consumer beef prices.</p><p>(Reporting by Katharine Jackson, Daphne Psaledakis and Susan Heavey; editing by Michelle Nichols and Chizu Nomiyama )</p>]]></content:encoded>
+      <pubDate>Mon, 31 Aug 2026 13:11:51 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-08-31_Trump_vows_legal_order_to_break_up_food_processing_nasty_monopoly.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-08-31_Trump_vows_legal_order_to_break_up_food_processing_nasty_monopoly.mp3" length="885477" type="audio/mpeg"/>
+      <itunes:duration>00:01:31</itunes:duration>
+      <itunes:author>Reuters</itunes:author>
+      <itunes:summary>Trump vows legal order to break up food processing &#x27;nasty monopoly&#x27;
+
+2026-08-31
+
+Por Reuters
+
+https://finance.yahoo.com/economy/policy/articles/trump-vows-legal-order-break-133607909.html
+
+WASHINGTON, Aug 28 (Reuters) - U.S. President Donald Trump on Friday said he was preparing a legal order to allow farmers and ranchers to be given the right to process their own food aimed at breaking what he called &quot;a nasty monopoly&quot; among the nation&#x27;s top processors.
+
+Trump did not name a particular food or industry in his post on Truth Social but said he was &quot;authorizing legal documents to be drawn&quot; quickly. Earlier this week, Trump said he would see whether there are too many beef processing plant regulations.
+
+Representatives for the White House did not immediately respond to a request for more details on the order, which comes as consumers continue to grapple with rising grocery prices ahead of November&#x27;s midterm election.
+
+Trump&#x27;s move comes as the nation&#x27;s meat processing sector grapples with a 75-year trough in supply as rising cattle costs outpace gains from soaring prices. Four companies control about 85% of U.S. meat processing: Cargill; Tyson Foods, JBS USA and National Beef Packing Co.
+
+Trump also announced last week that more ground beef could be imported into the United States without tariffs. The Justice Department has also said it is investigating whether meatpacking companies were illegally driving up consumer beef prices.
+
+(Reporting by Katharine Jackson, Daphne Psaledakis and Susan Heavey; editing by Michelle Nichols and Chizu Nomiyama )</itunes:summary>
+    </item>
+
+    <item>
+      <title>12 jobs that are set to boom over the next decade</title>
+      <author>Madison Hoff</author>
+      <description>12 jobs that are set to boom over the next decade
+
+2026-08-31
+
+Por Madison Hoff
+
+https://www.businessinsider.com/high-job-growth-over-decade-nurses-solar-photovoltaic-installers-2026-8
+
+The future is bright for nurse practitioners and solar photovoltaic installers.
+
+The Bureau of Labor Statistics published new job projections on Thursday, showing which roles are set to experience massive employment declines and which may flourish between 2025 and 2035.
+
+The jobs projected to grow the fastest over the decade are a mix of healthcare, energy, and tech work.
+
+Nurse practitioners, who typically earn six figures, had the highest percent increase at 41%, far faster than the overall projection of 3.5%. One reason for that projected demand is that in many states, they can perform duties that used to be reserved for physicians.
+
+Two renewable energy-related jobs are also expected to quickly grow: Solar photovoltaic installers had the second-highest percent increase, and wind turbine service technicians had the fourth-highest.
+
+&quot;As the cost of PV systems continues to decrease, more households are expected to take advantage of these systems, resulting in greater demand for the workers who install and maintain them,&quot; BLS said.
+
+Employment of data scientists is projected to increase by about 35% because businesses will need to hire workers to handle the expected increase in data usage and collection. Computer and information research scientists are also among the projected fastest-growing jobs, partly to work on AI tools.
+
+Read more stories like this
+
+Typical educational requirements vary among the top 12 jobs. BLS said solar photovoltaic installers typically need a high school diploma or the equivalent for entry. Nurse practitioners, computer and information research scientists, and physician assistants need more schooling. BLS said those jobs typically need a master&#x27;s degree for entry.
+
+Overall, US employment is projected to increase by 5.9 million over the decade, or by 3.5%, down from the 10.9% growth from 2015 to 2025. The private healthcare and social assistance sector could be a great place for job seekers to look, as it&#x27;s projected to add the most jobs, due to an aging population and a rise in chronic health conditions. The AI boom is expected to affect the utilities sector as data centers continue to demand more electricity. BLS said the relatively small sector is projected to surge by 10%, the fastest among major sectors.
+
+Are you a nurse practitioner, solar photovoltaic installer, or working in any of the other fastest-growing jobs? Reach out to this reporter to share at mhoff@businessinsider.com.</description>
+      <content:encoded><![CDATA[<p>12 jobs that are set to boom over the next decade</p><p>2026-08-31</p><p>Por Madison Hoff</p><p>https://www.businessinsider.com/high-job-growth-over-decade-nurses-solar-photovoltaic-installers-2026-8</p><p>The future is bright for nurse practitioners and solar photovoltaic installers.</p><p>The Bureau of Labor Statistics published new job projections on Thursday, showing which roles are set to experience massive employment declines and which may flourish between 2025 and 2035.</p><p>The jobs projected to grow the fastest over the decade are a mix of healthcare, energy, and tech work.</p><p>Nurse practitioners, who typically earn six figures, had the highest percent increase at 41%, far faster than the overall projection of 3.5%. One reason for that projected demand is that in many states, they can perform duties that used to be reserved for physicians.</p><p>Two renewable energy-related jobs are also expected to quickly grow: Solar photovoltaic installers had the second-highest percent increase, and wind turbine service technicians had the fourth-highest.</p><p>&quot;As the cost of PV systems continues to decrease, more households are expected to take advantage of these systems, resulting in greater demand for the workers who install and maintain them,&quot; BLS said.</p><p>Employment of data scientists is projected to increase by about 35% because businesses will need to hire workers to handle the expected increase in data usage and collection. Computer and information research scientists are also among the projected fastest-growing jobs, partly to work on AI tools.</p><p>Read more stories like this</p><p>Typical educational requirements vary among the top 12 jobs. BLS said solar photovoltaic installers typically need a high school diploma or the equivalent for entry. Nurse practitioners, computer and information research scientists, and physician assistants need more schooling. BLS said those jobs typically need a master&#x27;s degree for entry.</p><p>Overall, US employment is projected to increase by 5.9 million over the decade, or by 3.5%, down from the 10.9% growth from 2015 to 2025. The private healthcare and social assistance sector could be a great place for job seekers to look, as it&#x27;s projected to add the most jobs, due to an aging population and a rise in chronic health conditions. The AI boom is expected to affect the utilities sector as data centers continue to demand more electricity. BLS said the relatively small sector is projected to surge by 10%, the fastest among major sectors.</p><p>Are you a nurse practitioner, solar photovoltaic installer, or working in any of the other fastest-growing jobs? Reach out to this reporter to share at mhoff@businessinsider.com.</p>]]></content:encoded>
+      <pubDate>Mon, 31 Aug 2026 13:11:29 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-08-31_12_jobs_that_are_set_to_boom_over_the_next_decade.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-08-31_12_jobs_that_are_set_to_boom_over_the_next_decade.mp3" length="1567736" type="audio/mpeg"/>
+      <itunes:duration>00:02:48</itunes:duration>
+      <itunes:author>Madison Hoff</itunes:author>
+      <itunes:summary>12 jobs that are set to boom over the next decade
+
+2026-08-31
+
+Por Madison Hoff
+
+https://www.businessinsider.com/high-job-growth-over-decade-nurses-solar-photovoltaic-installers-2026-8
+
+The future is bright for nurse practitioners and solar photovoltaic installers.
+
+The Bureau of Labor Statistics published new job projections on Thursday, showing which roles are set to experience massive employment declines and which may flourish between 2025 and 2035.
+
+The jobs projected to grow the fastest over the decade are a mix of healthcare, energy, and tech work.
+
+Nurse practitioners, who typically earn six figures, had the highest percent increase at 41%, far faster than the overall projection of 3.5%. One reason for that projected demand is that in many states, they can perform duties that used to be reserved for physicians.
+
+Two renewable energy-related jobs are also expected to quickly grow: Solar photovoltaic installers had the second-highest percent increase, and wind turbine service technicians had the fourth-highest.
+
+&quot;As the cost of PV systems continues to decrease, more households are expected to take advantage of these systems, resulting in greater demand for the workers who install and maintain them,&quot; BLS said.
+
+Employment of data scientists is projected to increase by about 35% because businesses will need to hire workers to handle the expected increase in data usage and collection. Computer and information research scientists are also among the projected fastest-growing jobs, partly to work on AI tools.
+
+Read more stories like this
+
+Typical educational requirements vary among the top 12 jobs. BLS said solar photovoltaic installers typically need a high school diploma or the equivalent for entry. Nurse practitioners, computer and information research scientists, and physician assistants need more schooling. BLS said those jobs typically need a master&#x27;s degree for entry.
+
+Overall, US employment is projected to increase by 5.9 million over the decade, or by 3.5%, down from the 10.9% growth from 2015 to 2025. The private healthcare and social assistance sector could be a great place for job seekers to look, as it&#x27;s projected to add the most jobs, due to an aging population and a rise in chronic health conditions. The AI boom is expected to affect the utilities sector as data centers continue to demand more electricity. BLS said the relatively small sector is projected to surge by 10%, the fastest among major sectors.
+
+Are you a nurse practitioner, solar photovoltaic installer, or working in any of the other fastest-growing jobs? Reach out to this reporter to share at mhoff@businessinsider.com.</itunes:summary>
+    </item>
+
+    <item>
+      <title>&#x27;All about acceleration&#x27;: After Nvidia earnings, the tech trade is getting more segmented</title>
+      <author>Jake Conley</author>
+      <description>&#x27;All about acceleration&#x27;: After Nvidia earnings, the tech trade is getting more segmented
+
+2026-08-31
+
+Por Jake Conley
+
+https://finance.yahoo.com/markets/article/all-about-acceleration-after-nvidia-earnings-the-tech-trade-is-getting-more-segmented-114905135.html
+
+Nvidia (NVDA) posted a banner quarter on Wednesday that sent a clear message to Wall Street: AI demand is still hot, no matter the doubters.
+
+And yet, shares in Marvell Technology (MRVL) — another major chip designer — plunged after its own strong earnings report.
+
+The tech trade, strategists told Yahoo Finance, isn&#x27;t as simple as it once was.
+
+Take software, for example. After spending much of 2026 getting hammered by investors, software stocks came roaring back over the past week as the narrative turned away from redundancy and toward resilience.
+
+&quot;This earnings season has caused investors to look at the issue of potential AI disruption in software in a little bit more of a nuanced fashion,&quot; Steve Koenig, Macquarie US head of software and services research, told Yahoo Finance.
+
+&quot;It&#x27;s all about acceleration,&quot; Koenig said. &quot;Acceleration is being treated very positively by investors, and the stocks that can accelerate are getting rewarded.&quot;
+
+The effect shows up even in the biggest of Big Tech, with some strategists calling the &quot;Magnificent Seven&quot; stalwarts — Apple (AAPL), Alphabet (GOOGL, GOOG), Microsoft (MSFT), Amazon (AMZN), Meta (META), Tesla (TSLA), and Nvidia — the &quot;Lag Seven&quot; over the past few weeks.
+
+Amazon is up 15% over the past month, while Nvidia has picked up 10%.
+
+But Alphabet has moved the other way, shedding roughly $692 billion as the stock has fallen 15% from its May all-time high price. Investors have grown increasingly cautious about the Google parent company&#x27;s significant infrastructure investments amid the departure of top AI talent and concerns that the company is losing its edge.
+
+Hyperscalers and others signing massive financing deals to push into the AI build-out offered an example of how the market will eventually discriminate between winners and losers, said Chad Morganlander, senior portfolio manager at Washington Crossing Advisors.
+
+&quot;There will be pockets of the market where, [for] unprofitable projects, eventually the debtholders will have to pay the price,&quot; Morganlander told Yahoo Finance.
+
+There&#x27;s also the concern that some of the hyperscalers committing to those financial deals — with capex now expected to exceed $1 trillion in 2027 — may not get to spend that money, said F.L.Putnam Investment Management chief market strategist and Portfolio Manager Ellen Hazen.
+
+&quot;The biggest risk is whether or not the trillion dollars in hyperscaler capex next year can actually be spent — we have labor shortages, we have permitting delays, we have NIMBY increasing in volume, and we have component shortages,&quot; Hazen said.</description>
+      <content:encoded><![CDATA[<p>&#x27;All about acceleration&#x27;: After Nvidia earnings, the tech trade is getting more segmented</p><p>2026-08-31</p><p>Por Jake Conley</p><p>https://finance.yahoo.com/markets/article/all-about-acceleration-after-nvidia-earnings-the-tech-trade-is-getting-more-segmented-114905135.html</p><p>Nvidia (NVDA) posted a banner quarter on Wednesday that sent a clear message to Wall Street: AI demand is still hot, no matter the doubters.</p><p>And yet, shares in Marvell Technology (MRVL) — another major chip designer — plunged after its own strong earnings report.</p><p>The tech trade, strategists told Yahoo Finance, isn&#x27;t as simple as it once was.</p><p>Take software, for example. After spending much of 2026 getting hammered by investors, software stocks came roaring back over the past week as the narrative turned away from redundancy and toward resilience.</p><p>&quot;This earnings season has caused investors to look at the issue of potential AI disruption in software in a little bit more of a nuanced fashion,&quot; Steve Koenig, Macquarie US head of software and services research, told Yahoo Finance.</p><p>&quot;It&#x27;s all about acceleration,&quot; Koenig said. &quot;Acceleration is being treated very positively by investors, and the stocks that can accelerate are getting rewarded.&quot;</p><p>The effect shows up even in the biggest of Big Tech, with some strategists calling the &quot;Magnificent Seven&quot; stalwarts — Apple (AAPL), Alphabet (GOOGL, GOOG), Microsoft (MSFT), Amazon (AMZN), Meta (META), Tesla (TSLA), and Nvidia — the &quot;Lag Seven&quot; over the past few weeks.</p><p>Amazon is up 15% over the past month, while Nvidia has picked up 10%.</p><p>But Alphabet has moved the other way, shedding roughly $692 billion as the stock has fallen 15% from its May all-time high price. Investors have grown increasingly cautious about the Google parent company&#x27;s significant infrastructure investments amid the departure of top AI talent and concerns that the company is losing its edge.</p><p>Hyperscalers and others signing massive financing deals to push into the AI build-out offered an example of how the market will eventually discriminate between winners and losers, said Chad Morganlander, senior portfolio manager at Washington Crossing Advisors.</p><p>&quot;There will be pockets of the market where, [for] unprofitable projects, eventually the debtholders will have to pay the price,&quot; Morganlander told Yahoo Finance.</p><p>There&#x27;s also the concern that some of the hyperscalers committing to those financial deals — with capex now expected to exceed $1 trillion in 2027 — may not get to spend that money, said F.L.Putnam Investment Management chief market strategist and Portfolio Manager Ellen Hazen.</p><p>&quot;The biggest risk is whether or not the trillion dollars in hyperscaler capex next year can actually be spent — we have labor shortages, we have permitting delays, we have NIMBY increasing in volume, and we have component shortages,&quot; Hazen said.</p>]]></content:encoded>
+      <pubDate>Mon, 31 Aug 2026 13:10:51 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-08-31_All_about_acceleration_After_Nvidia_earnings_the_tech_trade_is_getting_more_segmented.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-08-31_All_about_acceleration_After_Nvidia_earnings_the_tech_trade_is_getting_more_segmented.mp3" length="1559154" type="audio/mpeg"/>
+      <itunes:duration>00:02:45</itunes:duration>
+      <itunes:author>Jake Conley</itunes:author>
+      <itunes:summary>&#x27;All about acceleration&#x27;: After Nvidia earnings, the tech trade is getting more segmented
+
+2026-08-31
+
+Por Jake Conley
+
+https://finance.yahoo.com/markets/article/all-about-acceleration-after-nvidia-earnings-the-tech-trade-is-getting-more-segmented-114905135.html
+
+Nvidia (NVDA) posted a banner quarter on Wednesday that sent a clear message to Wall Street: AI demand is still hot, no matter the doubters.
+
+And yet, shares in Marvell Technology (MRVL) — another major chip designer — plunged after its own strong earnings report.
+
+The tech trade, strategists told Yahoo Finance, isn&#x27;t as simple as it once was.
+
+Take software, for example. After spending much of 2026 getting hammered by investors, software stocks came roaring back over the past week as the narrative turned away from redundancy and toward resilience.
+
+&quot;This earnings season has caused investors to look at the issue of potential AI disruption in software in a little bit more of a nuanced fashion,&quot; Steve Koenig, Macquarie US head of software and services research, told Yahoo Finance.
+
+&quot;It&#x27;s all about acceleration,&quot; Koenig said. &quot;Acceleration is being treated very positively by investors, and the stocks that can accelerate are getting rewarded.&quot;
+
+The effect shows up even in the biggest of Big Tech, with some strategists calling the &quot;Magnificent Seven&quot; stalwarts — Apple (AAPL), Alphabet (GOOGL, GOOG), Microsoft (MSFT), Amazon (AMZN), Meta (META), Tesla (TSLA), and Nvidia — the &quot;Lag Seven&quot; over the past few weeks.
+
+Amazon is up 15% over the past month, while Nvidia has picked up 10%.
+
+But Alphabet has moved the other way, shedding roughly $692 billion as the stock has fallen 15% from its May all-time high price. Investors have grown increasingly cautious about the Google parent company&#x27;s significant infrastructure investments amid the departure of top AI talent and concerns that the company is losing its edge.
+
+Hyperscalers and others signing massive financing deals to push into the AI build-out offered an example of how the market will eventually discriminate between winners and losers, said Chad Morganlander, senior portfolio manager at Washington Crossing Advisors.
+
+&quot;There will be pockets of the market where, [for] unprofitable projects, eventually the debtholders will have to pay the price,&quot; Morganlander told Yahoo Finance.
+
+There&#x27;s also the concern that some of the hyperscalers committing to those financial deals — with capex now expected to exceed $1 trillion in 2027 — may not get to spend that money, said F.L.Putnam Investment Management chief market strategist and Portfolio Manager Ellen Hazen.
+
+&quot;The biggest risk is whether or not the trillion dollars in hyperscaler capex next year can actually be spent — we have labor shortages, we have permitting delays, we have NIMBY increasing in volume, and we have component shortages,&quot; Hazen said.</itunes:summary>
+    </item>
 
     <item>
       <title>WHAT IF FREUD WAS RIGHT</title>

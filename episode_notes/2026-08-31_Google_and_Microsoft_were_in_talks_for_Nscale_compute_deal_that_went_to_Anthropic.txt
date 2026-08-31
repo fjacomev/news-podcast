@@ -1,0 +1,31 @@
+Google and Microsoft were in talks for Nscale compute deal that went to Anthropic
+
+2026-08-31
+
+Por J D Capelouto
+
+https://www.semafor.com/article/08/28/2026/google-and-microsoft-were-in-talks-for-nscale-compute-deal-that-went-to-anthropic
+
+The Scoop
+
+Google and Microsoft were both in talks with Nscale to rent AI computing capacity from the company’s massive data center project in West Virginia — a lease that ultimately went to Anthropic, a person familiar with the matter told Semafor.
+
+The AI startup will pay $45 billion to use the first of three buildings, covering 460 megawatts, at Nscale’s planned Monarch campus, which is aiming to come online next year.
+
+The companies’ interest in the Monarch data center shows how the feeding frenzy for compute has reached a new pitch as AI companies look to nail down capacity amid the AI buildout. When finished, Nscale said, the project will be one of the largest compute hubs in the world.
+
+Microsoft walked away over the summer amid a review of its data center portfolio and its share of on-site power generation, while the Google deal didn’t work out for reasons stemming from an internal review of the tech giant’s computing needs and capex management, the person said.
+
+Microsoft declined to comment, and Google didn’t respond to a request for comment.
+
+Know More
+
+On Google’s earnings call last month, executives noted that the company faces supply constraints and is thinking about how to best deploy computing power across its businesses, prioritizing frontier AI development first — the kind of work that happens on Google’s own custom infrastructure. The spending for that compute is ballooning: Alphabet lifted its 2026 capital expenditure forecast, said 2027 will be even higher, and posted negative free cash flow last quarter as infrastructure investment more than doubled.
+
+For Anthropic, the deal unlocks additional future processing power ahead of the company’s planned IPO. The company has reached several other major computing deals in recent months, including with Fluidstack ($50 billion) and SpaceX ($45 billion).
+
+London-based Nscale is also said to be prepping for an IPO as soon as next month.
+
+Notable
+
+- As construction begins on data centers in West Virginia, some residents feel overlooked and are pushing back amid growing national anger over AI’s data center buildout, WV Public Broadcasting reported.

@@ -1,0 +1,33 @@
+'All about acceleration': After Nvidia earnings, the tech trade is getting more segmented
+
+2026-08-31
+
+Por Jake Conley
+
+https://finance.yahoo.com/markets/article/all-about-acceleration-after-nvidia-earnings-the-tech-trade-is-getting-more-segmented-114905135.html
+
+Nvidia (NVDA) posted a banner quarter on Wednesday that sent a clear message to Wall Street: AI demand is still hot, no matter the doubters.
+
+And yet, shares in Marvell Technology (MRVL) — another major chip designer — plunged after its own strong earnings report.
+
+The tech trade, strategists told Yahoo Finance, isn't as simple as it once was.
+
+Take software, for example. After spending much of 2026 getting hammered by investors, software stocks came roaring back over the past week as the narrative turned away from redundancy and toward resilience.
+
+"This earnings season has caused investors to look at the issue of potential AI disruption in software in a little bit more of a nuanced fashion," Steve Koenig, Macquarie US head of software and services research, told Yahoo Finance.
+
+"It's all about acceleration," Koenig said. "Acceleration is being treated very positively by investors, and the stocks that can accelerate are getting rewarded."
+
+The effect shows up even in the biggest of Big Tech, with some strategists calling the "Magnificent Seven" stalwarts — Apple (AAPL), Alphabet (GOOGL, GOOG), Microsoft (MSFT), Amazon (AMZN), Meta (META), Tesla (TSLA), and Nvidia — the "Lag Seven" over the past few weeks.
+
+Amazon is up 15% over the past month, while Nvidia has picked up 10%.
+
+But Alphabet has moved the other way, shedding roughly $692 billion as the stock has fallen 15% from its May all-time high price. Investors have grown increasingly cautious about the Google parent company's significant infrastructure investments amid the departure of top AI talent and concerns that the company is losing its edge.
+
+Hyperscalers and others signing massive financing deals to push into the AI build-out offered an example of how the market will eventually discriminate between winners and losers, said Chad Morganlander, senior portfolio manager at Washington Crossing Advisors.
+
+"There will be pockets of the market where, [for] unprofitable projects, eventually the debtholders will have to pay the price," Morganlander told Yahoo Finance.
+
+There's also the concern that some of the hyperscalers committing to those financial deals — with capex now expected to exceed $1 trillion in 2027 — may not get to spend that money, said F.L.Putnam Investment Management chief market strategist and Portfolio Manager Ellen Hazen.
+
+"The biggest risk is whether or not the trillion dollars in hyperscaler capex next year can actually be spent — we have labor shortages, we have permitting delays, we have NIMBY increasing in volume, and we have component shortages," Hazen said.
