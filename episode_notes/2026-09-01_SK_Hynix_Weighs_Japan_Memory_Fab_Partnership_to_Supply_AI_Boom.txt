@@ -1,0 +1,23 @@
+SK Hynix Weighs Japan Memory Fab Partnership to Supply AI Boom
+
+2026-09-01
+
+Por Mayumi Negishi; Mari Kiyohara
+
+https://finance.yahoo.com/technology/ai/articles/sk-hynix-weighs-japan-memory-012459907.html
+
+(Bloomberg) -- SK Hynix Inc. is studying the feasibility of a joint venture to make memory chips in Japan, one of several options under consideration to meet surging AI demand while controlling production costs.
+
+Most Read from Bloomberg
+
+The South Korean supplier of dynamic and flash memory is considering various locations for a jointly operated plant, SK Inc. Chairman Chey Tae-won said on the sidelines of meetings between members of South Korea and Japan's chambers of commerce in Sendai.
+
+The artificial intelligence boom has made Icheon-based SK Hynix the star jewel of Chey's SK Group, with the company's products helping Nvidia Corp. and data center developers deliver AI computation. SK Hynix last week held a groundbreaking ceremony for a chip packaging facility in Indiana, and the company is exploring further international expansion.
+
+"We are looking all over Japan," Chey told Bloomberg News. "Anywhere with good power and good water." He declined to elaborate on potential partners or specific locations in Japan for such a venture, when asked. SK, which oversees a wide array of businesses spanning energy and telecom as well as chips, sets group-level allocations of capital for major investments.
+
+SK Hynix is scouring the globe for possible chip production sites to meet voracious data storage needs from AI, while navigating US attempts to slow China's tech ambitions. The company plans a 54 trillion won ($39 billion) expansion of its chipmaking facilities at home in Korea and is also building an advanced memory packaging facility in West Lafayette, Indiana.
+
+The search in Japan is part of a wider effort within SK Hynix to deepen cooperation with Japanese customers and suppliers. The company already holds a sizable indirect stake in Tokyo-based flash memory producer Kioxia Holdings Corp. and its Chief Executive Officer Kwak Noh-Jung last week said it's "carefully looking at how we can co-develop the NAND flash market with our customers and suppliers."
+
+Along with high-bandwidth memory, NAND has seen a surge in demand as big-spending companies like Meta Platforms Inc. and Amazon.com Inc. vie to secure ever larger pools of data in storage with faster performance than traditional hard drives.

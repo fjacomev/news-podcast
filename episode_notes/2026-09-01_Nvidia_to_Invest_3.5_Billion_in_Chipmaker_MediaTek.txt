@@ -1,0 +1,23 @@
+Nvidia to Invest $3.5 Billion in Chipmaker MediaTek
+
+2026-09-01
+
+Por Ian King; Ed Ludlow
+
+https://finance.yahoo.com/technology/ai/articles/nvidia-invest-3-5-billion-123000043.html
+
+(Bloomberg) -- Nvidia Corp. is investing $3.5 billion into MediaTek Inc., deepening collaboration with the Taiwanese chipmaker at a time when it's working to persuade more companies to build chips that plug into its dominant data center ecosystem.
+
+Most Read from Bloomberg
+
+Nvidia will buy bonds convertible into MediaTek shares, the companies said in a joint statement on Monday.
+
+The investment broadens a partnership between the two chip designers that will see MediaTek using NVLink Fusion and the newly announced NVHBM technology as part of an Nvidia tech suite to help components communicate more seamlessly in data centers. The smaller company is trying to challenge Broadcom Inc. and Marvell Technology Inc. by helping owners of data centers create their own components.
+
+For Nvidia, the new agreement is the latest effort to ensure the future of artificial intelligence is built around its hardware platform and standards. The company has been building data center interconnect systems like NVLink Fusion and partnering with the likes of MediaTek to ensure it maintains a central role in the entire hardware chain, not just with its class-leading AI accelerators.
+
+The MediaTek agreement follows a similar announcement by Amazon.com Inc., which agreed to deploy an additional 2 million Nvidia components. Critically, Amazon also pledged to use Nvidia's connection technology with its in-house chips.
+
+Nvidia Chief Executive Officer Jensen Huang, who was born in Taiwan, is tightening ties with a company working to reduce its reliance on the smartphone market. MediaTek earlier this year secured a partnership with Alphabet Inc.'s Google, and is gaining credibility as a design partner to major tech firms that are seeking to build their own AI chips. That momentum has led the chipmaker's market value to roughly triple in recent months.
+
+The agreements with MediaTek and Amazon give Nvidia the opportunity to retain its central role in the build-out of AI data centers even when companies are deploying chips designed to replace its main offerings. The deal is yet another example of Nvidia's leadership investing in customers, rivals and other companies involved in the AI industry. Concern about the seemingly circular nature of those investments has percolated in investor circles, though Nvidia has strongly disputed the idea it's creating false demand.
