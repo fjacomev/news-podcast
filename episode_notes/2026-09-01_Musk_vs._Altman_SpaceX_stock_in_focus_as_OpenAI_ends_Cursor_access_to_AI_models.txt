@@ -1,0 +1,31 @@
+Musk vs. Altman: SpaceX stock in focus as OpenAI ends Cursor access to AI models
+
+2026-09-01
+
+Por Pras Subramanian
+
+https://finance.yahoo.com/technology/article/musk-vs-altman-spacex-stock-in-focus-as-openai-ends-cursor-access-to-ai-models-142228912.html
+
+SpaceX (SPCX) stock is in focus on Monday after big news over the weekend concerning its AI coding tool Cursor and OpenAI (OPAI.PVT).
+
+OpenAI said late Friday evening that Cursor would no longer be allowed access to its AI models. SpaceX closed its acquisition of Cursor earlier this month in a $60 billion deal.
+
+Despite the decision, SpaceX stock was higher in early trading.
+
+The Cursor move is the latest escalation in a war between Musk and OpenAI CEO Sam Altman. Earlier this year, Musk sued OpenAI and Altman, claiming they betrayed the company's original nonprofit mission by creating a for-profit entity, among other things. A jury ruled against Musk, finding that he had filed the case too late.
+
+As for cutting off access to Cursor, Musk said he "couldn't care less."
+
+This is a big issue for Cursor clients as they can no longer use OpenAI models, including its upcoming frontier model, Astra, for developer use. Michael Truell, Cursor's co-founder, said the two sides are speaking and looking to resolve the issue. Truell said 5% of Cursor traffic uses OpenAI models.
+
+AI is a big part of SpaceX's future revenue growth, as the company projected in its IPO filing that it sees the AI opportunity worth potentially $26.5 trillion in the long term.
+
+As for SpaceX's traditional rocket and launch business, it also suffered a small setback.
+
+Over the weekend, NASA said it and SpaceX would be "adjusting the launch date" for NASA's upcoming Crew-13 mission to the International Space Station, which would carry four astronauts as part of the mission.
+
+NASA and SpaceX said an "oxidizer leak" in the Dragon spacecraft's propulsion system was detected, and additional tests are needed to resolve the issue. The original launch target was Sept. 12. A new launch date has not been set.
+
+Click here for the latest technology news that will impact the stock market.
+
+Read the latest financial and business news from Yahoo Finance

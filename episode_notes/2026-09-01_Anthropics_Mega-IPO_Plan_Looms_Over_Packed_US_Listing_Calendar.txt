@@ -1,0 +1,61 @@
+Anthropic’s Mega-IPO Plan Looms Over Packed US Listing Calendar
+
+2026-09-01
+
+Por Bailey Lipschultz; Anthony Hughes
+
+https://finance.yahoo.com/markets/stocks/articles/anthropic-mega-ipo-plan-looms-130231591.html
+
+(Bloomberg) -- Anthropic PBC's IPO is casting a long shadow over companies' US listing plans, as they try to find room for their deals to grab attention after the Sept. 7 Labor Day holiday.
+
+The Claude developer is preparing to file publicly for an initial public offering that's expected to raise as much as SpaceX's record $86.2 billion debut, if not more, in the coming weeks.
+
+Some firms and their backers are finding it hard to get the attention of long-term-oriented investors and sovereign wealth funds when the prospect of an Anthropic IPO is imminent, according to people familiar with the preparations.
+
+The rush to get out ahead of a giant IPO feels familiar. A similar dynamic unfolded in the run-up to SpaceX's listing, when 14 sizable companies went public in the month before Elon Musk's rocket, satellite and AI firm debuted. Those hurried entries haven't paid off, with the companies posting a weighted average loss of 9.5%, data compiled by Bloomberg show.
+
+The coming stretch leaves IPO candidates even less room for scheduling than usual, thanks to November's mid-term elections. Add hotter than expected inflation to the mix, and companies may decide it's better to dance around Anthropic's timing than stay on the sidelines.
+
+"It's a little bit trickier here which is why I expect a very busy September and creeping into October," said Rob Stowe, head of Americas equity capital markets at Barclays Plc, who cited hurdles including a mid-September Federal Reserve meeting, followed by the election in early November.
+
+"There will be a lot of activity but it will be concentrated into a few windows," he said.
+
+The companies briefing money managers on their IPO plans in recent weeks are heavily tilted toward AI themes, with cloud computing firm Nscale joining Anthropic in the queue. A notable exception is Oura Health Oy, a maker of smart rings that track health, fitness and sleep, which may raise billions of dollars in an IPO as soon as next month.
+
+Tapping into data centers' thirst for power, private equity-backed temporary power provider Aggreko Plc and CoVolt Power Inc., a solar and battery storage company, both filed IPO paperwork publicly in August and could go before Anthropic.
+
+SoftBank Group Corp.-backed digital infrastructure firm SB Energy is expected to target an IPO that will raise more than $5 billion while Roark Capital-owned Inspire Brands Inc. could test the market before November's elections.
+
+Earlier this month, Switch Inc. filed confidentially for a listing that could take place as soon as November; Bloomberg reported in July that the company had kicked off a new funding round in which it could seek a valuation approaching $50 billion including debt.
+
+Flavor of the Month
+
+Bankers say it's not going to be a free-for-all for every company with IPO dreams when AI is the flavor of the month, however.
+
+"Non-thematic IPOs have been trickier," said Eddie Molloy, co-head of global equity capital markets at Morgan Stanley. "There's so much capital around these big themes — the broader AI infrastructure ecosystem and aerospace and defense — so if you're a small or mid-cap issuer not around these mega trends, it's been harder to garner buyside focus."
+
+The wave of larger companies chasing enormous sums also makes it tough for smaller deals to get noticed.
+
+"If a company is on the smaller side, one has to advise a bit more caution," said J.D. Moriarty, vice chairman and global head of technology ECM at Bank of America Corp. "The tendency of the market to be indifferent is high because there are so many big deals to choose from."
+
+Should they stumble, they can console themselves with the knowledge that this year's IPOs haven't been roaring successes in the after-market.
+
+The weighted-average return for US listings this year is 5.6%, markedly lagging a 13% return for the S&P 500 and a 17% gain for the tech-heavy Nasdaq 100.
+
+What Bloomberg Intelligence Says:
+
+Biotech IPOs are a barometer of sector health, and the $329 million average raised in the US in 2026 — the highest since 2018 and well above recent banner years — points to a strong year-end, with 30 listings within reach.
+
+— Sam Fazeli and Cindy Wu, analysts
+
+Read the report here.
+
+The year's larger deals have on the whole been worse performers. The 16 companies that raised at least $1 billion have seen shares rise 4.2% on a weighted-average basis, data compiled by Bloomberg show. Even worse, six of the ten biggest deals are below their offer price.
+
+SpaceX is up less than 5% after its soaring debut was met with volatility while SK Hynix Inc.'s record-setting listing has been even more choppy though the stock is up roughly 8% through Aug. 28. Both have been linked to investors' changing moods regarding the AI trade.
+
+Still, with optimism returning, the S&P 500 has snapped back to rise 5.4% from a July low and the Nasdaq 100 has increased more than 8% over that stretch, helping companies make the case for diving in now.
+
+Doug Adams, Citigroup Inc.'s global co-head of ECM, expects a half dozen or more firms to raise more than a billion dollars each in the window between Labor Day and the elections.
+
+"There are a lot of large, interesting companies evaluating the market, and a number of those names are evaluating when the right time is for the company to go public, rather than purely what is the market doing," he said.
