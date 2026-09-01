@@ -1,0 +1,19 @@
+Sony accuses Anthropic of 'brazen campaign' to train Claude on its music — and wants up to $150,000 a song
+
+2026-09-01
+
+Por Lauren Edmonds
+
+https://businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8
+
+Sony Music and Warner Chappell want Anthropic to pay up.
+
+The publishing companies filed a lawsuit against Anthropic in a Northern California district court on Friday. Anthropic cofounders Dario Amodei and Benjamin Mann were also named in the filing.
+
+Anthropic denied the accusations in a statement. "We disagree with the publishers' claims and we intend to defend ourselves robustly in court," the company said.
+
+Sony Music and Warner Chappell requested a jury trial. They're seeking statutory damages from Anthropic, including up to $150,000 for each composition it used to train Claude.
+
+"Even the most revolutionary of technologies must develop within the bounds of the law, and Anthropic's Claude models are no different," the companies said in the complaint.
+
+Tech companies need troves of data to train their AI models, and go to great lengths to acquire it. Most recently, historians and archivists have accused AI companies of acquiring large numbers of antique books and feeding them into their LLMs, destroying them in the process.
