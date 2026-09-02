@@ -1,0 +1,29 @@
+Anthropic Seals $35 Billion Cloud Deal With Nvidia-Backed Lambda
+
+2026-09-02
+
+Por Brody Ford
+
+https://finance.yahoo.com/technology/ai/articles/anthropic-seals-35-billion-cloud-235404995.html
+
+(Bloomberg) -- Anthropic PBC agreed to a $35 billion computing deal with Lambda, a cloud provider backed by Nvidia Corp., part of an effort to quickly expand its AI capacity, according to a person familiar with the matter.
+
+Most Read from Bloomberg
+
+Infrastructure company Hut 8 is developing the Texas data center involved in the project, said the person, who asked not to be identified because the discussions are private. The Wall Street Journal previously reported on the agreement, saying that Nvidia would hold the lease on the data center, which is in Nueces County, Texas.
+
+The deal is just the latest AI computing agreement tied to Nvidia, the world's most valuable business and the leading provider of AI chips. The company has been using its financial resources to expand access to computing infrastructure, which, in turn, should increase demand for its technology.
+
+Anthropic, meanwhile, has emerged as one of the most significant customers for data center power. The Claude chatbot maker last week agreed to spend $45 billion to rent capacity from Nscale in West Virginia. In recent months, it has also signed cloud deals for $50 billion with neocloud Fluidstack Ltd. and $45 billion with Elon Musk's SpaceX.
+
+A representative for Anthropic declined to comment. Nvidia, Lambda and Hut 8 didn't immediately respond to requests for comment.
+
+Lambda is in talks to raise as much as $3 billion, Bloomberg reported last week. The company has discussed a valuation of as much as $12 billion or more, according to people familiar with the talks.
+
+Lambda raised more than $1.5 billion in a November funding round. The company also reached an agreement with Microsoft Corp. last year to deploy AI infrastructure that would be powered by tens of thousands of Nvidia processors.
+
+--With assistance from Lynn Doan and Ian King.
+
+Most Read from Bloomberg Businessweek
+
+2026 Bloomberg L.P.

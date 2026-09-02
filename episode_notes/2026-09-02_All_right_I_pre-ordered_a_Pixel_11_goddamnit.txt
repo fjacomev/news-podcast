@@ -1,0 +1,75 @@
+All right: I pre-ordered a Pixel 11, goddamnit
+
+2026-09-02
+
+Por Andy Ihnatko
+
+https://ihnatko.com/all-right-i-pre-ordered-a-pixel-11-goddamnit/
+
+All right: I pre-ordered a Pixel 11, goddamnit
+
+…And I was filled with doubts, for reasons that have absolutely nothing to do with the phone itself. I shall explain.
+
+This is a year when I’ve observed the major phone launch events with the eye of a consumer as well as that of a tech pundit. My Pixel 6 Pro was almost exactly four years old when Jesus called it back home to Him in October; ever since, I've been on a minimally-specced Pixel 7 Pro, which I’d picked up ages ago for next to nothing, to use for sketchy beta OS builds.
+
+2026's Android 17 is the final promised OS update for the Pixel 7, so there was a target on its back. But truth be told, the 7 was still 100% fit for my daily needs. 128 gigs of storage was a drag (my 512 gig Pixel 6 allowed me to not worry overmuch about how much video I was shooting, or how many HQ albums I kept on the device). Other than that, however, I felt as though I could wait to see what Google or Apple or Samsung had to offer in 2027.
+
+“If a hardware upgrade doesn’t solve problems or create opportunities, then it’s a purely recreational expense.” I say it over and over. You should be excited about the doors that the upgrade will open for you; the excitement you get from just having a new shiny object will fade after a week or two. Also, if I held on to my four-year-old phone until it became a five-year-old phone, I could be 25% more smug about it through the rest of 2026 and well into 2027.
+
+I was on a weeklong Amtrak Northeast Corridor Summer Interstate Goodwill Tour when Google's new phones were announced. From a friend’s guest bedroom in Maryland, I suffered through a Made By Google livestream that left me with the impression that the show’s architects had been macrodosing heroically on something that hasn’t reached the East Coast yet. I wasn’t left with any kind of strong impression about the Pixel 11. Not even after reading the more steady-handed rundowns and tech sheets offered to the press and having a couple of conversations here and there.
+
+Back in 2021, I’d been in the same position: my old flagship was fine, just old, and I felt like I was free to upgrade. I was excited by the new Pixel 6. It marked Google’s debut as a true, “whole widget” phone designer, on the same level as Apple or Samsung if not with the same level of polish in the final product. And the Pixel 6 was ambitious. Here was the first phone where artificial intelligence represented an entire point of view for the device. As a consumer, my reaction was “hell, yeah.”
+
+The Pixel 11 seemed fine from all angles. It just didn’t excite me in any way as a consumer or as a tech journalist.
+
+This bothered me. Though maybe it shouldn’t have. Excitement is my desired-for response, especially for an item that I rely on every day and which is going to set me back at least a grand. But is it expected? A designer who tries to start a revolution every season is someone who doesn’t understand the difference between true style and mere fashion. At this point, the smartphone is largely a solved problem; a new phone delivers increased value by delivering the same thing, only better. There’ve been plenty of rumblings about Apple doing something truly ambitious with the 20th-anniversary iPhone and I’m certain that whatever they come up with is going to be quite a thing indeed. But what we all want is better battery life and enough performance and system resources that it’ll be a useful and modern tool throughout the whole life of the device.
+
+Alas, fear was a factor in my deliberations. That’s never good.
+
+This is a very weird time to consider buying a new phone. Any poor soul holding an end-of-life daily driver has to navigate two inscrutable variables:
+
+RAM-pocalypse-mageddon-derdome. If I wait until next year, will 2027’s flagships have the same specs as what’s available today? And if they do, will I be able to afford the specs I want? The only thing to be sure of is that everything’s going to be more expensive. If I wait until 2027, I might have to settle for an experience similar to what I get from my Pixel 7, with its 128 gigs of storage: “Nice enough, but if I want to listen to the double-CD live album of David Bowie’s 2000 Glastonbury performance, I’ll need to stream it from Spotify” (to name but one indignity).
+
+And could I afford to cheap out on the amount of system RAM? I’m concerned about the functional longevity of the phone. There’s a genuine fear that at some point in the future, phones with less RAM (even 2026 flagships) will hit a functional brick wall. This worry comes courtesy of, of course…
+
+Artificial Intelligence, the mystery of mysteries and the progenitor of so many of our troubles.
+
+Remember when there wasn’t a single phone (including the iPhone) that could take photos worth…ok, “not worth a damn” is overly harsh. But they couldn’t take a photo worth more than, say, 166% of a damn — and that was only in direct mid-afternoon sunlight. Then the day came when all of the latest flagships took photos that were never less than Good and were often Excellent. On that day, it felt as if all older phones weren’t better than Crap and it was time to stage some kind of pool accident to force an upgrade.
+
+On-device agentic AI is an unproven promise at this point but it could become an Actual Thing within the next couple of years. If the world changes, how long do I want to keep a phone that isn’t ready? Or should I limp along with my old phone for another year, maybe even two, so that my next flagship phone is even more ready than anything released in 2026?
+
+Hell, will an as-yet unreleased category of wearable AI devices make this whole line of worry 100% irrelevant?
+
+I’ve been thinking about this stuff all year. I considered every option.
+
+I even thought about buying a budget-grade phone in the spring of 2027. The idea of a $500 “stopgap” phone appealed to me…as did the opportunity to try something different after something like ten years as a user of Google-designed phones. I could wait for the iPhone 18e and truly commit to iOS as a daily driver. I’m also a big, big fan of Nothing Phone’s bonkers industrial design. It’s definitely a phone for “people who like that kind of thing” and nobody else. Just like the Volkswagen Beetle, I reckon, and that car is a legit icon, right?
+
+(“But what about Samsung?” I never considered it. The hardware is as good as it gets but I don’t want to have to sign up for a new baker’s dozen of Samsung services. I allow Apple to collect my personal information because I trust them (or at least as much as a five-trillion-dollar company can be trusted) and I let Google have access to that stuff because I think the services they give me in trade are worth it. But I’m not seeking to expand the panopticon any further, thank you very much.)
+
+Yes, I pre-ordered the Pixel 11 on the day I got home from my travels.
+
+In part, I did it because I’d been wrestling with the decision nonstop ever since the announcement, and I was just sick of thinking about it.
+
+Mostly, it was just about the dollars. I spent as much money as one can on a Pixel 11 without gaining the ability to fold it in half more than the one time. It’s the Pixel 11 Pro XL, with 512 gigs of storage. I’d actually been looking forward to saving a little cash by getting just 256 gigs (whatever phone I bought) because my experience with the Pixel 7 left me thinking that a half a terabyte wasn’t 100% necessary. Alas, less storage came with just 12 gigs of RAM. As I’d feared, Google wants top dollar for the top 16 gigabyte spec.
+
+List price of this configuration: about $1500 USD, which is OMG in any national currency. Instinctively, I think this is way, way too much to spend on a smartphone.
+
+(Is it? This is one of those moments when I need to remind myself that I’m Gen-X. I still think a first-run movie ticket should cost $7, tops, and a McDonald’s value meal that runs more than $6 with large fries and drink ain’t no value.)
+
+Fortunately…I didn’t! A $200 pre-order coupon code (through the Pixel app/being an existing Pixel owner), plus an utterly bonkers $330 instant trade-in credit for a minimal-spec four-year-old Pixel 7 in good condition brought the price under a thousand dollars.
+
+I also received nearly $350 in Google Store credits, by virtue of a pre-order bonus and the 10% in credits I get back from all Google Store purchases, as part of my Google One membership.
+
+I had already planned to buy a Fitbit Air to replace the press loaner I’ve been wearing all summer, so let’s treat $99 of those credits as actual cash. With that slight fudge deducted, I got this $1500 phone for less than $900.
+
+My Inner Sensible Voice (the one that sounds like my Dad) felt a duty to grumble a little bit; this expense was coming just as the bandages from my recent MacBook purchase were coming off. But even Sensible Voice agreed that I’d probably regret not taking advantage of the pre-release offers and pricing.
+
+As I click the Publish button on this tale, I’ve had my new phone for about a week. Adventures have been had. I will share them anon.
+
+And it’s about a week before Apple announces the new iPhones Pro. From what I think I know about its hardware features, the iPhone 18 Pro announcement is going to leave me about as excited as the Made By Google event did (without the flashbacks to mid-1990s infomercials about sandwich grills, I hope), and there’s no way in hell that I would have been able to get an iPhone with the features I want (best camera, top RAM, “enough” storage) for under $900. Nonetheless, I would have considered it.
+
+For those of you who are sitting on an iPhone 14 Pro or older and are in the same boat as I am/was with my four-year-old Pixel Pro…I can only offer my sympathies. I’ve been there.
+
+Despite my maxim about Creating Opportunities and Solving Problems, and despite my desire to be truly excited about a phone upgrade (or, really, anything I’m about to blow $1000+ on), it’s almost as important to know when you’re overthinking something. If you’ve waited four or five years before even thinking about upgrading your flagship phone, you’ve got your head screwed on straight.
+
+And despite a lack of Excitement, you get to catch up on four or five years of incremental improvements with a single unboxing. That’s plenty exciting in and of itself.

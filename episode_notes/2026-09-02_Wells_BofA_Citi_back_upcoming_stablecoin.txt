@@ -1,0 +1,49 @@
+Wells, BofA, Citi back upcoming stablecoin
+
+2026-09-02
+
+Por Dan Ennis
+
+https://www.bankingdive.com/news/bofa-wells-fargo-citi-back-upcoming-stablecoin-goldman-pnc-capital-one/829318/
+
+Six of the largest U.S. banks are among 21 financial institutions that announced Tuesday their backing of a company, to be established by the end of this year, “to support the issuance of a stablecoin solution.”
+
+Bank of America, Citi, Capital One, Goldman Sachs, PNC and Wells Fargo are backing the solution, expected to go to market in the first half of 2027.
+
+Other banks committed to the project include TD, Scotiabank, UBS, Santander, BBVA, Deutsche Bank, Commerzbank, Lloyds, Crédit Agricole, Rabobank and MUFG, according to a Tuesday release posted on Wells Fargo’s website.
+
+The initiative will first focus on a U.S. dollar‑denominated stablecoin before expanding into stablecoins denominated in other G7 currencies, with emphasis on the euro, according to the announcement, which added that the new company’s name will be announced “in due course.”
+
+The initiative aims “to offer a safe, robust and trusted solution that combines bank‑grade compliance, strong governance, distribution and institutional risk management,” according to the announcement.
+
+Use cases will include “wholesale, institutional and retail markets where client benefits can be achieved by utilizing a trusted form of digital money, including cross-border payments and digital asset settlements,” the release indicated.
+
+A year-end launch would put the company in place just ahead of the Jan. 18 expected effective date of the Genius Act, which provides the framework for digital-asset regulation.
+
+Bank CEOs have closely watched the rise of stablecoins. Bank of America CEO Brian Moynihan warned in a January earnings call that roughly 30% to 35% of U.S. commercial bank deposits – as much as $6 trillion – could migrate into stablecoins.
+
+That prospect is just one factor prompting banks to get in on stablecoins.
+
+Tuesday’s announcement comes two months after more than 140 businesses, including card networks Visa, Mastercard and American Express, fintechs Chime and Stripe, and cryptocurrency firms Coinbase and Ripple signaled their backing of a separate stablecoin, Open USD.
+
+There appears to be little crossover between backers of Open USD and the initiative announced Tuesday. The only partner on both is Spanish lender BBVA.
+
+BNY, U.S. Bank, Huntington and Citizens were announced among Open USD’s backers.
+
+Notably, JPMorgan Chase appears on neither list. The U.S.’s largest bank has evaluated whether it could launch its own stablecoin, people familiar with the matter told The Wall Street Journal.
+
+“While we have no plans to issue a stablecoin, depending on customer demand and the evolution of the regulatory landscape, we would of course evaluate all options in the future,” a JPMorgan spokeswoman told the publication.
+
+JPMorgan is not immune to going its own way, though: It has a tokenized deposit, JPM Coin, and its own blockchain.
+
+There is no active stablecoin product underway, an anonymous source told the Journal.
+
+Meanwhile, a consortium of state bankers associations last week unveiled plans to launch a blockchain platform built for, owned and governed by banks.
+
+BankChain Alliance, as it is called, would be used for treasury management, supply-chain finance and cash management. It is expected to launch in the first half of 2027.
+
+Treasury Secretary Scott Bessent has called stablecoins a digital revolution that could help cement the dollar's position as the world's top reserve currency and create demand for trillions of dollars' worth of Treasuries.
+
+Pablo Hernandez de Cos, general manager of the Bank for International Settlements, argued that tokenized deposits should account for the bulk of day‑to‑day payments and stablecoins should serve more specialized roles.
+
+Hernandez de Cos, speaking last week at the Federal Reserve’s Jackson Hole symposium, said stablecoins could lower borrowing costs, but noted that bank funding costs could rise as funds migrate, according to Reuters.
