@@ -7,7 +7,7 @@
     <link>https://fjacomev.github.io/news-podcast</link>
     <description>Podcast personal de noticias, leido en voz local</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2026 22:13:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 23:11:25 GMT</lastBuildDate>
     <image>
       <url>https://fjacomev.github.io/news-podcast/cover.jpg</url>
       <title>Fernando AI News</title>
@@ -18,6 +18,168 @@
     <itunes:summary>Podcast personal de noticias, leido en voz local</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
+
+    <item>
+      <title>Google spared from ad-business breakup, but judge orders changes to how it operates</title>
+      <author>Lucas Ropek</author>
+      <description>Google spared from ad-business breakup, but judge orders changes to how it operates
+
+2026-09-02
+
+Por Lucas Ropek
+
+https://finance.yahoo.com/media-advertising/articles/google-spared-ad-business-breakup-213834660.html
+
+The Justice Department has spent years attempting to break up Google&#x27;s gargantuan advertising business across two separate antitrust lawsuits: one filed in 2020 focused on Google&#x27;s dominance in search, and a second filed in 2023 that specifically targeted Google&#x27;s ad-technology business. Both cases argued that the search giant&#x27;s grip on the digital ad economy represents an illegal monopoly.
+
+Courts have largely sided with the government in both cases. In 2024, a court determined that Google&#x27;s search business, including its exceedingly lucrative search-ad operation, was an illegal monopoly, claiming that the tech giant had &quot;exercised its monopoly power&quot; to dominate the search industry and search ads. Last April, a second court case — this one focused specifically on Google&#x27;s ad-tech business — also came to the same conclusion.
+
+Following the 2024 ruling, Justice Department officials suggested a variety of ways Google&#x27;s search business could be broken up, including divesting its Chrome browser and Android operating system. But in September 2025, the judge overseeing that case, Amit Mehta, rejected those divestiture requests, ruling that Google could keep both Chrome and Android. He did order the company to end exclusive default-placement deals and share certain search data with competitors (remedies that Google is currently appealing).
+
+That same pattern held this week. In a ruling handed down on Wednesday, federal judge Leonie M. Brinkema of the Eastern District of Virginia, who oversaw the ad-tech case, said that Google would be able to keep its advertising business. Instead of selling it, the search giant will instead be required to adjust its business practices to favor competitors, Brinkema said. The New York Times notes that the judge&#x27;s ruling &quot;did not provide specifics&quot; as to how Google should go about doing that.
+
+Brinkema&#x27;s full written ruling will remain under seal for 14 days to allow those involved to issue necessary redactions. Her finding that Google had acted illegally in maintaining its ad-tech business dates back to April of last year; this week&#x27;s decision addressed only the remedy.
+
+Unsurprisingly, Google framed the outcome as a win. Lee-Anne Mulholland, Google&#x27;s vice president for regulatory affairs, told TechCrunch: &quot;We&#x27;re very pleased the Court rejected the DOJ&#x27;s proposal to break apart tools that help small businesses reach new customers and grow.&quot;
+
+The online advertising ecosystem is notoriously opaque and byzantine and, for most people unfamiliar with its complexities, difficult to grasp. Much of the government&#x27;s ad-tech case against Google revolved around the company&#x27;s tactics to ensure that its search engine was the default engine in devices across the world, which in turn helped its ad business dominate as well.</description>
+      <content:encoded><![CDATA[<p>Google spared from ad-business breakup, but judge orders changes to how it operates</p><p>2026-09-02</p><p>Por Lucas Ropek</p><p>https://finance.yahoo.com/media-advertising/articles/google-spared-ad-business-breakup-213834660.html</p><p>The Justice Department has spent years attempting to break up Google&#x27;s gargantuan advertising business across two separate antitrust lawsuits: one filed in 2020 focused on Google&#x27;s dominance in search, and a second filed in 2023 that specifically targeted Google&#x27;s ad-technology business. Both cases argued that the search giant&#x27;s grip on the digital ad economy represents an illegal monopoly.</p><p>Courts have largely sided with the government in both cases. In 2024, a court determined that Google&#x27;s search business, including its exceedingly lucrative search-ad operation, was an illegal monopoly, claiming that the tech giant had &quot;exercised its monopoly power&quot; to dominate the search industry and search ads. Last April, a second court case — this one focused specifically on Google&#x27;s ad-tech business — also came to the same conclusion.</p><p>Following the 2024 ruling, Justice Department officials suggested a variety of ways Google&#x27;s search business could be broken up, including divesting its Chrome browser and Android operating system. But in September 2025, the judge overseeing that case, Amit Mehta, rejected those divestiture requests, ruling that Google could keep both Chrome and Android. He did order the company to end exclusive default-placement deals and share certain search data with competitors (remedies that Google is currently appealing).</p><p>That same pattern held this week. In a ruling handed down on Wednesday, federal judge Leonie M. Brinkema of the Eastern District of Virginia, who oversaw the ad-tech case, said that Google would be able to keep its advertising business. Instead of selling it, the search giant will instead be required to adjust its business practices to favor competitors, Brinkema said. The New York Times notes that the judge&#x27;s ruling &quot;did not provide specifics&quot; as to how Google should go about doing that.</p><p>Brinkema&#x27;s full written ruling will remain under seal for 14 days to allow those involved to issue necessary redactions. Her finding that Google had acted illegally in maintaining its ad-tech business dates back to April of last year; this week&#x27;s decision addressed only the remedy.</p><p>Unsurprisingly, Google framed the outcome as a win. Lee-Anne Mulholland, Google&#x27;s vice president for regulatory affairs, told TechCrunch: &quot;We&#x27;re very pleased the Court rejected the DOJ&#x27;s proposal to break apart tools that help small businesses reach new customers and grow.&quot;</p><p>The online advertising ecosystem is notoriously opaque and byzantine and, for most people unfamiliar with its complexities, difficult to grasp. Much of the government&#x27;s ad-tech case against Google revolved around the company&#x27;s tactics to ensure that its search engine was the default engine in devices across the world, which in turn helped its ad business dominate as well.</p>]]></content:encoded>
+      <pubDate>Wed, 02 Sep 2026 23:11:24 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-09-02_Google_spared_from_ad-business_breakup_but_judge_orders_changes_to_how_it_operates.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-09-02_Google_spared_from_ad-business_breakup_but_judge_orders_changes_to_how_it_operates.mp3" length="1687319" type="audio/mpeg"/>
+      <itunes:duration>00:03:00</itunes:duration>
+      <itunes:author>Lucas Ropek</itunes:author>
+      <itunes:summary>Google spared from ad-business breakup, but judge orders changes to how it operates
+
+2026-09-02
+
+Por Lucas Ropek
+
+https://finance.yahoo.com/media-advertising/articles/google-spared-ad-business-breakup-213834660.html
+
+The Justice Department has spent years attempting to break up Google&#x27;s gargantuan advertising business across two separate antitrust lawsuits: one filed in 2020 focused on Google&#x27;s dominance in search, and a second filed in 2023 that specifically targeted Google&#x27;s ad-technology business. Both cases argued that the search giant&#x27;s grip on the digital ad economy represents an illegal monopoly.
+
+Courts have largely sided with the government in both cases. In 2024, a court determined that Google&#x27;s search business, including its exceedingly lucrative search-ad operation, was an illegal monopoly, claiming that the tech giant had &quot;exercised its monopoly power&quot; to dominate the search industry and search ads. Last April, a second court case — this one focused specifically on Google&#x27;s ad-tech business — also came to the same conclusion.
+
+Following the 2024 ruling, Justice Department officials suggested a variety of ways Google&#x27;s search business could be broken up, including divesting its Chrome browser and Android operating system. But in September 2025, the judge overseeing that case, Amit Mehta, rejected those divestiture requests, ruling that Google could keep both Chrome and Android. He did order the company to end exclusive default-placement deals and share certain search data with competitors (remedies that Google is currently appealing).
+
+That same pattern held this week. In a ruling handed down on Wednesday, federal judge Leonie M. Brinkema of the Eastern District of Virginia, who oversaw the ad-tech case, said that Google would be able to keep its advertising business. Instead of selling it, the search giant will instead be required to adjust its business practices to favor competitors, Brinkema said. The New York Times notes that the judge&#x27;s ruling &quot;did not provide specifics&quot; as to how Google should go about doing that.
+
+Brinkema&#x27;s full written ruling will remain under seal for 14 days to allow those involved to issue necessary redactions. Her finding that Google had acted illegally in maintaining its ad-tech business dates back to April of last year; this week&#x27;s decision addressed only the remedy.
+
+Unsurprisingly, Google framed the outcome as a win. Lee-Anne Mulholland, Google&#x27;s vice president for regulatory affairs, told TechCrunch: &quot;We&#x27;re very pleased the Court rejected the DOJ&#x27;s proposal to break apart tools that help small businesses reach new customers and grow.&quot;
+
+The online advertising ecosystem is notoriously opaque and byzantine and, for most people unfamiliar with its complexities, difficult to grasp. Much of the government&#x27;s ad-tech case against Google revolved around the company&#x27;s tactics to ensure that its search engine was the default engine in devices across the world, which in turn helped its ad business dominate as well.</itunes:summary>
+    </item>
+
+    <item>
+      <title>Fixed Income Outlook - A World of Increasing Dispersion</title>
+      <author>Texto propio</author>
+      <description>Fixed Income Outlook - A World of Increasing Dispersion
+
+2026-09-02
+
+Por Texto propio
+
+Fixed Income Outlook: A World of Increasing Dispersion
+
+Aug 27, 2026
+
+Dynamics that drive global economic growth and markets are becoming more uneven, making active management increasingly important for fixed income investors.
+
+Key Takeaways
+
+Growth drivers are becoming increasingly differentiated as fiscal policy, AI adoption and trade dynamics vary across regions, creating more diverse market outcomes.
+
+While corporate fundamentals remain broadly healthy, widening dispersion among issuers increases the importance of identifying long-term winners and avoiding weaker credits.
+
+Higher real yields allow investors to earn attractive income without taking excessive credit risk, supporting the case for high-quality fixed income.
+
+Benchmark concentration in highly indebted issuers may leave attractive opportunities outside traditional index exposures.
+
+As fixed-income investors look for opportunities in the second half of 2026, they should be prepared to be selective.
+
+The global economy has demonstrated resilience in the face of higher interest rates, persistent inflation and geopolitical tensions, but the main forces driving growth are less synchronized than previously. Fiscal capacity varies across countries, AI adoption is creating distinct winners and losers, and shifting trade policies are reshaping supply chains and capital flows.
+
+“The result is a world where economic and market outcomes are becoming increasingly differentiated, creating both opportunities and risks for active investors,” says Vishal Khanduja, Portfolio Manager and Head of the Broad Markets Fixed Income Team at Morgan Stanley Investment Management. “This dispersion is increasingly reflected in monetary policy: The era of coordinated central-bank actions appears behind us as policymakers respond to different inflation pressures, growth trajectories, labor-market conditions and fiscal realities.”
+
+Corporate fundamentals remain broadly healthy, but the divide between stronger and weaker issuers keeps widening. AI-related investment is driving substantial capital spending and debt issuance, while technological disruption is challenging established business models across industries. That divergence is increasingly reflected in credit spreads.
+
+&quot;The opportunity is less about capturing further spread compression and more about identifying future winners while avoiding future losers,&quot; Khanduja says.
+
+Income Is Back in Fixed Income
+
+One of the most compelling features of today&#x27;s fixed income market is the return of attractive income opportunities. After more than a decade of exceptionally low interest rates, investors can once again generate meaningful income without moving significantly down the credit-quality spectrum.
+
+Real yields—returns after adjusting for inflation—remain near the upper end of their post-Global Financial Crisis range, improving the relative attractiveness of fixed income valuations.
+
+At the same time, investor demand has increasingly shifted toward income and carry as primary sources of return. That demand has been reinforced by investors rebalancing portfolios after several years of strong equity-market performance.
+
+These flows have continued to support high-quality credit and securitized markets, even as issuance has remained elevated.
+
+Active Management Is Critical
+
+Fixed income benchmarks have been increasingly concentrated in highly indebted sovereign and corporate issuers. As a result, benchmark composition is becoming less aligned with the broader opportunity set and some of the most attractive investments may lie outside traditional benchmark exposures.
+
+&quot;This environment reinforces the importance of active management, dynamic asset allocation and resilient portfolio construction,&quot; Khanduja says. &quot;Spreads are tight, macroeconomic outcomes are becoming more dispersed and issuer fundamentals are diverging. As a result, investors have less room for erro
+
+[Transcripcion recortada]</description>
+      <content:encoded><![CDATA[<p>Fixed Income Outlook - A World of Increasing Dispersion</p><p>2026-09-02</p><p>Por Texto propio</p><p>Fixed Income Outlook: A World of Increasing Dispersion</p><p>Aug 27, 2026</p><p>Dynamics that drive global economic growth and markets are becoming more uneven, making active management increasingly important for fixed income investors.</p><p>Key Takeaways</p><p>Growth drivers are becoming increasingly differentiated as fiscal policy, AI adoption and trade dynamics vary across regions, creating more diverse market outcomes.</p><p>While corporate fundamentals remain broadly healthy, widening dispersion among issuers increases the importance of identifying long-term winners and avoiding weaker credits.</p><p>Higher real yields allow investors to earn attractive income without taking excessive credit risk, supporting the case for high-quality fixed income.</p><p>Benchmark concentration in highly indebted issuers may leave attractive opportunities outside traditional index exposures.</p><p>As fixed-income investors look for opportunities in the second half of 2026, they should be prepared to be selective.</p><p>The global economy has demonstrated resilience in the face of higher interest rates, persistent inflation and geopolitical tensions, but the main forces driving growth are less synchronized than previously. Fiscal capacity varies across countries, AI adoption is creating distinct winners and losers, and shifting trade policies are reshaping supply chains and capital flows.</p><p>“The result is a world where economic and market outcomes are becoming increasingly differentiated, creating both opportunities and risks for active investors,” says Vishal Khanduja, Portfolio Manager and Head of the Broad Markets Fixed Income Team at Morgan Stanley Investment Management. “This dispersion is increasingly reflected in monetary policy: The era of coordinated central-bank actions appears behind us as policymakers respond to different inflation pressures, growth trajectories, labor-market conditions and fiscal realities.”</p><p>Corporate fundamentals remain broadly healthy, but the divide between stronger and weaker issuers keeps widening. AI-related investment is driving substantial capital spending and debt issuance, while technological disruption is challenging established business models across industries. That divergence is increasingly reflected in credit spreads.</p><p>&quot;The opportunity is less about capturing further spread compression and more about identifying future winners while avoiding future losers,&quot; Khanduja says.</p><p>Income Is Back in Fixed Income</p><p>One of the most compelling features of today&#x27;s fixed income market is the return of attractive income opportunities. After more than a decade of exceptionally low interest rates, investors can once again generate meaningful income without moving significantly down the credit-quality spectrum.</p><p>Real yields—returns after adjusting for inflation—remain near the upper end of their post-Global Financial Crisis range, improving the relative attractiveness of fixed income valuations.</p><p>At the same time, investor demand has increasingly shifted toward income and carry as primary sources of return. That demand has been reinforced by investors rebalancing portfolios after several years of strong equity-market performance.</p><p>These flows have continued to support high-quality credit and securitized markets, even as issuance has remained elevated.</p><p>Active Management Is Critical</p><p>Fixed income benchmarks have been increasingly concentrated in highly indebted sovereign and corporate issuers. As a result, benchmark composition is becoming less aligned with the broader opportunity set and some of the most attractive investments may lie outside traditional benchmark exposures.</p><p>&quot;This environment reinforces the importance of active management, dynamic asset allocation and resilient portfolio construction,&quot; Khanduja says. &quot;Spreads are tight, macroeconomic outcomes are becoming more dispersed and issuer fundamentals are diverging. As a result, investors have less room for erro</p>]]></content:encoded>
+      <pubDate>Wed, 02 Sep 2026 23:10:38 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-09-02_Fixed_Income_Outlook_-_A_World_of_Increasing_Dispersion.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-09-02_Fixed_Income_Outlook_-_A_World_of_Increasing_Dispersion.mp3" length="3715663" type="audio/mpeg"/>
+      <itunes:duration>00:06:48</itunes:duration>
+      <itunes:author>Texto propio</itunes:author>
+      <itunes:summary>Fixed Income Outlook - A World of Increasing Dispersion
+
+2026-09-02
+
+Por Texto propio
+
+Fixed Income Outlook: A World of Increasing Dispersion
+
+Aug 27, 2026
+
+Dynamics that drive global economic growth and markets are becoming more uneven, making active management increasingly important for fixed income investors.
+
+Key Takeaways
+
+Growth drivers are becoming increasingly differentiated as fiscal policy, AI adoption and trade dynamics vary across regions, creating more diverse market outcomes.
+
+While corporate fundamentals remain broadly healthy, widening dispersion among issuers increases the importance of identifying long-term winners and avoiding weaker credits.
+
+Higher real yields allow investors to earn attractive income without taking excessive credit risk, supporting the case for high-quality fixed income.
+
+Benchmark concentration in highly indebted issuers may leave attractive opportunities outside traditional index exposures.
+
+As fixed-income investors look for opportunities in the second half of 2026, they should be prepared to be selective.
+
+The global economy has demonstrated resilience in the face of higher interest rates, persistent inflation and geopolitical tensions, but the main forces driving growth are less synchronized than previously. Fiscal capacity varies across countries, AI adoption is creating distinct winners and losers, and shifting trade policies are reshaping supply chains and capital flows.
+
+“The result is a world where economic and market outcomes are becoming increasingly differentiated, creating both opportunities and risks for active investors,” says Vishal Khanduja, Portfolio Manager and Head of the Broad Markets Fixed Income Team at Morgan Stanley Investment Management. “This dispersion is increasingly reflected in monetary policy: The era of coordinated central-bank actions appears behind us as policymakers respond to different inflation pressures, growth trajectories, labor-market conditions and fiscal realities.”
+
+Corporate fundamentals remain broadly healthy, but the divide between stronger and weaker issuers keeps widening. AI-related investment is driving substantial capital spending and debt issuance, while technological disruption is challenging established business models across industries. That divergence is increasingly reflected in credit spreads.
+
+&quot;The opportunity is less about capturing further spread compression and more about identifying future winners while avoiding future losers,&quot; Khanduja says.
+
+Income Is Back in Fixed Income
+
+One of the most compelling features of today&#x27;s fixed income market is the return of attractive income opportunities. After more than a decade of exceptionally low interest rates, investors can once again generate meaningful income without moving significantly down the credit-quality spectrum.
+
+Real yields—returns after adjusting for inflation—remain near the upper end of their post-Global Financial Crisis range, improving the relative attractiveness of fixed income valuations.
+
+At the same time, investor demand has increasingly shifted toward income and carry as primary sources of return. That demand has been reinforced by investors rebalancing portfolios after several years of strong equity-market performance.
+
+These flows have continued to support high-quality credit and securitized markets, even as issuance has remained elevated.
+
+Active Management Is Critical
+
+Fixed income benchmarks have been increasingly concentrated in highly indebted sovereign and corporate issuers. As a result, benchmark composition is becoming less aligned with the broader opportunity set and some of the most attractive investments may lie outside traditional benchmark exposures.
+
+&quot;This environment reinforces the importance of active management, dynamic asset allocation and resilient portfolio construction,&quot; Khanduja says. &quot;Spreads are tight, macroeconomic outcomes are becoming more dispersed and issuer fundamentals are diverging. As a result, investors have less room for erro
+
+[Transcripcion recortada]</itunes:summary>
+    </item>
 
     <item>
       <title>Google won&#x27;t be forced to break up its ads business</title>
