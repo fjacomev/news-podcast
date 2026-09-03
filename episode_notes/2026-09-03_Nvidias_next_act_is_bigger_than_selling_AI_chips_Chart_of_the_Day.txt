@@ -1,0 +1,47 @@
+Nvidia's next act is bigger than selling AI chips: Chart of the Day
+
+2026-09-03
+
+Por Jared Blikre
+
+https://finance.yahoo.com/markets/article/nvidias-next-act-is-bigger-than-selling-ai-chips-chart-of-the-day-100000072.html
+
+Custom AI chips are one of the biggest threats to Nvidia's dominance. CEO Jensen Huang's answer is to make money from them anyway.
+
+Nvidia (NVDA) just put $3.5 billion into MediaTek, a Taiwanese chipmaker, which will help customers build custom AI chips that plug into Nvidia's broader systems. Meanwhile, Anthropic committed $35 billion to rent Nvidia-powered computing capacity from Lambda, a specialized AI cloud provider.
+
+Those numbers aren't apples to apples. The first is money Nvidia is investing. The second is money Anthropic has agreed to spend on cloud computing. But the deals point toward the same long-term plan.
+
+Huang wants Nvidia to become the architecture of AI, not merely its dominant chipmaker.
+
+Stripped to its bare bones, an AI factory takes in electricity and data and outputs tokens, the currency of AI. Or, as Huang recently put it, "The input is electrons, the output is tokens."
+
+On its most recent earnings call, Nvidia said its revenue opportunity for each gigawatt of AI-factory power capacity has climbed from roughly $18 billion with Hopper to $25 billion with Grace Blackwell and $40 billion with Vera Rubin.
+
+That last one isn't just a newer GPU. Vera Rubin combines Nvidia's newest CPU and GPUs with its own networking, memory, and other infrastructure around them. That rising opportunity comes from Nvidia selling more of the factory around the GPU.
+
+MediaTek pushes the strategy one step further.
+
+Its customers can build chips that compete with Nvidia GPUs, then use NVLink Fusion to connect those chips into Nvidia's broader data-center architecture. Nvidia hasn't disclosed what it can make from a factory when someone else supplies the main AI chip. But losing the chip no longer necessarily means losing the rest of the sale.
+
+Amazon (AMZN) shows how this can work at scale. AWS plans to add 2 million Nvidia GPUs while also connecting its homegrown Trainium AI chips more deeply into Nvidia's architecture. Nvidia is positioning itself to participate either way.
+
+How Nvidia is expanding the AI factory
+
+| Date | Move | Strategy |
+
+| May 2025 | Launches NVLink Fusion for custom chips | Expand architecture |
+
+| January 2026 | Invests $2B in CoreWeave | Build more capacity |
+
+| March 2026 | Invests $2B in Marvell | Expand architecture |
+
+| August 2026 | Wall Street financing push targets $500B+ | Build more capacity |
+
+| August 2026 | AWS adds 2M Nvidia GPUs and links Trainium to Nvidia architecture | Both |
+
+| Aug. 31 | Invests $3.5B in MediaTek | Expand architecture |
+
+| Sept. 1 | Anthropic commits $35B to Lambda capacity | Build more capacity |
+
+The push to build more capacity attacks another familiar AI bottleneck. First, it was chips. Then power. Now money is joining the list.
