@@ -7,7 +7,7 @@
     <link>https://fjacomev.github.io/news-podcast</link>
     <description>Podcast personal de noticias, leido en voz local</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2026 13:59:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 17:58:18 GMT</lastBuildDate>
     <image>
       <url>https://fjacomev.github.io/news-podcast/cover.jpg</url>
       <title>Fernando AI News</title>
@@ -18,6 +18,79 @@
     <itunes:summary>Podcast personal de noticias, leido en voz local</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
+
+    <item>
+      <title>Anthropic changes data retention policy after pushback from customers</title>
+      <author>Ashley Capoot</author>
+      <description>Anthropic changes data retention policy after pushback from customers
+
+2026-09-03
+
+Por Ashley Capoot
+
+https://www.cnbc.com/2026/09/01/anthropic-data-retention.html
+
+Anthropic on Tuesday announced it will change a controversial data retention policy for its business customers after &quot;a lot of feedback,&quot; and it said it plans to implement a new solution called Enterprise Frontier Safeguards instead.
+
+The company introduced its existing data retention policy in June alongside the launch of Claude Fable 5 and Mythos 5, two of the company&#x27;s most advanced artificial intelligence models. Anthropic said at the time that it would require 30-day retention for all traffic on those models to help defend against misuse and &quot;complex and novel&quot; cyberattacks.
+
+Anthropic pledged not to use that data for any &quot;non-safety-related purpose,&quot; including model training, but many of its enterprise users expressed concern.
+
+Kate Jensen, head of Americas at Anthropic, told CNBC that the company spent hundreds of hours working with customers to develop another solution.
+
+With the launch of Enterprise Frontier Safeguards, Anthropic said businesses will be able to control how their data is reviewed, stored and managed, and they will also be able to carry out automated safety monitoring where no Anthropic human review is required. The company said it will not charge for Enterprise Frontier Safeguards, and that the controls will work whether users access Anthropic&#x27;s technology directly or through a cloud provider.
+
+&quot;We can do the scanning that we really need to, to help everybody feel confident, but it&#x27;s on their systems and their data so that they don&#x27;t have to compromise on their own privacy posture,&quot; Jensen said in an interview.
+
+Anthropic&#x27;s June data retention policy still applies to its non-enterprise subscribers that use its Mythos-class models.
+
+Founded in 2021, Anthropic generates the vast majority of its revenue by selling to enterprises, and the market is crucial as it gears up for what is widely expected to be a massive IPO. The company is also racing to say ahead of rivals like OpenAI, which introduced its own data retention solution earlier this month.
+
+Last week, Anthropic CEO Dario Amodei previewed Enterprise Frontier Safeguards during an interview with CNBC about the company&#x27;s expanded partnership with Salesforce. Amodei said the solution helps ensure that Salesforce&#x27;s customer data remains private, and that Anthropic&#x27;s models &quot;don&#x27;t run out of control.&quot; He added that Anthropic put a &quot;huge amount of effort&quot; into managing permissions for the integration between the two companies.
+
+Jensen said she feels &quot;very confident&quot; that Anthropic will see accelerated deployment following the announcement, especially on customers&#x27; most sensitive workloads. Anthropic also unveiled its two latest models on Tuesday, Claude Fable 5.1 and Mythos 5.1, which the company said show improved coding, knowledge work and research capabilities.
+
+Enterprise Frontier Safeguards will roll out in phases, and Anthropic said it&#x27;s aiming for broader availability this fall.
+
+WATCH: Anthropic pushes into physical world with new standard to help AI agents operate machines</description>
+      <content:encoded><![CDATA[<p>Anthropic changes data retention policy after pushback from customers</p><p>2026-09-03</p><p>Por Ashley Capoot</p><p>https://www.cnbc.com/2026/09/01/anthropic-data-retention.html</p><p>Anthropic on Tuesday announced it will change a controversial data retention policy for its business customers after &quot;a lot of feedback,&quot; and it said it plans to implement a new solution called Enterprise Frontier Safeguards instead.</p><p>The company introduced its existing data retention policy in June alongside the launch of Claude Fable 5 and Mythos 5, two of the company&#x27;s most advanced artificial intelligence models. Anthropic said at the time that it would require 30-day retention for all traffic on those models to help defend against misuse and &quot;complex and novel&quot; cyberattacks.</p><p>Anthropic pledged not to use that data for any &quot;non-safety-related purpose,&quot; including model training, but many of its enterprise users expressed concern.</p><p>Kate Jensen, head of Americas at Anthropic, told CNBC that the company spent hundreds of hours working with customers to develop another solution.</p><p>With the launch of Enterprise Frontier Safeguards, Anthropic said businesses will be able to control how their data is reviewed, stored and managed, and they will also be able to carry out automated safety monitoring where no Anthropic human review is required. The company said it will not charge for Enterprise Frontier Safeguards, and that the controls will work whether users access Anthropic&#x27;s technology directly or through a cloud provider.</p><p>&quot;We can do the scanning that we really need to, to help everybody feel confident, but it&#x27;s on their systems and their data so that they don&#x27;t have to compromise on their own privacy posture,&quot; Jensen said in an interview.</p><p>Anthropic&#x27;s June data retention policy still applies to its non-enterprise subscribers that use its Mythos-class models.</p><p>Founded in 2021, Anthropic generates the vast majority of its revenue by selling to enterprises, and the market is crucial as it gears up for what is widely expected to be a massive IPO. The company is also racing to say ahead of rivals like OpenAI, which introduced its own data retention solution earlier this month.</p><p>Last week, Anthropic CEO Dario Amodei previewed Enterprise Frontier Safeguards during an interview with CNBC about the company&#x27;s expanded partnership with Salesforce. Amodei said the solution helps ensure that Salesforce&#x27;s customer data remains private, and that Anthropic&#x27;s models &quot;don&#x27;t run out of control.&quot; He added that Anthropic put a &quot;huge amount of effort&quot; into managing permissions for the integration between the two companies.</p><p>Jensen said she feels &quot;very confident&quot; that Anthropic will see accelerated deployment following the announcement, especially on customers&#x27; most sensitive workloads. Anthropic also unveiled its two latest models on Tuesday, Claude Fable 5.1 and Mythos 5.1, which the company said show improved coding, knowledge work and research capabilities.</p><p>Enterprise Frontier Safeguards will roll out in phases, and Anthropic said it&#x27;s aiming for broader availability this fall.</p><p>WATCH: Anthropic pushes into physical world with new standard to help AI agents operate machines</p>]]></content:encoded>
+      <pubDate>Thu, 03 Sep 2026 17:58:16 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-09-03_Anthropic_changes_data_retention_policy_after_pushback_from_customers.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-09-03_Anthropic_changes_data_retention_policy_after_pushback_from_customers.mp3" length="1822775" type="audio/mpeg"/>
+      <itunes:duration>00:03:16</itunes:duration>
+      <itunes:author>Ashley Capoot</itunes:author>
+      <itunes:summary>Anthropic changes data retention policy after pushback from customers
+
+2026-09-03
+
+Por Ashley Capoot
+
+https://www.cnbc.com/2026/09/01/anthropic-data-retention.html
+
+Anthropic on Tuesday announced it will change a controversial data retention policy for its business customers after &quot;a lot of feedback,&quot; and it said it plans to implement a new solution called Enterprise Frontier Safeguards instead.
+
+The company introduced its existing data retention policy in June alongside the launch of Claude Fable 5 and Mythos 5, two of the company&#x27;s most advanced artificial intelligence models. Anthropic said at the time that it would require 30-day retention for all traffic on those models to help defend against misuse and &quot;complex and novel&quot; cyberattacks.
+
+Anthropic pledged not to use that data for any &quot;non-safety-related purpose,&quot; including model training, but many of its enterprise users expressed concern.
+
+Kate Jensen, head of Americas at Anthropic, told CNBC that the company spent hundreds of hours working with customers to develop another solution.
+
+With the launch of Enterprise Frontier Safeguards, Anthropic said businesses will be able to control how their data is reviewed, stored and managed, and they will also be able to carry out automated safety monitoring where no Anthropic human review is required. The company said it will not charge for Enterprise Frontier Safeguards, and that the controls will work whether users access Anthropic&#x27;s technology directly or through a cloud provider.
+
+&quot;We can do the scanning that we really need to, to help everybody feel confident, but it&#x27;s on their systems and their data so that they don&#x27;t have to compromise on their own privacy posture,&quot; Jensen said in an interview.
+
+Anthropic&#x27;s June data retention policy still applies to its non-enterprise subscribers that use its Mythos-class models.
+
+Founded in 2021, Anthropic generates the vast majority of its revenue by selling to enterprises, and the market is crucial as it gears up for what is widely expected to be a massive IPO. The company is also racing to say ahead of rivals like OpenAI, which introduced its own data retention solution earlier this month.
+
+Last week, Anthropic CEO Dario Amodei previewed Enterprise Frontier Safeguards during an interview with CNBC about the company&#x27;s expanded partnership with Salesforce. Amodei said the solution helps ensure that Salesforce&#x27;s customer data remains private, and that Anthropic&#x27;s models &quot;don&#x27;t run out of control.&quot; He added that Anthropic put a &quot;huge amount of effort&quot; into managing permissions for the integration between the two companies.
+
+Jensen said she feels &quot;very confident&quot; that Anthropic will see accelerated deployment following the announcement, especially on customers&#x27; most sensitive workloads. Anthropic also unveiled its two latest models on Tuesday, Claude Fable 5.1 and Mythos 5.1, which the company said show improved coding, knowledge work and research capabilities.
+
+Enterprise Frontier Safeguards will roll out in phases, and Anthropic said it&#x27;s aiming for broader availability this fall.
+
+WATCH: Anthropic pushes into physical world with new standard to help AI agents operate machines</itunes:summary>
+    </item>
 
     <item>
       <title>The Big Power of Small Annoyances</title>
@@ -7652,111 +7725,6 @@ Here are some notable stocks that Yahoo Finance readers are viewing this morning
 Click here for the latest stock market news and in-depth analysis, including events that move stocks
 
 Read the latest financial and business news from Yahoo Finance</itunes:summary>
-    </item>
-
-    <item>
-      <title>Software is crushing chips by a record margin: Chart of the Day</title>
-      <author>Jared Blikre</author>
-      <description>Software is crushing chips by a record margin: Chart of the Day
-
-2026-08-26
-
-Por Jared Blikre
-
-https://finance.yahoo.com/markets/article/software-is-crushing-chips-by-a-record-margin-chart-of-the-day-100000109.html
-
-Software stocks are near record highs. Chips are still stuck in a bear market — except Nvidia (NVDA) never really joined them.
-
-The handoff happened almost to the day.
-
-Chip stocks peaked on June 22. Software bottomed right around then, kicking off a multitrillion-dollar reversal that has sent the two groups in almost perfectly opposite directions.
-
-Strip out the megacaps, and the symmetry is wild. The equal-weight SPDR S&amp;P Software &amp; Services ETF (XSW) is up about 24% since then, while the equal-weight SPDR S&amp;P Semiconductor ETF (XSD) is down about 24%.
-
-That nearly 50-percentage-point gap is the widest comparable software-over-chips move in the ETFs&#x27; history, dating back to 2011.
-
-And this is not an index quirk.
-
-In a Yahoo Finance basket of 45 software stocks, 37 are higher since June 22. Among 60 chip stocks, 59 are lower.
-
-The money involved is enormous. Microsoft (MSFT) alone has added nearly $900 billion in market value since the turn. Micron (MU), Taiwan Semiconductor Manufacturing (TSM), Arm (ARM), and AMD (AMD) have collectively shed roughly $950 billion.
-
-Across the full comparison, software has added about $1.5 trillion, while chips have lost roughly $2.6 trillion.
-
-Fundstrat head of technical strategy Mark Newton thinks software simply got its pain out of the way first.
-
-&quot;They&#x27;ve already been through this correction, and now they&#x27;ve started to trade a lot better,&quot; he said.
-
-Software had tried to grab the baton from chips this spring, only to lose it again.
-
-This time seems different. Salesforce (CRM) bottomed on June 22, while Adobe (ADBE), ServiceNow (NOW), and Microsoft made lows within the next three sessions. Micron peaked on June 25.
-
-Longer-term index data shows just how unusual that handoff has been.
-
-From June 22 through Friday, the S&amp;P North American Technology Software Index gained about 19%, while the Philadelphia Semiconductor Index (SOXX) fell about 20%. The only wider two-month software-over-chips gaps in common data going back to 1994 came around the dot-com peak, when both groups were surging.
-
-This is the biggest on record, with software rising while chips fell.
-
-Then there&#x27;s Nvidia (NVDA).
-
-The stock had its worst day since July on Monday, yet it has gone essentially nowhere for roughly four months, even as the broader chip trade rolled over. At several points during the sell-off, Nvidia held up more like the megacaps that were dodging the chip wipeout than the semiconductor group around it.
-
-That makes this earnings week unusually interesting.
-
-Nvidia reports on Wednesday. After four months of trading sideways while the rest of the chip trade cracked, the chipmaker&#x27;s ability to keep defying the sell-off is about to get a major test.</description>
-      <content:encoded><![CDATA[<p>Software is crushing chips by a record margin: Chart of the Day</p><p>2026-08-26</p><p>Por Jared Blikre</p><p>https://finance.yahoo.com/markets/article/software-is-crushing-chips-by-a-record-margin-chart-of-the-day-100000109.html</p><p>Software stocks are near record highs. Chips are still stuck in a bear market — except Nvidia (NVDA) never really joined them.</p><p>The handoff happened almost to the day.</p><p>Chip stocks peaked on June 22. Software bottomed right around then, kicking off a multitrillion-dollar reversal that has sent the two groups in almost perfectly opposite directions.</p><p>Strip out the megacaps, and the symmetry is wild. The equal-weight SPDR S&amp;P Software &amp; Services ETF (XSW) is up about 24% since then, while the equal-weight SPDR S&amp;P Semiconductor ETF (XSD) is down about 24%.</p><p>That nearly 50-percentage-point gap is the widest comparable software-over-chips move in the ETFs&#x27; history, dating back to 2011.</p><p>And this is not an index quirk.</p><p>In a Yahoo Finance basket of 45 software stocks, 37 are higher since June 22. Among 60 chip stocks, 59 are lower.</p><p>The money involved is enormous. Microsoft (MSFT) alone has added nearly $900 billion in market value since the turn. Micron (MU), Taiwan Semiconductor Manufacturing (TSM), Arm (ARM), and AMD (AMD) have collectively shed roughly $950 billion.</p><p>Across the full comparison, software has added about $1.5 trillion, while chips have lost roughly $2.6 trillion.</p><p>Fundstrat head of technical strategy Mark Newton thinks software simply got its pain out of the way first.</p><p>&quot;They&#x27;ve already been through this correction, and now they&#x27;ve started to trade a lot better,&quot; he said.</p><p>Software had tried to grab the baton from chips this spring, only to lose it again.</p><p>This time seems different. Salesforce (CRM) bottomed on June 22, while Adobe (ADBE), ServiceNow (NOW), and Microsoft made lows within the next three sessions. Micron peaked on June 25.</p><p>Longer-term index data shows just how unusual that handoff has been.</p><p>From June 22 through Friday, the S&amp;P North American Technology Software Index gained about 19%, while the Philadelphia Semiconductor Index (SOXX) fell about 20%. The only wider two-month software-over-chips gaps in common data going back to 1994 came around the dot-com peak, when both groups were surging.</p><p>This is the biggest on record, with software rising while chips fell.</p><p>Then there&#x27;s Nvidia (NVDA).</p><p>The stock had its worst day since July on Monday, yet it has gone essentially nowhere for roughly four months, even as the broader chip trade rolled over. At several points during the sell-off, Nvidia held up more like the megacaps that were dodging the chip wipeout than the semiconductor group around it.</p><p>That makes this earnings week unusually interesting.</p><p>Nvidia reports on Wednesday. After four months of trading sideways while the rest of the chip trade cracked, the chipmaker&#x27;s ability to keep defying the sell-off is about to get a major test.</p>]]></content:encoded>
-      <pubDate>Wed, 26 Aug 2026 14:58:37 GMT</pubDate>
-      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-08-26_Software_is_crushing_chips_by_a_record_margin_Chart_of_the_Day.mp3</guid>
-      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-08-26_Software_is_crushing_chips_by_a_record_margin_Chart_of_the_Day.mp3" length="1725325" type="audio/mpeg"/>
-      <itunes:duration>00:03:05</itunes:duration>
-      <itunes:author>Jared Blikre</itunes:author>
-      <itunes:summary>Software is crushing chips by a record margin: Chart of the Day
-
-2026-08-26
-
-Por Jared Blikre
-
-https://finance.yahoo.com/markets/article/software-is-crushing-chips-by-a-record-margin-chart-of-the-day-100000109.html
-
-Software stocks are near record highs. Chips are still stuck in a bear market — except Nvidia (NVDA) never really joined them.
-
-The handoff happened almost to the day.
-
-Chip stocks peaked on June 22. Software bottomed right around then, kicking off a multitrillion-dollar reversal that has sent the two groups in almost perfectly opposite directions.
-
-Strip out the megacaps, and the symmetry is wild. The equal-weight SPDR S&amp;P Software &amp; Services ETF (XSW) is up about 24% since then, while the equal-weight SPDR S&amp;P Semiconductor ETF (XSD) is down about 24%.
-
-That nearly 50-percentage-point gap is the widest comparable software-over-chips move in the ETFs&#x27; history, dating back to 2011.
-
-And this is not an index quirk.
-
-In a Yahoo Finance basket of 45 software stocks, 37 are higher since June 22. Among 60 chip stocks, 59 are lower.
-
-The money involved is enormous. Microsoft (MSFT) alone has added nearly $900 billion in market value since the turn. Micron (MU), Taiwan Semiconductor Manufacturing (TSM), Arm (ARM), and AMD (AMD) have collectively shed roughly $950 billion.
-
-Across the full comparison, software has added about $1.5 trillion, while chips have lost roughly $2.6 trillion.
-
-Fundstrat head of technical strategy Mark Newton thinks software simply got its pain out of the way first.
-
-&quot;They&#x27;ve already been through this correction, and now they&#x27;ve started to trade a lot better,&quot; he said.
-
-Software had tried to grab the baton from chips this spring, only to lose it again.
-
-This time seems different. Salesforce (CRM) bottomed on June 22, while Adobe (ADBE), ServiceNow (NOW), and Microsoft made lows within the next three sessions. Micron peaked on June 25.
-
-Longer-term index data shows just how unusual that handoff has been.
-
-From June 22 through Friday, the S&amp;P North American Technology Software Index gained about 19%, while the Philadelphia Semiconductor Index (SOXX) fell about 20%. The only wider two-month software-over-chips gaps in common data going back to 1994 came around the dot-com peak, when both groups were surging.
-
-This is the biggest on record, with software rising while chips fell.
-
-Then there&#x27;s Nvidia (NVDA).
-
-The stock had its worst day since July on Monday, yet it has gone essentially nowhere for roughly four months, even as the broader chip trade rolled over. At several points during the sell-off, Nvidia held up more like the megacaps that were dodging the chip wipeout than the semiconductor group around it.
-
-That makes this earnings week unusually interesting.
-
-Nvidia reports on Wednesday. After four months of trading sideways while the rest of the chip trade cracked, the chipmaker&#x27;s ability to keep defying the sell-off is about to get a major test.</itunes:summary>
     </item>
   </channel>
 </rss>

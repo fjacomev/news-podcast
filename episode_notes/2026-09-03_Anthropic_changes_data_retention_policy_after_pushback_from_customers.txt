@@ -1,0 +1,31 @@
+Anthropic changes data retention policy after pushback from customers
+
+2026-09-03
+
+Por Ashley Capoot
+
+https://www.cnbc.com/2026/09/01/anthropic-data-retention.html
+
+Anthropic on Tuesday announced it will change a controversial data retention policy for its business customers after "a lot of feedback," and it said it plans to implement a new solution called Enterprise Frontier Safeguards instead.
+
+The company introduced its existing data retention policy in June alongside the launch of Claude Fable 5 and Mythos 5, two of the company's most advanced artificial intelligence models. Anthropic said at the time that it would require 30-day retention for all traffic on those models to help defend against misuse and "complex and novel" cyberattacks.
+
+Anthropic pledged not to use that data for any "non-safety-related purpose," including model training, but many of its enterprise users expressed concern.
+
+Kate Jensen, head of Americas at Anthropic, told CNBC that the company spent hundreds of hours working with customers to develop another solution.
+
+With the launch of Enterprise Frontier Safeguards, Anthropic said businesses will be able to control how their data is reviewed, stored and managed, and they will also be able to carry out automated safety monitoring where no Anthropic human review is required. The company said it will not charge for Enterprise Frontier Safeguards, and that the controls will work whether users access Anthropic's technology directly or through a cloud provider.
+
+"We can do the scanning that we really need to, to help everybody feel confident, but it's on their systems and their data so that they don't have to compromise on their own privacy posture," Jensen said in an interview.
+
+Anthropic's June data retention policy still applies to its non-enterprise subscribers that use its Mythos-class models.
+
+Founded in 2021, Anthropic generates the vast majority of its revenue by selling to enterprises, and the market is crucial as it gears up for what is widely expected to be a massive IPO. The company is also racing to say ahead of rivals like OpenAI, which introduced its own data retention solution earlier this month.
+
+Last week, Anthropic CEO Dario Amodei previewed Enterprise Frontier Safeguards during an interview with CNBC about the company's expanded partnership with Salesforce. Amodei said the solution helps ensure that Salesforce's customer data remains private, and that Anthropic's models "don't run out of control." He added that Anthropic put a "huge amount of effort" into managing permissions for the integration between the two companies.
+
+Jensen said she feels "very confident" that Anthropic will see accelerated deployment following the announcement, especially on customers' most sensitive workloads. Anthropic also unveiled its two latest models on Tuesday, Claude Fable 5.1 and Mythos 5.1, which the company said show improved coding, knowledge work and research capabilities.
+
+Enterprise Frontier Safeguards will roll out in phases, and Anthropic said it's aiming for broader availability this fall.
+
+WATCH: Anthropic pushes into physical world with new standard to help AI agents operate machines
