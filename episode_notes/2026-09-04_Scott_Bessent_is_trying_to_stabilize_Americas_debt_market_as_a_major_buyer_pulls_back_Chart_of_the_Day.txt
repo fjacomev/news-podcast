@@ -1,0 +1,35 @@
+Scott Bessent is trying to stabilize America’s debt market as a major buyer pulls back: Chart of the Day
+
+2026-09-04
+
+Por Jared Blikre
+
+https://finance.yahoo.com/markets/article/the-bond-market-is-back-in-the-danger-zone--heres-what-could-make-it-worse-chart-of-the-day-100000231.html
+
+The bond market is on shaky ground again. US Treasury Secretary Scott Bessent is trying to keep one of America's biggest foreign debt buyers from making it worse.
+
+Long-term US yields are near multi-decade highs, pushing up mortgage and corporate borrowing costs and threatening stocks. Bessent already doubled long-term Treasury buybacks last month, but the US 30-year yield (^TYX) has climbed back toward its highest level since 2007.
+
+Now another potential pressure point is emerging from Japan, the largest foreign holder of US government debt, with about $1.1 trillion of Treasurys.
+
+Japan spent decades with interest rates near zero. Now, its 10-year government bond yields around 3% for the first time since 1996. Japanese savers and institutions can suddenly get paid at home, giving them less reason to send money overseas into Treasurys and other foreign bonds.
+
+That creates one problem for Washington: A weaker yen can prompt Japan to buy its currency with dollars. Raising those dollars can mean selling Treasurys, putting even more bonds into a market already struggling with high yields.
+
+Higher Japanese rates create another problem.
+
+For decades, Japan's ultra-low rates pushed its pensions, insurers, and other big investors overseas in search of better returns, making them major buyers of US and other foreign bonds. Now that Japanese bonds pay significantly more, some of that money has an incentive to come home — reducing a source of demand the US has long counted on.
+
+The good news is that the scary version hasn't happened yet.
+
+Japan-based investors sold a net $71 billion of US government debt through June, according to Treasury data. Almost all of it — about $69 billion — came from short-term Treasury bills, which mature within a year.
+
+Net sales of longer-term notes and bonds were only $3 billion. That's important because long-term yields are the ones more closely tied to mortgages, corporate borrowing costs, and stock valuations.
+
+That is where an obscure Fed program suddenly becomes important.
+
+When Japan buys yen to support its currency, it needs dollars to do it. The pandemic-era FIMA repo facility gives Japan another way to get those dollars. It can temporarily exchange Treasurys with the Fed for cash rather than selling them into the market.
+
+That became more than theoretical after the US and Japan jointly intervened to support the yen on July 31. Japan said afterward that it plans to use FIMA in the future, and Bessent urged the Fed to make the facility bigger.
+
+The request itself is revealing. Bessent is preparing for this pressure to outlast a single intervention.

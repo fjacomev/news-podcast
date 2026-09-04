@@ -1,0 +1,37 @@
+Broadcom just took a page from Dell and Nvidia
+
+2026-09-04
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/markets/stocks/article/broadcom-just-took-a-page-from-dell-and-nvidia-102718498.html
+
+Investors may not be appreciating the latest earnings report from AI chip beast Broadcom (AVGO), but perhaps they should take another look, as there were some shocking numbers in there, not too different from the eye-popping ones served up by AI plays Dell (DELL) and Nvidia (NVDA) in the past two weeks.
+
+Shares of Broadcom fell 3% in premarket trading on Thursday despite a quarter most on the Street agree was outright impressive.
+
+Broadcom's revenue of $29.59 billion surged 86% year over year. Adjusted earnings per share exploded 96% to $3.32. Both metrics easily cleared Wall Street's expectations for sales of $29.25 billion and earnings of $3.21.
+
+The massive outperformance was fueled by relentless hyperscaler demand for custom AI chips and networking gear, with quarterly AI semiconductor revenue alone tripling to $16.7 billion
+
+Two call-outs from Broadcom CEO Hock Tan on the earnings call should ultimately whet the appetite of the Broadcom bulls once the sell-the-news moment today passes:
+
+-       "We are giving you a judged number of $115 billion of chips to these guys [six key Broadcom hyperscaler customers like Meta (META) and Google (GOOG)] in fiscal 2027, another $230 billion in 2028, which would add up, I know, to about $350 billion. Another way of saying this is we believe with a pretty high degree of confidence, we will ship $350 billion of AI semiconductors to these customers in the next two years."
+
+-       "In fact, our AI networking revenue is expected to grow just as fast as XPUs over the next few years."
+
+Broadcom has shared a "strong and conservative AI revenue outlook," said JPMorgan analyst Harlan Sur.
+
+Sur lifted his earnings estimates on Broadcom and maintained an Overweight rating on the stock.
+
+The very upbeat AI vibes from Broadcom aren't too different than what investors have heard from Dell and Nvidia.
+
+In the course of two short weeks, tech titans Dell and Nvidia have managed to stomp on the bearish AI-is-peaking thesis.
+
+Dell issued fiscal year 2027 revenue guidance some $25 billion above analyst estimates earlier this week.
+
+Nvidia said after reporting its fiscal second quarter earnings that it sees 70% revenue growth for fiscal year 2028. This was above analyst forecasts for 45% growth. The sales gain would be larger — north of 100% — if not for memory chip shortages, said Huang.
+
+Click here for in-depth analysis of the latest stock market news and events moving stock prices
+
+Read the latest financial and business news from Yahoo Finance

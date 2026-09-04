@@ -1,0 +1,55 @@
+Divide over yields: Fed officials see a stronger economy, Wall Street frets over oil prices and deficits.
+
+2026-09-04
+
+Por Jennifer Schonberger
+
+https://finance.yahoo.com/economy/policy/article/divide-over-yields-fed-officials-see-a-stronger-economy-wall-street-frets-over-oil-prices-and-deficits-193739245.html
+
+As long-term bond yields climb to new heights, a divide over what is driving the historic run-up has opened between Federal Reserve policymakers and Wall Street.
+
+While Fed officials point to a remarkably resilient economy and robust growth as proof that higher rates are justified, traders are painting a more anxious picture, blaming a volatile cocktail of stubborn inflation, surging energy prices, and bloated government debt for forcing yields upward.
+
+The yield on the 10-year Treasury (^TNX) this week hit 4.814%, its highest level since November 2023, before easing. Meanwhile, the 30-year Treasury yield (^TYX) was at 5.12%, also down from earlier this week. Oil prices (CL=F, BZ=F), meanwhile, jumped above $95 a barrel on renewed military strikes in the Middle East.
+
+New York Fed president John Williams, who is also chair of the Federal Open Market Committee, said this week that he thinks a strong US economy and a positive economic outlook, fueled by big investments in AI, data centers, and technology in general, are driving yields higher.
+
+"I see this as more of a reflection of the strength of the economy. We're not seeing it in terms of inflation compensation," he said in an interview with CNBC on Wednesday. "With a strong economy, you expect the cost of funding this investment tends to go up, and so I see that mostly through that light."
+
+"It's not really about financial conditions affecting the economy, it's more about the economy affecting financial conditions," he said.
+
+Williams acknowledged that between higher oil prices and the conflict in the Middle East, investors are demanding extra compensation, or term premium, for holding longer-term debt.
+
+Fed Chairman Kevin Warsh has also argued that long-term bond yields have risen because of a strong economy. He painted a robust picture of the economy in a speech in Jackson Hole, Wyo., last Friday, citing capital business investment growing 9% over the past four quarters and resilient consumer spending coupled with strong profits.
+
+Also in Jackson Hole, Ken Rogoff, former chief economist of the International Monetary Fund, made a case that long-term bond yields have merely reset to normal levels. The current growth follows a period when economists predicted growth would stagnate for an extended period, a so-called secular stagnation.
+
+Warsh on Monday declared that secular stagnation, which he described as the once-prevailing academic consensus that "all the good stuff had already been invented," was past and that the economy is in a new period of secular growth dominated by a global investment surge.
+
+'A potent mix'
+
+On Wall Street, the narrative is very different.
+
+Economists and traders chalk up the rise in long-term bond yields to concerns over higher fiscal deficits, inflation that has pushed up borrowing costs globally, a weaker dollar, and soaring bond issuance by technology companies to finance data centers and other artificial intelligence build-out, which is competing with government bonds.
+
+FedWatch Advisors chief investment officer Ben Emons said he thinks competition in the bond market is the biggest factor: Big Tech companies selling bonds to finance their AI build-outs, an alluring alternative to Treasurys.
+
+"[It's] less so about inflation or anticipating the Fed move, or even the fiscal deficit for that matter, even though it continues to be an issue," Emons told Yahoo Finance. "This is the economy that's growing a lot faster than we've had in the past years, right? And it's going to grow even faster with all this issuance and investment coming."
+
+Jeroen Blokland, founder of investment research firm True Insights, pointed to US government debt, which just crossed $40 trillion.
+
+"Global bond yields are at their highest level since 2008. But I'd be very careful with the narrative: 'Oh, we've been here before. There is no reason to worry,'" he posted on X. "Because one thing is definitely NOT the same: the amount of outstanding government debt on which those yields have to be paid. Budget deficits also look pretty different, read: much worse, than they did in 2008."
+
+Joseph Brusuelas, RSM chief economist, suggested oil is the main culprit.
+
+"Rising oil prices are dragging global & US bondyields higher. It's a potent mix of inflation & fiscal sustainability risk on the back of those rising oil pricesthat refuses to fade.
+
+"Oh, and inflation is not going gently into that good night in case you are wondering," Brusuelas posted on X earlier this week.
+
+Emons said he thinks yields will go higher still, with the yield on the 10-year Treasury possibly ending the year well over 5% and the 30-year going to 5.5% or higher due to strong economic growth.
+
+One member of the central bank, Fed governor Chris Waller, sees a mix of factors driving up yields, similar to many Wall Street analysts.
+
+Waller said during a Q&A hosted by Reuters on Thursday that fiscal deficits of 6% of GDP, or 3% adjusted for inflation, are unsustainable, and that he would expect investors to demand more compensation in the form of higher yields for those higher debt levels. He also pointed to investors' uncertainty about the dollar's reserve-currency status.
+
+"So that means investors are saying, 'I am a little uncertain about where the world is going,'" Waller said.

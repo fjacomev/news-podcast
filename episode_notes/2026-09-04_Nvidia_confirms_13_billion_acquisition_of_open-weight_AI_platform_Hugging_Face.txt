@@ -1,0 +1,27 @@
+Nvidia confirms $13 billion acquisition of open-weight AI platform Hugging Face
+
+2026-09-04
+
+Por Jake Conley
+
+https://finance.yahoo.com/markets/article/nvidia-confirms-13-billion-acquisition-of-open-weight-ai-platform-hugging-face-141058641.html
+
+Nvidia (NVDA) on Thursday confirmed its plans to acquire the open-weight AI platform Hugging Face for roughly $13 billion, sending its shares up roughly 2%.
+
+The deal will see Nvidia pay $12.93 billion for the platform, per a press release. More than 18 million developers, researchers, and creators use Hugging Face to share more than 3 million models, and more than 200,000 companies use the platform to discover and deploy AI, Nvidia said.
+
+The move highlights how Nvidia has thrown its weight behind open-weight AI models. In a statement, Nvidia said Hugging Face would remain "an open platform for the entire AI ecosystem," that the company would continue to support open-weight and open-source AI models, and that Nvidia itself is the largest contributor of open models and data to the Hugging Face platform.
+
+In a call following the announcement, Nvidia enterprise computing general manager Justin Boitano said the company "believe[s] in having a healthy ecosystem of closed models and open models leads to a world where you're going to continue to train these models and run these models at scale."
+
+The only way for the Hugging Face user base to grow, Boitano said, is to keep giving those developers optionality in terms of the hardware, clouds, and other parts of the stack that they build on, even if "Nvidia will benefit from the training that's done and the inference that's done on our hardware."
+
+"Open models strengthen safety and cybersecurity, accelerate innovation and diffusion, and enable sovereignty," Nvidia CEO Jensen Huang posted on X about the acquisition. "They allow every developer, startup, university, industry and country to build with, customize and benefit from AI."
+
+The deal is expected to close in the first half of 2027, pending regulatory approval.
+
+For Nvidia, the deal represents a "great strategic move," BD8 CEO and Nvidia investor Barbara Doran told Yahoo Finance on Thursday, arguing that Nvidia is "positioning themselves to be much more of an AI platform rather than just a supplier of chips."
+
+"Right now, chip … demand is huge, but they are positioning themselves for the day when that will slow down," Doran said. That day "still looks like it's far in the future. But that will happen at some point."
+
+The move also shouldn't worry investors who might approach the expenditure with some eyebrows raised toward the balance sheet, Doran said. Given Nvidia's free cash flow — expected to reach near $200 billion for fiscal year 2027 — "$13 billion … is not a big bite," Doran told Yahoo Finance.
