@@ -1,0 +1,25 @@
+Is AI displacing workers? The data says no.
+
+2026-09-05
+
+Por Jake Conley
+
+https://finance.yahoo.com/markets/article/is-ai-displacing-workers-the-data-says-no-100000514.html
+
+Despite widespread worries that AI would quickly begin to destabilize and displace the labor force, data suggests that this may not be the case, as employers opt for adaptation rather than layoffs.
+
+Planned job cuts in the US labor market fell in the first eight months of 2026 to the lowest level seen in four years, according to data released Thursday by the outplacement firm Challenger, Gray & Christmas, while hiring plans through the same period reached their highest level since 2023.
+
+Put simply, "There is still no evidence that AI is replacing workers," Apollo Global chief economist Torsten Sløk said Thursday, a sign that AI's impact on the economy may be shaping up differently than expected. (Disclosure: Yahoo is a portfolio company of funds managed by affiliates of Apollo Global Management.)
+
+Job cut announcements in August rose from July, but the total so far this year is down 41% compared to 2025. And even those layoffs that were announced in August weren't primarily driven by AI; employers cited other reasons beyond AI as the primary driver of job cuts for the first time in six months.
+
+AI displacement fears have been catalyzed by announcements such as those from Jack Dorsey's Block (XYZ). In February 2026, the company suddenly announced it would lay off more than 4,000 employees — roughly 40% of Block's total workforce — to focus on smaller, AI-enabled teams that do more with less institutional bloat.
+
+Block's finances were healthy, Dorsey said in an email to employees that he shared on X. "Gross profit continues to grow, we continue to serve more and more customers, and profitability is improving," Dorsey wrote.
+
+But "something has changed," the Block CEO wrote. "We're already seeing that the intelligence tools we're creating and using, paired with smaller and flatter teams, are enabling a new way of working which fundamentally changes what it means to build and run a company. and that's accelerating rapidly."
+
+And yet, that's not what's happening in today's workforce, Sløk argued in a note to clients on Thursday. The difference, Sløk said, is that many corporate leaders are choosing to retrain their existing workforce rather than replace people with nascent AI technology.
+
+Throughout the manufacturing sector, 22% of firms using AI are retraining staff, while none reported layoffs, per data released by the Federal Reserve Bank of New York. In the services sector, the picture is broadly similar: 34% of firms are choosing to retrain, while only 4% are cutting employees.
