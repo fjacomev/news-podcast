@@ -1,0 +1,43 @@
+China Is Building an AI Future Far From Its Biggest Cities
+
+2026-09-08
+
+Por Bloomberg News
+
+https://finance.yahoo.com/technology/ai/articles/china-building-ai-future-far-000719265.html
+
+Yet this modest city of less than 2 million people in Inner Mongolia has found itself on the front line of China's efforts to relocate computing power away from its crowded eastern megacities and out to its western regions, where both space and inexpensive green energy are abundant.
+
+At one cluttered intersection on the eastern edge of the city on a Friday lunchtime, workers streamed out of a cluster of data-center construction sites — a reminder of the scale of the endeavor here, some 350 km (roughly 217 miles) northwest of Beijing. Still wearing hard hats and high-visibility vests, their pants and boots caked in dust, they congregated at a cluster of trucks selling cheap meals, beer and cigarettes.
+
+"Every day, there are hundreds of workers," said a woman surnamed Yin, who uses only one name and whose family runs a stall serving plates of chicken, egg and tofu skin to workers at the busy intersection for 10 yuan (roughly $1.50). "It never stops."
+
+Under way since 2022, Beijing's technological shift — a campaign known officially in Chinese as dongshu xisuan, or roughly, "Data in the East, Computing in the West" — is already impacting the distribution of projects. According to new research published by BloombergNEF on Tuesday, more than half of the country's data-center project pipeline is now across the north and northwest, including Inner Mongolia, the region that includes Ulanqab.
+
+By 2028, this region is expected to surge past Beijing, Shanghai and other established urban areas to become the country's top source of computing capacity, BNEF found. DeepSeek and Z.AI Co. are among the Chinese AI pioneers erecting giant data centers of a gigawatt or more in the area, racing to put in place the infrastructure they need to power AI development.
+
+North and northwestern China has emerged as "the main growth pole for new development, despite having a much smaller operating fleet," BNEF analysts wrote in the report. "Lower-cost power, cooler climates and greater land availability in these regions are attracting developers, while power-intensive, less latency-sensitive workloads are migrating from established demand centers."
+
+According to BNEF's analysis, China is on pace to more than double the capacity of computing equipment in active use in its data centers — known as live IT capacity — in the next five years. Total power demand is expected to jump 151% to 329 terawatt-hours by 2030, accounting for 2.4% of China's total.
+
+The Yangtze river delta currently tops BNEF's competitiveness ranking, which includes factors like connectivity, land permits and energy availability. But its data center capacity is expected to be constrained over time because of high electricity costs and energy consumption quotas.
+
+Before data centers, Ulanqab was mostly known as a popular weekend destination for Beijing residents looking to get away from sticky summer weather, attracted by yurts, horseback riding and offers of tours to a Mars-like cluster of dormant volcanoes.
+
+Today, it is a tech boom town. Empty lots are stacked with aluminum brackets, steel rods and wooden planks. Cranes dot the skyline and sparks fly from workers perched high on the shells of giant frames for structures that will house even more computing power. At the Chahar High-Tech Development Park, the ambition is clear from the wide boulevards named after some of the world's biggest technology companies, including Apple Inc. and Huawei Technologies Co.
+
+Inner Mongolia is just one of eight areas designated by China as national computing hubs. Others include the coastal regions surrounding Beijing, Shanghai and Guangzhou, the Chengdu-Chongqing region in central China, Guizhou in the southwest, and Gansu and Ningxia in the northwest.
+
+Partly, this is an effort to take advantage of space. Under Beijing's plan, cities on the east will manage computing requests that do not allow for a lag — like autonomous driving. But work that can be done further from users, like cloud storage or model training, will move further west.
+
+The push is also about solving the power sector's growing problem of abundance. Local supply is already a bottleneck in some parts of China, with grid infrastructure taking longer than the actual data center. But when the sun shines and the wind blows, western regions with plenty of inexpensive renewable generation are producing more than they consume, leaving spare capacity for energy-hungry servers and other hardware.
+
+Designation as a hub brings investment and preferential access to digital infrastructure, but it also comes with strict targets on facility utilization, energy efficiency and clean power. New data centers in the region must ensure more than 80% of their annual electricity use comes from renewable sources, either through direct connections or by purchasing green energy certificates.
+
+North and northwestern China could account for a third of national live capacity by 2030, but it still has to contend with the attractiveness of the country's megacities, which continue to have better connectivity, even without the energy abundance.
+
+That, combined with the enthusiasm that comes with a policy push from Beijing, raises the risk of incentives that create the same overcapacity already plaguing other industries. This time, Beijing is trying to limit speculative or duplicative investment by forcing large projects to get national approval before construction can begin, according to BNEF.
+
+For now, Yin and others are taking advantage of the frenzy.
+
+"Take a look around," she said. "How can this not be good?"
