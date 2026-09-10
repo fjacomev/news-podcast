@@ -1,0 +1,39 @@
+DATA593: cómo usar la nueva app del gobierno para consultar cédula, licencia y certificados
+
+2026-09-10
+
+Por Karelys Rincón
+
+https://www.vistazo.com/actualidad/2026-09-09-data593-app-gobierno-ecuador-cedula-licencia-certificados-ID11216358
+
+El gobierno ecuatoriano habilitó DATA593, una aplicación móvil destinada a centralizar la consulta de información y documentos personales que constan en distintas entidades públicas. La herramienta permite acceder desde un teléfono a registros que antes debían revisarse en plataformas separadas.
+
+Según la Dirección Nacional de Registros Públicos (DINARP), DATA593 integra, administra y muestra de manera unificada información disponible en el Sistema Nacional de Registros Públicos (SINARP). La plataforma reúne los servicios que ofrecían Dato Seguro, InfoDigital y la Ficha de Registro Único del Ciudadano (FRUC).
+
+Lea también: Ministerio de Salud apuesta por plataforma de USD 240 millones para controlar medicinas y conectar hospitales
+
+La Secretaría General de Comunicación informó que los usuarios pueden encontrar en la aplicación su cédula de identidad, certificado de votación y licencia de conducir. Además, el portal oficial de DATA593 señala que la herramienta incluye certificados con código QR y gestiones vinculadas con movilidad, salud, pagos y documentos personales.
+
+¿Qué se puede consultar en DATA593?
+
+En su primera etapa, la plataforma conecta información procedente de más de diez instituciones públicas. El acceso dependerá de las fuentes y servicios que cada entidad haya habilitado dentro del sistema. Entre las opciones anunciadas por el gobierno constan:
+
+La versión publicada por la DINARP en Google Play especifica que, por ahora, pueden generarse en PDF el certificado de cédula y el certificado de votación. El sitio oficial de DATA593 añade que esos archivos incorporan un código QR para comprobar su autenticidad y poseen validez jurídica.
+
+Lea también: Pasaje de bus en Quito subirá a USD 0,40 desde enero de 2027: Municipio puso condiciones
+
+Cómo registrarse y acceder
+
+DATA593 puede descargarse gratuitamente desde Google Play para Android y desde la App Store para iOS. También existe una versión de escritorio, disponible en el portal web de la plataforma. Para utilizarla se necesita conexión a internet y completar el proceso de registro. Estos son los pasos indicados por la DINARP:
+
+El ingreso se gestiona mediante el Sistema de Autenticación Única (SAU) del Gobierno del Ecuador. De acuerdo con la descripción oficial publicada por la DINARP en las tiendas de aplicaciones, DATA593 no recopila ni almacena el número de cédula ni la contraseña usados para iniciar sesión, porque la autenticación se realiza en la plataforma estatal.
+
+Lea también: Convocatoria de becas para doctorados en la Universidad Americana de Europa: requisitos y fecha límite de postulación
+
+El servicio también contempla perfiles diferenciados. Para la ciudadanía, la visualización es gratuita. Las entidades públicas pueden realizar consultas e interoperar información sin costo, bajo controles definidos por roles. En el caso de las instituciones privadas, la DINARP establece un servicio pagado, regulado y sujeto a consultas autorizadas. Este esquema busca que cada organización acceda únicamente a los campos justificados para sus funciones. La entidad responsable debe registrar a un coordinador institucional, presentar la solicitud correspondiente y suscribir un acuerdo de confidencialidad antes de que la cuenta sea activada.
+
+Acceso y protección de datos
+
+La entidad señala que cada persona solo puede consultar su propia información y que los datos visualizados no se comparten con terceros. También indica que el funcionamiento de la aplicación se ajusta a la normativa ecuatoriana sobre protección de datos personales.
+
+DATA593 ofrece, además, un servicio de verificación de certificados. Este permite revisar en línea los documentos emitidos por la plataforma mediante sus mecanismos de validación. Para consultas sobre acceso, autenticación o funcionamiento, el portal oficial mantiene el correo [email protected] y atención de lunes a viernes, entre las 08h00 y las 16h00.

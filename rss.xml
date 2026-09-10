@@ -7,7 +7,7 @@
     <link>https://fjacomev.github.io/news-podcast</link>
     <description>Podcast personal de noticias, leido en voz local</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Sep 2026 10:37:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 10:45:12 GMT</lastBuildDate>
     <image>
       <url>https://fjacomev.github.io/news-podcast/cover.jpg</url>
       <title>Fernando AI News</title>
@@ -18,6 +18,164 @@
     <itunes:summary>Podcast personal de noticias, leido en voz local</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
+
+    <item>
+      <title>DATA593: cómo usar la nueva app del gobierno para consultar cédula, licencia y certificados</title>
+      <author>Karelys Rincón</author>
+      <description>DATA593: cómo usar la nueva app del gobierno para consultar cédula, licencia y certificados
+
+2026-09-10
+
+Por Karelys Rincón
+
+https://www.vistazo.com/actualidad/2026-09-09-data593-app-gobierno-ecuador-cedula-licencia-certificados-ID11216358
+
+El gobierno ecuatoriano habilitó DATA593, una aplicación móvil destinada a centralizar la consulta de información y documentos personales que constan en distintas entidades públicas. La herramienta permite acceder desde un teléfono a registros que antes debían revisarse en plataformas separadas.
+
+Según la Dirección Nacional de Registros Públicos (DINARP), DATA593 integra, administra y muestra de manera unificada información disponible en el Sistema Nacional de Registros Públicos (SINARP). La plataforma reúne los servicios que ofrecían Dato Seguro, InfoDigital y la Ficha de Registro Único del Ciudadano (FRUC).
+
+Lea también: Ministerio de Salud apuesta por plataforma de USD 240 millones para controlar medicinas y conectar hospitales
+
+La Secretaría General de Comunicación informó que los usuarios pueden encontrar en la aplicación su cédula de identidad, certificado de votación y licencia de conducir. Además, el portal oficial de DATA593 señala que la herramienta incluye certificados con código QR y gestiones vinculadas con movilidad, salud, pagos y documentos personales.
+
+¿Qué se puede consultar en DATA593?
+
+En su primera etapa, la plataforma conecta información procedente de más de diez instituciones públicas. El acceso dependerá de las fuentes y servicios que cada entidad haya habilitado dentro del sistema. Entre las opciones anunciadas por el gobierno constan:
+
+La versión publicada por la DINARP en Google Play especifica que, por ahora, pueden generarse en PDF el certificado de cédula y el certificado de votación. El sitio oficial de DATA593 añade que esos archivos incorporan un código QR para comprobar su autenticidad y poseen validez jurídica.
+
+Lea también: Pasaje de bus en Quito subirá a USD 0,40 desde enero de 2027: Municipio puso condiciones
+
+Cómo registrarse y acceder
+
+DATA593 puede descargarse gratuitamente desde Google Play para Android y desde la App Store para iOS. También existe una versión de escritorio, disponible en el portal web de la plataforma. Para utilizarla se necesita conexión a internet y completar el proceso de registro. Estos son los pasos indicados por la DINARP:
+
+El ingreso se gestiona mediante el Sistema de Autenticación Única (SAU) del Gobierno del Ecuador. De acuerdo con la descripción oficial publicada por la DINARP en las tiendas de aplicaciones, DATA593 no recopila ni almacena el número de cédula ni la contraseña usados para iniciar sesión, porque la autenticación se realiza en la plataforma estatal.
+
+Lea también: Convocatoria de becas para doctorados en la Universidad Americana de Europa: requisitos y fecha límite de postulación
+
+El servicio también contempla perfiles diferenciados. Para la ciudadanía, la visualización es gratuita. Las entidades públicas pueden realizar consultas e interoperar información sin costo, bajo controles definidos por roles. En el caso de las instituciones privadas, la DINARP establece un servicio pagado, regulado y sujeto a consultas autorizadas. Este esquema busca que cada organización acceda únicamente a los campos justificados para sus funciones. La entidad responsable debe registrar a un coordinador institucional, presentar la solicitud correspondiente y suscribir un acuerdo de confidencialidad antes de que la cuenta sea activada.
+
+Acceso y protección de datos
+
+La entidad señala que cada persona solo puede consultar su propia información y que los datos visualizados no se comparten con terceros. También indica que el funcionamiento de la aplicación se ajusta a la normativa ecuatoriana sobre protección de datos personales.
+
+DATA593 ofrece, además, un servicio de verificación de certificados. Este permite revisar en línea los documentos emitidos por la plataforma mediante sus mecanismos de validación. Para consultas sobre acceso
+
+[Transcripcion recortada]</description>
+      <content:encoded><![CDATA[<p>DATA593: cómo usar la nueva app del gobierno para consultar cédula, licencia y certificados</p><p>2026-09-10</p><p>Por Karelys Rincón</p><p>https://www.vistazo.com/actualidad/2026-09-09-data593-app-gobierno-ecuador-cedula-licencia-certificados-ID11216358</p><p>El gobierno ecuatoriano habilitó DATA593, una aplicación móvil destinada a centralizar la consulta de información y documentos personales que constan en distintas entidades públicas. La herramienta permite acceder desde un teléfono a registros que antes debían revisarse en plataformas separadas.</p><p>Según la Dirección Nacional de Registros Públicos (DINARP), DATA593 integra, administra y muestra de manera unificada información disponible en el Sistema Nacional de Registros Públicos (SINARP). La plataforma reúne los servicios que ofrecían Dato Seguro, InfoDigital y la Ficha de Registro Único del Ciudadano (FRUC).</p><p>Lea también: Ministerio de Salud apuesta por plataforma de USD 240 millones para controlar medicinas y conectar hospitales</p><p>La Secretaría General de Comunicación informó que los usuarios pueden encontrar en la aplicación su cédula de identidad, certificado de votación y licencia de conducir. Además, el portal oficial de DATA593 señala que la herramienta incluye certificados con código QR y gestiones vinculadas con movilidad, salud, pagos y documentos personales.</p><p>¿Qué se puede consultar en DATA593?</p><p>En su primera etapa, la plataforma conecta información procedente de más de diez instituciones públicas. El acceso dependerá de las fuentes y servicios que cada entidad haya habilitado dentro del sistema. Entre las opciones anunciadas por el gobierno constan:</p><p>La versión publicada por la DINARP en Google Play especifica que, por ahora, pueden generarse en PDF el certificado de cédula y el certificado de votación. El sitio oficial de DATA593 añade que esos archivos incorporan un código QR para comprobar su autenticidad y poseen validez jurídica.</p><p>Lea también: Pasaje de bus en Quito subirá a USD 0,40 desde enero de 2027: Municipio puso condiciones</p><p>Cómo registrarse y acceder</p><p>DATA593 puede descargarse gratuitamente desde Google Play para Android y desde la App Store para iOS. También existe una versión de escritorio, disponible en el portal web de la plataforma. Para utilizarla se necesita conexión a internet y completar el proceso de registro. Estos son los pasos indicados por la DINARP:</p><p>El ingreso se gestiona mediante el Sistema de Autenticación Única (SAU) del Gobierno del Ecuador. De acuerdo con la descripción oficial publicada por la DINARP en las tiendas de aplicaciones, DATA593 no recopila ni almacena el número de cédula ni la contraseña usados para iniciar sesión, porque la autenticación se realiza en la plataforma estatal.</p><p>Lea también: Convocatoria de becas para doctorados en la Universidad Americana de Europa: requisitos y fecha límite de postulación</p><p>El servicio también contempla perfiles diferenciados. Para la ciudadanía, la visualización es gratuita. Las entidades públicas pueden realizar consultas e interoperar información sin costo, bajo controles definidos por roles. En el caso de las instituciones privadas, la DINARP establece un servicio pagado, regulado y sujeto a consultas autorizadas. Este esquema busca que cada organización acceda únicamente a los campos justificados para sus funciones. La entidad responsable debe registrar a un coordinador institucional, presentar la solicitud correspondiente y suscribir un acuerdo de confidencialidad antes de que la cuenta sea activada.</p><p>Acceso y protección de datos</p><p>La entidad señala que cada persona solo puede consultar su propia información y que los datos visualizados no se comparten con terceros. También indica que el funcionamiento de la aplicación se ajusta a la normativa ecuatoriana sobre protección de datos personales.</p><p>DATA593 ofrece, además, un servicio de verificación de certificados. Este permite revisar en línea los documentos emitidos por la plataforma mediante sus mecanismos de validación. Para consultas sobre acceso</p>]]></content:encoded>
+      <pubDate>Thu, 10 Sep 2026 10:45:07 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-09-10_DATA593_como_usar_la_nueva_app_del_gobierno_para_consultar_cedula_licencia_y_certificados.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-09-10_DATA593_como_usar_la_nueva_app_del_gobierno_para_consultar_cedula_licencia_y_certificados.mp3" length="2122303" type="audio/mpeg"/>
+      <itunes:duration>00:04:03</itunes:duration>
+      <itunes:author>Karelys Rincón</itunes:author>
+      <itunes:summary>DATA593: cómo usar la nueva app del gobierno para consultar cédula, licencia y certificados
+
+2026-09-10
+
+Por Karelys Rincón
+
+https://www.vistazo.com/actualidad/2026-09-09-data593-app-gobierno-ecuador-cedula-licencia-certificados-ID11216358
+
+El gobierno ecuatoriano habilitó DATA593, una aplicación móvil destinada a centralizar la consulta de información y documentos personales que constan en distintas entidades públicas. La herramienta permite acceder desde un teléfono a registros que antes debían revisarse en plataformas separadas.
+
+Según la Dirección Nacional de Registros Públicos (DINARP), DATA593 integra, administra y muestra de manera unificada información disponible en el Sistema Nacional de Registros Públicos (SINARP). La plataforma reúne los servicios que ofrecían Dato Seguro, InfoDigital y la Ficha de Registro Único del Ciudadano (FRUC).
+
+Lea también: Ministerio de Salud apuesta por plataforma de USD 240 millones para controlar medicinas y conectar hospitales
+
+La Secretaría General de Comunicación informó que los usuarios pueden encontrar en la aplicación su cédula de identidad, certificado de votación y licencia de conducir. Además, el portal oficial de DATA593 señala que la herramienta incluye certificados con código QR y gestiones vinculadas con movilidad, salud, pagos y documentos personales.
+
+¿Qué se puede consultar en DATA593?
+
+En su primera etapa, la plataforma conecta información procedente de más de diez instituciones públicas. El acceso dependerá de las fuentes y servicios que cada entidad haya habilitado dentro del sistema. Entre las opciones anunciadas por el gobierno constan:
+
+La versión publicada por la DINARP en Google Play especifica que, por ahora, pueden generarse en PDF el certificado de cédula y el certificado de votación. El sitio oficial de DATA593 añade que esos archivos incorporan un código QR para comprobar su autenticidad y poseen validez jurídica.
+
+Lea también: Pasaje de bus en Quito subirá a USD 0,40 desde enero de 2027: Municipio puso condiciones
+
+Cómo registrarse y acceder
+
+DATA593 puede descargarse gratuitamente desde Google Play para Android y desde la App Store para iOS. También existe una versión de escritorio, disponible en el portal web de la plataforma. Para utilizarla se necesita conexión a internet y completar el proceso de registro. Estos son los pasos indicados por la DINARP:
+
+El ingreso se gestiona mediante el Sistema de Autenticación Única (SAU) del Gobierno del Ecuador. De acuerdo con la descripción oficial publicada por la DINARP en las tiendas de aplicaciones, DATA593 no recopila ni almacena el número de cédula ni la contraseña usados para iniciar sesión, porque la autenticación se realiza en la plataforma estatal.
+
+Lea también: Convocatoria de becas para doctorados en la Universidad Americana de Europa: requisitos y fecha límite de postulación
+
+El servicio también contempla perfiles diferenciados. Para la ciudadanía, la visualización es gratuita. Las entidades públicas pueden realizar consultas e interoperar información sin costo, bajo controles definidos por roles. En el caso de las instituciones privadas, la DINARP establece un servicio pagado, regulado y sujeto a consultas autorizadas. Este esquema busca que cada organización acceda únicamente a los campos justificados para sus funciones. La entidad responsable debe registrar a un coordinador institucional, presentar la solicitud correspondiente y suscribir un acuerdo de confidencialidad antes de que la cuenta sea activada.
+
+Acceso y protección de datos
+
+La entidad señala que cada persona solo puede consultar su propia información y que los datos visualizados no se comparten con terceros. También indica que el funcionamiento de la aplicación se ajusta a la normativa ecuatoriana sobre protección de datos personales.
+
+DATA593 ofrece, además, un servicio de verificación de certificados. Este permite revisar en línea los documentos emitidos por la plataforma mediante sus mecanismos de validación. Para consultas sobre acceso
+
+[Transcripcion recortada]</itunes:summary>
+    </item>
+
+    <item>
+      <title>Ford blasts White House criticism of China tech partners, calls Duffy letter &#x27;wrongheaded&#x27;</title>
+      <author>Pras Subramanian</author>
+      <description>Ford blasts White House criticism of China tech partners, calls Duffy letter &#x27;wrongheaded&#x27;
+
+2026-09-10
+
+Por Pras Subramanian
+
+https://finance.yahoo.com/markets/stocks/article/ford-blasts-white-house-criticism-of-china-tech-partners-calls-duffy-letter-wrongheaded-154220328.html
+
+Ford (F) stock was volatile a day after the White House questioned its strategy of using Chinese partners. Ford responded forcefully after the bell, hinting at possible behind-the-scenes drama.
+
+In a letter to Ford CEO Jim Farley on Tuesday, Transportation Secretary Sean Duffy expressed &quot;profound concern&quot; over Ford&#x27;s strategic decisions regarding &quot;manufacturing integrity, supply chain exposure, and reliance on technologies of foreign adversaries,&quot; specifically China.
+
+Duffy&#x27;s main concerns were Ford&#x27;s use of Chinese battery-maker CATL tech in its battery factory in Marshall, Mich., Ford&#x27;s joint factory with Geely in Spain, and Ford&#x27;s ongoing talks with BYD for hybrid vehicle components, as well as a supposed plan put forth by Farley to facilitate Chinese joint ventures in the US.
+
+Ford stock fell in Tuesday&#x27;s trade before recovering slightly on Wednesday.
+
+Interestingly, Duffy also mentioned a delayed reshoring of Lincoln Nautilus production to the US from China, which is a major focus of President Trump and his controversial tariff plan.
+
+Duffy&#x27;s letter was a &quot;wrongheaded attempt to capture headlines at the expense of a company that has done more for American manufacturing than virtually any other in the nation&#x27;s history,&quot; Ford opened with its response, adding that while other rivals and foreign competitors relied on importing vehicles in the US, Ford was &quot;doubling down&quot; on US production.
+
+Part of that US production is the battery plant in Michigan, which Ford sought to clarify again: &quot;The CATL arrangement is a limited technology-licensing and services agreement, not a joint venture or foreign-owned manufacturing operation. Ford owns the plant, controls the operation and employs the workforce.&quot;
+
+Ford also called Duffy&#x27;s assertion of a delayed reshoring of Lincoln Nautilus production &quot;misguided,&quot; adding that the company is working with White House administration officials to bring back assembly to the US. Ford also cited Commerce Secretary Howard Lutnick praising that decision just last month.
+
+Finally, Ford denied that Farley had pushed a framework to facilitate Chinese joint ventures in the US.
+
+Add it all up, and the back-and-forth letters paint an acrimonious relationship between CEO Jim Farley and the White House, surprising given that Farley and Trump appeared to have a decent relationship. Trump visited a Ford plant earlier this year, and Farley has appeared at various events at the Oval Office.</description>
+      <content:encoded><![CDATA[<p>Ford blasts White House criticism of China tech partners, calls Duffy letter &#x27;wrongheaded&#x27;</p><p>2026-09-10</p><p>Por Pras Subramanian</p><p>https://finance.yahoo.com/markets/stocks/article/ford-blasts-white-house-criticism-of-china-tech-partners-calls-duffy-letter-wrongheaded-154220328.html</p><p>Ford (F) stock was volatile a day after the White House questioned its strategy of using Chinese partners. Ford responded forcefully after the bell, hinting at possible behind-the-scenes drama.</p><p>In a letter to Ford CEO Jim Farley on Tuesday, Transportation Secretary Sean Duffy expressed &quot;profound concern&quot; over Ford&#x27;s strategic decisions regarding &quot;manufacturing integrity, supply chain exposure, and reliance on technologies of foreign adversaries,&quot; specifically China.</p><p>Duffy&#x27;s main concerns were Ford&#x27;s use of Chinese battery-maker CATL tech in its battery factory in Marshall, Mich., Ford&#x27;s joint factory with Geely in Spain, and Ford&#x27;s ongoing talks with BYD for hybrid vehicle components, as well as a supposed plan put forth by Farley to facilitate Chinese joint ventures in the US.</p><p>Ford stock fell in Tuesday&#x27;s trade before recovering slightly on Wednesday.</p><p>Interestingly, Duffy also mentioned a delayed reshoring of Lincoln Nautilus production to the US from China, which is a major focus of President Trump and his controversial tariff plan.</p><p>Duffy&#x27;s letter was a &quot;wrongheaded attempt to capture headlines at the expense of a company that has done more for American manufacturing than virtually any other in the nation&#x27;s history,&quot; Ford opened with its response, adding that while other rivals and foreign competitors relied on importing vehicles in the US, Ford was &quot;doubling down&quot; on US production.</p><p>Part of that US production is the battery plant in Michigan, which Ford sought to clarify again: &quot;The CATL arrangement is a limited technology-licensing and services agreement, not a joint venture or foreign-owned manufacturing operation. Ford owns the plant, controls the operation and employs the workforce.&quot;</p><p>Ford also called Duffy&#x27;s assertion of a delayed reshoring of Lincoln Nautilus production &quot;misguided,&quot; adding that the company is working with White House administration officials to bring back assembly to the US. Ford also cited Commerce Secretary Howard Lutnick praising that decision just last month.</p><p>Finally, Ford denied that Farley had pushed a framework to facilitate Chinese joint ventures in the US.</p><p>Add it all up, and the back-and-forth letters paint an acrimonious relationship between CEO Jim Farley and the White House, surprising given that Farley and Trump appeared to have a decent relationship. Trump visited a Ford plant earlier this year, and Farley has appeared at various events at the Oval Office.</p>]]></content:encoded>
+      <pubDate>Thu, 10 Sep 2026 10:44:11 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-09-10_Ford_blasts_White_House_criticism_of_China_tech_partners_calls_Duffy_letter_wrongheaded.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-09-10_Ford_blasts_White_House_criticism_of_China_tech_partners_calls_Duffy_letter_wrongheaded.mp3" length="1513955" type="audio/mpeg"/>
+      <itunes:duration>00:02:41</itunes:duration>
+      <itunes:author>Pras Subramanian</itunes:author>
+      <itunes:summary>Ford blasts White House criticism of China tech partners, calls Duffy letter &#x27;wrongheaded&#x27;
+
+2026-09-10
+
+Por Pras Subramanian
+
+https://finance.yahoo.com/markets/stocks/article/ford-blasts-white-house-criticism-of-china-tech-partners-calls-duffy-letter-wrongheaded-154220328.html
+
+Ford (F) stock was volatile a day after the White House questioned its strategy of using Chinese partners. Ford responded forcefully after the bell, hinting at possible behind-the-scenes drama.
+
+In a letter to Ford CEO Jim Farley on Tuesday, Transportation Secretary Sean Duffy expressed &quot;profound concern&quot; over Ford&#x27;s strategic decisions regarding &quot;manufacturing integrity, supply chain exposure, and reliance on technologies of foreign adversaries,&quot; specifically China.
+
+Duffy&#x27;s main concerns were Ford&#x27;s use of Chinese battery-maker CATL tech in its battery factory in Marshall, Mich., Ford&#x27;s joint factory with Geely in Spain, and Ford&#x27;s ongoing talks with BYD for hybrid vehicle components, as well as a supposed plan put forth by Farley to facilitate Chinese joint ventures in the US.
+
+Ford stock fell in Tuesday&#x27;s trade before recovering slightly on Wednesday.
+
+Interestingly, Duffy also mentioned a delayed reshoring of Lincoln Nautilus production to the US from China, which is a major focus of President Trump and his controversial tariff plan.
+
+Duffy&#x27;s letter was a &quot;wrongheaded attempt to capture headlines at the expense of a company that has done more for American manufacturing than virtually any other in the nation&#x27;s history,&quot; Ford opened with its response, adding that while other rivals and foreign competitors relied on importing vehicles in the US, Ford was &quot;doubling down&quot; on US production.
+
+Part of that US production is the battery plant in Michigan, which Ford sought to clarify again: &quot;The CATL arrangement is a limited technology-licensing and services agreement, not a joint venture or foreign-owned manufacturing operation. Ford owns the plant, controls the operation and employs the workforce.&quot;
+
+Ford also called Duffy&#x27;s assertion of a delayed reshoring of Lincoln Nautilus production &quot;misguided,&quot; adding that the company is working with White House administration officials to bring back assembly to the US. Ford also cited Commerce Secretary Howard Lutnick praising that decision just last month.
+
+Finally, Ford denied that Farley had pushed a framework to facilitate Chinese joint ventures in the US.
+
+Add it all up, and the back-and-forth letters paint an acrimonious relationship between CEO Jim Farley and the White House, surprising given that Farley and Trump appeared to have a decent relationship. Trump visited a Ford plant earlier this year, and Farley has appeared at various events at the Oval Office.</itunes:summary>
+    </item>
 
     <item>
       <title>Newly minted tech millionaires are now clamoring for financial advice</title>
@@ -7967,148 +8125,6 @@ SK Hynix is scouring the globe for possible chip production sites to meet voraci
 The search in Japan is part of a wider effort within SK Hynix to deepen cooperation with Japanese customers and suppliers. The company already holds a sizable indirect stake in Tokyo-based flash memory producer Kioxia Holdings Corp. and its Chief Executive Officer Kwak Noh-Jung last week said it&#x27;s &quot;carefully looking at how we can co-develop the NAND flash market with our customers and suppliers.&quot;
 
 Along with high-bandwidth memory, NAND has seen a surge in demand as big-spending companies like Meta Platforms Inc. and Amazon.com Inc. vie to secure ever larger pools of data in storage with faster performance than traditional hard drives.</itunes:summary>
-    </item>
-
-    <item>
-      <title>Nvidia to Invest $3.5 Billion in Chipmaker MediaTek</title>
-      <author>Ian King; Ed Ludlow</author>
-      <description>Nvidia to Invest $3.5 Billion in Chipmaker MediaTek
-
-2026-09-01
-
-Por Ian King; Ed Ludlow
-
-https://finance.yahoo.com/technology/ai/articles/nvidia-invest-3-5-billion-123000043.html
-
-(Bloomberg) -- Nvidia Corp. is investing $3.5 billion into MediaTek Inc., deepening collaboration with the Taiwanese chipmaker at a time when it&#x27;s working to persuade more companies to build chips that plug into its dominant data center ecosystem.
-
-Most Read from Bloomberg
-
-Nvidia will buy bonds convertible into MediaTek shares, the companies said in a joint statement on Monday.
-
-The investment broadens a partnership between the two chip designers that will see MediaTek using NVLink Fusion and the newly announced NVHBM technology as part of an Nvidia tech suite to help components communicate more seamlessly in data centers. The smaller company is trying to challenge Broadcom Inc. and Marvell Technology Inc. by helping owners of data centers create their own components.
-
-For Nvidia, the new agreement is the latest effort to ensure the future of artificial intelligence is built around its hardware platform and standards. The company has been building data center interconnect systems like NVLink Fusion and partnering with the likes of MediaTek to ensure it maintains a central role in the entire hardware chain, not just with its class-leading AI accelerators.
-
-The MediaTek agreement follows a similar announcement by Amazon.com Inc., which agreed to deploy an additional 2 million Nvidia components. Critically, Amazon also pledged to use Nvidia&#x27;s connection technology with its in-house chips.
-
-Nvidia Chief Executive Officer Jensen Huang, who was born in Taiwan, is tightening ties with a company working to reduce its reliance on the smartphone market. MediaTek earlier this year secured a partnership with Alphabet Inc.&#x27;s Google, and is gaining credibility as a design partner to major tech firms that are seeking to build their own AI chips. That momentum has led the chipmaker&#x27;s market value to roughly triple in recent months.
-
-The agreements with MediaTek and Amazon give Nvidia the opportunity to retain its central role in the build-out of AI data centers even when companies are deploying chips designed to replace its main offerings. The deal is yet another example of Nvidia&#x27;s leadership investing in customers, rivals and other companies involved in the AI industry. Concern about the seemingly circular nature of those investments has percolated in investor circles, though Nvidia has strongly disputed the idea it&#x27;s creating false demand.</description>
-      <content:encoded><![CDATA[<p>Nvidia to Invest $3.5 Billion in Chipmaker MediaTek</p><p>2026-09-01</p><p>Por Ian King; Ed Ludlow</p><p>https://finance.yahoo.com/technology/ai/articles/nvidia-invest-3-5-billion-123000043.html</p><p>(Bloomberg) -- Nvidia Corp. is investing $3.5 billion into MediaTek Inc., deepening collaboration with the Taiwanese chipmaker at a time when it&#x27;s working to persuade more companies to build chips that plug into its dominant data center ecosystem.</p><p>Most Read from Bloomberg</p><p>Nvidia will buy bonds convertible into MediaTek shares, the companies said in a joint statement on Monday.</p><p>The investment broadens a partnership between the two chip designers that will see MediaTek using NVLink Fusion and the newly announced NVHBM technology as part of an Nvidia tech suite to help components communicate more seamlessly in data centers. The smaller company is trying to challenge Broadcom Inc. and Marvell Technology Inc. by helping owners of data centers create their own components.</p><p>For Nvidia, the new agreement is the latest effort to ensure the future of artificial intelligence is built around its hardware platform and standards. The company has been building data center interconnect systems like NVLink Fusion and partnering with the likes of MediaTek to ensure it maintains a central role in the entire hardware chain, not just with its class-leading AI accelerators.</p><p>The MediaTek agreement follows a similar announcement by Amazon.com Inc., which agreed to deploy an additional 2 million Nvidia components. Critically, Amazon also pledged to use Nvidia&#x27;s connection technology with its in-house chips.</p><p>Nvidia Chief Executive Officer Jensen Huang, who was born in Taiwan, is tightening ties with a company working to reduce its reliance on the smartphone market. MediaTek earlier this year secured a partnership with Alphabet Inc.&#x27;s Google, and is gaining credibility as a design partner to major tech firms that are seeking to build their own AI chips. That momentum has led the chipmaker&#x27;s market value to roughly triple in recent months.</p><p>The agreements with MediaTek and Amazon give Nvidia the opportunity to retain its central role in the build-out of AI data centers even when companies are deploying chips designed to replace its main offerings. The deal is yet another example of Nvidia&#x27;s leadership investing in customers, rivals and other companies involved in the AI industry. Concern about the seemingly circular nature of those investments has percolated in investor circles, though Nvidia has strongly disputed the idea it&#x27;s creating false demand.</p>]]></content:encoded>
-      <pubDate>Tue, 01 Sep 2026 11:24:43 GMT</pubDate>
-      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-09-01_Nvidia_to_Invest_3.5_Billion_in_Chipmaker_MediaTek.mp3</guid>
-      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-09-01_Nvidia_to_Invest_3.5_Billion_in_Chipmaker_MediaTek.mp3" length="1451090" type="audio/mpeg"/>
-      <itunes:duration>00:02:34</itunes:duration>
-      <itunes:author>Ian King; Ed Ludlow</itunes:author>
-      <itunes:summary>Nvidia to Invest $3.5 Billion in Chipmaker MediaTek
-
-2026-09-01
-
-Por Ian King; Ed Ludlow
-
-https://finance.yahoo.com/technology/ai/articles/nvidia-invest-3-5-billion-123000043.html
-
-(Bloomberg) -- Nvidia Corp. is investing $3.5 billion into MediaTek Inc., deepening collaboration with the Taiwanese chipmaker at a time when it&#x27;s working to persuade more companies to build chips that plug into its dominant data center ecosystem.
-
-Most Read from Bloomberg
-
-Nvidia will buy bonds convertible into MediaTek shares, the companies said in a joint statement on Monday.
-
-The investment broadens a partnership between the two chip designers that will see MediaTek using NVLink Fusion and the newly announced NVHBM technology as part of an Nvidia tech suite to help components communicate more seamlessly in data centers. The smaller company is trying to challenge Broadcom Inc. and Marvell Technology Inc. by helping owners of data centers create their own components.
-
-For Nvidia, the new agreement is the latest effort to ensure the future of artificial intelligence is built around its hardware platform and standards. The company has been building data center interconnect systems like NVLink Fusion and partnering with the likes of MediaTek to ensure it maintains a central role in the entire hardware chain, not just with its class-leading AI accelerators.
-
-The MediaTek agreement follows a similar announcement by Amazon.com Inc., which agreed to deploy an additional 2 million Nvidia components. Critically, Amazon also pledged to use Nvidia&#x27;s connection technology with its in-house chips.
-
-Nvidia Chief Executive Officer Jensen Huang, who was born in Taiwan, is tightening ties with a company working to reduce its reliance on the smartphone market. MediaTek earlier this year secured a partnership with Alphabet Inc.&#x27;s Google, and is gaining credibility as a design partner to major tech firms that are seeking to build their own AI chips. That momentum has led the chipmaker&#x27;s market value to roughly triple in recent months.
-
-The agreements with MediaTek and Amazon give Nvidia the opportunity to retain its central role in the build-out of AI data centers even when companies are deploying chips designed to replace its main offerings. The deal is yet another example of Nvidia&#x27;s leadership investing in customers, rivals and other companies involved in the AI industry. Concern about the seemingly circular nature of those investments has percolated in investor circles, though Nvidia has strongly disputed the idea it&#x27;s creating false demand.</itunes:summary>
-    </item>
-
-    <item>
-      <title>The US debt crisis just got uglier: Number to know</title>
-      <author>Brian Sozzi</author>
-      <description>The US debt crisis just got uglier: Number to know
-
-2026-09-01
-
-Por Brian Sozzi
-
-https://finance.yahoo.com/markets/article/the-us-debt-crisis-just-got-uglier-number-to-know-132557041.html
-
-The ugly US debt picture seems to get uglier by the day.
-
-Case in point: rising interest payments on some $40 trillion in debt, in part powered by a recent climb in Treasury yields.
-
-US annual interest expense is up to a record 18.5% of federal government revenue, according to fresh analysis from bond investment firm Doubleline (see chart below). This is now officially above the previous record of 18.4% set in 1991.
-
-&quot;The US debt crisis is in uncharted territory,&quot; strategists at the Kobeissi Letter wrote in a note.
-
-Consider this: The aforementioned percentage has more than quadrupled over the past four years. The US annual interest expense now stands at a record $1.25 trillion, more than four times the level seen in 1991.
-
-To be sure, the surge in interest expense fundamentally threatens long-term fiscal stability.
-
-Read more: How the soaring federal debt affects you personally
-
-It effectively means that nearly one out of every five dollars collected by the government now goes strictly toward servicing existing national debt. That is money that could be funding productive economic investments like defense, infrastructure, or social safety nets such as Social Security.
-
-As debt service costs surpass major federal programs, mandatory spending risks crowding out discretionary spending. In turn, it creates a negative feedback loop where the government must issue additional debt simply to cover its interest costs.
-
-The structural burden also reduces the federal government&#x27;s flexibility to deploy fiscal stimulus during future recessions.
-
-Not helping matters at the moment are rising interest rates as seen on the 10-year and 30-year Treasurys.
-
-&quot;It is a striking milestone not only because of the size of the debt, but because of the growth that has accompanied it,&quot; Fed Watch Advisors founder Ben Emons pointed out. &quot;Since 1970, nominal GDP has expanded by an average of $470 billion per year, while federal debt has climbed even faster, rising about $760 billion annually over the same period.&quot;
-
-&quot;The $40 trillion moment may still feel manageable for markets,&quot; he added. &quot;The U.S. is currently borrowing at a weighted‑average rate near 3.5%, well below the 7% threshold where debt-sustainability models suggest real stress would begin.&quot;
-
-Click here for in-depth analysis of the latest stock market news and events moving stock prices
-
-Read the latest financial and business news from Yahoo Finance</description>
-      <content:encoded><![CDATA[<p>The US debt crisis just got uglier: Number to know</p><p>2026-09-01</p><p>Por Brian Sozzi</p><p>https://finance.yahoo.com/markets/article/the-us-debt-crisis-just-got-uglier-number-to-know-132557041.html</p><p>The ugly US debt picture seems to get uglier by the day.</p><p>Case in point: rising interest payments on some $40 trillion in debt, in part powered by a recent climb in Treasury yields.</p><p>US annual interest expense is up to a record 18.5% of federal government revenue, according to fresh analysis from bond investment firm Doubleline (see chart below). This is now officially above the previous record of 18.4% set in 1991.</p><p>&quot;The US debt crisis is in uncharted territory,&quot; strategists at the Kobeissi Letter wrote in a note.</p><p>Consider this: The aforementioned percentage has more than quadrupled over the past four years. The US annual interest expense now stands at a record $1.25 trillion, more than four times the level seen in 1991.</p><p>To be sure, the surge in interest expense fundamentally threatens long-term fiscal stability.</p><p>Read more: How the soaring federal debt affects you personally</p><p>It effectively means that nearly one out of every five dollars collected by the government now goes strictly toward servicing existing national debt. That is money that could be funding productive economic investments like defense, infrastructure, or social safety nets such as Social Security.</p><p>As debt service costs surpass major federal programs, mandatory spending risks crowding out discretionary spending. In turn, it creates a negative feedback loop where the government must issue additional debt simply to cover its interest costs.</p><p>The structural burden also reduces the federal government&#x27;s flexibility to deploy fiscal stimulus during future recessions.</p><p>Not helping matters at the moment are rising interest rates as seen on the 10-year and 30-year Treasurys.</p><p>&quot;It is a striking milestone not only because of the size of the debt, but because of the growth that has accompanied it,&quot; Fed Watch Advisors founder Ben Emons pointed out. &quot;Since 1970, nominal GDP has expanded by an average of $470 billion per year, while federal debt has climbed even faster, rising about $760 billion annually over the same period.&quot;</p><p>&quot;The $40 trillion moment may still feel manageable for markets,&quot; he added. &quot;The U.S. is currently borrowing at a weighted‑average rate near 3.5%, well below the 7% threshold where debt-sustainability models suggest real stress would begin.&quot;</p><p>Click here for in-depth analysis of the latest stock market news and events moving stock prices</p><p>Read the latest financial and business news from Yahoo Finance</p>]]></content:encoded>
-      <pubDate>Tue, 01 Sep 2026 11:24:08 GMT</pubDate>
-      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-09-01_The_US_debt_crisis_just_got_uglier_Number_to_know.mp3</guid>
-      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-09-01_The_US_debt_crisis_just_got_uglier_Number_to_know.mp3" length="1519179" type="audio/mpeg"/>
-      <itunes:duration>00:02:42</itunes:duration>
-      <itunes:author>Brian Sozzi</itunes:author>
-      <itunes:summary>The US debt crisis just got uglier: Number to know
-
-2026-09-01
-
-Por Brian Sozzi
-
-https://finance.yahoo.com/markets/article/the-us-debt-crisis-just-got-uglier-number-to-know-132557041.html
-
-The ugly US debt picture seems to get uglier by the day.
-
-Case in point: rising interest payments on some $40 trillion in debt, in part powered by a recent climb in Treasury yields.
-
-US annual interest expense is up to a record 18.5% of federal government revenue, according to fresh analysis from bond investment firm Doubleline (see chart below). This is now officially above the previous record of 18.4% set in 1991.
-
-&quot;The US debt crisis is in uncharted territory,&quot; strategists at the Kobeissi Letter wrote in a note.
-
-Consider this: The aforementioned percentage has more than quadrupled over the past four years. The US annual interest expense now stands at a record $1.25 trillion, more than four times the level seen in 1991.
-
-To be sure, the surge in interest expense fundamentally threatens long-term fiscal stability.
-
-Read more: How the soaring federal debt affects you personally
-
-It effectively means that nearly one out of every five dollars collected by the government now goes strictly toward servicing existing national debt. That is money that could be funding productive economic investments like defense, infrastructure, or social safety nets such as Social Security.
-
-As debt service costs surpass major federal programs, mandatory spending risks crowding out discretionary spending. In turn, it creates a negative feedback loop where the government must issue additional debt simply to cover its interest costs.
-
-The structural burden also reduces the federal government&#x27;s flexibility to deploy fiscal stimulus during future recessions.
-
-Not helping matters at the moment are rising interest rates as seen on the 10-year and 30-year Treasurys.
-
-&quot;It is a striking milestone not only because of the size of the debt, but because of the growth that has accompanied it,&quot; Fed Watch Advisors founder Ben Emons pointed out. &quot;Since 1970, nominal GDP has expanded by an average of $470 billion per year, while federal debt has climbed even faster, rising about $760 billion annually over the same period.&quot;
-
-&quot;The $40 trillion moment may still feel manageable for markets,&quot; he added. &quot;The U.S. is currently borrowing at a weighted‑average rate near 3.5%, well below the 7% threshold where debt-sustainability models suggest real stress would begin.&quot;
-
-Click here for in-depth analysis of the latest stock market news and events moving stock prices
-
-Read the latest financial and business news from Yahoo Finance</itunes:summary>
     </item>
   </channel>
 </rss>
