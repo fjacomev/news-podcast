@@ -1,0 +1,23 @@
+US Says Alibaba, DeepSeek Have ‘Systematically’ Siphoned AI Models
+
+2026-09-10
+
+Por Michael Shepard
+
+https://finance.yahoo.com/technology/ai/articles/us-says-alibaba-deepseek-systematically-015049254.html
+
+(Bloomberg) -- US security agencies have accused China's top AI companies including DeepSeek and Kimi maker Moonshot AI of systematically extracting proprietary knowledge from American firms and warned Silicon Valley developers to protect their work.
+
+Most Read from Bloomberg
+
+The Chinese firms have used a technique known as distillation since at least 2024 to gain access to and draw information out of US AI models "at an industrial scale" to train their own systems, according to a joint statement issued Tuesday by the National Security Agency, FBI and Cybersecurity and Infrastructure Security Agency. The agencies specifically accused DeepSeek, Moonshot, Alibaba Group Holding Ltd., MiniMax, StepFun and Z.AI Co. of the practice.
+
+Trump administration officials and American AI developers alike have accused Chinese firms of distilling from US AI models in the past to build their own products. The practice, which can be legitimately deployed by an AI developer that uses its state-of-the-art model to effectively teach a more power-efficient version, is seen as an improper shortcut when done without approval. The security alert issued Tuesday takes the accusations one step further, detailing which US systems were distilled by each of the Chinese companies and for what reasons, including to improve their own models' abilities to solve math problems and review code.
+
+The security agencies went as far as to say the companies are likely siphoning information from American models "with knowledge of the Chinese government" and accused the firms of intentionally skirting US companies' use restrictions to access their systems.
+
+"China-based AI companies route distillation requests through multiple pathways to gain unauthorized access, consequently violating U.S. AI companies' terms of use," they said in the notice.
+
+A spokesperson for the Chinese embassy didn't respond to a request for comment. China's government has previously rejected US claims of unfair use of distillation. Representatives for DeepSeek, Moonshot AI, Alibaba, MiniMax, StepFun, and Z.ai did not immediately respond to requests for comment.
+
+The agencies advised US AI developers to take "immediate action," including altering responses to suspected malicious distillation attempts and sharing their intelligence on distillation campaigns with one another.
