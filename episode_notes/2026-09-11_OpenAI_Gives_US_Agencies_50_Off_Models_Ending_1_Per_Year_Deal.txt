@@ -1,0 +1,25 @@
+OpenAI Gives US Agencies 50% Off Models, Ending $1 Per Year Deal
+
+2026-09-11
+
+Por Maggie Eastland
+
+https://finance.yahoo.com/technology/ai/articles/openai-gives-us-agencies-50-131520963.html
+
+(Bloomberg) -- OpenAI is ending a pilot program that allowed government agencies to use its models for only $1 per year and moving to a usage-based pricing system that will give federal workers access to the technology at a 50% discount from standard prices, according to a statement from the General Services Administration.
+
+Most Read from Bloomberg
+
+In a push to drive adoption of its models in August of last year, OpenAI joined the GSA's marketplace, a hub called OneGov that allows federal agencies to buy AI software at scale. The first year's negotiated terms of $1 per year represented the steepest tech discount the government's central purchasing arm had ever negotiated, Bloomberg previously reported. During that time, according to the GSA, 3.5 million federal employees used OpenAI's ChatGPT and generated $1.4 billion in cost savings.
+
+Though it represents a price uptick from last year's deal, the 50% discount is designed to make it easier for agencies to test and scale artificial intelligence tools, including the company's new GPT-6 Astra model. OpenAI is set to announce Thursday that it's expanding the discount beyond the federal realm to include state, local and tribal governments.
+
+The agreement with the government is set to take effect on October 1 and last more than two years.
+
+Days after OpenAI's 2025 deal with the GSA, the company's rival Anthropic PBC negotiated a deal for the same $1 per year price. A few weeks later, the Claude chatbot maker hosted a splashy event in Washington's Union Station to tout its AI tools to federal workers that featured an in-person speech by Anthropic Chief Executive Officer Dario Amodei.
+
+However, at least for Anthropic, government work was quickly overshadowed by a messy fight with the Pentagon over surveillance and autonomous strike guardrails it wanted written into national security-focused contracts.
+
+That feud resulted in Defense Secretary Pete Hegseth labeling the company a supply-chain risk and President Donald Trump taking to his Truth Social platform to order all agencies to stop using Anthropic.
+
+Anthropic sued the US government in response. Because the lawsuits between the company and the US government are still pending, it remains unclear if federal agencies without a national security focus will ultimately stop using Anthropic's AI tools. At first, the GSA issued a directive to remove Anthropic from its central AI model platform, but it reversed those moves following a preliminary injunction from the judge in the case based in California.
