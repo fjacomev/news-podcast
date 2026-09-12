@@ -1,0 +1,25 @@
+SpaceX signs another AI computing deal, with $100 billion in ARR 'on track,' CFO says
+
+2026-09-12
+
+Por Pras Subramanian
+
+https://finance.yahoo.com/markets/stocks/article/spacex-signs-another-ai-computing-deal-with-100-billion-in-arr-on-track-cfo-says-152933886.html
+
+SpaceX (SPCX) just inked another big AI compute deal, one that will take the space and rocket company closer to its $100 billion annual recurring revenue (ARR) target this year, a big metric for investors.
+
+At the Goldman Sachs Communacopia & Technology Conference in San Francisco, CFO Bret Johnsen said a new AI compute deal has been reached in which SpaceX leases out compute bandwidth for third-party clients.
+
+"We're on track, or we believe we're on track to hit $100 billion ARR," Johnsen said about SpaceX's overall ARR target, as AI compute deals helped fuel the growth, before revealing the news. "What I would tell you, an update to that is that just earlier this month we closed another hosting deal, and that translates into about $1.11 billion a month starting December 1st of this year, which is another roughly $13 billion of ARR."
+
+Add this to deals already in place, and SpaceX's compute deals are creating a nice revenue stream. Earlier this year, SpaceX announced a compute deal with Anthropic (ANTH.PVT) for $1.25 billion per month ($15 billion ARR) and another deal with Alphabet's (GOOG, GOOGL) Google for $920 million per month ($11.04 billion ARR).
+
+In a note to clients, William Blair analyst Louie DiPalma confirmed that the new deal differs from the $6.7 billion, six-month deal ($13.4 billion ARR) that was announced on SpaceX's August earnings call. "We suspect the $6.7 billion/6-month deal that was announced on the earnings call is with the U.S. Department of Defense," he said.
+
+DiPalma explained why SpaceX is winning with its AI compute business.
+
+"SpaceX has benefited from its ability to deploy capacity much faster than peers to take advantage of the unprecedented demand environment for compute capacity," DiPalma said. "In addition, SpaceX has benefited from its close relationship with Nvidia, which provides SpaceXAI with priority allocation to GPUs."
+
+The four deals noted here — without mentioning any other deals SpaceX has in place — amount to around $45.7 billion in ARR for December. Add the rocket business (approximately $4 billion in ARR based on Q2 earnings) and the Starlink division ($17.2 billion), and it seems possible that $100 billion could be reached as growth continues, with Johnsen saying he has "even more conviction" in hitting that goal.
+
+One wrinkle in its AI compute game plan is that SpaceX is now considering slowing the physical build-outs of its terrestrial data centers to help address operational and reliability concerns, per The Information.

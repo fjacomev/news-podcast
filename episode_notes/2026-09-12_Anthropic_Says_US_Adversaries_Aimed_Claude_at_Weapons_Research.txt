@@ -1,0 +1,47 @@
+Anthropic Says US Adversaries Aimed Claude at Weapons Research
+
+2026-09-12
+
+Por Olivia Solon; Jordan Robertson; Ryan Gallagher
+
+https://finance.yahoo.com/technology/ai/articles/anthropic-says-us-adversaries-aimed-120427318.html
+
+(Bloomberg) -- Anthropic PBC says its artificial intelligence model Claude has been misused in attempts to develop a wide range of potential military applications, including kamikaze drone swarms, missile navigation systems and biological weapons.
+
+Most Read from Bloomberg
+
+Users from countries including Iran, Russia, China and Yemen are among those flagged for misusing the AI company's frontier models in the past year, according to a report by Anthropic's threat intelligence team on Thursday. None of the cases involved Anthropic's most advanced models, Fable and Mythos.
+
+"As models become increasingly capable, their risks will increase, unless AI developers and society's defenders act to make them safer," Anthropic said in the report.
+
+US AI companies have been racing to develop and deploy more capable AI systems, in part to stay ahead of rivals like China, while trying to maintain safeguards. Anthropic is seeking to prevent its technology from being used for harmful purposes, including the development of biological and conventional weapons.
+
+That position brought it into direct conflict with the Pentagon, which suspended work with Anthropic after it refused to allow Claude to be used for mass surveillance or autonomous weapons systems.
+
+The report says users have attempted to deploy Claude to help America's enemies. In many cases they tried to evade Claude's safeguards or conceal their locations.
+
+Users in Russia, which Anthropic determined were not linked to the state, tried to use Claude to build software for an autonomous, first-person-view, kamikaze drone swarm trained on Ukrainian combat footage.
+
+The report also details five case studies of people using Claude in ways that could support the development of biological weapons, including state-sponsored virologists looking to create an enhanced version of a debilitating mosquito-borne virus called chikungunya. The effort was identified through a request for Claude to help write a grant application to fund research at a military institute in an unnamed country where Anthropic doesn't provide service.
+
+Anthropic noted that all of the biological case studies in the report were "ambiguous" and involved research that could have benign scientific intent.
+
+Actors based in Houthi-controlled northern Yemen, however, used Claude to build software for several types of missiles.
+
+"We do not have evidence the actors succeeded in fielding an operational device," Anthropic said.
+
+State-linked actors in countries including China and Iran tried to use Claude to build and facilitate surveillance. One China-linked operation used Claude to "track, profile and recruit Uyghurs" in the Syrian Army. An Iranian unit used Claude to build surveillance software disguised as a tool to keep track of prayer times. China's foreign ministry did not immediately respond to a request for comment.
+
+In another case, it discovered that a consultant likely working for a state intelligence agency in Mali had used Claude to build a system designed to monitor roughly 25 million mobile phones in the West African country. The system could generate "intelligence dossiers" on any specified phone number, without a court order. Anthropic said that it banned the consultant's account, but that the Claude-powered surveillance platform had been deployed locally and was out of the company's full control. The Malian government did not immediately respond to a request for comment.
+
+Anthropic's report also highlighted how hackers — ranging from suspected state-sponsored intelligence in Russia and China to hacktivists and cybercriminals — are using the company's AI to speed up and amplify their efforts to steal sensitive data. The report does not reveal any novel or dangerous new vulnerabilities in critical systems.
+
+The report details how one hacking group, which Microsoft Corp. calls Midnight Blizzard and has been linked to Russia's intelligence services, "increased their speed by automating their operations using AI." This included using Anthropic's software to automate many parts of the development of their malicious software and helping them craft phishing e-mails against military intelligence and defense targets. Russia's foreign ministry did not immediately respond to a request for comment.
+
+Anthropic said another hacking group, the ShinyHunters cyber-extortion gang, used AI to scan for leaked security credentials and use them to steal data from the affected organizations.
+
+"The cases we share here aren't typical misuse, but rather examples of the most notable and novel threat activity we've identified to date," Anthropic said in the report, which also detailed other types of threats including scams and hacking tools.
+
+Most Read from Bloomberg Businessweek
+
+2026 Bloomberg L.P.
