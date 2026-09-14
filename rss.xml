@@ -7,7 +7,7 @@
     <link>https://fjacomev.github.io/news-podcast</link>
     <description>Podcast personal de noticias, leido en voz local</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Sep 2026 12:26:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 19:58:08 GMT</lastBuildDate>
     <image>
       <url>https://fjacomev.github.io/news-podcast/cover.jpg</url>
       <title>Fernando AI News</title>
@@ -18,6 +18,168 @@
     <itunes:summary>Podcast personal de noticias, leido en voz local</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
+
+    <item>
+      <title>macOS 27 Golden Gate Review: Bridging the Tahoe gap – Six Colors</title>
+      <author>Apple; Technology; Other Stuff</author>
+      <description>macOS 27 Golden Gate Review: Bridging the Tahoe gap – Six Colors
+
+2026-09-14
+
+Por Apple; Technology; Other Stuff
+
+https://sixcolors.com/post/2026/09/macos-27-golden-gate-review-bridging-the-tahoe-gap/
+
+By Jason Snell
+
+September 14, 2026 10:17 AM PT
+
+macOS 27 Golden Gate Review: Bridging the Tahoe gap
+
+Last year’s macOS release, macOS 26 Tahoe, was a mixed bag. While it added a bunch of solid new productivity features, it also included a half-baked visual update that muddied the entire interface. While I chose to view the glass as half full and accepted the interface imperfections, I understand that a lot of people just gave Tahoe a pass rather than inflict a visual regression on themselves.
+
+No matter how full you think the (liquid) glass was, I have good news: macOS 27 Golden Gate is here, and it’s good. Not only has Apple addressed most of the visual problems with last year’s release, but if you skipped Tahoe, you’re also going to be dazzled by Tahoe features like Apple’s first native clipboard history, Shortcuts automation and AI access, and an improved Spotlight.
+
+For everyone who spent a year grinding in Tahoe, Golden Gate doesn’t just improve the look of the entire system, but offers a host of other improvements. This is an update nobody will have to apologize for liking.
+
+Design takes a step forward
+
+The fact that there are more design changes in macOS than any of Apple’s other 27 updates speaks volumes about how broken many of the Tahoe design decisions were. Apple describes the design as “even more refined,” because in Apple marketing-speak, broken features are never remedied or fixed—past features are just improved. The truth is, Apple has rolled back numerous missteps and made changes to others to mitigate the issues they caused.
+
+Floating glass sidebars inset from window edges—a choice that made sense metaphorically, but looked awful—are gone, essentially reverted to their previous design, sitting at the left edge of windows, with a darker background for contrast and colored icons to boot.
+
+Toolbars, one of the most important interface conventions of macOS, were flattened and ghostly in Tahoe. In Golden Gate, they pick up better shading and are more legible, though (strangely) the toolbar in inactive windows offers more contrast and legibility than in active ones! In Photos, toolbars are actual bars, not horizontal areas of floating glassy buttons—which means the system no longer has to attempt to add shading behind those areas in order to improve legibility. They’re just legible.
+
+In Golden Gate, windows generally just feel… a bit more square. Apple has made window corners more consistent, and not having the curved corners of the sidebar right inside the curved corners of the window edge also helps make it feel a little less like you’re under the tyrannical rule of the Circle King.
+
+Icons look better across the board in Golden Gate, probably because of a new layered icon compositing approach Apple is taking across its platforms. Unfortunately, apps that dare stick any of their extremities out of the mandated squircle shape are still put in a featureless gray box of shame, which makes it harder to identify icons, especially in appearance modes like Clear and Tinted that remove color as an identifier.
+
+The iconic macOS “stoplight” window controls have even gotten a bit of a glow-up, with some Liquid Glass shading added to the three circles in the top left of windows. I think they’re cute. Not only are they more harmonious with the other Liquid Glass design elements in macOS (and all of Apple’s current operating systems), but they also hearken back to the classic Aqua design language that was introduced along with Mac OS X back in the day. I don’t know if I want to lick these stoplight icons, but they do look a little candy-like, and I’m here for it.
+
+To hear Apple tell it, users are split on the transparency effect of Liquid Glass: some people despise it, and some people can’t get enough of it. As a result, all of A
+
+[Transcripcion recortada]</description>
+      <content:encoded><![CDATA[<p>macOS 27 Golden Gate Review: Bridging the Tahoe gap – Six Colors</p><p>2026-09-14</p><p>Por Apple; Technology; Other Stuff</p><p>https://sixcolors.com/post/2026/09/macos-27-golden-gate-review-bridging-the-tahoe-gap/</p><p>By Jason Snell</p><p>September 14, 2026 10:17 AM PT</p><p>macOS 27 Golden Gate Review: Bridging the Tahoe gap</p><p>Last year’s macOS release, macOS 26 Tahoe, was a mixed bag. While it added a bunch of solid new productivity features, it also included a half-baked visual update that muddied the entire interface. While I chose to view the glass as half full and accepted the interface imperfections, I understand that a lot of people just gave Tahoe a pass rather than inflict a visual regression on themselves.</p><p>No matter how full you think the (liquid) glass was, I have good news: macOS 27 Golden Gate is here, and it’s good. Not only has Apple addressed most of the visual problems with last year’s release, but if you skipped Tahoe, you’re also going to be dazzled by Tahoe features like Apple’s first native clipboard history, Shortcuts automation and AI access, and an improved Spotlight.</p><p>For everyone who spent a year grinding in Tahoe, Golden Gate doesn’t just improve the look of the entire system, but offers a host of other improvements. This is an update nobody will have to apologize for liking.</p><p>Design takes a step forward</p><p>The fact that there are more design changes in macOS than any of Apple’s other 27 updates speaks volumes about how broken many of the Tahoe design decisions were. Apple describes the design as “even more refined,” because in Apple marketing-speak, broken features are never remedied or fixed—past features are just improved. The truth is, Apple has rolled back numerous missteps and made changes to others to mitigate the issues they caused.</p><p>Floating glass sidebars inset from window edges—a choice that made sense metaphorically, but looked awful—are gone, essentially reverted to their previous design, sitting at the left edge of windows, with a darker background for contrast and colored icons to boot.</p><p>Toolbars, one of the most important interface conventions of macOS, were flattened and ghostly in Tahoe. In Golden Gate, they pick up better shading and are more legible, though (strangely) the toolbar in inactive windows offers more contrast and legibility than in active ones! In Photos, toolbars are actual bars, not horizontal areas of floating glassy buttons—which means the system no longer has to attempt to add shading behind those areas in order to improve legibility. They’re just legible.</p><p>In Golden Gate, windows generally just feel… a bit more square. Apple has made window corners more consistent, and not having the curved corners of the sidebar right inside the curved corners of the window edge also helps make it feel a little less like you’re under the tyrannical rule of the Circle King.</p><p>Icons look better across the board in Golden Gate, probably because of a new layered icon compositing approach Apple is taking across its platforms. Unfortunately, apps that dare stick any of their extremities out of the mandated squircle shape are still put in a featureless gray box of shame, which makes it harder to identify icons, especially in appearance modes like Clear and Tinted that remove color as an identifier.</p><p>The iconic macOS “stoplight” window controls have even gotten a bit of a glow-up, with some Liquid Glass shading added to the three circles in the top left of windows. I think they’re cute. Not only are they more harmonious with the other Liquid Glass design elements in macOS (and all of Apple’s current operating systems), but they also hearken back to the classic Aqua design language that was introduced along with Mac OS X back in the day. I don’t know if I want to lick these stoplight icons, but they do look a little candy-like, and I’m here for it.</p><p>To hear Apple tell it, users are split on the transparency effect of Liquid Glass: some people despise it, and some people can’t get enough of it. As a result, all of A</p>]]></content:encoded>
+      <pubDate>Mon, 14 Sep 2026 19:58:07 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-09-14_macOS_27_Golden_Gate_Review_Bridging_the_Tahoe_gap_Six_Colors.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-09-14_macOS_27_Golden_Gate_Review_Bridging_the_Tahoe_gap_Six_Colors.mp3" length="12810364" type="audio/mpeg"/>
+      <itunes:duration>00:23:54</itunes:duration>
+      <itunes:author>Apple; Technology; Other Stuff</itunes:author>
+      <itunes:summary>macOS 27 Golden Gate Review: Bridging the Tahoe gap – Six Colors
+
+2026-09-14
+
+Por Apple; Technology; Other Stuff
+
+https://sixcolors.com/post/2026/09/macos-27-golden-gate-review-bridging-the-tahoe-gap/
+
+By Jason Snell
+
+September 14, 2026 10:17 AM PT
+
+macOS 27 Golden Gate Review: Bridging the Tahoe gap
+
+Last year’s macOS release, macOS 26 Tahoe, was a mixed bag. While it added a bunch of solid new productivity features, it also included a half-baked visual update that muddied the entire interface. While I chose to view the glass as half full and accepted the interface imperfections, I understand that a lot of people just gave Tahoe a pass rather than inflict a visual regression on themselves.
+
+No matter how full you think the (liquid) glass was, I have good news: macOS 27 Golden Gate is here, and it’s good. Not only has Apple addressed most of the visual problems with last year’s release, but if you skipped Tahoe, you’re also going to be dazzled by Tahoe features like Apple’s first native clipboard history, Shortcuts automation and AI access, and an improved Spotlight.
+
+For everyone who spent a year grinding in Tahoe, Golden Gate doesn’t just improve the look of the entire system, but offers a host of other improvements. This is an update nobody will have to apologize for liking.
+
+Design takes a step forward
+
+The fact that there are more design changes in macOS than any of Apple’s other 27 updates speaks volumes about how broken many of the Tahoe design decisions were. Apple describes the design as “even more refined,” because in Apple marketing-speak, broken features are never remedied or fixed—past features are just improved. The truth is, Apple has rolled back numerous missteps and made changes to others to mitigate the issues they caused.
+
+Floating glass sidebars inset from window edges—a choice that made sense metaphorically, but looked awful—are gone, essentially reverted to their previous design, sitting at the left edge of windows, with a darker background for contrast and colored icons to boot.
+
+Toolbars, one of the most important interface conventions of macOS, were flattened and ghostly in Tahoe. In Golden Gate, they pick up better shading and are more legible, though (strangely) the toolbar in inactive windows offers more contrast and legibility than in active ones! In Photos, toolbars are actual bars, not horizontal areas of floating glassy buttons—which means the system no longer has to attempt to add shading behind those areas in order to improve legibility. They’re just legible.
+
+In Golden Gate, windows generally just feel… a bit more square. Apple has made window corners more consistent, and not having the curved corners of the sidebar right inside the curved corners of the window edge also helps make it feel a little less like you’re under the tyrannical rule of the Circle King.
+
+Icons look better across the board in Golden Gate, probably because of a new layered icon compositing approach Apple is taking across its platforms. Unfortunately, apps that dare stick any of their extremities out of the mandated squircle shape are still put in a featureless gray box of shame, which makes it harder to identify icons, especially in appearance modes like Clear and Tinted that remove color as an identifier.
+
+The iconic macOS “stoplight” window controls have even gotten a bit of a glow-up, with some Liquid Glass shading added to the three circles in the top left of windows. I think they’re cute. Not only are they more harmonious with the other Liquid Glass design elements in macOS (and all of Apple’s current operating systems), but they also hearken back to the classic Aqua design language that was introduced along with Mac OS X back in the day. I don’t know if I want to lick these stoplight icons, but they do look a little candy-like, and I’m here for it.
+
+To hear Apple tell it, users are split on the transparency effect of Liquid Glass: some people despise it, and some people can’t get enough of it. As a result, all of A
+
+[Transcripcion recortada]</itunes:summary>
+    </item>
+
+    <item>
+      <title>iOS 27 Review: Little things mean a lot – Six Colors</title>
+      <author>Apple; Technology; Other Stuff</author>
+      <description>iOS 27 Review: Little things mean a lot – Six Colors
+
+2026-09-14
+
+Por Apple; Technology; Other Stuff
+
+https://sixcolors.com/post/2026/09/ios-27-review-little-things-mean-a-lot/
+
+By Dan Moren
+
+September 14, 2026 10:17 AM PT
+
+iOS 27 Review: Little things mean a lot
+
+By now you’ve probably heard the promise of iOS 27: it’s a Snow Leopard-like year where Apple spent a lot of time not on big marquee features, but on smaller fixes and enhancements throughout the operating system. And that’s largely true—and largely to the benefit of the platform—but it’s also not the whole story. Because there is, of course, at least one major feature that comes to iOS 27 (and Apple’s other platforms) this year, and it’s a doozy: Siri AI.
+
+The result is an OS that feels like a marked improvement over its predecessor, in everything from design to performance to capabilities. That’s not to say there isn’t still room for improvement—software is a living thing, and those of us who have been using it throughout the beta period this summer can attest to the fact that Apple is constantly at work trying to refine its experiences.
+
+The promise of iOS 27 is that it’ll not only unlock new capabilities but also make your existing workflows smoother and quicker. That’s not a bad proposition for the device that many of us carry more than any other—as long as it can deliver.
+
+Siri &amp; AI: Two okay tastes that taste great together?
+
+The call for Apple to do a major overhaul of Siri has existed almost as long as Siri as existed. Heck, I wrote a story about it back in 2015, more than a decade ago and only four years after the first version of Siri debuted. But even as competitors emerged and Siri moved to more Apple platforms, the voice assistant improved only in relatively small, targeted ways—a testament, perhaps, to the limitations of its underlying technology. With the recent rise of chatbots backed by large language models, it quickly became apparent how much Siri had fallen behind, and so drastic measures were necessary to bring it up to speed.
+
+The good news is that Siri AI is capable: impressively so, at times. In the lowest of low bars, it certainly beats the pants off the previous incarnation of Siri, but its access to your own personal data and all of the apps on your phone also unlocks a host of new possibilities.
+
+But it’s also not without the pitfalls that underlie all LLM-powered chatbots: errors in understanding, hallucinations, and so on. Perhaps the biggest challenge of Siri AI will be getting people who have written off Siri as a limited feature, only to be used for trusted tasks—setting timers, checking the weather, playing music—to be more ambitious about what they ask the assistant.
+
+New Siri is integrated throughout iOS, whether you access it via the traditional press-and-hold of the side button or by saying the wake word, or in its new home integrated with the Spotlight search when you swipe down on the home screen. That last interface is available systemwide, in any app, by swiping down from the center of the top of the screen. The search interface has a new look too: a black liquid glass bubble with silver overtones. You can ask Siri questions by voice, or by simply typing to it.
+
+There’s also a new standalone Siri app that stores all your conversations (with some exceptions). The app itself is pretty barebones, letting you view those conversations in List or Grid layouts, select multiple conversations to delete them, and pin or rename any single conversation. In Settings : Siri, you can choose to either open to the overview or to a new conversation and decide whether old conversations are kept for 30 days, 1 year, or forever. It’s a little strange that one-off queries (“What’s the average height of the Norwegian World Cup team?”) are stored alongside more involved conversations (“Can you help me build a specific RSS feed for this site?”); I also tend to end up with a few orphan blank “New conversation” and “New photo” entries, but it’d be nic
+
+[Transcripcion recortada]</description>
+      <content:encoded><![CDATA[<p>iOS 27 Review: Little things mean a lot – Six Colors</p><p>2026-09-14</p><p>Por Apple; Technology; Other Stuff</p><p>https://sixcolors.com/post/2026/09/ios-27-review-little-things-mean-a-lot/</p><p>By Dan Moren</p><p>September 14, 2026 10:17 AM PT</p><p>iOS 27 Review: Little things mean a lot</p><p>By now you’ve probably heard the promise of iOS 27: it’s a Snow Leopard-like year where Apple spent a lot of time not on big marquee features, but on smaller fixes and enhancements throughout the operating system. And that’s largely true—and largely to the benefit of the platform—but it’s also not the whole story. Because there is, of course, at least one major feature that comes to iOS 27 (and Apple’s other platforms) this year, and it’s a doozy: Siri AI.</p><p>The result is an OS that feels like a marked improvement over its predecessor, in everything from design to performance to capabilities. That’s not to say there isn’t still room for improvement—software is a living thing, and those of us who have been using it throughout the beta period this summer can attest to the fact that Apple is constantly at work trying to refine its experiences.</p><p>The promise of iOS 27 is that it’ll not only unlock new capabilities but also make your existing workflows smoother and quicker. That’s not a bad proposition for the device that many of us carry more than any other—as long as it can deliver.</p><p>Siri &amp; AI: Two okay tastes that taste great together?</p><p>The call for Apple to do a major overhaul of Siri has existed almost as long as Siri as existed. Heck, I wrote a story about it back in 2015, more than a decade ago and only four years after the first version of Siri debuted. But even as competitors emerged and Siri moved to more Apple platforms, the voice assistant improved only in relatively small, targeted ways—a testament, perhaps, to the limitations of its underlying technology. With the recent rise of chatbots backed by large language models, it quickly became apparent how much Siri had fallen behind, and so drastic measures were necessary to bring it up to speed.</p><p>The good news is that Siri AI is capable: impressively so, at times. In the lowest of low bars, it certainly beats the pants off the previous incarnation of Siri, but its access to your own personal data and all of the apps on your phone also unlocks a host of new possibilities.</p><p>But it’s also not without the pitfalls that underlie all LLM-powered chatbots: errors in understanding, hallucinations, and so on. Perhaps the biggest challenge of Siri AI will be getting people who have written off Siri as a limited feature, only to be used for trusted tasks—setting timers, checking the weather, playing music—to be more ambitious about what they ask the assistant.</p><p>New Siri is integrated throughout iOS, whether you access it via the traditional press-and-hold of the side button or by saying the wake word, or in its new home integrated with the Spotlight search when you swipe down on the home screen. That last interface is available systemwide, in any app, by swiping down from the center of the top of the screen. The search interface has a new look too: a black liquid glass bubble with silver overtones. You can ask Siri questions by voice, or by simply typing to it.</p><p>There’s also a new standalone Siri app that stores all your conversations (with some exceptions). The app itself is pretty barebones, letting you view those conversations in List or Grid layouts, select multiple conversations to delete them, and pin or rename any single conversation. In Settings : Siri, you can choose to either open to the overview or to a new conversation and decide whether old conversations are kept for 30 days, 1 year, or forever. It’s a little strange that one-off queries (“What’s the average height of the Norwegian World Cup team?”) are stored alongside more involved conversations (“Can you help me build a specific RSS feed for this site?”); I also tend to end up with a few orphan blank “New conversation” and “New photo” entries, but it’d be nic</p>]]></content:encoded>
+      <pubDate>Mon, 14 Sep 2026 19:50:43 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-09-14_iOS_27_Review_Little_things_mean_a_lot_Six_Colors.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-09-14_iOS_27_Review_Little_things_mean_a_lot_Six_Colors.mp3" length="17542559" type="audio/mpeg"/>
+      <itunes:duration>00:32:44</itunes:duration>
+      <itunes:author>Apple; Technology; Other Stuff</itunes:author>
+      <itunes:summary>iOS 27 Review: Little things mean a lot – Six Colors
+
+2026-09-14
+
+Por Apple; Technology; Other Stuff
+
+https://sixcolors.com/post/2026/09/ios-27-review-little-things-mean-a-lot/
+
+By Dan Moren
+
+September 14, 2026 10:17 AM PT
+
+iOS 27 Review: Little things mean a lot
+
+By now you’ve probably heard the promise of iOS 27: it’s a Snow Leopard-like year where Apple spent a lot of time not on big marquee features, but on smaller fixes and enhancements throughout the operating system. And that’s largely true—and largely to the benefit of the platform—but it’s also not the whole story. Because there is, of course, at least one major feature that comes to iOS 27 (and Apple’s other platforms) this year, and it’s a doozy: Siri AI.
+
+The result is an OS that feels like a marked improvement over its predecessor, in everything from design to performance to capabilities. That’s not to say there isn’t still room for improvement—software is a living thing, and those of us who have been using it throughout the beta period this summer can attest to the fact that Apple is constantly at work trying to refine its experiences.
+
+The promise of iOS 27 is that it’ll not only unlock new capabilities but also make your existing workflows smoother and quicker. That’s not a bad proposition for the device that many of us carry more than any other—as long as it can deliver.
+
+Siri &amp; AI: Two okay tastes that taste great together?
+
+The call for Apple to do a major overhaul of Siri has existed almost as long as Siri as existed. Heck, I wrote a story about it back in 2015, more than a decade ago and only four years after the first version of Siri debuted. But even as competitors emerged and Siri moved to more Apple platforms, the voice assistant improved only in relatively small, targeted ways—a testament, perhaps, to the limitations of its underlying technology. With the recent rise of chatbots backed by large language models, it quickly became apparent how much Siri had fallen behind, and so drastic measures were necessary to bring it up to speed.
+
+The good news is that Siri AI is capable: impressively so, at times. In the lowest of low bars, it certainly beats the pants off the previous incarnation of Siri, but its access to your own personal data and all of the apps on your phone also unlocks a host of new possibilities.
+
+But it’s also not without the pitfalls that underlie all LLM-powered chatbots: errors in understanding, hallucinations, and so on. Perhaps the biggest challenge of Siri AI will be getting people who have written off Siri as a limited feature, only to be used for trusted tasks—setting timers, checking the weather, playing music—to be more ambitious about what they ask the assistant.
+
+New Siri is integrated throughout iOS, whether you access it via the traditional press-and-hold of the side button or by saying the wake word, or in its new home integrated with the Spotlight search when you swipe down on the home screen. That last interface is available systemwide, in any app, by swiping down from the center of the top of the screen. The search interface has a new look too: a black liquid glass bubble with silver overtones. You can ask Siri questions by voice, or by simply typing to it.
+
+There’s also a new standalone Siri app that stores all your conversations (with some exceptions). The app itself is pretty barebones, letting you view those conversations in List or Grid layouts, select multiple conversations to delete them, and pin or rename any single conversation. In Settings : Siri, you can choose to either open to the overview or to a new conversation and decide whether old conversations are kept for 30 days, 1 year, or forever. It’s a little strange that one-off queries (“What’s the average height of the Norwegian World Cup team?”) are stored alongside more involved conversations (“Can you help me build a specific RSS feed for this site?”); I also tend to end up with a few orphan blank “New conversation” and “New photo” entries, but it’d be nic
+
+[Transcripcion recortada]</itunes:summary>
+    </item>
 
     <item>
       <title>New data shows that the US government’s $166 billion tariff refund process is quickly tapering off</title>
@@ -8353,152 +8515,6 @@ FedWatch Advisors chief investment officer Ben Emons said he thinks competition 
 &quot;[It&#x27;s] less so about inflation or anticipating the Fed move, or even the fiscal deficit for that matter, even though it continues to be an issue,&quot; Emons told Yahoo Finance. &quot;This is the economy that&#x27;s growing a lot faster than we&#x27;ve had in the past years, right? And it&#x27;s going to grow even faster with all this issuance and investment coming.&quot;
 
 Jeroen Blokland, founder of investment research firm True Insights, pointed to US government debt, which j
-
-[Transcripcion recortada]</itunes:summary>
-    </item>
-
-    <item>
-      <title>Anthropic changes data retention policy after pushback from customers</title>
-      <author>Ashley Capoot</author>
-      <description>Anthropic changes data retention policy after pushback from customers
-
-2026-09-03
-
-Por Ashley Capoot
-
-https://www.cnbc.com/2026/09/01/anthropic-data-retention.html
-
-Anthropic on Tuesday announced it will change a controversial data retention policy for its business customers after &quot;a lot of feedback,&quot; and it said it plans to implement a new solution called Enterprise Frontier Safeguards instead.
-
-The company introduced its existing data retention policy in June alongside the launch of Claude Fable 5 and Mythos 5, two of the company&#x27;s most advanced artificial intelligence models. Anthropic said at the time that it would require 30-day retention for all traffic on those models to help defend against misuse and &quot;complex and novel&quot; cyberattacks.
-
-Anthropic pledged not to use that data for any &quot;non-safety-related purpose,&quot; including model training, but many of its enterprise users expressed concern.
-
-Kate Jensen, head of Americas at Anthropic, told CNBC that the company spent hundreds of hours working with customers to develop another solution.
-
-With the launch of Enterprise Frontier Safeguards, Anthropic said businesses will be able to control how their data is reviewed, stored and managed, and they will also be able to carry out automated safety monitoring where no Anthropic human review is required. The company said it will not charge for Enterprise Frontier Safeguards, and that the controls will work whether users access Anthropic&#x27;s technology directly or through a cloud provider.
-
-&quot;We can do the scanning that we really need to, to help everybody feel confident, but it&#x27;s on their systems and their data so that they don&#x27;t have to compromise on their own privacy posture,&quot; Jensen said in an interview.
-
-Anthropic&#x27;s June data retention policy still applies to its non-enterprise subscribers that use its Mythos-class models.
-
-Founded in 2021, Anthropic generates the vast majority of its revenue by selling to enterprises, and the market is crucial as it gears up for what is widely expected to be a massive IPO. The company is also racing to say ahead of rivals like OpenAI, which introduced its own data retention solution earlier this month.
-
-Last week, Anthropic CEO Dario Amodei previewed Enterprise Frontier Safeguards during an interview with CNBC about the company&#x27;s expanded partnership with Salesforce. Amodei said the solution helps ensure that Salesforce&#x27;s customer data remains private, and that Anthropic&#x27;s models &quot;don&#x27;t run out of control.&quot; He added that Anthropic put a &quot;huge amount of effort&quot; into managing permissions for the integration between the two companies.
-
-Jensen said she feels &quot;very confident&quot; that Anthropic will see accelerated deployment following the announcement, especially on customers&#x27; most sensitive workloads. Anthropic also unveiled its two latest models on Tuesday, Claude Fable 5.1 and Mythos 5.1, which the company said show improved coding, knowledge work and research capabilities.
-
-Enterprise Frontier Safeguards will roll out in phases, and Anthropic said it&#x27;s aiming for broader availability this fall.
-
-WATCH: Anthropic pushes into physical world with new standard to help AI agents operate machines</description>
-      <content:encoded><![CDATA[<p>Anthropic changes data retention policy after pushback from customers</p><p>2026-09-03</p><p>Por Ashley Capoot</p><p>https://www.cnbc.com/2026/09/01/anthropic-data-retention.html</p><p>Anthropic on Tuesday announced it will change a controversial data retention policy for its business customers after &quot;a lot of feedback,&quot; and it said it plans to implement a new solution called Enterprise Frontier Safeguards instead.</p><p>The company introduced its existing data retention policy in June alongside the launch of Claude Fable 5 and Mythos 5, two of the company&#x27;s most advanced artificial intelligence models. Anthropic said at the time that it would require 30-day retention for all traffic on those models to help defend against misuse and &quot;complex and novel&quot; cyberattacks.</p><p>Anthropic pledged not to use that data for any &quot;non-safety-related purpose,&quot; including model training, but many of its enterprise users expressed concern.</p><p>Kate Jensen, head of Americas at Anthropic, told CNBC that the company spent hundreds of hours working with customers to develop another solution.</p><p>With the launch of Enterprise Frontier Safeguards, Anthropic said businesses will be able to control how their data is reviewed, stored and managed, and they will also be able to carry out automated safety monitoring where no Anthropic human review is required. The company said it will not charge for Enterprise Frontier Safeguards, and that the controls will work whether users access Anthropic&#x27;s technology directly or through a cloud provider.</p><p>&quot;We can do the scanning that we really need to, to help everybody feel confident, but it&#x27;s on their systems and their data so that they don&#x27;t have to compromise on their own privacy posture,&quot; Jensen said in an interview.</p><p>Anthropic&#x27;s June data retention policy still applies to its non-enterprise subscribers that use its Mythos-class models.</p><p>Founded in 2021, Anthropic generates the vast majority of its revenue by selling to enterprises, and the market is crucial as it gears up for what is widely expected to be a massive IPO. The company is also racing to say ahead of rivals like OpenAI, which introduced its own data retention solution earlier this month.</p><p>Last week, Anthropic CEO Dario Amodei previewed Enterprise Frontier Safeguards during an interview with CNBC about the company&#x27;s expanded partnership with Salesforce. Amodei said the solution helps ensure that Salesforce&#x27;s customer data remains private, and that Anthropic&#x27;s models &quot;don&#x27;t run out of control.&quot; He added that Anthropic put a &quot;huge amount of effort&quot; into managing permissions for the integration between the two companies.</p><p>Jensen said she feels &quot;very confident&quot; that Anthropic will see accelerated deployment following the announcement, especially on customers&#x27; most sensitive workloads. Anthropic also unveiled its two latest models on Tuesday, Claude Fable 5.1 and Mythos 5.1, which the company said show improved coding, knowledge work and research capabilities.</p><p>Enterprise Frontier Safeguards will roll out in phases, and Anthropic said it&#x27;s aiming for broader availability this fall.</p><p>WATCH: Anthropic pushes into physical world with new standard to help AI agents operate machines</p>]]></content:encoded>
-      <pubDate>Thu, 03 Sep 2026 17:58:16 GMT</pubDate>
-      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-09-03_Anthropic_changes_data_retention_policy_after_pushback_from_customers.mp3</guid>
-      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-09-03_Anthropic_changes_data_retention_policy_after_pushback_from_customers.mp3" length="1822775" type="audio/mpeg"/>
-      <itunes:duration>00:03:16</itunes:duration>
-      <itunes:author>Ashley Capoot</itunes:author>
-      <itunes:summary>Anthropic changes data retention policy after pushback from customers
-
-2026-09-03
-
-Por Ashley Capoot
-
-https://www.cnbc.com/2026/09/01/anthropic-data-retention.html
-
-Anthropic on Tuesday announced it will change a controversial data retention policy for its business customers after &quot;a lot of feedback,&quot; and it said it plans to implement a new solution called Enterprise Frontier Safeguards instead.
-
-The company introduced its existing data retention policy in June alongside the launch of Claude Fable 5 and Mythos 5, two of the company&#x27;s most advanced artificial intelligence models. Anthropic said at the time that it would require 30-day retention for all traffic on those models to help defend against misuse and &quot;complex and novel&quot; cyberattacks.
-
-Anthropic pledged not to use that data for any &quot;non-safety-related purpose,&quot; including model training, but many of its enterprise users expressed concern.
-
-Kate Jensen, head of Americas at Anthropic, told CNBC that the company spent hundreds of hours working with customers to develop another solution.
-
-With the launch of Enterprise Frontier Safeguards, Anthropic said businesses will be able to control how their data is reviewed, stored and managed, and they will also be able to carry out automated safety monitoring where no Anthropic human review is required. The company said it will not charge for Enterprise Frontier Safeguards, and that the controls will work whether users access Anthropic&#x27;s technology directly or through a cloud provider.
-
-&quot;We can do the scanning that we really need to, to help everybody feel confident, but it&#x27;s on their systems and their data so that they don&#x27;t have to compromise on their own privacy posture,&quot; Jensen said in an interview.
-
-Anthropic&#x27;s June data retention policy still applies to its non-enterprise subscribers that use its Mythos-class models.
-
-Founded in 2021, Anthropic generates the vast majority of its revenue by selling to enterprises, and the market is crucial as it gears up for what is widely expected to be a massive IPO. The company is also racing to say ahead of rivals like OpenAI, which introduced its own data retention solution earlier this month.
-
-Last week, Anthropic CEO Dario Amodei previewed Enterprise Frontier Safeguards during an interview with CNBC about the company&#x27;s expanded partnership with Salesforce. Amodei said the solution helps ensure that Salesforce&#x27;s customer data remains private, and that Anthropic&#x27;s models &quot;don&#x27;t run out of control.&quot; He added that Anthropic put a &quot;huge amount of effort&quot; into managing permissions for the integration between the two companies.
-
-Jensen said she feels &quot;very confident&quot; that Anthropic will see accelerated deployment following the announcement, especially on customers&#x27; most sensitive workloads. Anthropic also unveiled its two latest models on Tuesday, Claude Fable 5.1 and Mythos 5.1, which the company said show improved coding, knowledge work and research capabilities.
-
-Enterprise Frontier Safeguards will roll out in phases, and Anthropic said it&#x27;s aiming for broader availability this fall.
-
-WATCH: Anthropic pushes into physical world with new standard to help AI agents operate machines</itunes:summary>
-    </item>
-
-    <item>
-      <title>The Big Power of Small Annoyances</title>
-      <author>Desconocido</author>
-      <description>The Big Power of Small Annoyances
-
-2026-09-03
-
-Por Desconocido
-
-https://timharford.com/2026/09/the-big-power-of-small-annoyances/
-
-In a small black box, in a cupboard just out of reach of my desk, I keep one of my few treasured possessions: a set of Oblique Strategies cards, signed by their co-creator, the artist and musician Brian Eno. The cards, each carrying a brief instruction, are a prompt for creative people.
-
-Some are practical: “Make an exhaustive list of everything you might do and do the last thing on the list.” Some are gnomic: “A line has two sides.” Some are guaranteed to annoy most professional musicians: “Change instrument roles.”
-
-The prompts are aimed at triggering useful conversations between members of a band, reminding producers of options or perspectives they may have forgotten and, above all, forcing skilled artists to abandon their comfortable clichés and find a new approach. My 2016 book, Messy, praises the cards and explains why they, and related annoyances, are such powerful stimuli to solve problems. Strange, then, that I almost never use them.
-
-I’m not alone in that reluctance. When Eno persuaded David Bowie to embrace the cards while recording his celebrated Berlin trilogy of albums, Low, “Heroes” and Lodger, the musicians working with him did not always appreciate the intervention.
-
-Carlos Alomar, one of the world’s great guitarists, found himself playing the drums for the track “Boys Keep Swinging”. (“Change instrument roles”.) Alomar later reflected, “I mean, some of it worked, some of it didn’t . . . it did make me leave my frustration at what I was doing and totally look at it from another different point of view and although I didn’t like the point of view, when I came back, I was fresh.”
-
-The poet Simon Armitage described the cards “as if you’re asking the blood in your brain to flow in another direction”, which does not sound like a comfortable experience. But the world is full of uncomfortable obstacles that prompt a problem-solving response.
-
-A favourite example of mine is the 2014 strike by workers on the London Underground, which disrupted journeys for 48 hours — and prompted tens of thousands of commuters to change their travel habits after discovering that they had been commuting wrong.
-
-A 2009 laboratory experiment explored the impact of awkward team interactions: the researchers gave small teams 20 minutes to solve a multiple-choice murder mystery problem. In some cases, the groups consisted of four people from the same college sorority; in others, three sorority buddies were joined by a stranger, leading to annoying social friction. The researchers found that the teams with the stranger did a much better job at solving the problem, but enjoyed the task less and were more likely to believe they had failed. In short: the awkward group did better but believed they did worse.
-
-From anxiety-provoking social situations to travel chaos to randomly drawn mystifications, we might call these problem-solving prompts “desirable disruptions”. The trouble is that while they may be desirable, they are rarely desired. Few people relish a Tube strike, or the awkwardness of small talk with a stranger — and perhaps that explains why the Oblique Strategies deck in my cupboard is rarely touched.
-
-Which brings us to the topic of games, which, according to the philosopher Bernard Suits, are “the voluntary attempt to overcome unnecessary obstacles”. The contrast between that definition and these desirable disruptions is striking.
-
-Finding a better route to work when your usual one is blocked is no game — it’s a reluctant attempt to overcome inevitable obstacles. So is the awkward attempt to solve a problem in discussion with someone you’ve never met and with whom you have no obvious common ground. As for the Oblique Strategies, they might be something close to a game if it’s your creative project and your deck of cards, but if you’re a hard-working musician and Bowie and Eno keep forcing you to participat
-
-[Transcripcion recortada]</description>
-      <content:encoded><![CDATA[<p>The Big Power of Small Annoyances</p><p>2026-09-03</p><p>Por Desconocido</p><p>https://timharford.com/2026/09/the-big-power-of-small-annoyances/</p><p>In a small black box, in a cupboard just out of reach of my desk, I keep one of my few treasured possessions: a set of Oblique Strategies cards, signed by their co-creator, the artist and musician Brian Eno. The cards, each carrying a brief instruction, are a prompt for creative people.</p><p>Some are practical: “Make an exhaustive list of everything you might do and do the last thing on the list.” Some are gnomic: “A line has two sides.” Some are guaranteed to annoy most professional musicians: “Change instrument roles.”</p><p>The prompts are aimed at triggering useful conversations between members of a band, reminding producers of options or perspectives they may have forgotten and, above all, forcing skilled artists to abandon their comfortable clichés and find a new approach. My 2016 book, Messy, praises the cards and explains why they, and related annoyances, are such powerful stimuli to solve problems. Strange, then, that I almost never use them.</p><p>I’m not alone in that reluctance. When Eno persuaded David Bowie to embrace the cards while recording his celebrated Berlin trilogy of albums, Low, “Heroes” and Lodger, the musicians working with him did not always appreciate the intervention.</p><p>Carlos Alomar, one of the world’s great guitarists, found himself playing the drums for the track “Boys Keep Swinging”. (“Change instrument roles”.) Alomar later reflected, “I mean, some of it worked, some of it didn’t . . . it did make me leave my frustration at what I was doing and totally look at it from another different point of view and although I didn’t like the point of view, when I came back, I was fresh.”</p><p>The poet Simon Armitage described the cards “as if you’re asking the blood in your brain to flow in another direction”, which does not sound like a comfortable experience. But the world is full of uncomfortable obstacles that prompt a problem-solving response.</p><p>A favourite example of mine is the 2014 strike by workers on the London Underground, which disrupted journeys for 48 hours — and prompted tens of thousands of commuters to change their travel habits after discovering that they had been commuting wrong.</p><p>A 2009 laboratory experiment explored the impact of awkward team interactions: the researchers gave small teams 20 minutes to solve a multiple-choice murder mystery problem. In some cases, the groups consisted of four people from the same college sorority; in others, three sorority buddies were joined by a stranger, leading to annoying social friction. The researchers found that the teams with the stranger did a much better job at solving the problem, but enjoyed the task less and were more likely to believe they had failed. In short: the awkward group did better but believed they did worse.</p><p>From anxiety-provoking social situations to travel chaos to randomly drawn mystifications, we might call these problem-solving prompts “desirable disruptions”. The trouble is that while they may be desirable, they are rarely desired. Few people relish a Tube strike, or the awkwardness of small talk with a stranger — and perhaps that explains why the Oblique Strategies deck in my cupboard is rarely touched.</p><p>Which brings us to the topic of games, which, according to the philosopher Bernard Suits, are “the voluntary attempt to overcome unnecessary obstacles”. The contrast between that definition and these desirable disruptions is striking.</p><p>Finding a better route to work when your usual one is blocked is no game — it’s a reluctant attempt to overcome inevitable obstacles. So is the awkward attempt to solve a problem in discussion with someone you’ve never met and with whom you have no obvious common ground. As for the Oblique Strategies, they might be something close to a game if it’s your creative project and your deck of cards, but if you’re a hard-working musician and Bowie and Eno keep forcing you to participat</p>]]></content:encoded>
-      <pubDate>Thu, 03 Sep 2026 13:59:18 GMT</pubDate>
-      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-09-03_The_Big_Power_of_Small_Annoyances.mp3</guid>
-      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-09-03_The_Big_Power_of_Small_Annoyances.mp3" length="3581947" type="audio/mpeg"/>
-      <itunes:duration>00:06:35</itunes:duration>
-      <itunes:author>Desconocido</itunes:author>
-      <itunes:summary>The Big Power of Small Annoyances
-
-2026-09-03
-
-Por Desconocido
-
-https://timharford.com/2026/09/the-big-power-of-small-annoyances/
-
-In a small black box, in a cupboard just out of reach of my desk, I keep one of my few treasured possessions: a set of Oblique Strategies cards, signed by their co-creator, the artist and musician Brian Eno. The cards, each carrying a brief instruction, are a prompt for creative people.
-
-Some are practical: “Make an exhaustive list of everything you might do and do the last thing on the list.” Some are gnomic: “A line has two sides.” Some are guaranteed to annoy most professional musicians: “Change instrument roles.”
-
-The prompts are aimed at triggering useful conversations between members of a band, reminding producers of options or perspectives they may have forgotten and, above all, forcing skilled artists to abandon their comfortable clichés and find a new approach. My 2016 book, Messy, praises the cards and explains why they, and related annoyances, are such powerful stimuli to solve problems. Strange, then, that I almost never use them.
-
-I’m not alone in that reluctance. When Eno persuaded David Bowie to embrace the cards while recording his celebrated Berlin trilogy of albums, Low, “Heroes” and Lodger, the musicians working with him did not always appreciate the intervention.
-
-Carlos Alomar, one of the world’s great guitarists, found himself playing the drums for the track “Boys Keep Swinging”. (“Change instrument roles”.) Alomar later reflected, “I mean, some of it worked, some of it didn’t . . . it did make me leave my frustration at what I was doing and totally look at it from another different point of view and although I didn’t like the point of view, when I came back, I was fresh.”
-
-The poet Simon Armitage described the cards “as if you’re asking the blood in your brain to flow in another direction”, which does not sound like a comfortable experience. But the world is full of uncomfortable obstacles that prompt a problem-solving response.
-
-A favourite example of mine is the 2014 strike by workers on the London Underground, which disrupted journeys for 48 hours — and prompted tens of thousands of commuters to change their travel habits after discovering that they had been commuting wrong.
-
-A 2009 laboratory experiment explored the impact of awkward team interactions: the researchers gave small teams 20 minutes to solve a multiple-choice murder mystery problem. In some cases, the groups consisted of four people from the same college sorority; in others, three sorority buddies were joined by a stranger, leading to annoying social friction. The researchers found that the teams with the stranger did a much better job at solving the problem, but enjoyed the task less and were more likely to believe they had failed. In short: the awkward group did better but believed they did worse.
-
-From anxiety-provoking social situations to travel chaos to randomly drawn mystifications, we might call these problem-solving prompts “desirable disruptions”. The trouble is that while they may be desirable, they are rarely desired. Few people relish a Tube strike, or the awkwardness of small talk with a stranger — and perhaps that explains why the Oblique Strategies deck in my cupboard is rarely touched.
-
-Which brings us to the topic of games, which, according to the philosopher Bernard Suits, are “the voluntary attempt to overcome unnecessary obstacles”. The contrast between that definition and these desirable disruptions is striking.
-
-Finding a better route to work when your usual one is blocked is no game — it’s a reluctant attempt to overcome inevitable obstacles. So is the awkward attempt to solve a problem in discussion with someone you’ve never met and with whom you have no obvious common ground. As for the Oblique Strategies, they might be something close to a game if it’s your creative project and your deck of cards, but if you’re a hard-working musician and Bowie and Eno keep forcing you to participat
 
 [Transcripcion recortada]</itunes:summary>
     </item>
