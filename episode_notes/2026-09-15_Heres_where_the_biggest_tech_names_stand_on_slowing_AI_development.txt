@@ -1,0 +1,37 @@
+Here's where the biggest tech names stand on slowing AI development
+
+2026-09-15
+
+Por Daniel Howley
+
+https://finance.yahoo.com/technology/article/heres-where-the-biggest-tech-names-stand-on-slowing-ai-development-195849555.html
+
+Controversy rocked the tech industry on Monday after the heads of some of the largest AI companies called for pacing the development of frontier AI models.
+
+The uproar kicked off after Anthropic (ANTH.PVT) CEO Dario Amodei posted a lengthy essay on Saturday saying that AI labs need to take steps to prevent the technology from causing harm, including slowing the creation of ever more powerful models and asking the government to regulate the broader industry.
+
+Amodei's write-up came after an Anthropic researcher, Jacob Coxon, who previously worked at OpenAI, wrote on X that he is resigning from the startup because he doesn't believe it is acting responsibly when building more capable AI models.
+
+Anthropic's alignment lead responded to Coxon's post, saying that he agrees with him and adding that he believes there is a greater than 10% chance that the technology could "kill all humans."
+
+Amodei's essay quickly elicited responses from heavyweights across both the tech and political landscapes.
+
+OpenAI CEO Sam Altman: Agrees with Amodei
+
+OpenAI (OPAI.PVT) CEO Sam Altman wrote in a Saturday post on X that he agreed with his rival, adding, "we need to pace the frontier."
+
+Altman followed that up Sunday with additional posts saying that there are two ways unregulated AI progress could go awry: Researchers could lose control of the technology, or it could lead to a concentration of power in which a person or company uses AI to push their worldview on others.
+
+SpaceX CEO Elon Musk: Agrees with Amodei
+
+SpaceX (SPCX) CEO Elon Musk also chimed in, writing on X, "Dario is right," and adding that he's been warning about the dangers of AI for years. He also replied to a user's post saying that he's open to having AI companies peer review each other's AI models.
+
+Nvidia CEO Jensen Huang: Says extinction fears are made up
+
+Nvidia CEO Jensen Huang commented on Amodei's essay and prediction that the technology would kill all humans during an appearance at the All In Summit, saying that while it's important to keep safety in mind, the idea that AI will lead to human extinction is fiction.
+
+The CEO also said that the recent hacks by AI labs' own AI against third-party sites are solvable problems, and that self-improving AI isn't at risk of going out of control.
+
+Microsoft: Releases AI code of conduct
+
+Also on Monday, Microsoft (MSFT) released a preliminary code of conduct for developing what it calls humanist AI. The company said the overarching directive driving the code of conduct is "that humans must retain meaningful control over AI so that it can help people live healthier, happier, and more productive lives."
