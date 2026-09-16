@@ -1,0 +1,29 @@
+One chart reveals how much Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman have scared people about AI
+
+2026-09-16
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/markets/article/one-chart-reveals-how-much-anthropic-ceo-dario-amodei-and-openai-ceo-sam-altman-have-scared-people-about-ai-094302719.html
+
+One chart reveals how much Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman have scared people about AI
+
+Billionaire AI bosses have done a great job of getting their point across to the general public on the possible future risks of letting the increasingly powerful technology run amok.
+
+AI searches on Google this year have shifted from SaaSpocalypse (AI would dismantle software-as-a-service companies) to job apocalypse to AI extinction, a Deutsche Bank strategist pointed out in a new note.
+
+Anthropic (ANTH.PVT) CEO Dario Amodei and OpenAI (OPAI.PVT) CEO Sam Altman have managed to scare investors and the average person about the powerful technology they created and have pushed their teams to supercharge it.
+
+"Over the last few months, I have become convinced that fully addressing the risks requires even more prudence — not just investing in risk prevention, but pacing the rate of capabilities advancement so that risk prevention has time to keep up," Amodei stated in a 3,800-word essay on Saturday. "We must slow the pace at which we improve the capabilities of A.I. models. Progress will still seem fast, and we must make wise use of the time we gain."
+
+Altman said right after the post that he agreed with his rival. He then followed that up on Monday with a dark X post.
+
+"There are two ways AI progress could go very badly, and that we must avoid. First, we could lose control of the future to AI. This isn't acceptable. We're on Team Humanity, and AI must always serve people. To ensure that, we need ways to ensure that alignment and safety techniques stay ahead of progress in model capabilities," Altman said in an X post.
+
+He continued, "Second, we could end up in a world with too much concentration of power. If an extraordinarily powerful AI is used by one person or company to impress their worldview onto everyone else, the results could be extremely dystopian. Avoiding these two threats requires walking a narrow middle path; for example, one country could gain too much power. Another example is one lab ending up with too much power."
+
+Nvidia (NVDA) CEO Jensen Huang was asked at a conference on Monday how to explain a potential 10% risk of human extinction by AI.
+
+Huang — whose chips are powering the AI boom — simply answered: "All of these predictions have been wrong."
+
+"History suggests that even the greatest minds of their generations have a poor record in predicting what tech is coming down the line, let alone what its effects will be in the real world. The stakes could not be higher — not just the future of life itself but, in the shorter term, the future of a historic boom that depends on hype turning into reality," Deutsche Bank's Cox said.
