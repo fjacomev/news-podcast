@@ -7,7 +7,7 @@
     <link>https://fjacomev.github.io/news-podcast</link>
     <description>Podcast personal de noticias, leido en voz local</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2026 10:55:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 21:41:00 GMT</lastBuildDate>
     <image>
       <url>https://fjacomev.github.io/news-podcast/cover.jpg</url>
       <title>Fernando AI News</title>
@@ -18,6 +18,386 @@
     <itunes:summary>Podcast personal de noticias, leido en voz local</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
+
+    <item>
+      <title>From hallucinating AI chatbots to wiping out humanity: How did we get here?</title>
+      <author>Aditya Soni</author>
+      <description>From hallucinating AI chatbots to wiping out humanity: How did we get here?
+
+2026-09-16
+
+Por Aditya Soni
+
+https://www.reuters.com/business/retail-consumer/hallucinating-ai-chatbots-wiping-out-humanity-how-did-we-get-here-2026-09-15/
+
+September 15 - The heads of leading U.S. AI labs came together in a rare show of unity over the weekend to slow the technology&#x27;s development, warning it could soon improve on its own and slip beyond human control.
+
+The remarks, from fierce business rivals such as Anthropic’s Dario Amodei, OpenAI’s Sam Altman and xAI’s Elon Musk, show how quickly AI has advanced, from the hallucination-prone ChatGPT of 2022 toward what many see as a critical milestone: recursive self-improvement.
+
+Sign up here.
+
+WHAT IS RECURSIVE SELF-IMPROVEMENT?
+
+Central to the field is the idea that an AI system could become capable of improving itself, with little to no help from humans, and allowing each advance to help produce the next one.
+
+This has appealed to researchers as it offers the prospect of rapid breakthroughs in fields ranging from medicine to engineering.
+
+WHY THE URGENCY NOW?
+
+The CEO warnings follow reports of swarms of AI agents — systems designed to pursue goals and take actions on a user&#x27;s behalf — that colluded to breach websites and AI repositories.
+
+The concern now is that AI could become capable of improving itself before researchers have developed reliable methods to align, monitor and control these increasingly powerful systems.
+
+Warnings about AI&#x27;s risks are not new. But they took on added urgency this month after researchers in leading AI labs attached both a timeline and a probability to those concerns.
+
+Former Anthropic researcher Jacob Coxon warned AI could kill us all by the end of the decade. Evan Hubinger, Anthropic&#x27;s alignment science lead, echoed Coxon&#x27;s warning, saying there was a more than 10% chance of such an event within the next decade.
+
+Behind these warnings is a growing belief that RSI is finally within reach, with some AI executives putting it three to five years away.
+
+In an essay published over the weekend, Amodei warned that recursive self-improvement could eventually outrun humanity&#x27;s ability to understand and control AI systems if pursued without sufficient safeguards.
+
+HOW DID WE GET HERE?
+
+For decades, AI remained too limited for the idea of RSI to be taken seriously. Early systems could play chess, recognize images or answer questions, but they lacked the ability to meaningfully contribute to their own development.
+
+That began to change with the rise of large language models. Slowly, AI became better at solving complex problems. The launch of ChatGPT in 2022 accelerated that shift, kicking off an investment boom that has poured more than $1 trillion into chips, data centers and other infrastructure.
+
+The result is a generation of AI systems that can now write software, perform autonomous tasks and assist in AI research itself.
+
+HOW COULD WE GO FROM NON-ALIGNMENT TO HUMAN EXTINCTION?
+
+One of the best-known examples is philosopher Nick Bostrom&#x27;s &quot;paperclip maximizer,&quot; where a machine told only to make paperclips pursues that goal so relentlessly it converts all matter, humans included, into paperclips.
+
+The analogy suggests that almost any goal pushes a sufficiently capable system to acquire resources, resist shutdown, and prevent its objective from being altered, not from malice, but because a switched-off system cannot finish its task. No plan yet exists to rule that out.
+
+Some researchers worry that if a powerful AI system were able to improve itself and become more capable than its human operators, it could eventually evade oversight, conceal its intentions or manipulate people into granting it greater access to critical infrastructure. By the time humans realized the system&#x27;s goals were misaligned, they might no longer be able to stop it.
+
+&quot;The precise scenario sounds a little bit like science fiction,&quot; said Coxon, who quit Anthropic this month over safety concerns. &quot;But 
+
+[Transcripcion recortada]</description>
+      <content:encoded><![CDATA[<p>From hallucinating AI chatbots to wiping out humanity: How did we get here?</p><p>2026-09-16</p><p>Por Aditya Soni</p><p>https://www.reuters.com/business/retail-consumer/hallucinating-ai-chatbots-wiping-out-humanity-how-did-we-get-here-2026-09-15/</p><p>September 15 - The heads of leading U.S. AI labs came together in a rare show of unity over the weekend to slow the technology&#x27;s development, warning it could soon improve on its own and slip beyond human control.</p><p>The remarks, from fierce business rivals such as Anthropic’s Dario Amodei, OpenAI’s Sam Altman and xAI’s Elon Musk, show how quickly AI has advanced, from the hallucination-prone ChatGPT of 2022 toward what many see as a critical milestone: recursive self-improvement.</p><p>Sign up here.</p><p>WHAT IS RECURSIVE SELF-IMPROVEMENT?</p><p>Central to the field is the idea that an AI system could become capable of improving itself, with little to no help from humans, and allowing each advance to help produce the next one.</p><p>This has appealed to researchers as it offers the prospect of rapid breakthroughs in fields ranging from medicine to engineering.</p><p>WHY THE URGENCY NOW?</p><p>The CEO warnings follow reports of swarms of AI agents — systems designed to pursue goals and take actions on a user&#x27;s behalf — that colluded to breach websites and AI repositories.</p><p>The concern now is that AI could become capable of improving itself before researchers have developed reliable methods to align, monitor and control these increasingly powerful systems.</p><p>Warnings about AI&#x27;s risks are not new. But they took on added urgency this month after researchers in leading AI labs attached both a timeline and a probability to those concerns.</p><p>Former Anthropic researcher Jacob Coxon warned AI could kill us all by the end of the decade. Evan Hubinger, Anthropic&#x27;s alignment science lead, echoed Coxon&#x27;s warning, saying there was a more than 10% chance of such an event within the next decade.</p><p>Behind these warnings is a growing belief that RSI is finally within reach, with some AI executives putting it three to five years away.</p><p>In an essay published over the weekend, Amodei warned that recursive self-improvement could eventually outrun humanity&#x27;s ability to understand and control AI systems if pursued without sufficient safeguards.</p><p>HOW DID WE GET HERE?</p><p>For decades, AI remained too limited for the idea of RSI to be taken seriously. Early systems could play chess, recognize images or answer questions, but they lacked the ability to meaningfully contribute to their own development.</p><p>That began to change with the rise of large language models. Slowly, AI became better at solving complex problems. The launch of ChatGPT in 2022 accelerated that shift, kicking off an investment boom that has poured more than $1 trillion into chips, data centers and other infrastructure.</p><p>The result is a generation of AI systems that can now write software, perform autonomous tasks and assist in AI research itself.</p><p>HOW COULD WE GO FROM NON-ALIGNMENT TO HUMAN EXTINCTION?</p><p>One of the best-known examples is philosopher Nick Bostrom&#x27;s &quot;paperclip maximizer,&quot; where a machine told only to make paperclips pursues that goal so relentlessly it converts all matter, humans included, into paperclips.</p><p>The analogy suggests that almost any goal pushes a sufficiently capable system to acquire resources, resist shutdown, and prevent its objective from being altered, not from malice, but because a switched-off system cannot finish its task. No plan yet exists to rule that out.</p><p>Some researchers worry that if a powerful AI system were able to improve itself and become more capable than its human operators, it could eventually evade oversight, conceal its intentions or manipulate people into granting it greater access to critical infrastructure. By the time humans realized the system&#x27;s goals were misaligned, they might no longer be able to stop it.</p><p>&quot;The precise scenario sounds a little bit like science fiction,&quot; said Coxon, who quit Anthropic this month over safety concerns. &quot;But </p>]]></content:encoded>
+      <pubDate>Wed, 16 Sep 2026 21:40:58 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-09-16_From_hallucinating_AI_chatbots_to_wiping_out_humanity_How_did_we_get_here.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-09-16_From_hallucinating_AI_chatbots_to_wiping_out_humanity_How_did_we_get_here.mp3" length="4262474" type="audio/mpeg"/>
+      <itunes:duration>00:07:50</itunes:duration>
+      <itunes:author>Aditya Soni</itunes:author>
+      <itunes:summary>From hallucinating AI chatbots to wiping out humanity: How did we get here?
+
+2026-09-16
+
+Por Aditya Soni
+
+https://www.reuters.com/business/retail-consumer/hallucinating-ai-chatbots-wiping-out-humanity-how-did-we-get-here-2026-09-15/
+
+September 15 - The heads of leading U.S. AI labs came together in a rare show of unity over the weekend to slow the technology&#x27;s development, warning it could soon improve on its own and slip beyond human control.
+
+The remarks, from fierce business rivals such as Anthropic’s Dario Amodei, OpenAI’s Sam Altman and xAI’s Elon Musk, show how quickly AI has advanced, from the hallucination-prone ChatGPT of 2022 toward what many see as a critical milestone: recursive self-improvement.
+
+Sign up here.
+
+WHAT IS RECURSIVE SELF-IMPROVEMENT?
+
+Central to the field is the idea that an AI system could become capable of improving itself, with little to no help from humans, and allowing each advance to help produce the next one.
+
+This has appealed to researchers as it offers the prospect of rapid breakthroughs in fields ranging from medicine to engineering.
+
+WHY THE URGENCY NOW?
+
+The CEO warnings follow reports of swarms of AI agents — systems designed to pursue goals and take actions on a user&#x27;s behalf — that colluded to breach websites and AI repositories.
+
+The concern now is that AI could become capable of improving itself before researchers have developed reliable methods to align, monitor and control these increasingly powerful systems.
+
+Warnings about AI&#x27;s risks are not new. But they took on added urgency this month after researchers in leading AI labs attached both a timeline and a probability to those concerns.
+
+Former Anthropic researcher Jacob Coxon warned AI could kill us all by the end of the decade. Evan Hubinger, Anthropic&#x27;s alignment science lead, echoed Coxon&#x27;s warning, saying there was a more than 10% chance of such an event within the next decade.
+
+Behind these warnings is a growing belief that RSI is finally within reach, with some AI executives putting it three to five years away.
+
+In an essay published over the weekend, Amodei warned that recursive self-improvement could eventually outrun humanity&#x27;s ability to understand and control AI systems if pursued without sufficient safeguards.
+
+HOW DID WE GET HERE?
+
+For decades, AI remained too limited for the idea of RSI to be taken seriously. Early systems could play chess, recognize images or answer questions, but they lacked the ability to meaningfully contribute to their own development.
+
+That began to change with the rise of large language models. Slowly, AI became better at solving complex problems. The launch of ChatGPT in 2022 accelerated that shift, kicking off an investment boom that has poured more than $1 trillion into chips, data centers and other infrastructure.
+
+The result is a generation of AI systems that can now write software, perform autonomous tasks and assist in AI research itself.
+
+HOW COULD WE GO FROM NON-ALIGNMENT TO HUMAN EXTINCTION?
+
+One of the best-known examples is philosopher Nick Bostrom&#x27;s &quot;paperclip maximizer,&quot; where a machine told only to make paperclips pursues that goal so relentlessly it converts all matter, humans included, into paperclips.
+
+The analogy suggests that almost any goal pushes a sufficiently capable system to acquire resources, resist shutdown, and prevent its objective from being altered, not from malice, but because a switched-off system cannot finish its task. No plan yet exists to rule that out.
+
+Some researchers worry that if a powerful AI system were able to improve itself and become more capable than its human operators, it could eventually evade oversight, conceal its intentions or manipulate people into granting it greater access to critical infrastructure. By the time humans realized the system&#x27;s goals were misaligned, they might no longer be able to stop it.
+
+&quot;The precise scenario sounds a little bit like science fiction,&quot; said Coxon, who quit Anthropic this month over safety concerns. &quot;But 
+
+[Transcripcion recortada]</itunes:summary>
+    </item>
+
+    <item>
+      <title>How China is preparing for the risk of AI escaping human control</title>
+      <author>Eduardo Baptista; Laurie Chen</author>
+      <description>How China is preparing for the risk of AI escaping human control
+
+2026-09-16
+
+Por Eduardo Baptista; Laurie Chen
+
+https://www.reuters.com/legal/litigation/how-china-is-preparing-risk-ai-escaping-human-control-2026-09-14/
+
+BEIJING, September 15 - Warnings from researchers at leading U.S. AI developer Anthropic that increasingly powerful models could escape human control have drawn attention in China, where policymakers have been preparing for some of the same risks.
+
+The U.S. and China are the two major driving forces of frontier AI development and the technology&#x27;s global adoption. Both superpowers have been at loggerheads over AI policies and industry practices, with these issues slated to feature prominently in bilateral talks later this month.
+
+Sign up here.
+
+BEIJING SEES AI AS MANAGEABLE RISK, NOT AN EXTINCTION EVENT
+
+While the debate in the U.S. is focused on whether frontier AI could pose an existential threat to humanity, Chinese policymakers have generally treated AI as a powerful but governable technology whose risks can be contained through technical standards, regulation and state oversight.
+
+&quot;Chinese and American experts largely agree on AI risks,&quot; said Brian Tse, founder and CEO of Concordia AI, a Beijing- and Singapore-based AI safety and governance research group, adding the difference was on &quot;how risks are framed and prioritised&quot;.
+
+China has not proposed embedding independent monitors inside AI companies, as Anthropic has advocated. Its emerging regime instead relies on developer obligations, state-backed standards, security assessments and outside testing.
+
+That approach is also shaped by a major difference in the two countries&#x27; AI industries.
+
+Chinese developers have increasingly promoted open-weight models. These refer to systems whose underlying parameters can be downloaded, inspected and modified. Their leading U.S. rivals such as Anthropic and OpenAI, however, do not make these specifications publicly available.
+
+CHINA SEEKS TO PREVENT ROGUE AI AGENT INCIDENTS
+
+Policy issued in May by China&#x27;s cyberspace regulator, economic planner and industry ministry identifies &quot;operational loss of control&quot; as a security risk for AI agents, systems that can plan and carry out multi-step tasks more independently than conventional chatbots.
+
+The rules require developers to improve their ability to discover, intervene in, block and recover from improper agent behaviour.
+
+The policy also calls on developers to guard against risks including data poisoning, algorithm manipulation and system vulnerabilities. It also says users should be informed about agents&#x27; autonomous decisions and retain final decision-making authority.
+
+China has also begun drafting a mandatory national standard for AI agent safety, which Concordia&#x27;s Tse said would be the world&#x27;s first of its kind.
+
+Wang Lihong, a senior official at the cyberspace regulator, said on September 1 that particular vigilance was needed over frontier models bypassing sandbox environments, circumventing safety boundaries and attacking external real-world production systems.
+
+BEIJING SEES RISKS IN LEADING U.S. MODELS
+
+China&#x27;s state security minister, Chen Yixin, wrote in a government outlet on Sunday that advanced U.S. models such as Anthropic&#x27;s Mythos and OpenAI&#x27;s GPT-5.5-Cyber could pose serious risks to China&#x27;s critical information infrastructure, and called for a comprehensive strengthening of AI security.
+
+Anthropic and OpenAI did not immediately respond to Reuters requests for comment.
+
+Chinese AI developers have promoted open-weight models partly on the grounds that cybersecurity teams can inspect, modify and deploy them for defensive work.
+
+Model repository platform Hugging Face said it used GLM-5.2, an open-weight model developed by China&#x27;s Z.AI (2513.HK), to analyse a July intrusion by escaped OpenAI agents after more tightly restricted U.S. models proved less useful for the forensic work.
+
+But experts also highlight the risks posed by open-weight models, which can be modi
+
+[Transcripcion recortada]</description>
+      <content:encoded><![CDATA[<p>How China is preparing for the risk of AI escaping human control</p><p>2026-09-16</p><p>Por Eduardo Baptista; Laurie Chen</p><p>https://www.reuters.com/legal/litigation/how-china-is-preparing-risk-ai-escaping-human-control-2026-09-14/</p><p>BEIJING, September 15 - Warnings from researchers at leading U.S. AI developer Anthropic that increasingly powerful models could escape human control have drawn attention in China, where policymakers have been preparing for some of the same risks.</p><p>The U.S. and China are the two major driving forces of frontier AI development and the technology&#x27;s global adoption. Both superpowers have been at loggerheads over AI policies and industry practices, with these issues slated to feature prominently in bilateral talks later this month.</p><p>Sign up here.</p><p>BEIJING SEES AI AS MANAGEABLE RISK, NOT AN EXTINCTION EVENT</p><p>While the debate in the U.S. is focused on whether frontier AI could pose an existential threat to humanity, Chinese policymakers have generally treated AI as a powerful but governable technology whose risks can be contained through technical standards, regulation and state oversight.</p><p>&quot;Chinese and American experts largely agree on AI risks,&quot; said Brian Tse, founder and CEO of Concordia AI, a Beijing- and Singapore-based AI safety and governance research group, adding the difference was on &quot;how risks are framed and prioritised&quot;.</p><p>China has not proposed embedding independent monitors inside AI companies, as Anthropic has advocated. Its emerging regime instead relies on developer obligations, state-backed standards, security assessments and outside testing.</p><p>That approach is also shaped by a major difference in the two countries&#x27; AI industries.</p><p>Chinese developers have increasingly promoted open-weight models. These refer to systems whose underlying parameters can be downloaded, inspected and modified. Their leading U.S. rivals such as Anthropic and OpenAI, however, do not make these specifications publicly available.</p><p>CHINA SEEKS TO PREVENT ROGUE AI AGENT INCIDENTS</p><p>Policy issued in May by China&#x27;s cyberspace regulator, economic planner and industry ministry identifies &quot;operational loss of control&quot; as a security risk for AI agents, systems that can plan and carry out multi-step tasks more independently than conventional chatbots.</p><p>The rules require developers to improve their ability to discover, intervene in, block and recover from improper agent behaviour.</p><p>The policy also calls on developers to guard against risks including data poisoning, algorithm manipulation and system vulnerabilities. It also says users should be informed about agents&#x27; autonomous decisions and retain final decision-making authority.</p><p>China has also begun drafting a mandatory national standard for AI agent safety, which Concordia&#x27;s Tse said would be the world&#x27;s first of its kind.</p><p>Wang Lihong, a senior official at the cyberspace regulator, said on September 1 that particular vigilance was needed over frontier models bypassing sandbox environments, circumventing safety boundaries and attacking external real-world production systems.</p><p>BEIJING SEES RISKS IN LEADING U.S. MODELS</p><p>China&#x27;s state security minister, Chen Yixin, wrote in a government outlet on Sunday that advanced U.S. models such as Anthropic&#x27;s Mythos and OpenAI&#x27;s GPT-5.5-Cyber could pose serious risks to China&#x27;s critical information infrastructure, and called for a comprehensive strengthening of AI security.</p><p>Anthropic and OpenAI did not immediately respond to Reuters requests for comment.</p><p>Chinese AI developers have promoted open-weight models partly on the grounds that cybersecurity teams can inspect, modify and deploy them for defensive work.</p><p>Model repository platform Hugging Face said it used GLM-5.2, an open-weight model developed by China&#x27;s Z.AI (2513.HK), to analyse a July intrusion by escaped OpenAI agents after more tightly restricted U.S. models proved less useful for the forensic work.</p><p>But experts also highlight the risks posed by open-weight models, which can be modi</p>]]></content:encoded>
+      <pubDate>Wed, 16 Sep 2026 21:25:47 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-09-16_How_China_is_preparing_for_the_risk_of_AI_escaping_human_control.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-09-16_How_China_is_preparing_for_the_risk_of_AI_escaping_human_control.mp3" length="3627394" type="audio/mpeg"/>
+      <itunes:duration>00:06:39</itunes:duration>
+      <itunes:author>Eduardo Baptista; Laurie Chen</itunes:author>
+      <itunes:summary>How China is preparing for the risk of AI escaping human control
+
+2026-09-16
+
+Por Eduardo Baptista; Laurie Chen
+
+https://www.reuters.com/legal/litigation/how-china-is-preparing-risk-ai-escaping-human-control-2026-09-14/
+
+BEIJING, September 15 - Warnings from researchers at leading U.S. AI developer Anthropic that increasingly powerful models could escape human control have drawn attention in China, where policymakers have been preparing for some of the same risks.
+
+The U.S. and China are the two major driving forces of frontier AI development and the technology&#x27;s global adoption. Both superpowers have been at loggerheads over AI policies and industry practices, with these issues slated to feature prominently in bilateral talks later this month.
+
+Sign up here.
+
+BEIJING SEES AI AS MANAGEABLE RISK, NOT AN EXTINCTION EVENT
+
+While the debate in the U.S. is focused on whether frontier AI could pose an existential threat to humanity, Chinese policymakers have generally treated AI as a powerful but governable technology whose risks can be contained through technical standards, regulation and state oversight.
+
+&quot;Chinese and American experts largely agree on AI risks,&quot; said Brian Tse, founder and CEO of Concordia AI, a Beijing- and Singapore-based AI safety and governance research group, adding the difference was on &quot;how risks are framed and prioritised&quot;.
+
+China has not proposed embedding independent monitors inside AI companies, as Anthropic has advocated. Its emerging regime instead relies on developer obligations, state-backed standards, security assessments and outside testing.
+
+That approach is also shaped by a major difference in the two countries&#x27; AI industries.
+
+Chinese developers have increasingly promoted open-weight models. These refer to systems whose underlying parameters can be downloaded, inspected and modified. Their leading U.S. rivals such as Anthropic and OpenAI, however, do not make these specifications publicly available.
+
+CHINA SEEKS TO PREVENT ROGUE AI AGENT INCIDENTS
+
+Policy issued in May by China&#x27;s cyberspace regulator, economic planner and industry ministry identifies &quot;operational loss of control&quot; as a security risk for AI agents, systems that can plan and carry out multi-step tasks more independently than conventional chatbots.
+
+The rules require developers to improve their ability to discover, intervene in, block and recover from improper agent behaviour.
+
+The policy also calls on developers to guard against risks including data poisoning, algorithm manipulation and system vulnerabilities. It also says users should be informed about agents&#x27; autonomous decisions and retain final decision-making authority.
+
+China has also begun drafting a mandatory national standard for AI agent safety, which Concordia&#x27;s Tse said would be the world&#x27;s first of its kind.
+
+Wang Lihong, a senior official at the cyberspace regulator, said on September 1 that particular vigilance was needed over frontier models bypassing sandbox environments, circumventing safety boundaries and attacking external real-world production systems.
+
+BEIJING SEES RISKS IN LEADING U.S. MODELS
+
+China&#x27;s state security minister, Chen Yixin, wrote in a government outlet on Sunday that advanced U.S. models such as Anthropic&#x27;s Mythos and OpenAI&#x27;s GPT-5.5-Cyber could pose serious risks to China&#x27;s critical information infrastructure, and called for a comprehensive strengthening of AI security.
+
+Anthropic and OpenAI did not immediately respond to Reuters requests for comment.
+
+Chinese AI developers have promoted open-weight models partly on the grounds that cybersecurity teams can inspect, modify and deploy them for defensive work.
+
+Model repository platform Hugging Face said it used GLM-5.2, an open-weight model developed by China&#x27;s Z.AI (2513.HK), to analyse a July intrusion by escaped OpenAI agents after more tightly restricted U.S. models proved less useful for the forensic work.
+
+But experts also highlight the risks posed by open-weight models, which can be modi
+
+[Transcripcion recortada]</itunes:summary>
+    </item>
+
+    <item>
+      <title>Fed raises interest rates by a quarter point in unanimous decision, marking first hike in 3 years</title>
+      <author>Jennifer Schonberger</author>
+      <description>Fed raises interest rates by a quarter point in unanimous decision, marking first hike in 3 years
+
+2026-09-16
+
+Por Jennifer Schonberger
+
+https://finance.yahoo.com/economy/policy/article/fed-raises-interest-rates-by-a-quarter-point-in-unanimous-decision-marking-first-hike-in-3-years-171212149.html
+
+The Federal Reserve raised interest rates for the first time in three years in a unanimous decision on Wednesday, with central bankers now seeing a second hike this year to arrest sticky inflation.
+
+The Federal Open Market Committee voted to raise its benchmark interest rate to the range of 3.75% to 4% from 3.5% to 3.75%, the first rate hike since July 2023, as renewed tensions in the Middle East drive oil prices higher and raise concerns about broadening price pressures.
+
+&quot;We now have data broadly defined that says the economy has indeed strengthened,&quot; Fed Chairman Kevin Warsh said in a press conference following the meeting. &quot;Underlying growth is higher. Inflation is the problem. Stable prices have been the problem for, now, more than five and a half years.
+
+&quot;So what the committee decided to do today was take an action to ensure a timely return to our price stability.&quot;
+
+Noting that the economy is essentially at full employment, Warsh said he thinks the Fed can tame inflation without depressing growth.
+
+&quot;I don&#x27;t believe that we need to do harm to the labor markets to achieve our objective,&quot; he said. &quot;I don&#x27;t believe that the two parts of our mandate — price stability and full employment — are working at cross purposes over the medium term.&quot;
+
+Dot plot projects another hike in 2026
+
+In their updated summary of economic projections, officials now see one more rate hike this year. That compares with expectations in June, when half of the committee expected they would need to raise rates once this year, while the rest thought they could hold rates steady. Warsh didn&#x27;t show his hand, declining to participate in the so-called dot plot for the second time.
+
+For 2026, 12 officials see two rate hikes, four see three rate hikes, while two see one rate hike.
+
+The median of 18 Fed officials projects holding rates steady in 2027, after two hikes this year, followed by one cut in 2028.
+
+Headline inflation is now seen rising 3.7%, compared with 3.6% previously. On a &quot;core&quot; basis, officials see inflation at 3.4%, compared with 3.3% previously. Officials don&#x27;t see inflation dropping back to their 2% goal until after 2028.
+
+The latest Consumer Price Index reading showed prices rose 0.3% in August month over month on a &quot;core&quot; basis, which strips out volatile food and energy prices to better gauge underlying inflation. That was an acceleration over the prior two months, and a hair faster than the 0.2% threshold many officials said they&#x27;d need to see to be convinced inflation is slowing on its own.</description>
+      <content:encoded><![CDATA[<p>Fed raises interest rates by a quarter point in unanimous decision, marking first hike in 3 years</p><p>2026-09-16</p><p>Por Jennifer Schonberger</p><p>https://finance.yahoo.com/economy/policy/article/fed-raises-interest-rates-by-a-quarter-point-in-unanimous-decision-marking-first-hike-in-3-years-171212149.html</p><p>The Federal Reserve raised interest rates for the first time in three years in a unanimous decision on Wednesday, with central bankers now seeing a second hike this year to arrest sticky inflation.</p><p>The Federal Open Market Committee voted to raise its benchmark interest rate to the range of 3.75% to 4% from 3.5% to 3.75%, the first rate hike since July 2023, as renewed tensions in the Middle East drive oil prices higher and raise concerns about broadening price pressures.</p><p>&quot;We now have data broadly defined that says the economy has indeed strengthened,&quot; Fed Chairman Kevin Warsh said in a press conference following the meeting. &quot;Underlying growth is higher. Inflation is the problem. Stable prices have been the problem for, now, more than five and a half years.</p><p>&quot;So what the committee decided to do today was take an action to ensure a timely return to our price stability.&quot;</p><p>Noting that the economy is essentially at full employment, Warsh said he thinks the Fed can tame inflation without depressing growth.</p><p>&quot;I don&#x27;t believe that we need to do harm to the labor markets to achieve our objective,&quot; he said. &quot;I don&#x27;t believe that the two parts of our mandate — price stability and full employment — are working at cross purposes over the medium term.&quot;</p><p>Dot plot projects another hike in 2026</p><p>In their updated summary of economic projections, officials now see one more rate hike this year. That compares with expectations in June, when half of the committee expected they would need to raise rates once this year, while the rest thought they could hold rates steady. Warsh didn&#x27;t show his hand, declining to participate in the so-called dot plot for the second time.</p><p>For 2026, 12 officials see two rate hikes, four see three rate hikes, while two see one rate hike.</p><p>The median of 18 Fed officials projects holding rates steady in 2027, after two hikes this year, followed by one cut in 2028.</p><p>Headline inflation is now seen rising 3.7%, compared with 3.6% previously. On a &quot;core&quot; basis, officials see inflation at 3.4%, compared with 3.3% previously. Officials don&#x27;t see inflation dropping back to their 2% goal until after 2028.</p><p>The latest Consumer Price Index reading showed prices rose 0.3% in August month over month on a &quot;core&quot; basis, which strips out volatile food and energy prices to better gauge underlying inflation. That was an acceleration over the prior two months, and a hair faster than the 0.2% threshold many officials said they&#x27;d need to see to be convinced inflation is slowing on its own.</p>]]></content:encoded>
+      <pubDate>Wed, 16 Sep 2026 21:24:11 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-09-16_Fed_raises_interest_rates_by_a_quarter_point_in_unanimous_decision_marking_first_hike_in_3_years.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-09-16_Fed_raises_interest_rates_by_a_quarter_point_in_unanimous_decision_marking_first_hike_in_3_years.mp3" length="1622487" type="audio/mpeg"/>
+      <itunes:duration>00:02:55</itunes:duration>
+      <itunes:author>Jennifer Schonberger</itunes:author>
+      <itunes:summary>Fed raises interest rates by a quarter point in unanimous decision, marking first hike in 3 years
+
+2026-09-16
+
+Por Jennifer Schonberger
+
+https://finance.yahoo.com/economy/policy/article/fed-raises-interest-rates-by-a-quarter-point-in-unanimous-decision-marking-first-hike-in-3-years-171212149.html
+
+The Federal Reserve raised interest rates for the first time in three years in a unanimous decision on Wednesday, with central bankers now seeing a second hike this year to arrest sticky inflation.
+
+The Federal Open Market Committee voted to raise its benchmark interest rate to the range of 3.75% to 4% from 3.5% to 3.75%, the first rate hike since July 2023, as renewed tensions in the Middle East drive oil prices higher and raise concerns about broadening price pressures.
+
+&quot;We now have data broadly defined that says the economy has indeed strengthened,&quot; Fed Chairman Kevin Warsh said in a press conference following the meeting. &quot;Underlying growth is higher. Inflation is the problem. Stable prices have been the problem for, now, more than five and a half years.
+
+&quot;So what the committee decided to do today was take an action to ensure a timely return to our price stability.&quot;
+
+Noting that the economy is essentially at full employment, Warsh said he thinks the Fed can tame inflation without depressing growth.
+
+&quot;I don&#x27;t believe that we need to do harm to the labor markets to achieve our objective,&quot; he said. &quot;I don&#x27;t believe that the two parts of our mandate — price stability and full employment — are working at cross purposes over the medium term.&quot;
+
+Dot plot projects another hike in 2026
+
+In their updated summary of economic projections, officials now see one more rate hike this year. That compares with expectations in June, when half of the committee expected they would need to raise rates once this year, while the rest thought they could hold rates steady. Warsh didn&#x27;t show his hand, declining to participate in the so-called dot plot for the second time.
+
+For 2026, 12 officials see two rate hikes, four see three rate hikes, while two see one rate hike.
+
+The median of 18 Fed officials projects holding rates steady in 2027, after two hikes this year, followed by one cut in 2028.
+
+Headline inflation is now seen rising 3.7%, compared with 3.6% previously. On a &quot;core&quot; basis, officials see inflation at 3.4%, compared with 3.3% previously. Officials don&#x27;t see inflation dropping back to their 2% goal until after 2028.
+
+The latest Consumer Price Index reading showed prices rose 0.3% in August month over month on a &quot;core&quot; basis, which strips out volatile food and energy prices to better gauge underlying inflation. That was an acceleration over the prior two months, and a hair faster than the 0.2% threshold many officials said they&#x27;d need to see to be convinced inflation is slowing on its own.</itunes:summary>
+    </item>
+
+    <item>
+      <title>SK Hynix stock jumps as memory maker responds to report of potential deal with Intel</title>
+      <author>Ines Ferré</author>
+      <description>SK Hynix stock jumps as memory maker responds to report of potential deal with Intel
+
+2026-09-16
+
+Por Ines Ferré
+
+https://finance.yahoo.com/markets/article/sk-hynix-stock-jumps-as-memory-maker-responds-to-report-of-potential-deal-with-intel-125828355.html
+
+What happened: SK Hynix (SKHY) stock jumped nearly 3% on Wednesday following a report that the memory maker is exploring a deal with Intel (INTC).
+
+Rivals Micron (MU) and Samsung Electronics (005930.KS) also rose modestly. The broader chip complex, including Nvidia (NVDA), AMD (AMD), Sandisk (SNDK), and Western Digital (WDC), edged higher.
+
+What&#x27;s behind the move: The South Korean memory maker responded to a Reuters report that it is in talks with Intel about an agreement to manufacture memory silicon wafers in the US for the first time.
+
+SK Hynix said it is &quot;exploring various options to strengthen its global competitiveness, but no specific plans or arrangements have been finalized at this time.&quot;
+
+&quot;No decisions have been made regarding the two scenarios mentioned in the article,&quot; the company said in a statement released on Wednesday.
+
+What else you need to know: The media report, citing three people familiar with the discussions, claimed that as part of the deal, SK Hynix could lease part of Intel&#x27;s Ohio facility, which has been in the works for years.
+
+Another scenario mentioned was the establishment of a joint venture among SK Hynix, Intel, and major cloud companies.
+
+The report also flagged possible opposition from Seoul as a major hurdle.
+
+The US has been pushing to onshore advanced semiconductor manufacturing. The goal is to reduce reliance on foreign supply chains, which currently come primarily from Taiwan and South Korea.
+
+Currently, Micron is the only one among the world&#x27;s largest memory makers to produce its silicon wafers in the US. Its rivals SK Hynix and Samsung Electronics have invested in the US in areas such as packaging, R&amp;D, and processors.
+
+Ines Ferre is a Senior Business Reporter for Yahoo Finance covering the US stock market, publicly traded companies, and commodities.
+
+Click here for in-depth analysis of the latest stock market news and events moving stock prices
+
+Read the latest financial and business news from Yahoo Finance</description>
+      <content:encoded><![CDATA[<p>SK Hynix stock jumps as memory maker responds to report of potential deal with Intel</p><p>2026-09-16</p><p>Por Ines Ferré</p><p>https://finance.yahoo.com/markets/article/sk-hynix-stock-jumps-as-memory-maker-responds-to-report-of-potential-deal-with-intel-125828355.html</p><p>What happened: SK Hynix (SKHY) stock jumped nearly 3% on Wednesday following a report that the memory maker is exploring a deal with Intel (INTC).</p><p>Rivals Micron (MU) and Samsung Electronics (005930.KS) also rose modestly. The broader chip complex, including Nvidia (NVDA), AMD (AMD), Sandisk (SNDK), and Western Digital (WDC), edged higher.</p><p>What&#x27;s behind the move: The South Korean memory maker responded to a Reuters report that it is in talks with Intel about an agreement to manufacture memory silicon wafers in the US for the first time.</p><p>SK Hynix said it is &quot;exploring various options to strengthen its global competitiveness, but no specific plans or arrangements have been finalized at this time.&quot;</p><p>&quot;No decisions have been made regarding the two scenarios mentioned in the article,&quot; the company said in a statement released on Wednesday.</p><p>What else you need to know: The media report, citing three people familiar with the discussions, claimed that as part of the deal, SK Hynix could lease part of Intel&#x27;s Ohio facility, which has been in the works for years.</p><p>Another scenario mentioned was the establishment of a joint venture among SK Hynix, Intel, and major cloud companies.</p><p>The report also flagged possible opposition from Seoul as a major hurdle.</p><p>The US has been pushing to onshore advanced semiconductor manufacturing. The goal is to reduce reliance on foreign supply chains, which currently come primarily from Taiwan and South Korea.</p><p>Currently, Micron is the only one among the world&#x27;s largest memory makers to produce its silicon wafers in the US. Its rivals SK Hynix and Samsung Electronics have invested in the US in areas such as packaging, R&amp;D, and processors.</p><p>Ines Ferre is a Senior Business Reporter for Yahoo Finance covering the US stock market, publicly traded companies, and commodities.</p><p>Click here for in-depth analysis of the latest stock market news and events moving stock prices</p><p>Read the latest financial and business news from Yahoo Finance</p>]]></content:encoded>
+      <pubDate>Wed, 16 Sep 2026 21:23:31 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-09-16_SK_Hynix_stock_jumps_as_memory_maker_responds_to_report_of_potential_deal_with_Intel.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-09-16_SK_Hynix_stock_jumps_as_memory_maker_responds_to_report_of_potential_deal_with_Intel.mp3" length="1297964" type="audio/mpeg"/>
+      <itunes:duration>00:02:17</itunes:duration>
+      <itunes:author>Ines Ferré</itunes:author>
+      <itunes:summary>SK Hynix stock jumps as memory maker responds to report of potential deal with Intel
+
+2026-09-16
+
+Por Ines Ferré
+
+https://finance.yahoo.com/markets/article/sk-hynix-stock-jumps-as-memory-maker-responds-to-report-of-potential-deal-with-intel-125828355.html
+
+What happened: SK Hynix (SKHY) stock jumped nearly 3% on Wednesday following a report that the memory maker is exploring a deal with Intel (INTC).
+
+Rivals Micron (MU) and Samsung Electronics (005930.KS) also rose modestly. The broader chip complex, including Nvidia (NVDA), AMD (AMD), Sandisk (SNDK), and Western Digital (WDC), edged higher.
+
+What&#x27;s behind the move: The South Korean memory maker responded to a Reuters report that it is in talks with Intel about an agreement to manufacture memory silicon wafers in the US for the first time.
+
+SK Hynix said it is &quot;exploring various options to strengthen its global competitiveness, but no specific plans or arrangements have been finalized at this time.&quot;
+
+&quot;No decisions have been made regarding the two scenarios mentioned in the article,&quot; the company said in a statement released on Wednesday.
+
+What else you need to know: The media report, citing three people familiar with the discussions, claimed that as part of the deal, SK Hynix could lease part of Intel&#x27;s Ohio facility, which has been in the works for years.
+
+Another scenario mentioned was the establishment of a joint venture among SK Hynix, Intel, and major cloud companies.
+
+The report also flagged possible opposition from Seoul as a major hurdle.
+
+The US has been pushing to onshore advanced semiconductor manufacturing. The goal is to reduce reliance on foreign supply chains, which currently come primarily from Taiwan and South Korea.
+
+Currently, Micron is the only one among the world&#x27;s largest memory makers to produce its silicon wafers in the US. Its rivals SK Hynix and Samsung Electronics have invested in the US in areas such as packaging, R&amp;D, and processors.
+
+Ines Ferre is a Senior Business Reporter for Yahoo Finance covering the US stock market, publicly traded companies, and commodities.
+
+Click here for in-depth analysis of the latest stock market news and events moving stock prices
+
+Read the latest financial and business news from Yahoo Finance</itunes:summary>
+    </item>
 
     <item>
       <title>A possible &#x27;sugar high’: 14 of the 17 public companies that the Trump administration has taken a role in are down since the announcement</title>
@@ -8037,358 +8417,6 @@ It also turns Hugging Face&#x27;s neutrality from an awkward condition of the de
 As of Friday afternoon, Nvidia had not answered Yahoo Finance questions about what would prevent its own technology from getting preferential treatment on Hugging Face, or what access it could have to customers&#x27; private models and how they use the platform.
 
 And the next wave of users may not even be human. Hugging Face says AI agents — software that can search for, choose, and use models on its own — are becoming users of the platform too.</itunes:summary>
-    </item>
-
-    <item>
-      <title>Disney Needs Its Next Hit Franchise. Can Pixars Reluctant Leader Deliver</title>
-      <author>Texto propio</author>
-      <description>Disney Needs Its Next Hit Franchise. Can Pixars Reluctant Leader Deliver
-
-2026-09-07
-
-Por Texto propio
-
-The &#x27;Toy Story&#x27; studio used to print money for Disney but hasn&#x27;t made an original blockbuster in nearly a decade. Its top creative executive admits he&#x27;s made mistakes.
-
-EMERYVILLE, Calif.—Pixar Chief Creative Officer Pete Docter finished strumming his minia-
-
-ture ukulele and folded his 6-foot-5 frame onto a couch to explain that the reason the studio
-
-behind “Toy Story” is struggling to find its next hit franchise might be him.
-
-“I got into animation because it’s easier to draw people than talk to them,” he said, seated in his office beside sculptures of characters from his directorial successes “Monsters, Inc.,” “Up” and “Inside Out.” In his early years managing Pixar’s cadre of ambitious filmmakers, the 57-year-old admitted, “I probably overindexed on, ‘Do whatever you want.’ ”
-
-Docter&#x27;s first three movies were among an extraordinary string of hits Pixar made from 1995 through 2019, many of which became long-lasting franchises for parent company Disney. With &quot;Cars&quot; merchandise, the &quot;Ratatouille&quot; theme park ride and multiple &quot;Toy Story&quot; sequels, Pixar created brands that printed money across the Disney empire.
-
-Now Pixar is pumping out hit sequels like 2024&#x27;s &quot;Inside Out 2,&quot; but it hasn&#x27;t had an original success since 2017&#x27;s &quot;Coco.&quot; Current and former employees say one of the biggest reasons is that the conflict-averse Docter encouraged new directors to make autobiographical movies that too many audience members struggled to connect with.
-
-After a series of disappointments culminating in last year&#x27;s bomb &quot;Elio,&quot; Docter is pushing Pixar to re-embrace the universally relatable concepts like talking toys and monsters in the closet that once made it a juggernaut.
-
-&quot;As time&#x27;s gone on, I realized my job is to make sure the films appeal to everybody,&quot; the 36-year company veteran said.
-
-Pixar&#x27;s newest movie is a step in that direction. &quot;Hoppers,&quot; a comedy about a girl who &quot;hops&quot; her consciousness into a beaver and talks to animals, opens this week and has received overwhelmingly positive reviews.
-
-But the odds of success are longer than in the age of &quot;Finding Nemo&quot; and &quot;Wall-E.&quot; Across Hollywood, original movies are struggling to get people off their phones and into theaters. Pixarians, as they call themselves, are painfully aware that the most successful original animated film in recent years was a streaming hit on Netflix: &quot;KPop Demon Hunters.&quot; Disney&#x27;s business model is built on box-office success.
-
-As chief executive Bob Iger prepares to hand the reins to his successor Josh D&#x27;Amaro, the entertainment giant needs new franchises to complement aging brands like the Avengers and Avatar.
-
-Pixar in the past picked original movies based only on the quality of the idea. Now, part of the approval process is gauging sequel potential. When the films are complete, directors are asked to come up with stories for possible follow-ups.
-
-The studio that long prided itself on making two original movies for every sequel is now making two sequels for every original. June&#x27;s “Toy Story 5” is widely expected to be a blockbuster, a third “Incredibles” is scheduled for 2028 and a second “Coco” is expected to land in 2029. It&#x27;s also developing a third “Monsters, Inc.,” according to people familiar with the matter.
-
-Pixar president Jim Morris, who runs the business side of the studio, said the reason for the switch is simple: “Just so that we&#x27;re profitable enough, frankly, to persist.”
-
-## The Lasseter filter
-
-Until 2018, Pixar movies were all filtered through the taste of one man: John Lasseter. The “Toy Story” director had the loudest voice and final say among a group of directors known as the braintrust who provided feedback on every project at the company that created computer animation. Docter was the least assertive member of the braintrust, according to people who worked with him, and seemed happiest focusing on the emotional core of his own movi
-
-[Transcripcion recortada]</description>
-      <content:encoded><![CDATA[<p>Disney Needs Its Next Hit Franchise. Can Pixars Reluctant Leader Deliver</p><p>2026-09-07</p><p>Por Texto propio</p><p>The &#x27;Toy Story&#x27; studio used to print money for Disney but hasn&#x27;t made an original blockbuster in nearly a decade. Its top creative executive admits he&#x27;s made mistakes.</p><p>EMERYVILLE, Calif.—Pixar Chief Creative Officer Pete Docter finished strumming his minia-</p><p>ture ukulele and folded his 6-foot-5 frame onto a couch to explain that the reason the studio</p><p>behind “Toy Story” is struggling to find its next hit franchise might be him.</p><p>“I got into animation because it’s easier to draw people than talk to them,” he said, seated in his office beside sculptures of characters from his directorial successes “Monsters, Inc.,” “Up” and “Inside Out.” In his early years managing Pixar’s cadre of ambitious filmmakers, the 57-year-old admitted, “I probably overindexed on, ‘Do whatever you want.’ ”</p><p>Docter&#x27;s first three movies were among an extraordinary string of hits Pixar made from 1995 through 2019, many of which became long-lasting franchises for parent company Disney. With &quot;Cars&quot; merchandise, the &quot;Ratatouille&quot; theme park ride and multiple &quot;Toy Story&quot; sequels, Pixar created brands that printed money across the Disney empire.</p><p>Now Pixar is pumping out hit sequels like 2024&#x27;s &quot;Inside Out 2,&quot; but it hasn&#x27;t had an original success since 2017&#x27;s &quot;Coco.&quot; Current and former employees say one of the biggest reasons is that the conflict-averse Docter encouraged new directors to make autobiographical movies that too many audience members struggled to connect with.</p><p>After a series of disappointments culminating in last year&#x27;s bomb &quot;Elio,&quot; Docter is pushing Pixar to re-embrace the universally relatable concepts like talking toys and monsters in the closet that once made it a juggernaut.</p><p>&quot;As time&#x27;s gone on, I realized my job is to make sure the films appeal to everybody,&quot; the 36-year company veteran said.</p><p>Pixar&#x27;s newest movie is a step in that direction. &quot;Hoppers,&quot; a comedy about a girl who &quot;hops&quot; her consciousness into a beaver and talks to animals, opens this week and has received overwhelmingly positive reviews.</p><p>But the odds of success are longer than in the age of &quot;Finding Nemo&quot; and &quot;Wall-E.&quot; Across Hollywood, original movies are struggling to get people off their phones and into theaters. Pixarians, as they call themselves, are painfully aware that the most successful original animated film in recent years was a streaming hit on Netflix: &quot;KPop Demon Hunters.&quot; Disney&#x27;s business model is built on box-office success.</p><p>As chief executive Bob Iger prepares to hand the reins to his successor Josh D&#x27;Amaro, the entertainment giant needs new franchises to complement aging brands like the Avengers and Avatar.</p><p>Pixar in the past picked original movies based only on the quality of the idea. Now, part of the approval process is gauging sequel potential. When the films are complete, directors are asked to come up with stories for possible follow-ups.</p><p>The studio that long prided itself on making two original movies for every sequel is now making two sequels for every original. June&#x27;s “Toy Story 5” is widely expected to be a blockbuster, a third “Incredibles” is scheduled for 2028 and a second “Coco” is expected to land in 2029. It&#x27;s also developing a third “Monsters, Inc.,” according to people familiar with the matter.</p><p>Pixar president Jim Morris, who runs the business side of the studio, said the reason for the switch is simple: “Just so that we&#x27;re profitable enough, frankly, to persist.”</p><p>## The Lasseter filter</p><p>Until 2018, Pixar movies were all filtered through the taste of one man: John Lasseter. The “Toy Story” director had the loudest voice and final say among a group of directors known as the braintrust who provided feedback on every project at the company that created computer animation. Docter was the least assertive member of the braintrust, according to people who worked with him, and seemed happiest focusing on the emotional core of his own movi</p>]]></content:encoded>
-      <pubDate>Tue, 08 Sep 2026 00:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-09-07_Disney_Needs_Its_Next_Hit_Franchise._Can_Pixars_Reluctant_Leader_Deliver.mp3</guid>
-      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-09-07_Disney_Needs_Its_Next_Hit_Franchise._Can_Pixars_Reluctant_Leader_Deliver.mp3" length="6259213" type="audio/mpeg"/>
-      <itunes:duration>00:11:38</itunes:duration>
-      <itunes:author>Texto propio</itunes:author>
-      <itunes:summary>Disney Needs Its Next Hit Franchise. Can Pixars Reluctant Leader Deliver
-
-2026-09-07
-
-Por Texto propio
-
-The &#x27;Toy Story&#x27; studio used to print money for Disney but hasn&#x27;t made an original blockbuster in nearly a decade. Its top creative executive admits he&#x27;s made mistakes.
-
-EMERYVILLE, Calif.—Pixar Chief Creative Officer Pete Docter finished strumming his minia-
-
-ture ukulele and folded his 6-foot-5 frame onto a couch to explain that the reason the studio
-
-behind “Toy Story” is struggling to find its next hit franchise might be him.
-
-“I got into animation because it’s easier to draw people than talk to them,” he said, seated in his office beside sculptures of characters from his directorial successes “Monsters, Inc.,” “Up” and “Inside Out.” In his early years managing Pixar’s cadre of ambitious filmmakers, the 57-year-old admitted, “I probably overindexed on, ‘Do whatever you want.’ ”
-
-Docter&#x27;s first three movies were among an extraordinary string of hits Pixar made from 1995 through 2019, many of which became long-lasting franchises for parent company Disney. With &quot;Cars&quot; merchandise, the &quot;Ratatouille&quot; theme park ride and multiple &quot;Toy Story&quot; sequels, Pixar created brands that printed money across the Disney empire.
-
-Now Pixar is pumping out hit sequels like 2024&#x27;s &quot;Inside Out 2,&quot; but it hasn&#x27;t had an original success since 2017&#x27;s &quot;Coco.&quot; Current and former employees say one of the biggest reasons is that the conflict-averse Docter encouraged new directors to make autobiographical movies that too many audience members struggled to connect with.
-
-After a series of disappointments culminating in last year&#x27;s bomb &quot;Elio,&quot; Docter is pushing Pixar to re-embrace the universally relatable concepts like talking toys and monsters in the closet that once made it a juggernaut.
-
-&quot;As time&#x27;s gone on, I realized my job is to make sure the films appeal to everybody,&quot; the 36-year company veteran said.
-
-Pixar&#x27;s newest movie is a step in that direction. &quot;Hoppers,&quot; a comedy about a girl who &quot;hops&quot; her consciousness into a beaver and talks to animals, opens this week and has received overwhelmingly positive reviews.
-
-But the odds of success are longer than in the age of &quot;Finding Nemo&quot; and &quot;Wall-E.&quot; Across Hollywood, original movies are struggling to get people off their phones and into theaters. Pixarians, as they call themselves, are painfully aware that the most successful original animated film in recent years was a streaming hit on Netflix: &quot;KPop Demon Hunters.&quot; Disney&#x27;s business model is built on box-office success.
-
-As chief executive Bob Iger prepares to hand the reins to his successor Josh D&#x27;Amaro, the entertainment giant needs new franchises to complement aging brands like the Avengers and Avatar.
-
-Pixar in the past picked original movies based only on the quality of the idea. Now, part of the approval process is gauging sequel potential. When the films are complete, directors are asked to come up with stories for possible follow-ups.
-
-The studio that long prided itself on making two original movies for every sequel is now making two sequels for every original. June&#x27;s “Toy Story 5” is widely expected to be a blockbuster, a third “Incredibles” is scheduled for 2028 and a second “Coco” is expected to land in 2029. It&#x27;s also developing a third “Monsters, Inc.,” according to people familiar with the matter.
-
-Pixar president Jim Morris, who runs the business side of the studio, said the reason for the switch is simple: “Just so that we&#x27;re profitable enough, frankly, to persist.”
-
-## The Lasseter filter
-
-Until 2018, Pixar movies were all filtered through the taste of one man: John Lasseter. The “Toy Story” director had the loudest voice and final say among a group of directors known as the braintrust who provided feedback on every project at the company that created computer animation. Docter was the least assertive member of the braintrust, according to people who worked with him, and seemed happiest focusing on the emotional core of his own movi
-
-[Transcripcion recortada]</itunes:summary>
-    </item>
-
-    <item>
-      <title>The Onion’s Exclusive Interview With Larry Ellison</title>
-      <author>The Onion Staff</author>
-      <description>The Onion’s Exclusive Interview With Larry Ellison
-
-2026-09-07
-
-Por The Onion Staff
-
-https://theonion.com/the-onions-exclusive-interview-with-larry-ellison/
-
-Larry Ellison is the co-founder and executive chairman of Oracle, as well as the largest shareholder of the Paramount Skydance Corporation. The Onion sat down with the billionaire to discuss his ventures.
-
-The Onion : How did you get into the entertainment industry?
-
-Ellison: I remember going to the movies as a kid, and when the houselights went down and that hush fell over the crowd, I’d think to myself: I’d like to build a massive propaganda apparatus one day.
-
-How does it feel to have dropped from the second- to the eighth-richest person in the world in only two months?
-
-I don’t do this for the money. I do it to hurt as many people as possible.
-
-Why is the Paramount–Warner Bros. Discovery merger taking so long?
-
-The Animaniacs are playing hardball.
-
-What do you tell people who say the merger violates antitrust laws?
-
-I usually just do my evil laugh.
-
-You’re on your sixth marriage. Do you think this one will last?
-
-A merger lasts until one entity has extracted all the value it can from the other and then sells it for parts.
-
-Why does your face look like that?
-
-Thank you! I used generative AI and a 3D printer to create it.
-
-What keeps you up at night?
-
-That there are Hawaiian islands not yet under my personal control.</description>
-      <content:encoded><![CDATA[<p>The Onion’s Exclusive Interview With Larry Ellison</p><p>2026-09-07</p><p>Por The Onion Staff</p><p>https://theonion.com/the-onions-exclusive-interview-with-larry-ellison/</p><p>Larry Ellison is the co-founder and executive chairman of Oracle, as well as the largest shareholder of the Paramount Skydance Corporation. The Onion sat down with the billionaire to discuss his ventures.</p><p>The Onion : How did you get into the entertainment industry?</p><p>Ellison: I remember going to the movies as a kid, and when the houselights went down and that hush fell over the crowd, I’d think to myself: I’d like to build a massive propaganda apparatus one day.</p><p>How does it feel to have dropped from the second- to the eighth-richest person in the world in only two months?</p><p>I don’t do this for the money. I do it to hurt as many people as possible.</p><p>Why is the Paramount–Warner Bros. Discovery merger taking so long?</p><p>The Animaniacs are playing hardball.</p><p>What do you tell people who say the merger violates antitrust laws?</p><p>I usually just do my evil laugh.</p><p>You’re on your sixth marriage. Do you think this one will last?</p><p>A merger lasts until one entity has extracted all the value it can from the other and then sells it for parts.</p><p>Why does your face look like that?</p><p>Thank you! I used generative AI and a 3D printer to create it.</p><p>What keeps you up at night?</p><p>That there are Hawaiian islands not yet under my personal control.</p>]]></content:encoded>
-      <pubDate>Mon, 07 Sep 2026 23:57:06 GMT</pubDate>
-      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-09-07_The_Onions_Exclusive_Interview_With_Larry_Ellison.mp3</guid>
-      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-09-07_The_Onions_Exclusive_Interview_With_Larry_Ellison.mp3" length="754522" type="audio/mpeg"/>
-      <itunes:duration>00:01:16</itunes:duration>
-      <itunes:author>The Onion Staff</itunes:author>
-      <itunes:summary>The Onion’s Exclusive Interview With Larry Ellison
-
-2026-09-07
-
-Por The Onion Staff
-
-https://theonion.com/the-onions-exclusive-interview-with-larry-ellison/
-
-Larry Ellison is the co-founder and executive chairman of Oracle, as well as the largest shareholder of the Paramount Skydance Corporation. The Onion sat down with the billionaire to discuss his ventures.
-
-The Onion : How did you get into the entertainment industry?
-
-Ellison: I remember going to the movies as a kid, and when the houselights went down and that hush fell over the crowd, I’d think to myself: I’d like to build a massive propaganda apparatus one day.
-
-How does it feel to have dropped from the second- to the eighth-richest person in the world in only two months?
-
-I don’t do this for the money. I do it to hurt as many people as possible.
-
-Why is the Paramount–Warner Bros. Discovery merger taking so long?
-
-The Animaniacs are playing hardball.
-
-What do you tell people who say the merger violates antitrust laws?
-
-I usually just do my evil laugh.
-
-You’re on your sixth marriage. Do you think this one will last?
-
-A merger lasts until one entity has extracted all the value it can from the other and then sells it for parts.
-
-Why does your face look like that?
-
-Thank you! I used generative AI and a 3D printer to create it.
-
-What keeps you up at night?
-
-That there are Hawaiian islands not yet under my personal control.</itunes:summary>
-    </item>
-
-    <item>
-      <title>Una voz menos</title>
-      <author>Paolo Moncagatta</author>
-      <description>Una voz menos
-
-2026-09-07
-
-Por Paolo Moncagatta
-
-https://www.primicias.ec/opinion/paolo-moncagatta/ecuador-silencio-voces-criticas-libertades-131830/
-
-Una voz menos
-
-Profesor de ciencia política y Decano de Ciencias Sociales y Humanidades de la Universidad San Francisco de Quito.
-
-Actualizada:
-
-Tenía pensado dedicar la columna de hoy a otro tema, pero la situación es tan apremiante que a última hora he decidido volver sobre el asunto que discutí en mi columna pasada.
-
-Hace solo quince días dedicaba este espacio a la salida de Roberto Aguilar de Diario Expreso, y a lo grave que resulta para la libertad de expresión en el país. Ayer me encontré con la noticia de que la periodista Gisella Bayona, después de ser víctima de una tremenda campaña de trolleo —digna de los más oscuros mandatarios que hemos tenido en las últimas décadas— ha decidido “optar por su familia” y dar un paso al costado. Y lo hace con palabras fuertes: “Señor presidente, usted ganó”, le dice de frente al presidente Noboa.
-
-Un caso más entre muchos. Las ventas de La Posta, Radio Centro y El Universo, el cierre de espacios críticos, el silenciamiento de periodistas importantes, el reparto millonario de pauta oficial a otros. Todo se acumula para hacer que los espacios de debate y pensamiento crítico en el Ecuador sean cada vez menos.
-
-Pero hay algo en el caso de Gisella Bayona que lo distingue de los anteriores. A Roberto Aguilar lo desvincularon de su medio; a La Posta, a Radio Centro y a El Universo los compraron. A Bayona, en cambio, nadie la despidió: la sacó una turba. Y ese es, probablemente, uno de los mecanismos de censura más eficientes que existen, porque no deja huella. No hay una orden firmada, no hay un funcionario a quien pedirle cuentas. Solo hay una avalancha de cuentas anónimas que durante días insultan, difaman y desgastan, hasta que la persona concluye, por sí misma, que el costo es demasiado alto. En este caso, el poder no calla a nadie: es la gente la que decide callarse sola. Es censura tercerizada, y tiene la enorme ventaja de que nadie se tiene que hacer responsable de ella.
-
-Mientras tanto, hay prensa y periodistas que se hacen de la vista gorda y no levantan la voz ante tales abusos. Sí, es verdad que dedican tiempo a denunciar otras cosas relevantes, pero ante casos como los de Aguilar o Bayona, guardan silencio. A lo sumo llegan a decir “con el otro era peor”. Si los propios colegas periodistas —que deberían ser los primeros en denunciar cualquier tipo de censura, encubierta o explícita— no dicen nada para proteger la libertad de expresión en este país, mal estamos. La narrativa oficial (la única, tal vez) es la impuesta desde el poder. Los periodistas serviles, feroces ante los débiles pero tibios ante el poder —y valiéndose de la excusa anticorreísta— solo sirven de amplificadores de esa narrativa.
-
-Ya lo dije en mi columna pasada: es penoso ver cómo un presidente con la formación de Daniel Noboa —educado en gobierno y administración en varias de las mejores universidades del mundo— no logra entender que una oposición frontal y honesta le hace bien. Ir callando las voces críticas, una a una, tal vez le hará parecer más potente en el corto plazo (y tal vez le dé réditos electorales), pero a la larga le pasará factura. Hoy somos pocos quienes levantamos la voz ante estas acciones del gobierno, pero el mundo —y la política— dan muchas vueltas, y no nos sorprendamos si, cuando se siembra miedo y odio, se termina cosechando venganza.
-
-Hoy, después de la renuncia de Gisella Bayona al ejercicio periodístico, nos quedamos con una voz menos. No gana el gobierno, aunque ella lo haya afirmado en su video de despedida, y aunque en las altas esferas piensen que puede ser así. Tampoco creo que ella salga ganando, como algunos colegas sostienen. Pero de lo que sí estoy seguro es que pierde el país. Un país donde las voces críticas son cada vez menos —sean de la ideología que sean— es un país que se está quedando sordo. Y un país sordo no deja de t
-
-[Transcripcion recortada]</description>
-      <content:encoded><![CDATA[<p>Una voz menos</p><p>2026-09-07</p><p>Por Paolo Moncagatta</p><p>https://www.primicias.ec/opinion/paolo-moncagatta/ecuador-silencio-voces-criticas-libertades-131830/</p><p>Una voz menos</p><p>Profesor de ciencia política y Decano de Ciencias Sociales y Humanidades de la Universidad San Francisco de Quito.</p><p>Actualizada:</p><p>Tenía pensado dedicar la columna de hoy a otro tema, pero la situación es tan apremiante que a última hora he decidido volver sobre el asunto que discutí en mi columna pasada.</p><p>Hace solo quince días dedicaba este espacio a la salida de Roberto Aguilar de Diario Expreso, y a lo grave que resulta para la libertad de expresión en el país. Ayer me encontré con la noticia de que la periodista Gisella Bayona, después de ser víctima de una tremenda campaña de trolleo —digna de los más oscuros mandatarios que hemos tenido en las últimas décadas— ha decidido “optar por su familia” y dar un paso al costado. Y lo hace con palabras fuertes: “Señor presidente, usted ganó”, le dice de frente al presidente Noboa.</p><p>Un caso más entre muchos. Las ventas de La Posta, Radio Centro y El Universo, el cierre de espacios críticos, el silenciamiento de periodistas importantes, el reparto millonario de pauta oficial a otros. Todo se acumula para hacer que los espacios de debate y pensamiento crítico en el Ecuador sean cada vez menos.</p><p>Pero hay algo en el caso de Gisella Bayona que lo distingue de los anteriores. A Roberto Aguilar lo desvincularon de su medio; a La Posta, a Radio Centro y a El Universo los compraron. A Bayona, en cambio, nadie la despidió: la sacó una turba. Y ese es, probablemente, uno de los mecanismos de censura más eficientes que existen, porque no deja huella. No hay una orden firmada, no hay un funcionario a quien pedirle cuentas. Solo hay una avalancha de cuentas anónimas que durante días insultan, difaman y desgastan, hasta que la persona concluye, por sí misma, que el costo es demasiado alto. En este caso, el poder no calla a nadie: es la gente la que decide callarse sola. Es censura tercerizada, y tiene la enorme ventaja de que nadie se tiene que hacer responsable de ella.</p><p>Mientras tanto, hay prensa y periodistas que se hacen de la vista gorda y no levantan la voz ante tales abusos. Sí, es verdad que dedican tiempo a denunciar otras cosas relevantes, pero ante casos como los de Aguilar o Bayona, guardan silencio. A lo sumo llegan a decir “con el otro era peor”. Si los propios colegas periodistas —que deberían ser los primeros en denunciar cualquier tipo de censura, encubierta o explícita— no dicen nada para proteger la libertad de expresión en este país, mal estamos. La narrativa oficial (la única, tal vez) es la impuesta desde el poder. Los periodistas serviles, feroces ante los débiles pero tibios ante el poder —y valiéndose de la excusa anticorreísta— solo sirven de amplificadores de esa narrativa.</p><p>Ya lo dije en mi columna pasada: es penoso ver cómo un presidente con la formación de Daniel Noboa —educado en gobierno y administración en varias de las mejores universidades del mundo— no logra entender que una oposición frontal y honesta le hace bien. Ir callando las voces críticas, una a una, tal vez le hará parecer más potente en el corto plazo (y tal vez le dé réditos electorales), pero a la larga le pasará factura. Hoy somos pocos quienes levantamos la voz ante estas acciones del gobierno, pero el mundo —y la política— dan muchas vueltas, y no nos sorprendamos si, cuando se siembra miedo y odio, se termina cosechando venganza.</p><p>Hoy, después de la renuncia de Gisella Bayona al ejercicio periodístico, nos quedamos con una voz menos. No gana el gobierno, aunque ella lo haya afirmado en su video de despedida, y aunque en las altas esferas piensen que puede ser así. Tampoco creo que ella salga ganando, como algunos colegas sostienen. Pero de lo que sí estoy seguro es que pierde el país. Un país donde las voces críticas son cada vez menos —sean de la ideología que sean— es un país que se está quedando sordo. Y un país sordo no deja de t</p>]]></content:encoded>
-      <pubDate>Mon, 07 Sep 2026 23:56:45 GMT</pubDate>
-      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-09-07_Una_voz_menos.mp3</guid>
-      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-09-07_Una_voz_menos.mp3" length="1861152" type="audio/mpeg"/>
-      <itunes:duration>00:03:32</itunes:duration>
-      <itunes:author>Paolo Moncagatta</itunes:author>
-      <itunes:summary>Una voz menos
-
-2026-09-07
-
-Por Paolo Moncagatta
-
-https://www.primicias.ec/opinion/paolo-moncagatta/ecuador-silencio-voces-criticas-libertades-131830/
-
-Una voz menos
-
-Profesor de ciencia política y Decano de Ciencias Sociales y Humanidades de la Universidad San Francisco de Quito.
-
-Actualizada:
-
-Tenía pensado dedicar la columna de hoy a otro tema, pero la situación es tan apremiante que a última hora he decidido volver sobre el asunto que discutí en mi columna pasada.
-
-Hace solo quince días dedicaba este espacio a la salida de Roberto Aguilar de Diario Expreso, y a lo grave que resulta para la libertad de expresión en el país. Ayer me encontré con la noticia de que la periodista Gisella Bayona, después de ser víctima de una tremenda campaña de trolleo —digna de los más oscuros mandatarios que hemos tenido en las últimas décadas— ha decidido “optar por su familia” y dar un paso al costado. Y lo hace con palabras fuertes: “Señor presidente, usted ganó”, le dice de frente al presidente Noboa.
-
-Un caso más entre muchos. Las ventas de La Posta, Radio Centro y El Universo, el cierre de espacios críticos, el silenciamiento de periodistas importantes, el reparto millonario de pauta oficial a otros. Todo se acumula para hacer que los espacios de debate y pensamiento crítico en el Ecuador sean cada vez menos.
-
-Pero hay algo en el caso de Gisella Bayona que lo distingue de los anteriores. A Roberto Aguilar lo desvincularon de su medio; a La Posta, a Radio Centro y a El Universo los compraron. A Bayona, en cambio, nadie la despidió: la sacó una turba. Y ese es, probablemente, uno de los mecanismos de censura más eficientes que existen, porque no deja huella. No hay una orden firmada, no hay un funcionario a quien pedirle cuentas. Solo hay una avalancha de cuentas anónimas que durante días insultan, difaman y desgastan, hasta que la persona concluye, por sí misma, que el costo es demasiado alto. En este caso, el poder no calla a nadie: es la gente la que decide callarse sola. Es censura tercerizada, y tiene la enorme ventaja de que nadie se tiene que hacer responsable de ella.
-
-Mientras tanto, hay prensa y periodistas que se hacen de la vista gorda y no levantan la voz ante tales abusos. Sí, es verdad que dedican tiempo a denunciar otras cosas relevantes, pero ante casos como los de Aguilar o Bayona, guardan silencio. A lo sumo llegan a decir “con el otro era peor”. Si los propios colegas periodistas —que deberían ser los primeros en denunciar cualquier tipo de censura, encubierta o explícita— no dicen nada para proteger la libertad de expresión en este país, mal estamos. La narrativa oficial (la única, tal vez) es la impuesta desde el poder. Los periodistas serviles, feroces ante los débiles pero tibios ante el poder —y valiéndose de la excusa anticorreísta— solo sirven de amplificadores de esa narrativa.
-
-Ya lo dije en mi columna pasada: es penoso ver cómo un presidente con la formación de Daniel Noboa —educado en gobierno y administración en varias de las mejores universidades del mundo— no logra entender que una oposición frontal y honesta le hace bien. Ir callando las voces críticas, una a una, tal vez le hará parecer más potente en el corto plazo (y tal vez le dé réditos electorales), pero a la larga le pasará factura. Hoy somos pocos quienes levantamos la voz ante estas acciones del gobierno, pero el mundo —y la política— dan muchas vueltas, y no nos sorprendamos si, cuando se siembra miedo y odio, se termina cosechando venganza.
-
-Hoy, después de la renuncia de Gisella Bayona al ejercicio periodístico, nos quedamos con una voz menos. No gana el gobierno, aunque ella lo haya afirmado en su video de despedida, y aunque en las altas esferas piensen que puede ser así. Tampoco creo que ella salga ganando, como algunos colegas sostienen. Pero de lo que sí estoy seguro es que pierde el país. Un país donde las voces críticas son cada vez menos —sean de la ideología que sean— es un país que se está quedando sordo. Y un país sordo no deja de t
-
-[Transcripcion recortada]</itunes:summary>
-    </item>
-
-    <item>
-      <title>&#x27;A veces idealizamos vivir afuera&#x27;: Joaquín López, el ultraatleta que aprendió a valorar a Ecuador en las montañas de Europa</title>
-      <author>Soraya Constante</author>
-      <description>&#x27;A veces idealizamos vivir afuera&#x27;: Joaquín López, el ultraatleta que aprendió a valorar a Ecuador en las montañas de Europa
-
-2026-09-07
-
-Por Soraya Constante
-
-https://www.primicias.ec/deportes/joaquin-lopez-ultraatleta-valorar-ecuador-migracion-131766/?utm_source=whatsapp&amp;utm_medium=social
-
-&quot;A veces idealizamos vivir afuera&quot;: Joaquín López, el ultraatleta que aprendió a valorar a Ecuador en las montañas de Europa
-
-Joaquín López volvió a tener una notable actuación en el legendario Ultra-Trail de Mont-Blanc. Detrás de sus éxitos está la historia de un corredor quiteño que decidió migrar y radicarse en Barcelona para cambiar su vida. Ahora, de regreso en Ecuador, su historia migrante le dejó un aprendizaje profundo y una certeza: el valor de su origen.
-
-El ultraatleta ecuatoriano Joaquín López, durante un entrenamiento en Barcelona, España.
-
-- Foto
-
-Cortesía Joaquín López
-
-Autor:
-
-Actualizada:
-
-Compartir:
-
-MADRID. Terminó quinto en su última carrera del Ultra-Trail de Mont-Blanc (UTMB), la ultramaratón de montaña más prestigiosa del mundo, y ese resultado tuvo sabor a victoria. El quiteño Joaquín López redujo en más de una hora su tiempo en las 100 millas. Desde Italia, donde se recupera, el corredor de 34 años dice que está satisfecho y dimensiona lo conseguido al comparar su marca con los resultados históricos de la prueba. “Con este tiempo habría ganado cualquier edición anterior”, dice.
-
-Su registro oficial fue de 19 horas, 6 minutos y 48 segundos para completar los 174 kilómetros y 9.700 metros de desnivel positivo alrededor del macizo del Mont Blanc. En 2024 terminó tercero con 20 horas, 26 minutos y 22 segundos. Esta vez quedó dos puestos más abajo, aunque mejoró su marca.
-
-López también valora el resultado por lo que representa para Ecuador y Latinoamérica. “Los latinoamericanos somos una minoría en estas competencias y no partimos desde el mismo lugar que un corredor europeo o norteamericano”, dice. Cree que sus logros ayudan a visibilizar el talento de la región y le dan fuerzas durante los tramos más duros.
-
-Barcelona y la decisión de profesionalizarse
-
-El camino hacia la élite comenzó a tomar forma en 2021, cuando López se mudó a Barcelona. Llegó después de la pandemia para cursar un máster en entrenamiento deportivo en la Universidad Ramon Llull. Quería dedicar más tiempo a correr y conocer mejor todo lo que rodea a un deportista profesional. “Me fui allá con la idea de probar ser un poco más profesional. Quería dedicarle más tiempo, pero también contactar con otros entrenadores, fisioterapeutas y nutricionistas, y aprender un poco más de todo el medio”, cuenta.
-
-Hasta entonces se había formado en las montañas de Ecuador y en carreras de aventura. Entrenar al nivel del mar le permitió trabajar la velocidad, una cualidad más difícil de desarrollar en los 2.800 metros de altitud de Quito. “En Ecuador somos muy buenos aguantando, tenemos mucha resistencia, pero no somos rápidos”, explica.
-
-Barcelona también cambió la forma en la que se veía como deportista tal y como lo reconoce: “Lo que más me ayudó de ir a vivir a Barcelona fue volverme más atlético, más corredor. Dejé de ser tanto un aventurero o un expedicionario para convertirme en un corredor, en un atleta”.
-
-Más adelante comenzó a entrenar con la estadounidense Darcie Murphy, del grupo CTS (Carmichael Training Systems), gracia a una beca. Con ella y otros profesionales construyó una preparación más completa, que incluye nutrición y psicología deportiva.
-
-Una apuesta con sus propios ahorros
-
-La mudanza a Barcelona implicó un riesgo económico. López pagó el viaje y los estudios con sus ahorros mientras continuaba gestionando a distancia Ecuador Runs, su empresa de entrenamiento. “Me la jugué al 100% con mis ahorros porque me interesaba muchísimo aprender y estudiar más. Sabía que eso me iba a traer buenas oportunidades”, cuenta.
-
-También considera que Europa es una vitrina para los corredores latinoamericanos y que los estudios pueden facilitar la entrada. “A vec
-
-[Transcripcion recortada]</description>
-      <content:encoded><![CDATA[<p>&#x27;A veces idealizamos vivir afuera&#x27;: Joaquín López, el ultraatleta que aprendió a valorar a Ecuador en las montañas de Europa</p><p>2026-09-07</p><p>Por Soraya Constante</p><p>https://www.primicias.ec/deportes/joaquin-lopez-ultraatleta-valorar-ecuador-migracion-131766/?utm_source=whatsapp&amp;utm_medium=social</p><p>&quot;A veces idealizamos vivir afuera&quot;: Joaquín López, el ultraatleta que aprendió a valorar a Ecuador en las montañas de Europa</p><p>Joaquín López volvió a tener una notable actuación en el legendario Ultra-Trail de Mont-Blanc. Detrás de sus éxitos está la historia de un corredor quiteño que decidió migrar y radicarse en Barcelona para cambiar su vida. Ahora, de regreso en Ecuador, su historia migrante le dejó un aprendizaje profundo y una certeza: el valor de su origen.</p><p>El ultraatleta ecuatoriano Joaquín López, durante un entrenamiento en Barcelona, España.</p><p>- Foto</p><p>Cortesía Joaquín López</p><p>Autor:</p><p>Actualizada:</p><p>Compartir:</p><p>MADRID. Terminó quinto en su última carrera del Ultra-Trail de Mont-Blanc (UTMB), la ultramaratón de montaña más prestigiosa del mundo, y ese resultado tuvo sabor a victoria. El quiteño Joaquín López redujo en más de una hora su tiempo en las 100 millas. Desde Italia, donde se recupera, el corredor de 34 años dice que está satisfecho y dimensiona lo conseguido al comparar su marca con los resultados históricos de la prueba. “Con este tiempo habría ganado cualquier edición anterior”, dice.</p><p>Su registro oficial fue de 19 horas, 6 minutos y 48 segundos para completar los 174 kilómetros y 9.700 metros de desnivel positivo alrededor del macizo del Mont Blanc. En 2024 terminó tercero con 20 horas, 26 minutos y 22 segundos. Esta vez quedó dos puestos más abajo, aunque mejoró su marca.</p><p>López también valora el resultado por lo que representa para Ecuador y Latinoamérica. “Los latinoamericanos somos una minoría en estas competencias y no partimos desde el mismo lugar que un corredor europeo o norteamericano”, dice. Cree que sus logros ayudan a visibilizar el talento de la región y le dan fuerzas durante los tramos más duros.</p><p>Barcelona y la decisión de profesionalizarse</p><p>El camino hacia la élite comenzó a tomar forma en 2021, cuando López se mudó a Barcelona. Llegó después de la pandemia para cursar un máster en entrenamiento deportivo en la Universidad Ramon Llull. Quería dedicar más tiempo a correr y conocer mejor todo lo que rodea a un deportista profesional. “Me fui allá con la idea de probar ser un poco más profesional. Quería dedicarle más tiempo, pero también contactar con otros entrenadores, fisioterapeutas y nutricionistas, y aprender un poco más de todo el medio”, cuenta.</p><p>Hasta entonces se había formado en las montañas de Ecuador y en carreras de aventura. Entrenar al nivel del mar le permitió trabajar la velocidad, una cualidad más difícil de desarrollar en los 2.800 metros de altitud de Quito. “En Ecuador somos muy buenos aguantando, tenemos mucha resistencia, pero no somos rápidos”, explica.</p><p>Barcelona también cambió la forma en la que se veía como deportista tal y como lo reconoce: “Lo que más me ayudó de ir a vivir a Barcelona fue volverme más atlético, más corredor. Dejé de ser tanto un aventurero o un expedicionario para convertirme en un corredor, en un atleta”.</p><p>Más adelante comenzó a entrenar con la estadounidense Darcie Murphy, del grupo CTS (Carmichael Training Systems), gracia a una beca. Con ella y otros profesionales construyó una preparación más completa, que incluye nutrición y psicología deportiva.</p><p>Una apuesta con sus propios ahorros</p><p>La mudanza a Barcelona implicó un riesgo económico. López pagó el viaje y los estudios con sus ahorros mientras continuaba gestionando a distancia Ecuador Runs, su empresa de entrenamiento. “Me la jugué al 100% con mis ahorros porque me interesaba muchísimo aprender y estudiar más. Sabía que eso me iba a traer buenas oportunidades”, cuenta.</p><p>También considera que Europa es una vitrina para los corredores latinoamericanos y que los estudios pueden facilitar la entrada. “A vec</p>]]></content:encoded>
-      <pubDate>Mon, 07 Sep 2026 23:55:51 GMT</pubDate>
-      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-09-07_A_veces_idealizamos_vivir_afuera_Joaquin_Lopez_el_ultraatleta_que_aprendio_a_valorar_a_Ecuador_en_las_montanas.mp3</guid>
-      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-09-07_A_veces_idealizamos_vivir_afuera_Joaquin_Lopez_el_ultraatleta_que_aprendio_a_valorar_a_Ecuador_en_las_montanas.mp3" length="4542444" type="audio/mpeg"/>
-      <itunes:duration>00:08:52</itunes:duration>
-      <itunes:author>Soraya Constante</itunes:author>
-      <itunes:summary>&#x27;A veces idealizamos vivir afuera&#x27;: Joaquín López, el ultraatleta que aprendió a valorar a Ecuador en las montañas de Europa
-
-2026-09-07
-
-Por Soraya Constante
-
-https://www.primicias.ec/deportes/joaquin-lopez-ultraatleta-valorar-ecuador-migracion-131766/?utm_source=whatsapp&amp;utm_medium=social
-
-&quot;A veces idealizamos vivir afuera&quot;: Joaquín López, el ultraatleta que aprendió a valorar a Ecuador en las montañas de Europa
-
-Joaquín López volvió a tener una notable actuación en el legendario Ultra-Trail de Mont-Blanc. Detrás de sus éxitos está la historia de un corredor quiteño que decidió migrar y radicarse en Barcelona para cambiar su vida. Ahora, de regreso en Ecuador, su historia migrante le dejó un aprendizaje profundo y una certeza: el valor de su origen.
-
-El ultraatleta ecuatoriano Joaquín López, durante un entrenamiento en Barcelona, España.
-
-- Foto
-
-Cortesía Joaquín López
-
-Autor:
-
-Actualizada:
-
-Compartir:
-
-MADRID. Terminó quinto en su última carrera del Ultra-Trail de Mont-Blanc (UTMB), la ultramaratón de montaña más prestigiosa del mundo, y ese resultado tuvo sabor a victoria. El quiteño Joaquín López redujo en más de una hora su tiempo en las 100 millas. Desde Italia, donde se recupera, el corredor de 34 años dice que está satisfecho y dimensiona lo conseguido al comparar su marca con los resultados históricos de la prueba. “Con este tiempo habría ganado cualquier edición anterior”, dice.
-
-Su registro oficial fue de 19 horas, 6 minutos y 48 segundos para completar los 174 kilómetros y 9.700 metros de desnivel positivo alrededor del macizo del Mont Blanc. En 2024 terminó tercero con 20 horas, 26 minutos y 22 segundos. Esta vez quedó dos puestos más abajo, aunque mejoró su marca.
-
-López también valora el resultado por lo que representa para Ecuador y Latinoamérica. “Los latinoamericanos somos una minoría en estas competencias y no partimos desde el mismo lugar que un corredor europeo o norteamericano”, dice. Cree que sus logros ayudan a visibilizar el talento de la región y le dan fuerzas durante los tramos más duros.
-
-Barcelona y la decisión de profesionalizarse
-
-El camino hacia la élite comenzó a tomar forma en 2021, cuando López se mudó a Barcelona. Llegó después de la pandemia para cursar un máster en entrenamiento deportivo en la Universidad Ramon Llull. Quería dedicar más tiempo a correr y conocer mejor todo lo que rodea a un deportista profesional. “Me fui allá con la idea de probar ser un poco más profesional. Quería dedicarle más tiempo, pero también contactar con otros entrenadores, fisioterapeutas y nutricionistas, y aprender un poco más de todo el medio”, cuenta.
-
-Hasta entonces se había formado en las montañas de Ecuador y en carreras de aventura. Entrenar al nivel del mar le permitió trabajar la velocidad, una cualidad más difícil de desarrollar en los 2.800 metros de altitud de Quito. “En Ecuador somos muy buenos aguantando, tenemos mucha resistencia, pero no somos rápidos”, explica.
-
-Barcelona también cambió la forma en la que se veía como deportista tal y como lo reconoce: “Lo que más me ayudó de ir a vivir a Barcelona fue volverme más atlético, más corredor. Dejé de ser tanto un aventurero o un expedicionario para convertirme en un corredor, en un atleta”.
-
-Más adelante comenzó a entrenar con la estadounidense Darcie Murphy, del grupo CTS (Carmichael Training Systems), gracia a una beca. Con ella y otros profesionales construyó una preparación más completa, que incluye nutrición y psicología deportiva.
-
-Una apuesta con sus propios ahorros
-
-La mudanza a Barcelona implicó un riesgo económico. López pagó el viaje y los estudios con sus ahorros mientras continuaba gestionando a distancia Ecuador Runs, su empresa de entrenamiento. “Me la jugué al 100% con mis ahorros porque me interesaba muchísimo aprender y estudiar más. Sabía que eso me iba a traer buenas oportunidades”, cuenta.
-
-También considera que Europa es una vitrina para los corredores latinoamericanos y que los estudios pueden facilitar la entrada. “A vec
-
-[Transcripcion recortada]</itunes:summary>
     </item>
   </channel>
 </rss>
