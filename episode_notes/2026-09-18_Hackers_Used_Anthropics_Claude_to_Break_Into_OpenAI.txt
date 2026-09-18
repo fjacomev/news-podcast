@@ -1,0 +1,63 @@
+Hackers Used Anthropics Claude to Break Into OpenAI
+
+2026-09-18
+
+Por Texto propio
+
+A bug-hunting independent security research team accessed OpenAI's internal code system, exposing growing risks in automated cyber threats
+
+By [Robert McMillan](#)
+
+September 17, 2026, 9:00 pm EDT
+
+Two weeks after a swarm of AI agents broke out of containment at OpenAI to hack the company Hugging Face, the ChatGPT maker learned about another AI-powered intrusion—and this time it was the target.
+
+Independent security researchers had used Anthropic's Claude software to gain access to an OpenAI employee's ChatGPT account, giving them a way to read and suggest changes to the company's private cache of software.
+
+The team, who participated in an OpenAI bug-hunting program that offers a safe harbor for researchers to attempt to break into corporate systems, quickly reported their findings to the company. The team, to which OpenAI paid a $6,500 bounty, disclosed their work for the first time to The Wall Street Journal.
+
+The new hack joins a long list of recent disclosures by leading technology companies and researchers alike of cyber intrusions aided by fast-evolving artificial-intelligence tools. Despite months of warnings about the capabilities of AI systems, the new intrusion shows how the complexity of today's computer systems makes them difficult to defend.
+
+OpenAI CEO Sam Altman and his peers on Saturday *called for a pause in AI development*, saying that it is moving too fast for companies building the technology to safely mitigate harms. OpenAI on Wednesday disclosed *previously unreported safety incidents* and announced new policies for how it plans to report such issues.
+
+At a time when the U.S. is engaged in a race with China for AI supremacy, the researchers that hacked OpenAI said the attack suggests that advanced cyber-savvy teams backed by nation states have a very real chance of getting a peek at the country's AI secrets.
+
+"I don't think we are as strong as Chinese threat actors," said Mohan Pedhapati, chief technology officer with Hacktron AI, the security firm that did the research. "We're just three guys with Claude and Codex subscriptions."
+
+OpenAI said the hackers had uncovered a pair of issues: one in a third-party service called Discourse that hosts OpenAI's community discussion forum, and a second with the AI company itself. Both of these are now resolved, OpenAI said.
+
+"We thank the researchers for contacting us and sharing their findings. We narrowed the permissions on Community sign-in tokens and revoked affected tokens and sessions," the company said.
+
+An Anthropic spokesman declined to comment.
+
+Cyber researchers regularly participate in bug bounty programs, which stress-test major companies' digital infrastructure.
+
+The hack of OpenAI began on July 23, when Hacktron's researchers found a bug in the way that the community-discussion forum Discourse processed certain image files. The researchers had access to a special version of Claude Opus 4.8, made available to qualified cybersecurity practitioners, and they asked it to write code that would exploit this bug in a cyberattack.
+
+At first, it didn't work. That evening, however, Anthropic released Opus 5 and by the next day, Claude had found a way to exploit the bug. The attack code it produced allowed the researchers to gain access to a Discourse server hosting OpenAI's discussion forums, where they were able to access users' authentication tokens, the unique digital strings of letters and numbers that allow people to gain access to online services.
+
+To their surprise, these tokens were valid on ChatGPT, and some of them belonged to OpenAI employees. The tokens could also be used to access OpenAI's GitHub service, a software repository.
+
+Because they didn't want to access sensitive data, the researchers can't say for certain what the OpenAI source code system was used for, but they said it was named, "Monorepo." Monorepo, according to people familiar with OpenAI's architecture, is a large software repository of OpenAI's algorithmic secrets.
+
+It is the software equivalent of the company's secret sauce, which makes its models faster and more efficient—but it isn't thought to contain the model weights, which are the equivalent of OpenAI's crown jewels, the people said. These are the trillions of numbers at the core of the large language models that help them understand which pieces of information to amplify and which to ignore.
+
+Using ChatGPT as their interface, the researchers could read files in Monorepo. The researchers said they stopped their hack once they realized that they could access sensitive data, but not before they made what's known as a pull request.
+
+They instructed the chatbot to send a "pull request" or suggested change—to a documentation file in the repository. The team suggested an update that would have changed the documentation file to include the words "Hacktron AI Team PoC" and a link to the X accounts of Pedhapati and the company's head of research Harsh Jaiswal. It was their proof that they had gained access to OpenAI's secrets, they said.
+
+The suggested change wasn't accepted, the researchers said. OpenAI said its review of GitHub found "limited reads" of private-repository metadata and code changes.
+
+Discourse said it fixed the security issue on July 25, the same day it was notified.
+
+The hack demonstrates the complexity of defending corporate secrets in the age of AI hacking, said Joshua Saxe, the chief technology officer with the AI security company Abundant
+
+Security, who reviewed Hacktron AI's report on the incident.
+
+"The world's software is rife with security bugs. The reason we haven't discovered them all is because, until last year, there were only a few thousand people who were expert at finding those bugs," he said.
+
+Now AI agents are making that capability available to people who are less skilled, Saxe said.
+
+Criminals are gaining access to these capabilities, too, according to the cybersecurity firm ThreatDown. In online forums, people can buy illicit access to the kind of cyber-enhanced accounts used by the Hacktron researchers for as little as $800, ThreatDown said.
+
+After the July Hugging Face attack and the researchers' hack, OpenAI did a serious security audit of its systems, the company's president and co-founder, Greg Brockman, *said this week*. "We took 25% of our production engineers and said 'Sorry, all your projects are on hold. You are now defending,'" he said. "And we found a number of serious issues and we fixed them."
