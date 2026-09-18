@@ -1,0 +1,51 @@
+AI isn't coming to destroy humanity, but experts say the real threats are here
+
+2026-09-18
+
+Por Daniel Howley
+
+https://finance.yahoo.com/technology/article/ai-isnt-coming-to-destroy-humanity-but-experts-say-the-real-threats-are-here-165308199.html
+
+On Wednesday, OpenAI (OPAI.PVT) revealed six new examples of its AI models displaying "unexpected or concerning model behavior" during testing and evaluation.
+
+The company made the announcement alongside a new framework for "tracking, reporting, and disclosing" instances where AI models take actions they otherwise aren't told to or shouldn't.
+
+It follows a number of reports of AI models from companies hacking into third-party networks and services, including an unreleased OpenAI model breaking into the network of AI model and testing site Hugging Face.
+
+Earlier this week, Anthropic (ANTH.PVT) CEO Dario Amodei penned a lengthy essay calling for a slowdown in the pace of the development of frontier AI models, after Anthropic researcher Jacob Coxon posted on X that he was resigning from the company because it, and his former employer OpenAI, is "racing straight to self-improving superintelligence and gambling with our lives."
+
+Anthropic alignment science lead Evan Hubinger followed up on Coxon's comments with his own post on X saying that he believes there is a greater-than-10% chance that the technology could "kill all humans."
+
+The incidents, posts, and Amodei's essay have renewed fears of Terminator-style AI taking over and ending the world. But the reality of the situation is far from some sci-fi doomsday scenario, experts say.
+
+"This is nothing about AI becoming sentient and coming out to get us," associate professor of computer science and engineering at NYU's Tandon School of Engineering and director of the school's Center for Responsible AI Julia Stoyanovich told Yahoo Finance.
+
+"Essentially, what happened was that … some basic security protocols were not enacted within OpenAI. And so this is actually a wake-up call for the AI companies to remember what we all learned when we studied computer science. That security is a thing," she added
+
+And focusing on end-of-the-world scenarios may take away from preventing other, more immediate harms AI could cause.
+
+Alignment and security
+
+The biggest issues with AI come down to two things: alignment and security. Alignment is how companies nudge AI systems to behave — or not behave — in specific ways.
+
+For instance, if an AI model tries to hack a third-party system, AI researchers will work to alter the model's behavior to prevent it from doing so in the future. Think about it like scolding a child for not following the rules.
+
+AI security comes down to locking down AI systems so that they can't break free and try to hack into outside networks.
+
+Neither misalignment nor security issues, however, means that AI is prepared to take down humanity.
+
+"The pretext for a lot of this is some very actually mundane forms of unexpected consequences of information systems, such as the so-called Hugging Face incidents, which are often [depicted] as these out-of-control agents conspiring and attacking and going on a rampage," explained Georgia Tech professor and program director for the school's Master of Science in cybersecurity policy, Milton Mueller.
+
+"In fact, it was a direct experiment with the security implications of these agentic AI systems that was badly configured by the people doing the experiment. And in a kind of a typical way, when you're dealing with complex information systems, sometimes you forget that there are little nooks and crannies that a smart entity can exploit," he added.
+
+Futurum CEO Daniel Newman told Yahoo Finance that what he's hearing is a "massive need" for alignment on both safety and security. "The industry needs to step up," he added.
+
+Bad actors can definitely use AI, like other technologies, for malicious purposes. Its increased cybersecurity capabilities mean cybercriminals and nation states could more easily hack things like water treatment plants or knock large networks offline.
+
+And Anthropic recently posted a rundown of its efforts to counter the misuse of its AI for developing biological and conventional weapons.
+
+But AI can also be used to help scammers supercharge email phishing operations or by identity theft rings.
+
+Emily Black, assistant professor of computer science and engineering at NYU Tandon School of Engineering, told Yahoo Finance that while there is no harm in preparing for all eventualities, doing so shouldn't take away from addressing more immediate and less headline-grabbing issues, including AI's impact on discrimination, labor, and education.
+
+"The truth is sort of between two fairy tales," Black said. "There are certainly some credible threats around the continued evolution of AI. I don't think that we need to be hiding under our beds for fear of AI destroying mankind right now."

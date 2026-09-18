@@ -1,0 +1,67 @@
+Polls show Trump is out of step with Americans on AI. It might not matter in this fall's elections.
+
+2026-09-18
+
+Por Ben Werschkul
+
+https://finance.yahoo.com/technology/ai/article/polls-show-trump-is-out-of-step-with-americans-on-ai-it-might-not-matter-in-this-falls-elections-170545435.html
+
+President Trump's hardline defense of data centers and rapid artificial intelligence development is deeply at odds with Americans' views, recent polling has found, but the data also suggests the issue might not move many votes this fall.
+
+This dynamic has been evident in multiple polls and comes as Americans are still digesting the scope of AI dangers. The fast-moving issue has spurred a growing national debate about the need for regulation to slow the pace of development of the most advanced AI models.
+
+An emblematic set of data came this week from Who Decides, a group recently founded to elevate the issue of AI in the upcoming midterms.
+
+In an online survey, 70% of respondents said AI development is going too fast or even needs to be rolled back. But that same data also showed AI was the least salient issue among 12 listed in the survey, which was conducted Sept. 8-11.
+
+Just 4% of respondents described AI as "the single most important issue to me," far below the 38% of respondents who said the same about the cost of living.
+
+Alyssa Cass, an adviser to Who Decides, noted in an interview that 51% of respondents described AI as at least a very important issue to them and that she expected the underlying number to grow — but not necessarily in concert with the most dire predictions for AI.
+
+"As adoption increases and as the public becomes aware that the question of AI isn't just one of whether it's going to wipe out humanity, but how it's going to impact their day-to-day issues that they already care about," she said. "We have every expectation that it becomes even more of a conversation, even more relevant."
+
+Yet the consequences for the 2026 elections — looming in less than seven weeks — are far from clear. Overall polling is clearly more favorable to Democrats, driven by other issues.
+
+Republican approval ratings, meanwhile, are being driven downward by other aspects of Trump's economic agenda. A new survey from the Cato Institute published on Thursday, for example, found that Americans heavily disapprove of tariffs, with 75% saying the issue will matter to their vote this fall.
+
+'Voters just don't quite know what to do with this issue yet'
+
+The AI polls suggest there is little partisan advantage for either party. In the Who Decides survey, 41% said that neither party had a plan to address the future of AI, while the rest were nearly evenly split between whether Democrats (32%) or Republicans (27%) had the better plan.
+
+Democratic party leaders appear to acknowledge this lack of an advantage as a problem, though without a clear agenda.
+
+Former White House press secretary Jay Carney was announced this week as leading a new initiative called Project Blueprint to flesh out a Democratic agenda on AI. That news was quickly touted by leading Democrats, including former President Barack Obama and 2024 Democratic nominee Kamala Harris.
+
+It found that Americans oppose the construction of data centers by an almost 2 to 1 margin (34% to 61%), but with less than 1% of those same voters describing AI and data centers as the most important issue in deciding their vote this November.
+
+The Times' chief political analyst highlighted those findings — which also included a split decision on whether Republicans or Democrats would be better to handle the issue — as evidence that "voters just don't quite know what to do with this issue yet."
+
+Polling analyst Nate Silver added to the point in his own post looking at voter views of AI. "It's been widely predicted that AI would devolve into a highly partisan issue once it hit the mainstream ... but that conspicuously hasn't been true in the polling so far," Silver wrote, even as what he called a supermajority is emerging in support of AI regulation in some form.
+
+Deep divides between Trump and voters
+
+These recent polls were conducted in the midst of a fast-moving debate about AI, but after Trump made his position on data centers clear.
+
+At the end of August, the president posted that communities that reject data centers will "end up being backwards and poor." Trump largely sees AI as an arms race between the US and China and views any slowdown as ceding ground to our main rival.
+
+Trump, in turn, doubled down on his pro-AI position, including a series of seven social media posts on Monday alone where, among other things, he declared AI fears a "hoax."
+
+Voters, the polling suggests, don't agree.
+
+In a University of Massachusetts Amherst poll, only 23% of respondents said the president has handled artificial intelligence very or somewhat well, versus 57% who said the opposite.
+
+Even Trump's most diehard supporters are skeptical of his position. 42% of respondents who described themselves as "very much" MAGA said they would be opposed to a data center in their community, versus 25% who were open to the idea.
+
+Trump's fixation on beating China in AI also appears out of sync with Americans' views.
+
+The Who Decides survey found that only 18% think the US falling behind China competitively is the main problem, with most saying a lack of regulation is a bigger concern.
+
+But even as the AI issue is behind other issues for the moment, many expect it will grow in voters' minds, regardless of party, especially as more Americans feel the impact of AI in their day-to-day lives.
+
+Across the polls, AI rises in importance when the respondent is younger or uses AI more frequently, suggesting that increased exposure to AI or its effects tends to harden views against the technology.
+
+Cass, whose group is focused on the issue from a Democratic Party perspective, said this week that events are moving quickly and that, as recently as 10 days ago, many members of Congress might have been content to avoid talking about the issue.
+
+But that has changed, she said, and now "the vast majority of members of Congress have seen that it is not acceptable, not tenable to be on the sidelines."
+
+Ben Werschkul is a Washington correspondent for Yahoo Finance.
