@@ -1,0 +1,29 @@
+Fed's top cop unveils changes to bank stress tests
+
+2026-09-19
+
+Por Jennifer Schonberger
+
+https://finance.yahoo.com/economy/policy/article/feds-top-cop-unveils-changes-to-bank-stress-tests-142727334.html
+
+The Federal Reserve's top regulator put forth long-awaited final rule changes on Friday for how the nation's banks are tested on their ability to withstand severe recessions.
+
+In a speech in London, Michelle Bowman, the Fed's vice chair of supervision, said the regulations are aimed at increasing transparency and reliability, while also introducing new measures to strengthen bank supervision.
+
+The two final rules integrate public feedback the Fed had sought on publishing detailed information on the models used for stress tests, as well as on reducing volatility for how certain capital requirements are calculated to offer more predictability. Banks must plan how much capital they'd need on hand in the event of a hypothetical failure before giving any back to shareholders through dividends and buybacks.
+
+The Federal Reserve board will consider these final revisions in the coming weeks.
+
+"Greater transparency increases public accountability, instills confidence in the fairness of the supervisory test, and strengthens market discipline," Bowman said in the speech. "With a clearer view, the public — including investors, counterparties, and rating agencies— can better assess a firm's risk profile."
+
+Bowman noted that changes to the tests would not affect banks' capital requirements.
+
+"Instead, the knowledge gained from this exercise will deepen our understanding of exposures to material financial and nonfinancial risks and their resiliency to those risks," she said.
+
+The Fed had sought comment over the past year on the models used to determine the hypothetical losses and revenues of banks subject to the tests. Banks have criticized the stress tests for lack of transparency and volatility and sued the Fed in December 2024, claiming that the annual exercises are conducted in secret and violate the Administrative Procedure Act because the public cannot review or comment on the rules.
+
+Banks argued that secret models create sudden changes in how much cash they must hold.
+
+The Fed's stress tests were mandated annually by law after the 2008 financial crisis for banks with $100 billion or more in total assets. Aimed at preventing bank failures in a future crisis, the tests assess whether banks could continue lending to households and businesses during a severe recession. The stress tests estimate bank losses, revenues, expenses, and resulting capital levels — which provide a cushion against losses — under hypothetical recession scenarios.
+
+The Fed uses the results of a stress test, in part, to set capital requirements for large banks.

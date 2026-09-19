@@ -1,0 +1,23 @@
+Fed sat on Silicon Valley Bank flaws because regulators feared being wrong, report finds
+
+2026-09-19
+
+Por Jennifer Schonberger
+
+https://finance.yahoo.com/economy/policy/article/fed-sat-on-silicon-valley-bank-flaws-because-regulators-feared-being-wrong-report-finds-154331423.html
+
+More than 3.5 years after the failure of Silicon Valley Bank, an independent third-party report finds that social media did not fuel a run on the regional bank's deposits and that regulators knew about its vulnerabilities but did not act for fear of being wrong.
+
+In a report commissioned by Michelle Bowman, the Federal Reserve's vice chair of supervision, the Starling Advisory Group review described how a paralyzed culture of risk aversion allowed the second-largest bank failure in US history to happen in slow motion. Despite spotting Silicon Valley Bank's fatal vulnerabilities a full year before its demise, watchdogs chose inaction over the professional risk of making an imperfect call.
+
+Silicon Valley Bank collapsed on March 10, 2023, triggered by a run that forced federal regulators to seize the institution. The bank primarily served tech startups, venture capital firms, and healthcare companies, which parked a ton of cash there. Using the money it didn't lend out, Silicon Valley Bank bought billions of dollars' worth of long-term US Treasury bonds and mortgage-backed securities when interest rates were near zero, locking it into very low-yielding returns.
+
+When the Fed aggressively raised rates throughout 2022 and into 2023, Silicon Valley Bank was sitting on massive losses in its bond holdings. As rates rose, clients started pulling money out of the bank to cover their own expenses, and the bank was forced to sell its bond portfolio at a loss to meet redemptions and said it would raise capital to meet more redemption obligations. That spooked depositors, prompting them to withdraw funds.
+
+According to the new report, Fed supervisory staff knew or should have known about these vulnerabilities as early as March 2022. Despite that, supervisory staff did not take prompt and decisive action to encourage or require Silicon Valley Bank to reduce its interest rate risk or concentration of vulnerabilities.
+
+The report found a significant factor contributing to supervisory inaction was a long-standing culture of risk aversion. Staffers believed it was personally safer to take no action unless they were certain it was exactly right.
+
+A lack of clarity regarding decision rights compounded this culture of risk aversion: Supervisory staff were unsure who could provide certainty that a particular action was correct.
+
+"We are addressing the culture problem head-on," Bowman said. "The review revealed that too many staff members feel it is personally safer to take no action than to risk taking the wrong action."
