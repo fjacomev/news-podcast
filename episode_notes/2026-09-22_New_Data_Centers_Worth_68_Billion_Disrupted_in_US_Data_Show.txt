@@ -1,0 +1,27 @@
+New Data Centers Worth $68 Billion Disrupted in US, Data Show
+
+2026-09-22
+
+Por Newley Purnell
+
+https://finance.yahoo.com/technology/ai/articles/data-centers-worth-68-billion-053233556.html
+
+(Bloomberg) -- Opposition to data centers continues to mount in the US.
+
+Most Read from Bloomberg
+
+That's according to research group Data Center Watch, which said some 45 data center projects worth $68 billion were blocked or delayed by local pushback between April and June this year.
+
+Communities across the country are now pushing through moratoriums on new construction, often before developers can apply for permissions. Some 30 statehouses introduced or adopted rules pertaining to issues such as data center siting, electricity and water, the group said in a report Monday provided to Bloomberg News.
+
+The research quantifies growing concern about the rapid pace of expansion of artificial intelligence, both in the construction of new computing clusters and its proliferation into daily life. There are now 843 opposition groups across 49 states, with Hawaii the exception.
+
+"New groups continue to emerge, opposition is appearing across a wide range of states and jurisdictions, and online petition signatures continue to grow," lead analyst Miquel Vila said. Data Center Watch is a project from AI intelligence company 10a Labs.
+
+Home to the biggest investors in AI infrastructure, the US is experiencing a bipartisan backlash against facilities that critics say harm the environment and siphon away resources in order to fuel AI systems that many fear will imperil jobs and livelihoods.
+
+Tech giants like Amazon.com Inc., Meta Platforms Inc., Microsoft Corp. and Alphabet Inc. — the so-called hyperscalers — argue they need the facilities to win a race against China to develop potentially world-changing AI. President Donald Trump has dismissed opposition to data centers and concern about advances in AI as a "sick conspiracy," saying "the only one that is happy about it is China."
+
+The number and value of disrupted projects fluctuates by quarter, with the first three months of this year seeing 75 cases worth roughly $130 billion facing opposition in the US. The 45 projects affected during the second quarter represented more than half of all new large-scale developments Data Center Watch began tracking during the period.
+
+Opposition by public figures and the use of social media are amplifying concerns. One petition against a project in Tennessee garnered over 500,000 signatures on online activism platform Change.org, accounting for more than one third of those on the service during the quarter, Data Center Watch said.

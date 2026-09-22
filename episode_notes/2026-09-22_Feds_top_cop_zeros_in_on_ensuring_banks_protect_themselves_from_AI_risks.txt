@@ -1,0 +1,25 @@
+Fed’s top cop zeros in on ensuring banks protect themselves from AI risks
+
+2026-09-22
+
+Por Jennifer Schonberger
+
+https://finance.yahoo.com/technology/ai/article/heres-how-the-fed-is-working-to-ensure-banks-protect-themselves-from-ai-risks-100000772.html
+
+Amid growing warnings that artificial intelligence could pose existential risks to humanity, the Federal Reserve is sharpening its focus on how banks use the technology to defend against cyber threats.
+
+The central bank has been taking steps to ensure that US banks are positioned to protect themselves against threats, such as hackers using AI to automate sophisticated cyberattacks, which could ultimately undermine the financial system.
+
+Michelle Bowman, the Fed's vice chair of supervision, said regulators want to help banks, especially smaller ones, protect themselves from vulnerabilities they might introduce by using products from other service providers and find ways to mitigate those risks.
+
+"We regularly discuss AI with bankers at all levels of the Federal Reserve System," Bowman said in a speech on May 1. "This includes direct conversations with individual banks, and broader conversations on principles for successful adoption."
+
+The Fed has been monitoring banks' use of AI for nearly a decade and has seen a noticeable increase in AI adoption across banks of all sizes. Only the largest and most systemically important banks have the ability and the sophistication to use frontier AI models to help identify and mitigate risks. Smaller banks don't have that capability.
+
+To bridge this gap, Bowman is working to assist smaller banks through the Federal Financial Institutions Examination Council, a government interagency that sets uniform standards and reporting forms for examining financial institutions. Bowman, who chairs the council, is working with service providers for smaller banks to ensure that they maintain and provide safe, compliant products and services.
+
+Bowman and regulators have also had conversations with core service providers, including Mastercard (MA) and Visa (V), and are working on the next iteration of that with cloud service providers — the critical digital choke points where undetected vulnerabilities pose the greatest systemic threat — which smaller banks may not be able to identify.
+
+The Financial Stability Board, an international body that monitors and makes recommendations about the global financial system, recently proposed practices for the financial services industry to use as it integrates AI, which also helps regulators supervise how financial institutions use AI and better focus their supervision.
+
+While Elon Musk and the chief executives of Anthropic (ANTH.PVT) and OpenAI (OPAI.PVT) have warned that development of the technology should be slowed, it was Anthropic's Mythos — an AI model that identifies cyber vulnerabilities — that initially caught regulators' attention in April.

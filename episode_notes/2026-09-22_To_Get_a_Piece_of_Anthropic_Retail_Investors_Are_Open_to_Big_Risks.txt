@@ -1,0 +1,99 @@
+To Get a Piece of Anthropic, Retail Investors Are Open to Big Risks
+
+2026-09-22
+
+Por Zijia Song
+
+https://finance.yahoo.com/markets/stocks/articles/piece-anthropic-retail-investors-open-103018292.html
+
+(Bloomberg) -- Brian Smith has been trying every avenue he can find to get exposure to Anthropic's stock ahead of its blockbuster initial public offering.
+
+Most Read from Bloomberg
+
+The 66-year-old California retiree spread money across eight brokerages and may request hundreds of thousands of dollars' worth of shares – about 30% of his net worth – in the artificial intelligence giant, which he hopes to sell as soon as they begin trading.
+
+He has also put $7,000 into two high-fee, difficult-to-trade funds that claim to have early access to private shares of both Anthropic and OpenAI. The recent calls from AI industry leaders to slow the development of the technology have done little to dim Smith's enthusiasm as Anthropic moves toward its public offering.
+
+Smith is chasing this strategy despite the rough ride he went through before the IPO of SpaceX. During the spring, Smith had what appeared, at one point, to be more than $300,000 in another closed-end fund that promised access to private company shares. Because of lockups and technical problems, by the time he was able to sell his stake in the fund, he only made around $43,000.
+
+The potential riches in store with the Anthropic and OpenAI IPOs make those frustrations — and the broader concerns surrounding AI — fade into the background.
+
+"I know it's risky and some people might think it's crazy," said Smith. "It seems like it's a once in a long time opportunity, and the chance of losing money on an Anthropic IPO is very low."
+
+Smith is one of a growing number of individual investors looking for access to Anthropic and OpenAI after getting their first taste of private-market investing during the frenzy around SpaceX.
+
+Craig Stephens, founder of retail investing site Access IPOs, said his audience grew by 30% around the SpaceX IPO. Many have stuck around as Anthropic and OpenAI head toward the public markets. The push is unfolding even as some of the industry's most prominent figures are calling for a pause in the development of increasingly powerful AI models. Anthropic is expected to sell shares in the coming weeks, and OpenAI has talked about doing its own offering next year.
+
+Crash Course
+
+Retail investors' experiences are providing a crash course in what can happen when investments once largely reserved for venture firms, asset managers and the super wealthy are packaged for a broader audience. There are enormous gains for some individual investors, but also lockups, volatile fund prices, opaque ownership structures and confusion over what investors actually own.
+
+Anthropic threw a new set of concerns into the mix when its CEO Dario Amodei sought to clamp down on unauthorized secondary sales and special purpose vehicles, warning investors that it may not recognize shares that were transferred without its consent. Investor demand rose anyway, and a range of investment products continue to promise exposure to the company.
+
+"SpaceX was a gateway drug to private markets," said Clara Vydyanath, general partner of startup Underline Capital, who's also held leadership positions at Hiive and Forge Global, platforms for secondary private-market deals. "People view these companies as securing the future for their children. So the demand is there and when the demand is so strong, it often doesn't care how it gets exposure."
+
+The appetite is also driven by the fear that waiting for an IPO means arriving too late. Companies are staying private longer and amassing enormous valuations before going public. SpaceX had a market value of $1.77 trillion at the time of its IPO. Anthropic is targeting a $2 trillion IPO and OpenAI is weighing a funding round at more than $1.2 trillion.
+
+"It's so extraordinarily different that these companies are going public with market caps close to those of the Magnificent Seven," said Matt Shechtman, who oversees investment management at Long Angle, a community of over 9,000 high-net-worth investors. "People know that if they want a piece of that, they need to go in earlier and so they're taking more risks in order to do it."
+
+Special Purpose Vehicles
+
+For wealthier, accredited investors, the most direct way to get access to these companies has often been through special purpose vehicles that hold, or claim to hold shares of individual private companies.
+
+Shechtman said that some of Long Angle's members thought they owned private shares of SpaceX only to discover they had interests in forward contracts, agreements between two parties to buy or sell an asset at a predetermined price on a specific future date. In other cases, the SPVs didn't hold the shares investors expected them to, or are charging multilayered fees.
+
+"Some of these are just one or two folks that got these shares and are reselling them with various fee structures that are savory or unsavory, with really no risk management at all," Shechtman said.
+
+For Akshay Suggula, SpaceX taught the opposite lesson.
+
+The 32-year-old Bay Area software engineer invested a five-figure sum with his wife through an SPV in 2020, when SpaceX was valued at $50 billion. While Suggula won't specify the exact numbers, he said the investment gain is well over six figures. Some of his shares have become available to sell, but he's holding onto them.
+
+The paper profits are already changing how he thinks about money. When Suggula was recently looking for a new job, the SpaceX gains, along with some of his investment in public AI hardware stocks, gave him enough of a financial cushion that he was able to focus on the work he wanted to do instead of the salary.
+
+It also left him wanting another shot. Suggula passed on an opportunity to invest in Anthropic years earlier, a decision he now regrets. He recently scoured Reddit and marketplaces like EquityZen and even placed a bid for shares on Forge Global trying to find Anthropic shares. He came up empty.
+
+"In the grand scheme of the markets over decades, this is a rare opportunity to capitalize on some pretty fundamental changes," said Suggula. "It's a little unfair that the capital allocators that sit in privileged institutional seats get access to these things early."
+
+Exotic Funds
+
+Less wealthy investors have historically had few options to enter these markets, but that has been changing quickly as asset managers race to satisfy retail demand for exotic investments.
+
+The product that Smith, the California retiree, struggled to get his money out of earlier this year – the Fundrise Innovation Fund, or VCX – says it has over 20% of its net assets in Anthropic, and another 10% to 20% in OpenAI.
+
+After the fund began trading publicly in March, its shares surged as high as $575 before plunging to around $37 when restrictions on previously issued shares expired in August. It now trades at $30 per share.
+
+A spokesperson for Fundrise declined to comment.
+
+Despite his previous problems, Smith is considering buying back into VCX if the price is right, given the access it offers to the AI giants. A Cathie Wood-operated fund that Smith owns, the ARK Venture Fund, or ARKVX, says it has 3.9% of its money in Anthropic, and 5.3% in OpenAI.
+
+Some of the funds, like ARKVX, are themselves not publicly traded, leaving investors at the mercy of the operators if they want to sell. They are typically available only through brokerages that partner with the fund, registered investment advisors or family offices, or directly through the fund's own platform.
+
+VCX and Robinhood Ventures Fund I (RVI) do trade openly, but their price can move far from the estimated value of the underlying asset. Investors in these funds are generally purchasing a portfolio whose private holdings may themselves be owned indirectly. Even once a company like Anthropic goes public, the other shares in the fund may remain private for years, making their valuations difficult to assess.
+
+Then there is the cost of this access. VCX charges an annual fee of 1.85% of assets, while ARKVX's expense ratio is 2.9%.
+
+None of that has stopped the parade of new products. After RVI went public in March, Robinhood created a second fund in August with 8 million common shares, giving retail investors access to early-stage startups. The original fund, which charges an expense ratio of 3.13%, debuted around $25, nearly tripled in the month before the SpaceX IPO and then fell back to around $28.
+
+Crowdfunding platform StartEngine also filed for a public fund aiming to give non-accredited investors access to late-stage private and pre-IPO companies. Brokerage firms like SoFi Technologies Inc. are also expanding access to private-market funds on their platforms.
+
+Exercising Caution
+
+That pull is reaching even investors who are skeptical of the private-market hype. Nick Yousef, a 26-year-old who has generally focused on safe index funds, is making his first investment in private companies through the Robinhood Ventures Fund II (RVII).
+
+He's wary of private-market products that tout massive returns while downplaying the risks, and isn't particularly interested in chasing Anthropic or OpenAI. RVII focuses instead on young Y Combinator startups with uncertain exit timelines that would otherwise be difficult for Yousef to access.
+
+"The marketing worked on me," he said.
+
+He is keeping the bet to less than 1% of his portfolio and plans to stay invested for the next decade. "There's a chance I lose all my money in RVII and I'm fine with that," he said. "In the spirit of VC, I won't cry if it goes to $0."
+
+Smith is approaching the boom differently.
+
+He owns virtually no public stocks, keeping most of his liquid assets in Treasury bills, bond ETFs and money-market funds because he worries the stock market is overpriced. Having lived through the dot-com bust and 2008 financial crisis, he expects another major downturn eventually and, at 66, doesn't want to risk watching his retirement savings plunge.
+
+Smith, though, has used less than 10% of his nest egg to speculate on IPOs and the funds holding private companies. He sees funds like VCX and the enthusiasm surrounding AI as a window to make money before it closes.
+
+"Things are hyped up now and you can profit in the short term, but it's not going to last," he said. "As long as there's lots of hype, that's what I'm looking for."
+
+Most Read from Bloomberg Businessweek
+
+2026 Bloomberg L.P.
