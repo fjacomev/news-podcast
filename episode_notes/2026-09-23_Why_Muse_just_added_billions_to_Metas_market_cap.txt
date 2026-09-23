@@ -1,0 +1,31 @@
+Why Muse just added billions to Meta's market cap
+
+2026-09-23
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/markets/stocks/article/why-muse-just-added-billions-to-metas-market-cap-094853229.html
+
+The way the market sees it now, Meta (META) is about to upend the enterprise tech market with its new Muse AI agent.
+
+"Lots can and will change in the future, but the key, simple point is that Meta has a hit on its hands with Muse," Evercore ISI Mark Mahaney said in a new note.
+
+Meta stock erupted, gaining 11.3% to close at $741.25 on Monday, adding a robust $192 billion to the company's market cap and more than $13 billion to CEO Mark Zuckerberg's net worth.
+
+The stock rose another 1.5% on Tuesday.
+
+Investor enthusiasm reached a fever pitch as Muse surged to the top spot on Apple's App Store.
+
+Muse reached 2.8 million downloads in its first 12 days across both the US and Canada app stores, according to Sensor Tower data. What's more, Muse has surpassed the early adoption of ChatGPT, with 1.8 million downloads in Muse's first 12 days compared to 1.3 million for ChatGPT.
+
+Muse also set a new US daily download record of 264,000 on Sept. 19, its third straight day above 200,000.
+
+"Muse's goal was to make AI accessible to way more people," Meta chief AI officer Alexandr Wang said in an X post.
+
+The most important factor driving Meta's stock is the potential of Muse to unlock unforeseen profits for Meta, Mahaney explained. If Muse could break into the lucrative enterprise market during the AI infrastructure boom, it would be huge.
+
+Here's Mahaney in his own words. He offers up the best explanation we have found on Wall Street on the new juggernaut that is Muse:
+
+The market has been hyper-focused on the Enterprise AI market. Excessively focused, we believe. We get it. Enterprises pay for productivity. Consumers don't. Or at least that's what the market assumes. Anthropic has eschewed the Consumer AI market, by directly criticizing via Super Bowl TV ads one of the biggest Consumer monetization methods – advertising. (There's deep irony in that last sentence.) OpenAI has added to the Enterprise AI pile-on by touting its goal of being primarily Enterprise revenue driven by the end of 2026. And the market has largely awarded Meta with the lowest P/E multiple of the Hyperscaler Crew because its substantial AI investments weren't clearly linked to an Enterprise market opportunity like Cloud Computing. But now there's Muse and very early evidence that this can dramatically scale.
+
+Muse matters to Meta shareholders because a) it amounts to a very tangible sign of successful product innovation and ROAI – evidence that Meta's substantial AI investments ($200 billion plus in annualized capex and opex) have not been in vain; b) it suggests a potentially very dramatic new driver of usage and engagement for Meta; and c) it carries substantial new monetization opportunities for Meta in the form of advertising, subscriptions, and transaction revenue share against multi-trillion dollar total adressable markets.

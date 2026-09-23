@@ -1,0 +1,61 @@
+Nvidia’s Stock Is Flashing a Warning Sign as Valuation Falls
+
+2026-09-23
+
+Por Ryan Vlastelica
+
+https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-flashing-warning-sign-092802277.html
+
+(Bloomberg) -- Nvidia Corp.'s sinking stock valuation is sending a warning signal about the chipmaker's prospects for maintaining its booming profit growth.
+
+At less than 17 times profit expected over the next 12 months, Nvidia's shares are trading near the cheapest level in more than a decade, according to data compiled by Bloomberg. The multiple is half what the stock commanded in 2025, when Nvidia's revenue and profit growth was slower, and down from more than 25 times earnings estimates as recently as May.
+
+"The stock has de-rated pretty significantly, which suggests a healthy dose of skepticism that the company's current earnings power is sustainable," said Eli Horton, senior portfolio manager for thematic equities and durable growth equities at TCW. "The stock's performance is surprising, given the backdrop of incredible fundamentals, but it tells you the market is expecting less than what the consensus is currently estimating."
+
+Nvidia's discounted valuation persists even after the shares capped a five-day winning streak on Monday. The advance came amid a broader rebound in semiconductor stocks after AI leaders' calls to slow development of the most advanced AI models spooked investors, sending the Philadelphia Stock Exchange Semiconductor Index, better known as the SOX, down nearly 6% on Sept. 14.
+
+The index jumped 4.3% on Monday, its best day since Aug. 4, after early signs of success for Meta Platforms Inc.'s new AI agent boosted optimism about chip demand.
+
+Even though there are plenty of worries about the broader outlook for spending on AI computing gear amid a backlash against data center construction and soaring interest rates, there are no signs that infrastructure investments are set to slow anytime soon.
+
+Nvidia's revenue and net income are expected to jump 90% and 99%, respectively, in fiscal 2027, which ends in January. That's up from 65% growth for both metrics the year before. In its second-quarter earnings report last month, Nvidia projected that sales would expand 70% in fiscal 2028, well above the 45% growth that had been expected.
+
+Nvidia's shares are up 22% in 2026, a performance that ranks as the second-best among the Magnificent Seven technology giants after Apple Inc.'s 25% gain. The advance pales in comparison to other semiconductor makers, however.
+
+The semiconductor index is up almost 76% this year, led by memory chipmaker Micron Technology Inc. and Nvidia rivals Intel Corp. and Advanced Micro Devices Inc., which have each gained more than 180%. Nvidia is the fifth-worst performer in the index, which is priced at 20 times estimated profit.
+
+The disconnect between Nvidia's strong fundamentals and its stock valuation prompted Chief Executive Officer Jensen Huang to declare that Nvidia is "the world's first and only growth value stock." He called the company "incredibly misunderstood" at a Goldman Sachs technology conference earlier this month.
+
+"Not only are we growing, we're also capturing more at the same time," he said.
+
+Part of the problem is that Nvidia's profitability is under pressure, in large part due to rising costs for key components like memory chips. Nvidia's gross margin was a whopping 75% in the second quarter, but is projected to shrink to less than 72% in the fourth quarter before rebounding in the coming quarters, according to the average of analyst estimates compiled by Bloomberg.
+
+Nvidia's gross margin is a major factor holding its shares back, according to David Russell, global head of market strategy at TradeStation. He expects competition to intensify, especially as some of Nvidia's biggest customers develop AI chips in-house. Meta Platforms Inc. recently touted its home-grown chips, and Alphabet Inc. has made a major business out of its own.
+
+"Companies want to reduce their reliance on Nvidia, so it is very conceivable its market position will weaken over time, and that means gross margins are more likely to go south than improve, which is a big problem for investors," Russell said. "Multiples expand when companies are well positioned with potential to get better, and Nvidia doesn't offer that."
+
+Another issue is that Nvidia has become the highest profile member of the AI trade after a more than 1,600% gain in its share price over the past four years made it the world's most valuable company. Its sales have jumped from about $27 billion in its fiscal year that ended in January 2023 to an estimated $410 billion in the current year, fiscal 2027.
+
+"It is prudent to take a step back and ask whether all this spending is sustainable, because trees don't grow to the sky," said TCW's Horton. "However, Nvidia's multiple really seems predicated on a slowing in AI capex, which would have to come either on hyperscalers pulling back, or a regulatory framework that delays or shuts things down."
+
+But neither of those scenarios seem likely, he said, which is making Nvidia shares look relatively attractive.
+
+"No one knows if the stock will work, but the setup is very compelling and I like the way the probabilities are stacked up," he said. "If the question is whether the multiple will work in your favor by re-rating higher, or work against you, I'd definitely take the former. This seems like a very favorable multiple to have as an entry point."
+
+Tech Chart of the Day
+
+Meta's new artificial intelligence agent, Muse, has quickly risen to the top of mobile app charts, a sign that the social media company is gaining traction in the increasingly crowded market for consumer AI assistants.
+
+Top Tech Stories
+
+Alibaba Group Holding Ltd. is rolling out what it calls China's most powerful AI chip, an accelerator to compete with Nvidia and underpin a massive expansion of data center capacity in coming years.
+
+Tencent Holdings Ltd. launched its latest and best image-generation model on the same day as rival Alibaba kicked off its AI conference, signaling intent to catch up to industry leaders like ByteDance Ltd.
+
+Paramount Skydance Corp. has settled lawsuits brought by 12 state attorneys general and the Writers Guild trade union, a move that will allow the company to close its historic $110 billion acquisition of Warner Bros. Discovery Inc.
+
+Earnings Due
+
+No major earnings expected
+
+--With assistance from Subrat Patnaik and David Watkins.
