@@ -1,0 +1,81 @@
+Biotech Trends Reshaping Markets 
+
+2026-09-23
+
+Por Texto propio
+
+Biotech Trends Reshaping Markets
+
+Key Takeaways
+
+Alzheimer’s represents a $70 billion drug market, with therapies targeting both cognitive decline and symptom control—and potentially creating significant economic value beyond drug sales.
+
+Gene editing done inside the body could expand treatments to organs including the liver, lungs and brain and unlock a $10 billion market by 2035 in near-term indications alone.
+
+AI could cut discovery timelines from around 4.5 years to 1.5 years and reduce R&D costs by 25% to 60%.
+
+In the near term, the companies that supply the data, tools and computing power behind AI are already profiting—and their results don't depend on whether a single drug trial succeeds or fails.
+
+Biotech is moving at a pace few would have predicted a decade ago, and much of what comes next is front and center at Morgan Stanley’s annual Global Healthcare Conference in New York. We're seeing innovation across healthcare, and here are three major developments that could not only unlock significant market opportunities, but also lead to breakthroughs for patients and society: innovation in treatments for Alzheimer’s disease, the emergence of in-vivo gene editing and the use of artificial intelligence in drug development.
+
+Can Innovation Ease Alzheimer’s Growing Burden?
+
+Pharmaceutical innovation has historically helped increase life expectancy. Vaccines, antibiotics and other treatments—including, more recently, GLP-1s—have worked in conjunction with public-health policy to reduce mortality from some acutely lethal diseases and turn them into manageable chronic conditions.
+
+Alzheimer’s disease, however, keeps challenging that pattern. It is a late-life, slowly progressive, multi-pathway illness whose burden is measured not only by mortality but also by declining function and increasing dependency. Although U.S. life expectancy has risen to around 80 years, healthspan—the number of years lived without disease-related impairment—has plateaued at around 70.
+
+Further gains in healthspan will require progress against Alzheimer’s disease, creating a significant market for treatments. We estimate a $70 billion market for Alzheimer’s drugs, with two main areas of investable opportunity:
+
+Disease-modifying therapies: Drugs designed to slow cognitive decline, which have thus far had a modest clinical effect.
+
+Symptomatic control: Therapies that address psychosis and agitation, which are likely to remain a mainstay, at least until disease modification meaningfully changes patients’ real-world trajectories.
+
+Regardless of the type of therapy, the economic value of Alzheimer’s treatment extends beyond drug revenue. Its broader value lies in the potential to delay the transition of millions of U.S. seniors from independent living to supervised or institutional care. A therapy that delays a move to a nursing home by even 12 to 18 months could deliver value to the U.S. healthcare system worth multiples of its list price.
+
+From an investment perspective, the implications may also extend beyond therapeutics. Diagnostics and care delivery, as well as the retirement and insurance industries, could benefit from—or need to adapt to—a society planning for longer, but less certain, late-life outcomes.
+
+The economic value of Alzheimer’s treatment extends beyond drug revenue. Its broader value lies in the potential to delay the transition of millions of U.S. seniors from independent living to supervised or institutional care.
+
+In-Vivo Gene Editing Could Open New Markets
+
+Gene editing, which can treat serious medical conditions by altering a person’s DNA, is already a commercial reality. The technology could now expand in scope and scale through the development of in-vivo therapies—treatments that edit DNA directly inside the patient's body, rather than in a lab.
+
+The first gene-editing therapies were ex vivo: Cells are removed from the patient, edited outside the body in specialized laboratories and then returned. This approach generally limits treatment to cells and tissues that can be removed and manipulated outside the body, such as blood cells.
+
+By contrast, in-vivo therapies edit cells directly inside the patient. This approach could enable access to organs that cannot easily be removed, including the brain, heart, eyes and liver, broadening the range of addressable diseases and potentially unlocking significant new market opportunities.
+
+We estimate the market for in-vivo gene-editing therapies to reach $10 billion by 2035 in near-term indications alone, compared with market consensus of $6 billion.
+
+While initial in-vivo therapies have focused on the liver, we’re also watching the development of programs targeting the lungs and brain. The market opportunity could expand further as physicians and patients become more comfortable with the technology.
+
+Regulatory and payer dynamics are also likely to shape development. Economic incentives to pursue larger indications, such as cardiovascular disease; shifts toward outcomes-based installment pricing; and regulatory support could be important to expand the use of in-vivo treatments.
+
+Overall, we believe in-vivo gene editing is likely to scale faster than ex-vivo approaches. Data expected over the next 18 months could help determine how much value investors are willing to assign to these platforms—and the breadth of their potential applications.
+
+While initial in-vivo therapies have focused on the liver, we’re also watching the development of programs targeting the lungs and brain. The market opportunity could expand further as physicians and patients become more comfortable with the technology.
+
+AI as a Productivity Engine
+
+Biopharma has long had an efficiency problem: Around 90% of drugs under development fail before reaching the market, while development timelines often exceed 10 years.
+
+AI could help change that equation by transforming how treatments are discovered, developed and tested. Drug development is moving from historically slow, trial-and-error process toward a more data-driven model that could increase success rates, shorten timelines and lower costs.
+
+We estimate that AI can:
+
+· Reduce discovery timelines from around 4.5 years to 1.5 years
+
+· Reduce research and development costs by 25%-60%
+
+· Shorten preclinical testing timelines by 30%-50%
+
+These gains could expand the number of viable drug candidates while increasing capital efficiency—a combination that has historically been difficult to achieve in biotech.
+
+That said, while AI can improve early-stage success rates and compress development timelines, there is still little proof that it raises the odds of a drug actually reaching patients. The opportunity is big, but it’s not a sure thing—and the payoff may arrive at very different times for different companies.
+
+For investors, the key question is not simply whether AI works. It is where AI is already creating measurable value, where returns remain contingent on future clinical evidence and how much of that potential is already reflected in valuations.
+
+In the near term, the most actionable portfolio exposure may be through the “picks and shovels” of AI in healthcare: companies providing the data, tools and infrastructure that support its adoption. These businesses are already seeing adoption translate into revenue and are less dependent on binary clinical outcomes.
+
+In our view, the most effective way to play AI in drug development today is to own enablers, selectively monitor AI-native platforms for clinical inflection and underwrite large-cap productivity gains with appropriate skepticism.
+
+For investors, the key question is not simply whether AI works. It is where AI is already creating measurable value, where returns remain contingent on future clinical evidence and how much of that potential is already reflected in valuations.

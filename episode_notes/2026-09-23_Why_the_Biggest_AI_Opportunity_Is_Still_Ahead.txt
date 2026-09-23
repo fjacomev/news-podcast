@@ -1,0 +1,69 @@
+Why the Biggest AI Opportunity Is Still Ahead
+
+2026-09-23
+
+Por Texto propio
+
+Why the Biggest AI Opportunity Is Still Ahead
+
+AI’s next wave may reward companies using the technology most effectively—not just those building it. Here’s what investors can watch as AI moves toward profits.
+
+Key Takeaways
+
+- AI’s next wave will likely reward companies that use the technology to improve decisions, lower costs and strengthen margins—not just those building AI infrastructure.
+
+- Deep AI adoption requires more than pilots: Companies may need data readiness, governance, cybersecurity, training and workflow redesign to see real results.
+
+- Investors can consider sectors likely to produce more AI “deep adopters,” such as financials, health care and retail, where companies may have clear use cases and the resources to implement AI at scale.
+
+Over the past two years, investors have focused on the companies building the artificial intelligence boom, but as the AI infrastructure cycle matures, they may need to ask a different question: Which companies can use AI to improve productivity and profit margins?
+
+AI has quickly become one of the defining investment themes of this decade. So far, the market has focused mainly on AI infrastructure, from semiconductors to data centers and power networks. Morgan Stanley Research expects roughly $800 billion in AI-related capital expenditures in 2026, rising to $1.1 trillion in 2027. The buildout remains substantial, and many infrastructure providers could continue to benefit.
+
+However, as AI adoption matures, the next phase of value creation may come from a new set of companies—those that can successfully integrate AI into everyday operations to make faster decisions, create better customer experiences, reduce costs and strengthen margins.
+
+How extensively are companies integrating AI?
+
+While access to AI is broad, deep integration within companies is limited: Stanford University’s 2026 AI Index found that organizational AI adoption reached 88%, but a firm-level S&P 500 study found that only about one-fifth of companies had AI in production or deeply embedded in business processes in 2025.
+
+What investments help companies get real returns from AI?
+
+Moving from AI pilots to real business impact often requires “intangible capex”—long-term investments in non-physical assets, such as data systems, governance, cybersecurity, employee training and workflow redesign. These investments may help companies turn AI tools into measurable business results.
+
+For example:
+
+An industrial manufacturer might use AI to monitor equipment, predict maintenance needs, flag quality-control issues and improve production scheduling.
+
+An energy company could use AI to forecast demand, prioritize grid maintenance, support outage response and improve asset utilization.
+
+An airline might use AI to optimize staffing, adjust pricing, improve customer-service workflows and ease bottlenecks.
+
+Why can AI productivity gains take time to show up?
+
+Even among companies doing the work to deeply embed AI, results may not show up all at once. Research on past technologies suggests what economists call a productivity “J-curve:” Companies often spend first on reorganizing workflows, improving data and training employees—and the payoff can show up later in reported productivity, margins or earnings.
+
+Workforce impacts may also be more nuanced than simply replacing workers. Morgan Stanley’s AlphaWise surveys of advanced AI adopters suggest AI adoption often comes with meaningful workforce reshaping, including retraining in affected roles alongside some role reductions and new hiring.
+
+Where could the next AI investment opportunities emerge?
+
+The best positioned AI adopters are likely to be companies with large pools of structured work, proprietary data, balance sheet flexibility, governance and cybersecurity discipline, as well as management teams willing to redesign workflows rather than simply add AI tools to old processes.
+
+For investors seeking opportunities, selectivity is key. Rather than focusing only on AI announcements or pilot programs, consider looking for evidence that AI is producing quantifiable business results.
+
+Morgan Stanley Research analysts reviewed more than 10,000 earnings and conference transcripts and found that about 25% of S&P 500 companies cited at least one quantifiable AI impact as of July 2026, up from 15% in the third quarter of 2025.
+
+Which sectors may benefit from deep AI adoption?
+
+For now, the positive impacts appear concentrated in sectors such as tech and communication services, but over time, measurable benefits could spread to other sectors where select companies have the scale and capacity to execute. Three areas we’re watching:
+
+Financials: Consider select banks, insurers and asset/wealth managers where AI can streamline document-heavy workflows and support complex decision-making in highly regulated settings.
+
+Health care: Deeply embedded AI can benefit companies by reducing administrative burdens and improving productivity in such areas as clinical documentation and drug development.
+
+Retail: Select large retailers with large customer datasets and complex supply chains can harness AI to improve growth and efficiency across merchandising, marketing, inventory, logistics and customer service.
+
+What risks could limit AI’s investment impact?
+
+Investors should keep in mind that AI outcomes may be uneven: Model reliability and oversight matter, regulation and data privacy could tighten, and some AI investments may not translate into durable profits.
+
+To learn more about this theme, ask your Morgan Stanley Financial Advisor for a copy of the Global Investment Office report, “Intangible Capex: Unlocking the Return on Investment From AI Adoption.”
