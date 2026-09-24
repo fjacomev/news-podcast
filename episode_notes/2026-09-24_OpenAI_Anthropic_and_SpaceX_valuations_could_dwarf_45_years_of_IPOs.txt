@@ -1,0 +1,35 @@
+OpenAI, Anthropic, and SpaceX valuations could dwarf 45 years of IPOs
+
+2026-09-24
+
+Por Daniel Howley
+
+https://finance.yahoo.com/technology/article/openai-anthropic-and-spacex-valuations-could-dwarf-45-years-of-ipos-223724805.html
+
+If you're wondering how huge the AI segment's march toward the public markets is, look no further than the valuations of the biggest companies in the space.
+
+Take OpenAI (OPAI.PVT), which is raising cash at a $1.2 trillion valuation, according to the Wall Street Journal, throw in Anthropic's (ANTH.PVT) potential $2 trillion value when it goes public, and SpaceX's (SPCX) current $2 trillion market cap, and you're sitting at just north of $5 trillion, the Financial Times reported.
+
+That is more than the value of all of the initial public offerings from 1980 through 2025, the FT says, citing data from University of Florida Warrington College of Business emeritus professor Jay Ritter.
+
+Morning Joe economic analyst and New York Times op-ed contributing writer Steve Rattner illustrated the valuations in a chart he posted on X. He also noted that the historical numbers aren't adjusted for inflation.
+
+Anthropic and OpenAI are two of the largest and most advanced AI labs on the planet, thanks to their Claude and GPT model families.
+
+Dario Amodei-led Anthropic is expected to go public sometime next month, though that could also slip to later in the fall. OpenAI, which was also expected to go public this year, is now targeting an IPO in 2027.
+
+The companies' massive valuations indicate just how much early backers and Wall Street are banking on AI living up to the hype. Various tech executives have compared the technology's importance to that of fire or the internet itself.
+
+The duo and SpaceX have also turned the collection of hardware companies that produce the GPUs and memory chips that power their AI models into an indispensable part of the AI trade.
+
+Take a look at Nvidia (NVDA), which was valued at $5.5 trillion as of Tuesday, or Micron (MU), whose stock price has soared more than 1,100% over the last two years.
+
+But AI companies are also facing a series of challenges, including fears that the technology could harm humans. That's in addition to existing concerns that cyber criminals and authoritarian regimes could abuse AI models for their own purposes.
+
+Last week, Amodei called for AI labs to slow the pace of development of high-powered AI models, sending shares of AI adjacent companies lower. But a view of the market so far this week shows that investors aren't ready to abandon the AI boom just yet.
+
+Email Daniel Howley at dhowley@yahoofinance.com. Follow him on X at @DanielHowley.
+
+Click here for the latest technology news that will impact the stock market.
+
+Read the latest financial and business news from Yahoo Finance
