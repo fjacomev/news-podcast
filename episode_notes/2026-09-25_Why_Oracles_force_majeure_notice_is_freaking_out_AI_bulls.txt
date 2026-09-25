@@ -1,0 +1,27 @@
+Why Oracle's force majeure notice is freaking out AI bulls
+
+2026-09-25
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/markets/stocks/article/why-oracles-force-majeure-notice-is-freaking-out-ai-bulls-170304487.html
+
+Oracle (ORCL) has placed bets across the AI ecosystem, and a new complication could pose problems for the industry.
+
+The tech beast has issued a force majeure notice for its 2.45-gigawatt site in Doña Ana County, N.M., named Project Jupiter, according to a Bloomberg report.
+
+The site is tied to the Stargate initiative with OpenAI (OPAI.PVT) and SoftBank (SFTBY), with OpenAI as the customer. The notice, reportedly sent to the project's developer, private credit player Blue Owl Capital (OWL), is an attempt to delay payments if Project Jupiter fails to go online in 2028.
+
+"Project Jupiter remains on our planned schedule. We are fully committed to New Mexico and confident in our path forward," Oracle vice president Michael Egbert said in a statement to Yahoo Finance. "Force-majeure notices are commonplace in developments of this scale and are often used to preserve contractual rights among project partners. They do not, by themselves, establish a project delay or change delivery expectations."
+
+Oracle stock tanked 4% on the news in Thursday's trading. The development cast a dark cloud over the AI space, sending shares of Nvidia (NVDA), AMD (AMD), and Micron (MU) lower.
+
+"Oracle is in the most tenuous of cash positions of all the major hyperscalers," KeyBanc analyst Jackson Ader said. "These types of issues might spread, but Oracle does feel it more acutely than its larger, more cash-rich peers."
+
+Issues spreading is the key concern here, as Oracle has inked scores of deals and taken on enormous amounts of debt to fund its artificial intelligence ambitions. Any disruption to its carefully constructed AI mosaic could make it much harder for Oracle financially, and that means others in the AI space could feel it too.
+
+"By leasing the data centers and getting financing from third parties sometimes the cash payments of the project might be committed to on timelines that do not match the real-world project timeline," Ader continued. "That seems to be what is happening here. Payments might be due on a chronological timeline, but the revenue generation is up to the whims of the complex real-world logistics."
+
+Click here for in-depth analysis of the latest stock market news and events moving stock prices
+
+Read the latest financial and business news from Yahoo Finance

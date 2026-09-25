@@ -1,0 +1,25 @@
+Here's what Wall Street thinks of Meta's new smartglass lineup and first Muse 'holdable'
+
+2026-09-25
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/markets/stocks/article/heres-what-wall-street-thinks-of-metas-new-smartglass-lineup-and-first-muse-holdable-085705955.html
+
+The word "holdable" has entered the tech hardware lexicon, thanks to Meta (META) and its CEO, Mark Zuckerberg.
+
+Meta's Steve Jobs-like surprise at Meta Connect late Wednesday came in the form of the Muse Charm. It's a standalone pocket device built exclusively for voice interaction with the company's new Muse agent, which is currently one of the top-downloaded apps.
+
+Zuckerberg also showcased a major shift toward "Personal Superintelligence" by unveiling a hardware-meets-AI moment in the Meta VR Glasses.
+
+Weighing just 100 grams — roughly one-fifth the weight of Meta's Quest 3 — the $1,299 spatial computing glasses feature 5K micro-OLED displays, tethered puck processing, and native eye-and-hand tracking.
+
+On the smart eyewear front, Meta debuted the third-generation Ray-Ban Meta Gen 3 glasses, starting at an entry-level $249. Joining them are the camera-free Ray-Ban Meta Audio glasses designed purely for open-ear listening and AI voice interaction.
+
+Here are several of Wall Street's reactions to Meta Connect:
+
+KeyBanc analyst Justin Patterson: "Meta's opening keynote for Meta Connect demonstrated the company's progress across AI and connected devices. While we have been impressed by the Muse assistant launch, we see opportunity to deepen AI engagement through new glasses form factors (both audio-only and the new VR glasses at $1,299) and the Muse Charm device (which will be available this audio season). Given Meta is demonstrating the power of weaving AI into devices, we believe more investors will also reconsider Meta's ability to participate in the hardware TAM [total addressable market], where glasses alone represent a 2 billion user opportunity."
+
+Evercore ISI analyst Mark Mahaney: "Collectively, we believe these announcements signal a strategic shift as Meta is placing agentic AI, wearable computing, commerce integrations, and privacy infrastructure at the core of its next computing platform, while taking a more selective approach to traditional Metaverse and VR products. Muse over Metaverse is a good thing for META investors. What was missing in Zuckerberg's keynote was any specific update on Muse adoption (tho perhaps it's too early for that) or on traction for Meta Business Agents (which we believe has significant potential based on our analysis and very recent channel checks). We were also hoping for an update on Watermelon, but we only got the statement that it's coming "soon."
+
+JPMorgan analyst Doug Anmuth: "While it is still early, we believe that Muse has the potential to become the most widely used consumer AI application since ChatGPT."
