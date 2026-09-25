@@ -7,7 +7,7 @@
     <link>https://fjacomev.github.io/news-podcast</link>
     <description>Podcast personal de noticias, leido en voz local</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2026 20:13:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 21:19:25 GMT</lastBuildDate>
     <image>
       <url>https://fjacomev.github.io/news-podcast/cover.jpg</url>
       <title>Fernando AI News</title>
@@ -18,6 +18,373 @@
     <itunes:summary>Podcast personal de noticias, leido en voz local</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
+
+    <item>
+      <title>Fifteen years later, the Apple Cards origin story</title>
+      <author>Lex Friedman</author>
+      <description>Fifteen years later, the Apple Cards origin story
+
+2026-09-25
+
+Por Lex Friedman
+
+https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story
+
+In 2011, Apple released the Cards app. The app — which required iOS 5 — let you design custom letterpress cards, with your messages and photos printed upon them — which Apple would ship to your recipient on your behalf.
+
+I recently learned the origin story of Cards, and that it was specifically a Steve Jobs product. It also wasn’t smooth sailing. But first, some backstory, and inserting myself into the narrative, because it’s my site and I can do what I want here.
+
+I wrote about the app several times for Macworld. Apple complained first to me, and later to my editors, that I didn’t go deep on the fact that the cards Apple was offering were printed on 100 percent cotton paper. Apple thought my article should be updated to mention this. My editors and I disagreed.
+
+I wasn’t the only person ever to get in trouble with Apple over Cards.
+
+In 2019, someone wrote me this email:
+
+I ran the print program for Apple’s production and fulfillment partner in those years. In my decade working with Apple and in fact my 30-year career, this project — code named Speed Racer and dreamed up by Steve Jobs himself — stands unsurpassed as a pinnacle of incompetence, project mismanagement and intercontinental mayhem. I hope to never top it.
+
+It is probably best left dead, but if you felt like disinterring it, I’m a witness to the crime…
+
+It took me seven years to reply. I don’t know why.
+
+Although Apple launched cards in 2011, and it’s now 15 years later, this person — despite his confidence that any non-disclosure agreements have long since expired, his knowledge that the Cards app was sunset long ago, and the fact that the printing companies involved no longer really exist — still asked to remain anonymous, for fear of angering Apple.
+
+I get it.
+
+I’m going to call this person Mike.
+
+The prints of darkness
+
+In 2006, Mike was hired at a printing company that already had a relationship with Apple, handling printing for iPhoto, which let you order custom books, calendars, and cards. The company had won that business because it was also, at the time, handling Apple’s in-box production of documentation — quick start guides, instruction manuals, and the like. (Remember those?)
+
+For several years, this company worked as the exclusive Apple partner for those print products, after Apple had grown frustrated with a prior photo printing partner.
+
+Order volume was massive, Mike told me on a Zoom, especially between Thanksgiving and Christmas when card and calendar volume exploded. The printing company had to spin up several sister companies to handle the load. They printed internationally, too; Mike, as essentially the program manager, also stood up print operations in the Czech Republic and Japan.
+
+In 2010, Apple added a new product to the iPhoto print lineup — codenamed Downieville. Apple wanted fine letterpress printing on very toothy cotton stock. Your photo would be digitally printed on these preprinted shells.
+
+This, Mike told me, was an enormous technical challenge. The printing company had to work with a shop in upstate New York that had two dozen restored Heidelberg Letterpresses from the 1850s.
+
+The Steve Jobs origin story
+
+In 2011, Mike said, “Steve Jobs was on one of his famous walks after having had a dinner with someone,” and he said to his walking companions from Apple, Mike was later told: “Wouldn’t it be great if I could just right now on my iPhone send [the dinner companion] a thank you card?”
+
+Apple decided to build an iPhone app just for creating and mailing cards. And the project moved fast, because it was a Steve-initiated one. As it turns out, the app was built and launched during the final year of Steve’s life.
+
+The project kicked off in the beginning of 2011, and it didn’t reuse the card designs that were in iPhoto. These were new designs and letterpress templates and shells. And Apple 
+
+[Transcripcion recortada]</description>
+      <content:encoded><![CDATA[<p>Fifteen years later, the Apple Cards origin story</p><p>2026-09-25</p><p>Por Lex Friedman</p><p>https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story</p><p>In 2011, Apple released the Cards app. The app — which required iOS 5 — let you design custom letterpress cards, with your messages and photos printed upon them — which Apple would ship to your recipient on your behalf.</p><p>I recently learned the origin story of Cards, and that it was specifically a Steve Jobs product. It also wasn’t smooth sailing. But first, some backstory, and inserting myself into the narrative, because it’s my site and I can do what I want here.</p><p>I wrote about the app several times for Macworld. Apple complained first to me, and later to my editors, that I didn’t go deep on the fact that the cards Apple was offering were printed on 100 percent cotton paper. Apple thought my article should be updated to mention this. My editors and I disagreed.</p><p>I wasn’t the only person ever to get in trouble with Apple over Cards.</p><p>In 2019, someone wrote me this email:</p><p>I ran the print program for Apple’s production and fulfillment partner in those years. In my decade working with Apple and in fact my 30-year career, this project — code named Speed Racer and dreamed up by Steve Jobs himself — stands unsurpassed as a pinnacle of incompetence, project mismanagement and intercontinental mayhem. I hope to never top it.</p><p>It is probably best left dead, but if you felt like disinterring it, I’m a witness to the crime…</p><p>It took me seven years to reply. I don’t know why.</p><p>Although Apple launched cards in 2011, and it’s now 15 years later, this person — despite his confidence that any non-disclosure agreements have long since expired, his knowledge that the Cards app was sunset long ago, and the fact that the printing companies involved no longer really exist — still asked to remain anonymous, for fear of angering Apple.</p><p>I get it.</p><p>I’m going to call this person Mike.</p><p>The prints of darkness</p><p>In 2006, Mike was hired at a printing company that already had a relationship with Apple, handling printing for iPhoto, which let you order custom books, calendars, and cards. The company had won that business because it was also, at the time, handling Apple’s in-box production of documentation — quick start guides, instruction manuals, and the like. (Remember those?)</p><p>For several years, this company worked as the exclusive Apple partner for those print products, after Apple had grown frustrated with a prior photo printing partner.</p><p>Order volume was massive, Mike told me on a Zoom, especially between Thanksgiving and Christmas when card and calendar volume exploded. The printing company had to spin up several sister companies to handle the load. They printed internationally, too; Mike, as essentially the program manager, also stood up print operations in the Czech Republic and Japan.</p><p>In 2010, Apple added a new product to the iPhoto print lineup — codenamed Downieville. Apple wanted fine letterpress printing on very toothy cotton stock. Your photo would be digitally printed on these preprinted shells.</p><p>This, Mike told me, was an enormous technical challenge. The printing company had to work with a shop in upstate New York that had two dozen restored Heidelberg Letterpresses from the 1850s.</p><p>The Steve Jobs origin story</p><p>In 2011, Mike said, “Steve Jobs was on one of his famous walks after having had a dinner with someone,” and he said to his walking companions from Apple, Mike was later told: “Wouldn’t it be great if I could just right now on my iPhone send [the dinner companion] a thank you card?”</p><p>Apple decided to build an iPhone app just for creating and mailing cards. And the project moved fast, because it was a Steve-initiated one. As it turns out, the app was built and launched during the final year of Steve’s life.</p><p>The project kicked off in the beginning of 2011, and it didn’t reuse the card designs that were in iPhoto. These were new designs and letterpress templates and shells. And Apple </p>]]></content:encoded>
+      <pubDate>Fri, 25 Sep 2026 21:19:24 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-09-25_Fifteen_years_later_the_Apple_Cards_origin_story.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-09-25_Fifteen_years_later_the_Apple_Cards_origin_story.mp3" length="4497286" type="audio/mpeg"/>
+      <itunes:duration>00:08:28</itunes:duration>
+      <itunes:author>Lex Friedman</itunes:author>
+      <itunes:summary>Fifteen years later, the Apple Cards origin story
+
+2026-09-25
+
+Por Lex Friedman
+
+https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story
+
+In 2011, Apple released the Cards app. The app — which required iOS 5 — let you design custom letterpress cards, with your messages and photos printed upon them — which Apple would ship to your recipient on your behalf.
+
+I recently learned the origin story of Cards, and that it was specifically a Steve Jobs product. It also wasn’t smooth sailing. But first, some backstory, and inserting myself into the narrative, because it’s my site and I can do what I want here.
+
+I wrote about the app several times for Macworld. Apple complained first to me, and later to my editors, that I didn’t go deep on the fact that the cards Apple was offering were printed on 100 percent cotton paper. Apple thought my article should be updated to mention this. My editors and I disagreed.
+
+I wasn’t the only person ever to get in trouble with Apple over Cards.
+
+In 2019, someone wrote me this email:
+
+I ran the print program for Apple’s production and fulfillment partner in those years. In my decade working with Apple and in fact my 30-year career, this project — code named Speed Racer and dreamed up by Steve Jobs himself — stands unsurpassed as a pinnacle of incompetence, project mismanagement and intercontinental mayhem. I hope to never top it.
+
+It is probably best left dead, but if you felt like disinterring it, I’m a witness to the crime…
+
+It took me seven years to reply. I don’t know why.
+
+Although Apple launched cards in 2011, and it’s now 15 years later, this person — despite his confidence that any non-disclosure agreements have long since expired, his knowledge that the Cards app was sunset long ago, and the fact that the printing companies involved no longer really exist — still asked to remain anonymous, for fear of angering Apple.
+
+I get it.
+
+I’m going to call this person Mike.
+
+The prints of darkness
+
+In 2006, Mike was hired at a printing company that already had a relationship with Apple, handling printing for iPhoto, which let you order custom books, calendars, and cards. The company had won that business because it was also, at the time, handling Apple’s in-box production of documentation — quick start guides, instruction manuals, and the like. (Remember those?)
+
+For several years, this company worked as the exclusive Apple partner for those print products, after Apple had grown frustrated with a prior photo printing partner.
+
+Order volume was massive, Mike told me on a Zoom, especially between Thanksgiving and Christmas when card and calendar volume exploded. The printing company had to spin up several sister companies to handle the load. They printed internationally, too; Mike, as essentially the program manager, also stood up print operations in the Czech Republic and Japan.
+
+In 2010, Apple added a new product to the iPhoto print lineup — codenamed Downieville. Apple wanted fine letterpress printing on very toothy cotton stock. Your photo would be digitally printed on these preprinted shells.
+
+This, Mike told me, was an enormous technical challenge. The printing company had to work with a shop in upstate New York that had two dozen restored Heidelberg Letterpresses from the 1850s.
+
+The Steve Jobs origin story
+
+In 2011, Mike said, “Steve Jobs was on one of his famous walks after having had a dinner with someone,” and he said to his walking companions from Apple, Mike was later told: “Wouldn’t it be great if I could just right now on my iPhone send [the dinner companion] a thank you card?”
+
+Apple decided to build an iPhone app just for creating and mailing cards. And the project moved fast, because it was a Steve-initiated one. As it turns out, the app was built and launched during the final year of Steve’s life.
+
+The project kicked off in the beginning of 2011, and it didn’t reuse the card designs that were in iPhoto. These were new designs and letterpress templates and shells. And Apple 
+
+[Transcripcion recortada]</itunes:summary>
+    </item>
+
+    <item>
+      <title>Sin prompt ni ayuda, un modelo de inteligencia artificial de OpenAI hackeó el sistema de salud de Australia</title>
+      <author>Karla Pesantes</author>
+      <description>Sin prompt ni ayuda, un modelo de inteligencia artificial de OpenAI hackeó el sistema de salud de Australia
+
+2026-09-25
+
+Por Karla Pesantes
+
+https://www.primicias.ec/internacional/modelo-ia-openai-hackeo-sistema-salud-australia-133317/
+
+Sin prompt ni ayuda, un modelo de inteligencia artificial de OpenAI hackeó el sistema de salud de Australia
+
+Un modelo de OpenAI, empresa detrás del ChatGPT, eludió las medidas de seguridad durante su entrenamiento y hackeó un sitio web del gobierno australiano, afirmó el primer ministro Anthony Albanese.
+
+El CEO de OpenAI, Sam Altman, cuando llegó a una reunión del Consejo de Seguridad de la ONU, Nueva York, el 24 de septiembre de 2026.
+
+- Foto
+
+Getty Images via AFP
+
+Autor:
+
+Redacción Primicias / AFP
+
+Actualizada:
+
+Compartir:
+
+En otro caso más de la &#x27;sublevación&#x27; o desobediencia de la IA, Australia reportó este 24 de septiembre que un modelo de inteligencia artificial de la empresa OpenAI hackeó un portal del sistema de salud del país.
+
+Sin ayuda de un &#x27;humano&#x27; ni la orden dada por un prompt, el modelo de IA accedió a un portal de estadísticas de salud en junio, reveló este miércoles el premier de Australia, Anthony Albanese.
+
+Según Albanese, el sistema de IA &quot;no aceptó un no por respuesta&quot;, y siguió con la vulneración del sistema de salud, al citar las restricciones que tiene la plataforma australiana, para invadir una sección que albergaba archivos privados.
+
+Lo más grave es que OpenAI no alertó al gobierno australiano hasta septiembre, cuando envió un correo electrónico con los detalles del incidente a una dirección genérica que solo se revisa &quot;una vez al día&quot;, según Australia.
+
+Esta nueva infiltración de un modelo de IA se reporta luego que Sam Altman, CEO de OpenAI, y otros ejecutivos de la alta tecnología intervinieron el miércoles en una sesión especial del Consejo de Seguridad de la ONU sobre los riesgos de la IA.
+
+La preocupación mundial por el poder de los modelos avanzados de IA va en aumento tras una serie de incidentes de piratería que involucraron &quot;agentes&quot; tanto de OpenAI como de su desarrollador rival, Anthropic.
+
+Más de 100 organizaciones en todo el mundo, incluidas OpenAI y Anthropic, firmaron una carta abierta en la que llamaron a un esfuerzo global para &quot;fortalecer las defensas&quot; cibernéticas de las amenazas a la seguridad causadas por la IA.
+
+Esto ocurrió después de que dos modelos de OpenAI se escaparan de un entorno de pruebas cerrado y se infiltraran en los sistemas internos de Hugging Face, un sitio que los desarrolladores de IA utilizan para almacenar y compartir código.
+
+Australia reprende a OpenAI
+
+&quot;Hoy hablé con el director ejecutivo de OpenAI, Sam Altman, para expresar la enorme preocupación de Australia sobre este incidente&quot;, aseguró el primer ministro de Australia.
+
+&quot;También expresé mi decepción por el hecho de que la empresa tardó demasiado en informar al gobierno de lo ocurrido&quot;, agregó Albanese.
+
+&quot;No hubo ninguna notificación hasta el 10 de septiembre, y la notificación fue un correo electrónico enviado únicamente al buzón público&quot;.
+
+Anthony Albanese, premier de Australia
+
+La herramienta de IA accedió a archivos públicos y restringidos alojados en un antiguo sitio web de estadísticas de salud.
+
+Albanese señaló que &quot;no hay evidencia&quot; de que se haya accedido a información personal y que otros servicios gubernamentales no se vieron comprometidos.
+
+La filtración ocurrió en junio, cuando la empresa líder en inteligencia artificial OpenAI realizó ejercicios de entrenamiento para evaluar el desempeño de los modelos de IA.
+
+Le pidió al modelo que rastreara internet en busca de datos que mostraran cuánto gastaba el gobierno australiano en medicamentos, explicó la ministra de Servicios Gubernamentales, Katy Gallagher, a periodistas.
+
+OpenAI afirmó que no detectó la actividad no autorizada hasta agosto, cuando revisó lo que la herramienta de IA había estado haciendo.
+
+Compartir:</description>
+      <content:encoded><![CDATA[<p>Sin prompt ni ayuda, un modelo de inteligencia artificial de OpenAI hackeó el sistema de salud de Australia</p><p>2026-09-25</p><p>Por Karla Pesantes</p><p>https://www.primicias.ec/internacional/modelo-ia-openai-hackeo-sistema-salud-australia-133317/</p><p>Sin prompt ni ayuda, un modelo de inteligencia artificial de OpenAI hackeó el sistema de salud de Australia</p><p>Un modelo de OpenAI, empresa detrás del ChatGPT, eludió las medidas de seguridad durante su entrenamiento y hackeó un sitio web del gobierno australiano, afirmó el primer ministro Anthony Albanese.</p><p>El CEO de OpenAI, Sam Altman, cuando llegó a una reunión del Consejo de Seguridad de la ONU, Nueva York, el 24 de septiembre de 2026.</p><p>- Foto</p><p>Getty Images via AFP</p><p>Autor:</p><p>Redacción Primicias / AFP</p><p>Actualizada:</p><p>Compartir:</p><p>En otro caso más de la &#x27;sublevación&#x27; o desobediencia de la IA, Australia reportó este 24 de septiembre que un modelo de inteligencia artificial de la empresa OpenAI hackeó un portal del sistema de salud del país.</p><p>Sin ayuda de un &#x27;humano&#x27; ni la orden dada por un prompt, el modelo de IA accedió a un portal de estadísticas de salud en junio, reveló este miércoles el premier de Australia, Anthony Albanese.</p><p>Según Albanese, el sistema de IA &quot;no aceptó un no por respuesta&quot;, y siguió con la vulneración del sistema de salud, al citar las restricciones que tiene la plataforma australiana, para invadir una sección que albergaba archivos privados.</p><p>Lo más grave es que OpenAI no alertó al gobierno australiano hasta septiembre, cuando envió un correo electrónico con los detalles del incidente a una dirección genérica que solo se revisa &quot;una vez al día&quot;, según Australia.</p><p>Esta nueva infiltración de un modelo de IA se reporta luego que Sam Altman, CEO de OpenAI, y otros ejecutivos de la alta tecnología intervinieron el miércoles en una sesión especial del Consejo de Seguridad de la ONU sobre los riesgos de la IA.</p><p>La preocupación mundial por el poder de los modelos avanzados de IA va en aumento tras una serie de incidentes de piratería que involucraron &quot;agentes&quot; tanto de OpenAI como de su desarrollador rival, Anthropic.</p><p>Más de 100 organizaciones en todo el mundo, incluidas OpenAI y Anthropic, firmaron una carta abierta en la que llamaron a un esfuerzo global para &quot;fortalecer las defensas&quot; cibernéticas de las amenazas a la seguridad causadas por la IA.</p><p>Esto ocurrió después de que dos modelos de OpenAI se escaparan de un entorno de pruebas cerrado y se infiltraran en los sistemas internos de Hugging Face, un sitio que los desarrolladores de IA utilizan para almacenar y compartir código.</p><p>Australia reprende a OpenAI</p><p>&quot;Hoy hablé con el director ejecutivo de OpenAI, Sam Altman, para expresar la enorme preocupación de Australia sobre este incidente&quot;, aseguró el primer ministro de Australia.</p><p>&quot;También expresé mi decepción por el hecho de que la empresa tardó demasiado en informar al gobierno de lo ocurrido&quot;, agregó Albanese.</p><p>&quot;No hubo ninguna notificación hasta el 10 de septiembre, y la notificación fue un correo electrónico enviado únicamente al buzón público&quot;.</p><p>Anthony Albanese, premier de Australia</p><p>La herramienta de IA accedió a archivos públicos y restringidos alojados en un antiguo sitio web de estadísticas de salud.</p><p>Albanese señaló que &quot;no hay evidencia&quot; de que se haya accedido a información personal y que otros servicios gubernamentales no se vieron comprometidos.</p><p>La filtración ocurrió en junio, cuando la empresa líder en inteligencia artificial OpenAI realizó ejercicios de entrenamiento para evaluar el desempeño de los modelos de IA.</p><p>Le pidió al modelo que rastreara internet en busca de datos que mostraran cuánto gastaba el gobierno australiano en medicamentos, explicó la ministra de Servicios Gubernamentales, Katy Gallagher, a periodistas.</p><p>OpenAI afirmó que no detectó la actividad no autorizada hasta agosto, cuando revisó lo que la herramienta de IA había estado haciendo.</p><p>Compartir:</p>]]></content:encoded>
+      <pubDate>Fri, 25 Sep 2026 21:17:24 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-09-25_Sin_prompt_ni_ayuda_un_modelo_de_inteligencia_artificial_de_OpenAI_hackeo_el_sistema_de_salud_de_Australia.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-09-25_Sin_prompt_ni_ayuda_un_modelo_de_inteligencia_artificial_de_OpenAI_hackeo_el_sistema_de_salud_de_Australia.mp3" length="1779322" type="audio/mpeg"/>
+      <itunes:duration>00:03:28</itunes:duration>
+      <itunes:author>Karla Pesantes</itunes:author>
+      <itunes:summary>Sin prompt ni ayuda, un modelo de inteligencia artificial de OpenAI hackeó el sistema de salud de Australia
+
+2026-09-25
+
+Por Karla Pesantes
+
+https://www.primicias.ec/internacional/modelo-ia-openai-hackeo-sistema-salud-australia-133317/
+
+Sin prompt ni ayuda, un modelo de inteligencia artificial de OpenAI hackeó el sistema de salud de Australia
+
+Un modelo de OpenAI, empresa detrás del ChatGPT, eludió las medidas de seguridad durante su entrenamiento y hackeó un sitio web del gobierno australiano, afirmó el primer ministro Anthony Albanese.
+
+El CEO de OpenAI, Sam Altman, cuando llegó a una reunión del Consejo de Seguridad de la ONU, Nueva York, el 24 de septiembre de 2026.
+
+- Foto
+
+Getty Images via AFP
+
+Autor:
+
+Redacción Primicias / AFP
+
+Actualizada:
+
+Compartir:
+
+En otro caso más de la &#x27;sublevación&#x27; o desobediencia de la IA, Australia reportó este 24 de septiembre que un modelo de inteligencia artificial de la empresa OpenAI hackeó un portal del sistema de salud del país.
+
+Sin ayuda de un &#x27;humano&#x27; ni la orden dada por un prompt, el modelo de IA accedió a un portal de estadísticas de salud en junio, reveló este miércoles el premier de Australia, Anthony Albanese.
+
+Según Albanese, el sistema de IA &quot;no aceptó un no por respuesta&quot;, y siguió con la vulneración del sistema de salud, al citar las restricciones que tiene la plataforma australiana, para invadir una sección que albergaba archivos privados.
+
+Lo más grave es que OpenAI no alertó al gobierno australiano hasta septiembre, cuando envió un correo electrónico con los detalles del incidente a una dirección genérica que solo se revisa &quot;una vez al día&quot;, según Australia.
+
+Esta nueva infiltración de un modelo de IA se reporta luego que Sam Altman, CEO de OpenAI, y otros ejecutivos de la alta tecnología intervinieron el miércoles en una sesión especial del Consejo de Seguridad de la ONU sobre los riesgos de la IA.
+
+La preocupación mundial por el poder de los modelos avanzados de IA va en aumento tras una serie de incidentes de piratería que involucraron &quot;agentes&quot; tanto de OpenAI como de su desarrollador rival, Anthropic.
+
+Más de 100 organizaciones en todo el mundo, incluidas OpenAI y Anthropic, firmaron una carta abierta en la que llamaron a un esfuerzo global para &quot;fortalecer las defensas&quot; cibernéticas de las amenazas a la seguridad causadas por la IA.
+
+Esto ocurrió después de que dos modelos de OpenAI se escaparan de un entorno de pruebas cerrado y se infiltraran en los sistemas internos de Hugging Face, un sitio que los desarrolladores de IA utilizan para almacenar y compartir código.
+
+Australia reprende a OpenAI
+
+&quot;Hoy hablé con el director ejecutivo de OpenAI, Sam Altman, para expresar la enorme preocupación de Australia sobre este incidente&quot;, aseguró el primer ministro de Australia.
+
+&quot;También expresé mi decepción por el hecho de que la empresa tardó demasiado en informar al gobierno de lo ocurrido&quot;, agregó Albanese.
+
+&quot;No hubo ninguna notificación hasta el 10 de septiembre, y la notificación fue un correo electrónico enviado únicamente al buzón público&quot;.
+
+Anthony Albanese, premier de Australia
+
+La herramienta de IA accedió a archivos públicos y restringidos alojados en un antiguo sitio web de estadísticas de salud.
+
+Albanese señaló que &quot;no hay evidencia&quot; de que se haya accedido a información personal y que otros servicios gubernamentales no se vieron comprometidos.
+
+La filtración ocurrió en junio, cuando la empresa líder en inteligencia artificial OpenAI realizó ejercicios de entrenamiento para evaluar el desempeño de los modelos de IA.
+
+Le pidió al modelo que rastreara internet en busca de datos que mostraran cuánto gastaba el gobierno australiano en medicamentos, explicó la ministra de Servicios Gubernamentales, Katy Gallagher, a periodistas.
+
+OpenAI afirmó que no detectó la actividad no autorizada hasta agosto, cuando revisó lo que la herramienta de IA había estado haciendo.
+
+Compartir:</itunes:summary>
+    </item>
+
+    <item>
+      <title>De la Serie A al &#x27;infierno&#x27; de Segunda en 281 días: los cuatro hitos que explican el virtual descenso de El Nacional</title>
+      <author>Pablo Campos</author>
+      <description>De la Serie A al &#x27;infierno&#x27; de Segunda en 281 días: los cuatro hitos que explican el virtual descenso de El Nacional
+
+2026-09-25
+
+Por Pablo Campos
+
+https://www.primicias.ec/deportes/ligapro/nacional/crisis-hitos-descenso-segunda-categoria-criollos-deudas-dirigencias-133263/
+
+De la Serie A al &#x27;infierno&#x27; de Segunda en 281 días: los cuatro hitos que explican el virtual descenso de El Nacional
+
+El Nacional pasó de la Serie A a estar prácticamente descendido a la Segunda Categoría en menos de un año. La profunda crisis se aceleró desde diciembre de 2025 debido a las malas decisiones.
+
+El Nacional pasó, en menos de un año, de la Serie A a la Segunda División del fútbol ecuatoriano.
+
+- Foto
+
+Composición fotográfica PRIMICIAS
+
+Compartir:
+
+El Nacional pasó de la Serie A a estar virtualmente descendido a la Segunda Categoría en menos de un año. Transcurrieron exactamente 281 días (40 semanas, nueve meses y siete días) desde que el &#x27;Bitri&#x27; perdió la categoría principal hasta quedar condenado al fútbol de Segunda.
+
+El 10 de diciembre de 2025, el Tribunal de Apelaciones de la Federación Ecuatoriana de Fútbol (FEF) confirmó el descenso del &#x27;Rojo&#x27;. Desde entonces, una serie de crisis de gobernanza, administrativas, económicas y deportivas desembocaron en la dolorosa debacle.
+
+El desenlace llegó la noche del viernes 17 de septiembre de 2026, cuando el equipo perdió ante Deportivo Santo Domingo en el hexagonal de permanencia de la Serie B.
+
+El &#x27;Bitri&#x27; se quedó con 12 puntos y -19 de gol diferencia, una distancia insalvable ante Cumbayá, su rival directo, que suma 30 unidades y +24 de gol diferencia.
+
+El viernes 25 de septiembre de 2026, ambos clubes se enfrentarán en el estadio La Cocha. Restan seis fechas (18 puntos en disputa), la misma distancia que separa a los &#x27;puros criollos&#x27; de la salvación.
+
+Una victoria del &#x27;Rojo&#x27; solo servirá para alargar la agonía, pero parece imposible. El Nacional sólo ha ganado tres partidos de 26 que ha disputado en esta temporada.
+
+El interventor del club militar, Juan Manuel Aguirre, le contó a PRIMICIAS que el déficit institucional alcanza los USD 12 millones, aunque la auditoría interna y los reclamos de acreedores siguen bajo revisión. Las deudas se acumularon durante los últimos siete años, pero la situación empeoró drásticamente entre 2025 y 2026.
+
+¿Cómo se explica este año tormentoso? A continuación, los cuatro hitos fundamentales de la debacle:
+
+1. El descenso a la Serie B y la renuncia de Marco Pazos
+
+Diciembre de 2025 fue el mes clave. El día 10, el Tribunal de Apelaciones de la Federación Ecuatoriana de Fútbol restó nueve puntos al club por inconsistencias en la documentación de acuerdos de pago. El equipo pasó de 42 a 33 puntos en la tabla y descendió por gol diferencia.
+
+Seis días después, el presidente Marco Pazos renunció junto con el primer vocal, Pablo Erazo. “Me quedé sin apoyo de los dueños del club. El Comando Conjunto no me respaldó; no podía quedarme”, justificó Pazos en radio La Red.
+
+El 16 de diciembre asumió el mando el general Ricardo Cajas, comandante de la Fuerza Terrestre del Ejército. Cajas reconoció a PRIMICIAS que sus responsabilidades militares limitaban su tiempo para administrar una institución que ya registraba un déficit de USD 11 millones para finales de 2025.
+
+Un día después de asumir, Cajas firmó un acuerdo de entendimiento con el grupo Naniecheandia SL SA (NEF) para liderar el salvataje. “El club estaba quebrado. Si no tomábamos esa decisión, nos íbamos a Segunda Categoría en ese mismo diciembre”, justificó el dirigente. Sin embargo, la alianza no entregó la solución esperada.
+
+2. La alianza con NEF duró cuatro meses y no 15 años
+
+Cajas y Xiomara Contreras, CEO de Naniecheandia SL SA, suscribieron el acuerdo de entendimiento el 17 de diciembre de 2025, aunque la firma oficial se realizó en la jornada de Noche Buena.
+
+Según el convenio, NEF debía aportar USD 10 millones como inversión durante 15 años a cambio de asumir la gestión administrativa, financiera y deportiva. Es
+
+[Transcripcion recortada]</description>
+      <content:encoded><![CDATA[<p>De la Serie A al &#x27;infierno&#x27; de Segunda en 281 días: los cuatro hitos que explican el virtual descenso de El Nacional</p><p>2026-09-25</p><p>Por Pablo Campos</p><p>https://www.primicias.ec/deportes/ligapro/nacional/crisis-hitos-descenso-segunda-categoria-criollos-deudas-dirigencias-133263/</p><p>De la Serie A al &#x27;infierno&#x27; de Segunda en 281 días: los cuatro hitos que explican el virtual descenso de El Nacional</p><p>El Nacional pasó de la Serie A a estar prácticamente descendido a la Segunda Categoría en menos de un año. La profunda crisis se aceleró desde diciembre de 2025 debido a las malas decisiones.</p><p>El Nacional pasó, en menos de un año, de la Serie A a la Segunda División del fútbol ecuatoriano.</p><p>- Foto</p><p>Composición fotográfica PRIMICIAS</p><p>Compartir:</p><p>El Nacional pasó de la Serie A a estar virtualmente descendido a la Segunda Categoría en menos de un año. Transcurrieron exactamente 281 días (40 semanas, nueve meses y siete días) desde que el &#x27;Bitri&#x27; perdió la categoría principal hasta quedar condenado al fútbol de Segunda.</p><p>El 10 de diciembre de 2025, el Tribunal de Apelaciones de la Federación Ecuatoriana de Fútbol (FEF) confirmó el descenso del &#x27;Rojo&#x27;. Desde entonces, una serie de crisis de gobernanza, administrativas, económicas y deportivas desembocaron en la dolorosa debacle.</p><p>El desenlace llegó la noche del viernes 17 de septiembre de 2026, cuando el equipo perdió ante Deportivo Santo Domingo en el hexagonal de permanencia de la Serie B.</p><p>El &#x27;Bitri&#x27; se quedó con 12 puntos y -19 de gol diferencia, una distancia insalvable ante Cumbayá, su rival directo, que suma 30 unidades y +24 de gol diferencia.</p><p>El viernes 25 de septiembre de 2026, ambos clubes se enfrentarán en el estadio La Cocha. Restan seis fechas (18 puntos en disputa), la misma distancia que separa a los &#x27;puros criollos&#x27; de la salvación.</p><p>Una victoria del &#x27;Rojo&#x27; solo servirá para alargar la agonía, pero parece imposible. El Nacional sólo ha ganado tres partidos de 26 que ha disputado en esta temporada.</p><p>El interventor del club militar, Juan Manuel Aguirre, le contó a PRIMICIAS que el déficit institucional alcanza los USD 12 millones, aunque la auditoría interna y los reclamos de acreedores siguen bajo revisión. Las deudas se acumularon durante los últimos siete años, pero la situación empeoró drásticamente entre 2025 y 2026.</p><p>¿Cómo se explica este año tormentoso? A continuación, los cuatro hitos fundamentales de la debacle:</p><p>1. El descenso a la Serie B y la renuncia de Marco Pazos</p><p>Diciembre de 2025 fue el mes clave. El día 10, el Tribunal de Apelaciones de la Federación Ecuatoriana de Fútbol restó nueve puntos al club por inconsistencias en la documentación de acuerdos de pago. El equipo pasó de 42 a 33 puntos en la tabla y descendió por gol diferencia.</p><p>Seis días después, el presidente Marco Pazos renunció junto con el primer vocal, Pablo Erazo. “Me quedé sin apoyo de los dueños del club. El Comando Conjunto no me respaldó; no podía quedarme”, justificó Pazos en radio La Red.</p><p>El 16 de diciembre asumió el mando el general Ricardo Cajas, comandante de la Fuerza Terrestre del Ejército. Cajas reconoció a PRIMICIAS que sus responsabilidades militares limitaban su tiempo para administrar una institución que ya registraba un déficit de USD 11 millones para finales de 2025.</p><p>Un día después de asumir, Cajas firmó un acuerdo de entendimiento con el grupo Naniecheandia SL SA (NEF) para liderar el salvataje. “El club estaba quebrado. Si no tomábamos esa decisión, nos íbamos a Segunda Categoría en ese mismo diciembre”, justificó el dirigente. Sin embargo, la alianza no entregó la solución esperada.</p><p>2. La alianza con NEF duró cuatro meses y no 15 años</p><p>Cajas y Xiomara Contreras, CEO de Naniecheandia SL SA, suscribieron el acuerdo de entendimiento el 17 de diciembre de 2025, aunque la firma oficial se realizó en la jornada de Noche Buena.</p><p>Según el convenio, NEF debía aportar USD 10 millones como inversión durante 15 años a cambio de asumir la gestión administrativa, financiera y deportiva. Es</p>]]></content:encoded>
+      <pubDate>Fri, 25 Sep 2026 21:16:36 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-09-25_De_la_Serie_A_al_infierno_de_Segunda_en_281_dias_los_cuatro_hitos_que_explican_el_virtual_descenso_de_El_Nacio.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-09-25_De_la_Serie_A_al_infierno_de_Segunda_en_281_dias_los_cuatro_hitos_que_explican_el_virtual_descenso_de_El_Nacio.mp3" length="3586529" type="audio/mpeg"/>
+      <itunes:duration>00:07:09</itunes:duration>
+      <itunes:author>Pablo Campos</itunes:author>
+      <itunes:summary>De la Serie A al &#x27;infierno&#x27; de Segunda en 281 días: los cuatro hitos que explican el virtual descenso de El Nacional
+
+2026-09-25
+
+Por Pablo Campos
+
+https://www.primicias.ec/deportes/ligapro/nacional/crisis-hitos-descenso-segunda-categoria-criollos-deudas-dirigencias-133263/
+
+De la Serie A al &#x27;infierno&#x27; de Segunda en 281 días: los cuatro hitos que explican el virtual descenso de El Nacional
+
+El Nacional pasó de la Serie A a estar prácticamente descendido a la Segunda Categoría en menos de un año. La profunda crisis se aceleró desde diciembre de 2025 debido a las malas decisiones.
+
+El Nacional pasó, en menos de un año, de la Serie A a la Segunda División del fútbol ecuatoriano.
+
+- Foto
+
+Composición fotográfica PRIMICIAS
+
+Compartir:
+
+El Nacional pasó de la Serie A a estar virtualmente descendido a la Segunda Categoría en menos de un año. Transcurrieron exactamente 281 días (40 semanas, nueve meses y siete días) desde que el &#x27;Bitri&#x27; perdió la categoría principal hasta quedar condenado al fútbol de Segunda.
+
+El 10 de diciembre de 2025, el Tribunal de Apelaciones de la Federación Ecuatoriana de Fútbol (FEF) confirmó el descenso del &#x27;Rojo&#x27;. Desde entonces, una serie de crisis de gobernanza, administrativas, económicas y deportivas desembocaron en la dolorosa debacle.
+
+El desenlace llegó la noche del viernes 17 de septiembre de 2026, cuando el equipo perdió ante Deportivo Santo Domingo en el hexagonal de permanencia de la Serie B.
+
+El &#x27;Bitri&#x27; se quedó con 12 puntos y -19 de gol diferencia, una distancia insalvable ante Cumbayá, su rival directo, que suma 30 unidades y +24 de gol diferencia.
+
+El viernes 25 de septiembre de 2026, ambos clubes se enfrentarán en el estadio La Cocha. Restan seis fechas (18 puntos en disputa), la misma distancia que separa a los &#x27;puros criollos&#x27; de la salvación.
+
+Una victoria del &#x27;Rojo&#x27; solo servirá para alargar la agonía, pero parece imposible. El Nacional sólo ha ganado tres partidos de 26 que ha disputado en esta temporada.
+
+El interventor del club militar, Juan Manuel Aguirre, le contó a PRIMICIAS que el déficit institucional alcanza los USD 12 millones, aunque la auditoría interna y los reclamos de acreedores siguen bajo revisión. Las deudas se acumularon durante los últimos siete años, pero la situación empeoró drásticamente entre 2025 y 2026.
+
+¿Cómo se explica este año tormentoso? A continuación, los cuatro hitos fundamentales de la debacle:
+
+1. El descenso a la Serie B y la renuncia de Marco Pazos
+
+Diciembre de 2025 fue el mes clave. El día 10, el Tribunal de Apelaciones de la Federación Ecuatoriana de Fútbol restó nueve puntos al club por inconsistencias en la documentación de acuerdos de pago. El equipo pasó de 42 a 33 puntos en la tabla y descendió por gol diferencia.
+
+Seis días después, el presidente Marco Pazos renunció junto con el primer vocal, Pablo Erazo. “Me quedé sin apoyo de los dueños del club. El Comando Conjunto no me respaldó; no podía quedarme”, justificó Pazos en radio La Red.
+
+El 16 de diciembre asumió el mando el general Ricardo Cajas, comandante de la Fuerza Terrestre del Ejército. Cajas reconoció a PRIMICIAS que sus responsabilidades militares limitaban su tiempo para administrar una institución que ya registraba un déficit de USD 11 millones para finales de 2025.
+
+Un día después de asumir, Cajas firmó un acuerdo de entendimiento con el grupo Naniecheandia SL SA (NEF) para liderar el salvataje. “El club estaba quebrado. Si no tomábamos esa decisión, nos íbamos a Segunda Categoría en ese mismo diciembre”, justificó el dirigente. Sin embargo, la alianza no entregó la solución esperada.
+
+2. La alianza con NEF duró cuatro meses y no 15 años
+
+Cajas y Xiomara Contreras, CEO de Naniecheandia SL SA, suscribieron el acuerdo de entendimiento el 17 de diciembre de 2025, aunque la firma oficial se realizó en la jornada de Noche Buena.
+
+Según el convenio, NEF debía aportar USD 10 millones como inversión durante 15 años a cambio de asumir la gestión administrativa, financiera y deportiva. Es
+
+[Transcripcion recortada]</itunes:summary>
+    </item>
 
     <item>
       <title>Man City and their fans did not think this day would come</title>
@@ -9074,217 +9441,6 @@ Among financials, the insurance industry is poised for an earnings decline in th
 The AI spending boom brings some risk being tethered so closely to one sector, Kwon said, adding that he turned more cautious on equities a few weeks ago because of concerns about continued AI-related capital ex
 
 [Transcripcion recortada]</itunes:summary>
-    </item>
-
-    <item>
-      <title>Stocks Bull Yardeni Cuts S&amp;P 500 View to 7,900 on Downturn Risks</title>
-      <author>Emily Forgash</author>
-      <description>Stocks Bull Yardeni Cuts S&amp;P 500 View to 7,900 on Downturn Risks
-
-2026-09-17
-
-Por Emily Forgash
-
-https://finance.yahoo.com/markets/stocks/articles/stocks-bull-yardeni-cuts-p-121707243.html
-
-(Bloomberg) -- Ed Yardeni, one of the biggest stock bulls on Wall Street, is slashing his year-end forecast for the S&amp;P 500 Index a month after raising it, citing increasing risks of a downturn in the next three to six months.
-
-Most Read from Bloomberg
-
-The president and chief investment strategist of Yardeni Research Inc. cut his target to 7,900 from 8,400, which was the highest estimate on the Street as of last month. The new target implies a 4.1% increase from where the equity gauge closed on Tuesday. It also falls in the middle of pack, based on a Bloomberg survey of more than 20 strategists.
-
-&quot;Given the recent backup in bond yields, we are lowering our estimate for the forward P/E of the S&amp;P 500 at year-end from 19.8 to 18.6, which lowers our year-end target from 8,400 to 7,900,&quot; Yardeni wrote in a note to clients.
-
-The veteran strategist upgraded his S&amp;P 500 target to 8,400 from 8,250 in August, a level that topped his own Street-high target for the gauge amid &quot;fabulous&quot; earnings momentum.
-
-Earlier: Yardeni Raises S&amp;P 500 View to 8,400 on &#x27;Fabulous Earnings&#x27;
-
-Yardeni is the second strategist this week to lower his view for the S&amp;P 500 as analysts grow increasingly skeptical heading into the end of a midterm election year. Wells Fargo &amp; Co.&#x27;s Ohsung Kwon cut his target to 7,700 from 7,950, saying a decade-long earnings growth cycle will eventually slow down while technology-sector risks are mounting.
-
-Others, however, have boosted their outlooks this week, including Bank of America Corp.&#x27;s Savita Subramanian and Tallbacken Capital Advisors&#x27; Michael Purves, whose 8,500 target is now a Street high.
-
-Yardeni still expects that &quot;the economy will grow without a recession through the end of the decade.&quot; The analyst said his target for the end of this decade remains at 10,000.
-
-He added that the previous year-end forecast of 8,400 has now become a mid-2027 target for the S&amp;P 500. His 2027 earnings-per-share target of $425 is unchanged.
-
-All eyes are on the Federal Reserve as they vote on whether to raise interest rates on Wednesday, an outcome most traders anticipate as Chairman Kevin Warsh vows to get inflation under control. Yardeni wrote in a previous note that &quot;for stocks, the stagflationary mix of higher inflation and slower growth would be particularly troublesome.&quot;</description>
-      <content:encoded><![CDATA[<p>Stocks Bull Yardeni Cuts S&amp;P 500 View to 7,900 on Downturn Risks</p><p>2026-09-17</p><p>Por Emily Forgash</p><p>https://finance.yahoo.com/markets/stocks/articles/stocks-bull-yardeni-cuts-p-121707243.html</p><p>(Bloomberg) -- Ed Yardeni, one of the biggest stock bulls on Wall Street, is slashing his year-end forecast for the S&amp;P 500 Index a month after raising it, citing increasing risks of a downturn in the next three to six months.</p><p>Most Read from Bloomberg</p><p>The president and chief investment strategist of Yardeni Research Inc. cut his target to 7,900 from 8,400, which was the highest estimate on the Street as of last month. The new target implies a 4.1% increase from where the equity gauge closed on Tuesday. It also falls in the middle of pack, based on a Bloomberg survey of more than 20 strategists.</p><p>&quot;Given the recent backup in bond yields, we are lowering our estimate for the forward P/E of the S&amp;P 500 at year-end from 19.8 to 18.6, which lowers our year-end target from 8,400 to 7,900,&quot; Yardeni wrote in a note to clients.</p><p>The veteran strategist upgraded his S&amp;P 500 target to 8,400 from 8,250 in August, a level that topped his own Street-high target for the gauge amid &quot;fabulous&quot; earnings momentum.</p><p>Earlier: Yardeni Raises S&amp;P 500 View to 8,400 on &#x27;Fabulous Earnings&#x27;</p><p>Yardeni is the second strategist this week to lower his view for the S&amp;P 500 as analysts grow increasingly skeptical heading into the end of a midterm election year. Wells Fargo &amp; Co.&#x27;s Ohsung Kwon cut his target to 7,700 from 7,950, saying a decade-long earnings growth cycle will eventually slow down while technology-sector risks are mounting.</p><p>Others, however, have boosted their outlooks this week, including Bank of America Corp.&#x27;s Savita Subramanian and Tallbacken Capital Advisors&#x27; Michael Purves, whose 8,500 target is now a Street high.</p><p>Yardeni still expects that &quot;the economy will grow without a recession through the end of the decade.&quot; The analyst said his target for the end of this decade remains at 10,000.</p><p>He added that the previous year-end forecast of 8,400 has now become a mid-2027 target for the S&amp;P 500. His 2027 earnings-per-share target of $425 is unchanged.</p><p>All eyes are on the Federal Reserve as they vote on whether to raise interest rates on Wednesday, an outcome most traders anticipate as Chairman Kevin Warsh vows to get inflation under control. Yardeni wrote in a previous note that &quot;for stocks, the stagflationary mix of higher inflation and slower growth would be particularly troublesome.&quot;</p>]]></content:encoded>
-      <pubDate>Thu, 17 Sep 2026 10:30:37 GMT</pubDate>
-      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-09-17_Stocks_Bull_Yardeni_Cuts_SP_500_View_to_7900_on_Downturn_Risks.mp3</guid>
-      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-09-17_Stocks_Bull_Yardeni_Cuts_SP_500_View_to_7900_on_Downturn_Risks.mp3" length="1618951" type="audio/mpeg"/>
-      <itunes:duration>00:02:54</itunes:duration>
-      <itunes:author>Emily Forgash</itunes:author>
-      <itunes:summary>Stocks Bull Yardeni Cuts S&amp;P 500 View to 7,900 on Downturn Risks
-
-2026-09-17
-
-Por Emily Forgash
-
-https://finance.yahoo.com/markets/stocks/articles/stocks-bull-yardeni-cuts-p-121707243.html
-
-(Bloomberg) -- Ed Yardeni, one of the biggest stock bulls on Wall Street, is slashing his year-end forecast for the S&amp;P 500 Index a month after raising it, citing increasing risks of a downturn in the next three to six months.
-
-Most Read from Bloomberg
-
-The president and chief investment strategist of Yardeni Research Inc. cut his target to 7,900 from 8,400, which was the highest estimate on the Street as of last month. The new target implies a 4.1% increase from where the equity gauge closed on Tuesday. It also falls in the middle of pack, based on a Bloomberg survey of more than 20 strategists.
-
-&quot;Given the recent backup in bond yields, we are lowering our estimate for the forward P/E of the S&amp;P 500 at year-end from 19.8 to 18.6, which lowers our year-end target from 8,400 to 7,900,&quot; Yardeni wrote in a note to clients.
-
-The veteran strategist upgraded his S&amp;P 500 target to 8,400 from 8,250 in August, a level that topped his own Street-high target for the gauge amid &quot;fabulous&quot; earnings momentum.
-
-Earlier: Yardeni Raises S&amp;P 500 View to 8,400 on &#x27;Fabulous Earnings&#x27;
-
-Yardeni is the second strategist this week to lower his view for the S&amp;P 500 as analysts grow increasingly skeptical heading into the end of a midterm election year. Wells Fargo &amp; Co.&#x27;s Ohsung Kwon cut his target to 7,700 from 7,950, saying a decade-long earnings growth cycle will eventually slow down while technology-sector risks are mounting.
-
-Others, however, have boosted their outlooks this week, including Bank of America Corp.&#x27;s Savita Subramanian and Tallbacken Capital Advisors&#x27; Michael Purves, whose 8,500 target is now a Street high.
-
-Yardeni still expects that &quot;the economy will grow without a recession through the end of the decade.&quot; The analyst said his target for the end of this decade remains at 10,000.
-
-He added that the previous year-end forecast of 8,400 has now become a mid-2027 target for the S&amp;P 500. His 2027 earnings-per-share target of $425 is unchanged.
-
-All eyes are on the Federal Reserve as they vote on whether to raise interest rates on Wednesday, an outcome most traders anticipate as Chairman Kevin Warsh vows to get inflation under control. Yardeni wrote in a previous note that &quot;for stocks, the stagflationary mix of higher inflation and slower growth would be particularly troublesome.&quot;</itunes:summary>
-    </item>
-
-    <item>
-      <title>Fed officials&#x27; forecasts project one more rate hike to come in 2026</title>
-      <author>Jake Conley</author>
-      <description>Fed officials&#x27; forecasts project one more rate hike to come in 2026
-
-2026-09-17
-
-Por Jake Conley
-
-https://finance.yahoo.com/economy/policy/article/fed-officials-forecasts-project-one-more-rate-hike-to-come-in-2026-183856618.html
-
-Most Federal Open Market Committee members see the need for at least one more 25 basis point rate hike this year, as 12 out of 18 members that submitted projections pegged their view of appropriate monetary policy in 2026 at an average of 4.125%.
-
-That rate implies one more 25 basis point hike to come by year-end.
-
-Read more: The Fed&#x27;s dot plot explained
-
-Four committee members see 50 more basis points&#x27; worth of rate hikes in 2026 as appropriate, while only two members see no more hikes this year — suggesting that the new effective target rate of 3.75% to 4% is adequate.
-
-The Summary of Economic Projections, also known as the &quot;dot plot,&quot; does not label projections with the names of the Federal Reserve members who made them.
-
-The projections are closely watched by investors, given that moves in the Federal Reserve&#x27;s target rate historically come in groups. In other words, a hike today can be seen as implying that the Fed is entering a tightening cycle, not just a single correction.
-
-Read more: How the Fed rate decision affects your bank accounts, loans, credit cards, and investments
-
-Part of that idea is pegged to the view among many economists that a single 25 basis point hike is often not drastic enough to meaningfully bleed out into the broader market. Instead, investors pay more attention to the direction of travel for where the Fed sees target rates heading.
-
-Jake Conley is a breaking news reporter covering US equities for Yahoo Finance. Follow him on X at @byjakeconley or email him at jake.conley@yahooinc.com.
-
-Click here for the latest economic news and indicators to help inform your investing decisions
-
-Read the latest financial and business news from Yahoo Finance</description>
-      <content:encoded><![CDATA[<p>Fed officials&#x27; forecasts project one more rate hike to come in 2026</p><p>2026-09-17</p><p>Por Jake Conley</p><p>https://finance.yahoo.com/economy/policy/article/fed-officials-forecasts-project-one-more-rate-hike-to-come-in-2026-183856618.html</p><p>Most Federal Open Market Committee members see the need for at least one more 25 basis point rate hike this year, as 12 out of 18 members that submitted projections pegged their view of appropriate monetary policy in 2026 at an average of 4.125%.</p><p>That rate implies one more 25 basis point hike to come by year-end.</p><p>Read more: The Fed&#x27;s dot plot explained</p><p>Four committee members see 50 more basis points&#x27; worth of rate hikes in 2026 as appropriate, while only two members see no more hikes this year — suggesting that the new effective target rate of 3.75% to 4% is adequate.</p><p>The Summary of Economic Projections, also known as the &quot;dot plot,&quot; does not label projections with the names of the Federal Reserve members who made them.</p><p>The projections are closely watched by investors, given that moves in the Federal Reserve&#x27;s target rate historically come in groups. In other words, a hike today can be seen as implying that the Fed is entering a tightening cycle, not just a single correction.</p><p>Read more: How the Fed rate decision affects your bank accounts, loans, credit cards, and investments</p><p>Part of that idea is pegged to the view among many economists that a single 25 basis point hike is often not drastic enough to meaningfully bleed out into the broader market. Instead, investors pay more attention to the direction of travel for where the Fed sees target rates heading.</p><p>Jake Conley is a breaking news reporter covering US equities for Yahoo Finance. Follow him on X at @byjakeconley or email him at jake.conley@yahooinc.com.</p><p>Click here for the latest economic news and indicators to help inform your investing decisions</p><p>Read the latest financial and business news from Yahoo Finance</p>]]></content:encoded>
-      <pubDate>Thu, 17 Sep 2026 10:29:55 GMT</pubDate>
-      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-09-17_Fed_officials_forecasts_project_one_more_rate_hike_to_come_in_2026.mp3</guid>
-      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-09-17_Fed_officials_forecasts_project_one_more_rate_hike_to_come_in_2026.mp3" length="1112991" type="audio/mpeg"/>
-      <itunes:duration>00:01:56</itunes:duration>
-      <itunes:author>Jake Conley</itunes:author>
-      <itunes:summary>Fed officials&#x27; forecasts project one more rate hike to come in 2026
-
-2026-09-17
-
-Por Jake Conley
-
-https://finance.yahoo.com/economy/policy/article/fed-officials-forecasts-project-one-more-rate-hike-to-come-in-2026-183856618.html
-
-Most Federal Open Market Committee members see the need for at least one more 25 basis point rate hike this year, as 12 out of 18 members that submitted projections pegged their view of appropriate monetary policy in 2026 at an average of 4.125%.
-
-That rate implies one more 25 basis point hike to come by year-end.
-
-Read more: The Fed&#x27;s dot plot explained
-
-Four committee members see 50 more basis points&#x27; worth of rate hikes in 2026 as appropriate, while only two members see no more hikes this year — suggesting that the new effective target rate of 3.75% to 4% is adequate.
-
-The Summary of Economic Projections, also known as the &quot;dot plot,&quot; does not label projections with the names of the Federal Reserve members who made them.
-
-The projections are closely watched by investors, given that moves in the Federal Reserve&#x27;s target rate historically come in groups. In other words, a hike today can be seen as implying that the Fed is entering a tightening cycle, not just a single correction.
-
-Read more: How the Fed rate decision affects your bank accounts, loans, credit cards, and investments
-
-Part of that idea is pegged to the view among many economists that a single 25 basis point hike is often not drastic enough to meaningfully bleed out into the broader market. Instead, investors pay more attention to the direction of travel for where the Fed sees target rates heading.
-
-Jake Conley is a breaking news reporter covering US equities for Yahoo Finance. Follow him on X at @byjakeconley or email him at jake.conley@yahooinc.com.
-
-Click here for the latest economic news and indicators to help inform your investing decisions
-
-Read the latest financial and business news from Yahoo Finance</itunes:summary>
-    </item>
-
-    <item>
-      <title>Federal Reserve interest rate hikes usually pound stocks, but then something surprising happens</title>
-      <author>Brian Sozzi</author>
-      <description>Federal Reserve interest rate hikes usually pound stocks, but then something surprising happens
-
-2026-09-17
-
-Por Brian Sozzi
-
-https://finance.yahoo.com/economy/article/federal-reserve-interest-rate-hikes-usually-pound-stocks-but-then-something-surprising-happens-100449563.html
-
-Brace for minor market tremors now that the Fed has hiked interest rates by 0.25%.
-
-Although if history holds up, any losses could prove short-lived.
-
-The S&amp;P 500 (^GSPC) has declined by an average of 4.0% over the six weeks following the first Fed rate hike of a cycle across seven such episodes since 1988, per new analysis from strategists at The Kobeissi Letter.
-
-Stocks recovered all of those losses over the next five to six weeks on average.
-
-In the six months following the first interest rate hike, the S&amp;P 500 returned 4% on average. After 12 months, the S&amp;P 500&#x27;s average gain tallied 9%. Positive returns have occurred in every episode except 2022 over the 12 months.
-
-&quot;Fed rate hikes have historically been great buying opportunities,&quot; the strategists added.
-
-Read more: Follow live coverage of the Fed meeting
-
-The decision by the Fed to lift rates comes as sticky inflation readings — from the CPI to PPI — and rising energy costs force central bankers back into tightening mode. The rate hike marks the central bank&#x27;s first interest rate increase since July 2023.
-
-Investors are also focused on the updated economic projections and the Fed&#x27;s &quot;dot plot&quot; to gauge future moves on rates — said dot plot didn&#x27;t rule out one more hike this year. A hawkish dot plot as was received and follow up commentary from Fed Chairman Kevin Warsh could further elevate borrowing costs and pressure stocks initially around the world.
-
-&quot;Our US economists are also expecting that the Fed will hike today, as growth remains solid, the labour market has rebounded, and PCE inflation has demonstrated limited evidence of falling back to target,&quot; Deutsche Bank strategist Jim Reid said. &quot;Moreover, forward-looking indicators suggest the inflation overshoot is likely to persist for some time. Nevertheless, with a hike mostly priced in by markets, the key question for them is how Chair Warsh and the latest dot plot frame the tightening cycle.&quot;
-
-Click here for in-depth analysis of the latest stock market news and events moving stock prices
-
-Read the latest financial and business news from Yahoo Finance</description>
-      <content:encoded><![CDATA[<p>Federal Reserve interest rate hikes usually pound stocks, but then something surprising happens</p><p>2026-09-17</p><p>Por Brian Sozzi</p><p>https://finance.yahoo.com/economy/article/federal-reserve-interest-rate-hikes-usually-pound-stocks-but-then-something-surprising-happens-100449563.html</p><p>Brace for minor market tremors now that the Fed has hiked interest rates by 0.25%.</p><p>Although if history holds up, any losses could prove short-lived.</p><p>The S&amp;P 500 (^GSPC) has declined by an average of 4.0% over the six weeks following the first Fed rate hike of a cycle across seven such episodes since 1988, per new analysis from strategists at The Kobeissi Letter.</p><p>Stocks recovered all of those losses over the next five to six weeks on average.</p><p>In the six months following the first interest rate hike, the S&amp;P 500 returned 4% on average. After 12 months, the S&amp;P 500&#x27;s average gain tallied 9%. Positive returns have occurred in every episode except 2022 over the 12 months.</p><p>&quot;Fed rate hikes have historically been great buying opportunities,&quot; the strategists added.</p><p>Read more: Follow live coverage of the Fed meeting</p><p>The decision by the Fed to lift rates comes as sticky inflation readings — from the CPI to PPI — and rising energy costs force central bankers back into tightening mode. The rate hike marks the central bank&#x27;s first interest rate increase since July 2023.</p><p>Investors are also focused on the updated economic projections and the Fed&#x27;s &quot;dot plot&quot; to gauge future moves on rates — said dot plot didn&#x27;t rule out one more hike this year. A hawkish dot plot as was received and follow up commentary from Fed Chairman Kevin Warsh could further elevate borrowing costs and pressure stocks initially around the world.</p><p>&quot;Our US economists are also expecting that the Fed will hike today, as growth remains solid, the labour market has rebounded, and PCE inflation has demonstrated limited evidence of falling back to target,&quot; Deutsche Bank strategist Jim Reid said. &quot;Moreover, forward-looking indicators suggest the inflation overshoot is likely to persist for some time. Nevertheless, with a hike mostly priced in by markets, the key question for them is how Chair Warsh and the latest dot plot frame the tightening cycle.&quot;</p><p>Click here for in-depth analysis of the latest stock market news and events moving stock prices</p><p>Read the latest financial and business news from Yahoo Finance</p>]]></content:encoded>
-      <pubDate>Thu, 17 Sep 2026 10:29:27 GMT</pubDate>
-      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-09-17_Federal_Reserve_interest_rate_hikes_usually_pound_stocks_but_then_something_surprising_happens.mp3</guid>
-      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-09-17_Federal_Reserve_interest_rate_hikes_usually_pound_stocks_but_then_something_surprising_happens.mp3" length="1368798" type="audio/mpeg"/>
-      <itunes:duration>00:02:26</itunes:duration>
-      <itunes:author>Brian Sozzi</itunes:author>
-      <itunes:summary>Federal Reserve interest rate hikes usually pound stocks, but then something surprising happens
-
-2026-09-17
-
-Por Brian Sozzi
-
-https://finance.yahoo.com/economy/article/federal-reserve-interest-rate-hikes-usually-pound-stocks-but-then-something-surprising-happens-100449563.html
-
-Brace for minor market tremors now that the Fed has hiked interest rates by 0.25%.
-
-Although if history holds up, any losses could prove short-lived.
-
-The S&amp;P 500 (^GSPC) has declined by an average of 4.0% over the six weeks following the first Fed rate hike of a cycle across seven such episodes since 1988, per new analysis from strategists at The Kobeissi Letter.
-
-Stocks recovered all of those losses over the next five to six weeks on average.
-
-In the six months following the first interest rate hike, the S&amp;P 500 returned 4% on average. After 12 months, the S&amp;P 500&#x27;s average gain tallied 9%. Positive returns have occurred in every episode except 2022 over the 12 months.
-
-&quot;Fed rate hikes have historically been great buying opportunities,&quot; the strategists added.
-
-Read more: Follow live coverage of the Fed meeting
-
-The decision by the Fed to lift rates comes as sticky inflation readings — from the CPI to PPI — and rising energy costs force central bankers back into tightening mode. The rate hike marks the central bank&#x27;s first interest rate increase since July 2023.
-
-Investors are also focused on the updated economic projections and the Fed&#x27;s &quot;dot plot&quot; to gauge future moves on rates — said dot plot didn&#x27;t rule out one more hike this year. A hawkish dot plot as was received and follow up commentary from Fed Chairman Kevin Warsh could further elevate borrowing costs and pressure stocks initially around the world.
-
-&quot;Our US economists are also expecting that the Fed will hike today, as growth remains solid, the labour market has rebounded, and PCE inflation has demonstrated limited evidence of falling back to target,&quot; Deutsche Bank strategist Jim Reid said. &quot;Moreover, forward-looking indicators suggest the inflation overshoot is likely to persist for some time. Nevertheless, with a hike mostly priced in by markets, the key question for them is how Chair Warsh and the latest dot plot frame the tightening cycle.&quot;
-
-Click here for in-depth analysis of the latest stock market news and events moving stock prices
-
-Read the latest financial and business news from Yahoo Finance</itunes:summary>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,63 @@
+Sin prompt ni ayuda, un modelo de inteligencia artificial de OpenAI hackeó el sistema de salud de Australia
+
+2026-09-25
+
+Por Karla Pesantes
+
+https://www.primicias.ec/internacional/modelo-ia-openai-hackeo-sistema-salud-australia-133317/
+
+Sin prompt ni ayuda, un modelo de inteligencia artificial de OpenAI hackeó el sistema de salud de Australia
+
+Un modelo de OpenAI, empresa detrás del ChatGPT, eludió las medidas de seguridad durante su entrenamiento y hackeó un sitio web del gobierno australiano, afirmó el primer ministro Anthony Albanese.
+
+El CEO de OpenAI, Sam Altman, cuando llegó a una reunión del Consejo de Seguridad de la ONU, Nueva York, el 24 de septiembre de 2026.
+
+- Foto
+
+Getty Images via AFP
+
+Autor:
+
+Redacción Primicias / AFP
+
+Actualizada:
+
+Compartir:
+
+En otro caso más de la 'sublevación' o desobediencia de la IA, Australia reportó este 24 de septiembre que un modelo de inteligencia artificial de la empresa OpenAI hackeó un portal del sistema de salud del país.
+
+Sin ayuda de un 'humano' ni la orden dada por un prompt, el modelo de IA accedió a un portal de estadísticas de salud en junio, reveló este miércoles el premier de Australia, Anthony Albanese.
+
+Según Albanese, el sistema de IA "no aceptó un no por respuesta", y siguió con la vulneración del sistema de salud, al citar las restricciones que tiene la plataforma australiana, para invadir una sección que albergaba archivos privados.
+
+Lo más grave es que OpenAI no alertó al gobierno australiano hasta septiembre, cuando envió un correo electrónico con los detalles del incidente a una dirección genérica que solo se revisa "una vez al día", según Australia.
+
+Esta nueva infiltración de un modelo de IA se reporta luego que Sam Altman, CEO de OpenAI, y otros ejecutivos de la alta tecnología intervinieron el miércoles en una sesión especial del Consejo de Seguridad de la ONU sobre los riesgos de la IA.
+
+La preocupación mundial por el poder de los modelos avanzados de IA va en aumento tras una serie de incidentes de piratería que involucraron "agentes" tanto de OpenAI como de su desarrollador rival, Anthropic.
+
+Más de 100 organizaciones en todo el mundo, incluidas OpenAI y Anthropic, firmaron una carta abierta en la que llamaron a un esfuerzo global para "fortalecer las defensas" cibernéticas de las amenazas a la seguridad causadas por la IA.
+
+Esto ocurrió después de que dos modelos de OpenAI se escaparan de un entorno de pruebas cerrado y se infiltraran en los sistemas internos de Hugging Face, un sitio que los desarrolladores de IA utilizan para almacenar y compartir código.
+
+Australia reprende a OpenAI
+
+"Hoy hablé con el director ejecutivo de OpenAI, Sam Altman, para expresar la enorme preocupación de Australia sobre este incidente", aseguró el primer ministro de Australia.
+
+"También expresé mi decepción por el hecho de que la empresa tardó demasiado en informar al gobierno de lo ocurrido", agregó Albanese.
+
+"No hubo ninguna notificación hasta el 10 de septiembre, y la notificación fue un correo electrónico enviado únicamente al buzón público".
+
+Anthony Albanese, premier de Australia
+
+La herramienta de IA accedió a archivos públicos y restringidos alojados en un antiguo sitio web de estadísticas de salud.
+
+Albanese señaló que "no hay evidencia" de que se haya accedido a información personal y que otros servicios gubernamentales no se vieron comprometidos.
+
+La filtración ocurrió en junio, cuando la empresa líder en inteligencia artificial OpenAI realizó ejercicios de entrenamiento para evaluar el desempeño de los modelos de IA.
+
+Le pidió al modelo que rastreara internet en busca de datos que mostraran cuánto gastaba el gobierno australiano en medicamentos, explicó la ministra de Servicios Gubernamentales, Katy Gallagher, a periodistas.
+
+OpenAI afirmó que no detectó la actividad no autorizada hasta agosto, cuando revisó lo que la herramienta de IA había estado haciendo.
+
+Compartir:
