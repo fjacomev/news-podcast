@@ -1,0 +1,33 @@
+Costco is getting squeezed by the AI boom
+
+2026-09-26
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/markets/article/costco-is-getting-squeezed-by-the-ai-boom-133927696.html
+
+Even mighty Costco (COST), with all its buying power over suppliers, can't escape the inflationary impact of America's AI boom, which is pushing up prices for things like laptop computers and smartphones.
+
+"So what we're seeing overall currently, if I add together the sort of cumulative impact in all of our merchandising categories, we feel like inflation currently is running in the low single digits, and it's relatively stable overall from what we've seen in prior quarters," Costco CFO Gary Millerchip said on the company's earnings call late Thursday.
+
+"The area where we did see some increase in the current quarter was in non-foods," Millerchip continued. "That was really, I wouldn't say it was isolated, but the vast majority of it was in memory costs on consumer electronics and the items that you would expect to be related to oil."
+
+The pressured margins in consumer electronics weighed on Costco's overall margins: Gross profit margins fell to 11.01% in the fiscal fourth quarter from 11.12% a year ago.
+
+Watch Yahoo Finance's Sozzi Unleashed daily at 9:30 a.m. ET
+
+There's no end in sight for Costco on the chip inflation front.
+
+The memory chip market has tightened considerably as demand for high-bandwidth memory (HBM) and advanced dynamic random-access memory (DRAM) used in AI servers continues to outpace supply.
+
+Companies such as SK Hynix (SKHY), Samsung Electronics (005930.KS), and Micron (MU) have largely sold out their premium AI memory capacity through much of 2026 as customers, including Nvidia (NVDA), Microsoft (MSFT), Amazon (AMZN), and Meta (META), race to build AI infrastructure.
+
+The shortage has pushed memory prices sharply higher and given suppliers greater pricing power after several years of weak industry conditions.
+
+Experts expect memory supply to remain constrained into 2027, creating a favorable backdrop for the industry's largest producers, such as Micron and Sandisk (SNDK).
+
+For its part, Costco still managed to deliver a solid quarter as cost-conscious consumers flocked to its warehouse amid the surge in gas prices.
+
+Total sales rose 11.1% from the prior year to $95.72 billion. Total comparable store sales surged 9.4%. Online sales rose 19.5%.
+
+"Membership growth is moderating, yet the company's ability to drive deeper engagement, leverage its fuel advantage, grow digital penetration, and reinforce its value leadership leaves it exceptionally well positioned if consumers remain focused on stretching their dollars further. In our view, Costco remains one of retail's highest quality long-term compounders," Jefferies analyst Corey Tarlowe said.

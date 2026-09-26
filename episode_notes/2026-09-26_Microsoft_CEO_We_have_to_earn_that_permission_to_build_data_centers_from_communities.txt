@@ -1,0 +1,27 @@
+Microsoft CEO: We 'have to earn that permission’ to build data centers from communities
+
+2026-09-26
+
+Por Daniel Howley
+
+https://finance.yahoo.com/markets/stocks/article/microsoft-ceo-we-have-to-earn-that-permission-to-build-data-centers-from-communities-172505836.html
+
+The AI data center build-out has turned Nvidia (NVDA) into a $5 trillion company, is helping to power Intel's (INTC) turnaround efforts, and made memory chip makers some of the hottest companies on Earth.
+
+But a growing number of Americans see the boom as a burden being forced upon them that is gobbling up land, power, and water. Coupled with non-disclosure agreements that some companies require towns to sign, the situation has become volatile.
+
+An increasing number of states have introduced legislation halting or banning the construction of data centers, with New York issuing a state-wide, one-year moratorium. Texas has similarly blocked new data center projects until the Electric Reliability Council of Texas (ERCOT) completes an audit to assess the facilities' impact on Texas's power grid and water resources.to halt or ban the construction of data centers, with New York issuing a statewide
+
+To address the matter, Microsoft (MSFT) is taking a more open approach to its data center plans. In March, the company announced it was ending the use of non-disclosure agreements and terminating existing ones.
+
+"At the end of the day, I think we have to get permission from the communities," Microsoft CEO Satya Nadella told Deirdre Bosa. "If you are going to be building a data center, consuming power, using water, at the end of the day, we have to earn that permission."
+
+The move is part of what Microsoft calls its Community-First AI Infrastructure Plan. Unveiled in January, the effort includes the software giant paying to ensure electricity rates in data-center areas don't rise, minimizing and replenishing more water than the company uses, hiring local workers, not asking communities to reduce taxes on data centers, and investing in AI training.
+
+"We have a set of commitments, right? I don't think of anything that we do as building a data center and getting out. No. It's about being able to be welcomed in the community on an ongoing basis," Nadella explained.
+
+The CEO pointed to Microsoft's efforts in Quincy, Wash., as an example of how the company says it can move forward. Since Microsoft began constructing its first company-owned data center in 2006, Quincy's poverty rate has declined from 29.4% to 13.1% between 2012 and 2023.
+
+Tax rates for residents have also declined, while the improved tax base has helped pay for a new hospital and other municipal facilities, according to Microsoft.
+
+"They have a new hospital, they have a new school. They have a new city center. And over the years, we've also created a lot of employment opportunities. We have close to a thousand people there," Nadella said.

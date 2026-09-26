@@ -1,0 +1,35 @@
+Microsoft CEO Satya Nadella on AI: ‘Trust is going to be the biggest issue for us’
+
+2026-09-26
+
+Por Daniel Howley
+
+https://finance.yahoo.com/technology/article/microsoft-ceo-satya-nadella-on-ai-trust-is-going-to-be-the-biggest-issue-for-us-163733897.html
+
+Microsoft (MSFT) on Friday unveiled a revamped version of its Copilot software, combining its chat, coding, and agentic capabilities into a single package, which it calls Autopilot.
+
+The platform is designed to serve as a kind of one-stop shop for your work needs, such as preparing a pitch document or putting together a spreadsheet, then having AI reason over the data to provide users with insights they may not see.
+
+But to ensure it wins over customers, CEO Satya Nadella said, Microsoft will need to win users' trust.
+
+"Trust is going to be the biggest issue for us," Nadella told Deirdre Bosa.
+
+"Can I really trust [AI] with all of my credentials when it does autonomous activity? How do I make sure that this is something that I can feel that I'm in control of? And in the enterprise, this is everything," he said.
+
+The new Copilot also offers two billing options: standard per-user plans for general AI work and a pay-as-you-go option for long-tail, multistep agentic work.
+
+Nadella said the dual offerings will prove especially beneficial to users as AI model makers and providers gradually reduce customer subsidies.
+
+"The way I think about our subscriptions [is] it's ultimately going to deliver more value every day of the week as models improve. And then on top of that, we have usage-based functionality that any user at any time can use with no limits," the CEO explained.
+
+"And so that combination gives us, I think, the right business model to be able to both deliver broad access, deliver the [return on investment] that's expected, and most importantly, continuously be aligned with where customers will see value," he said.
+
+Microsoft said Copilot will automatically route user prompts to the best available model from OpenAI (OPAI.PVT) and Anthropic (ANTH.PVT), though you'll also be able to manually choose models. The company said it will add additional options from other model makers in the future.
+
+The Windows maker said that the per-seat option will have token limits that most people will never hit.
+
+Those who need additional capabilities, however, can opt for usage-based billing.
+
+Click here for the latest technology news that will impact the stock market
+
+Read the latest financial and business news from Yahoo Finance

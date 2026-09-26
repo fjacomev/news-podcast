@@ -1,0 +1,39 @@
+AMD CEO Lisa Su is having a September to remember
+
+2026-09-26
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/markets/article/amd-ceo-lisa-su-is-having-a-september-to-remember-135902902.html
+
+AMD (AMD) CEO Lisa Su is getting her due and becoming one of the most well-respected CEOs in tech after years of flying under the radar.
+
+No doubt she is having a September to remember.
+
+Su was photographed sitting with her husband, Daniel Lin, at President Trump's table during the state dinner with Chinese President Xi Jinping on Thursday. She was seated next to Tesla (TSLA) and SpaceX (SPCX) CEO Elon Musk.
+
+What's more, she was only two seats away from President Trump. Chip rival CEO Jensen Huang of Nvidia (NVDA) was seated across from Trump with his wife, Lori.
+
+On Wednesday, Su got some prime face time with first lady Melania Trump at the New York Stock Exchange, where they rang the opening bell and then had a fireside chat.
+
+But this was all just icing on the cake to a monumental week for Su and her investor base.
+
+AMD's market cap crossed the $1 trillion mark for the first time on Monday, with shares surging 9.9% amid a broader tech-stock rally. The company's market cap is likely to close above that level this week.
+
+The moment made Su the first inductee into the Sozzi Unleashed "Wall of Titans" (detailed in the video above).
+
+AMD stock is up an impressive 193% year to date, easily surpassing the 22% gain for Nvidia.
+
+The chipmaker has had win after win this year, fueling its stock price.
+
+AMD beat Wall Street expectations across the board for the second quarter earlier this month, posting record non-GAAP earnings per share of $1.66 versus consensus estimates of $1.61. Total revenue surged 50% year over year to a record $11.5 billion, clearing analyst projections of approximately $11.34 billion.
+
+The strong top- and bottom-line performance was fueled by the company's data center segment. Revenue more than doubled year over year to $6.7 billion behind robust demand for EPYC server CPUs and Instinct AI accelerators.
+
+AMD projected second-half 2026 server CPU revenue to grow 80% year over year and 70% in 2027. It expects data center revenues to more than double in 2027, with AI graphics processing units (GPUs) growing well over 100%.
+
+AMD also unveiled its next-generation AI chips, headlined by the Instinct MI450 Series GPUs and the 6th Gen EPYC Venice CPUs. The new chips are designed to power AMD's new Helios rack-scale AI systems, which combine GPUs, CPUs, networking, and software into an integrated platform for training and running large AI models.
+
+The product announcement came alongside two important new deals.
+
+AMD said Microsoft (MSFT) will deploy Helios across Azure AI services beginning in the second half of 2026.

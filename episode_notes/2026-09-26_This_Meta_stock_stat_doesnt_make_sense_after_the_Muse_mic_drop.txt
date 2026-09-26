@@ -1,0 +1,31 @@
+This Meta stock stat doesn't make sense after the Muse mic drop
+
+2026-09-26
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/technology/article/this-meta-stock-stat-doesnt-make-sense-after-the-muse-mic-drop-160000647.html
+
+For a company having a major refounding moment this week, Meta's (META) price-to-earnings ratio still looks stuck in the past.
+
+Meta's stock is trading on a forward price-to-earnings (P/E) ratio of 22 times, below its long-term average of 23.1 times.
+
+The likely reason for the disconnect between Meta's P/E and the bullish week the company's having is that the Street is dragging its feet on raising its 2027 earnings estimates as the company reinvests aggressively in AI infrastructure.
+
+Yahoo Finance data shows next year's earnings estimates on Meta have increased only slightly over the past seven days. Meanwhile, 2027 EPS estimates currently remain well below those seen 90 days ago.
+
+But the EPS trend is poised to change, and investors are betting on that today — Meta stock has surged 14% in the past five days.
+
+Meta's Steve Jobs-like surprise at Meta Connect late Wednesday came in the form of the Muse Charm. It's a standalone pocket device built exclusively for voice interaction with the company's new Muse agent, currently one of the most-downloaded apps.
+
+Zuckerberg also showcased a major shift toward "Personal Superintelligence" by unveiling a hardware-meets-AI moment in the Meta VR Glasses.
+
+Weighing just 100 grams — roughly one-fifth the weight of Meta's Quest 3 — the $1,299 spatial computing glasses feature 5K micro-OLED displays, tethered puck processing, and native eye and hand tracking.
+
+On the smart eyewear front, Meta debuted the third-generation Ray-Ban Meta Gen 3 glasses, starting at an entry-level $249. Joining them are the camera-free Ray-Ban Meta Audio glasses, designed purely for open-ear listening and AI voice interaction.
+
+Meanwhile, Meta's Muse has amassed more than 3.4 million downloads since its Sept. 8 launch, per new Sensor Tower data obtained by Yahoo Finance.
+
+Muse accumulated 2.8 million downloads in its first two weeks, while competitor AI chatbots, including OpenAI's (OPAI.PVT) ChatGPT, SpaceXAI's (SPCX) Grok, and Anthropic's (ANTH.PVT) Claude, received 3.7 million, 400,000, and 300,000 global downloads, respectively, during the same period (14 days post-launch).
+
+"We emerge from Meta Connect incrementally positive on shares of Meta as its AI product strategy comes into view across Muse, its Models, and newer devices," Citi analyst Ronald Josey said. "Key here, Muse is emerging as the centerpiece of Meta's AI product strategy as voice, additional distribution points (Meta Glasses), and services/capabilities are integrated across shopping, travel, and productivity verticals, enabling Muse to connect consumer intent with execution potentially unlocking incremental monetization opportunities, in our view."
