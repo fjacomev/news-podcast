@@ -1,0 +1,29 @@
+Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd'
+
+2026-09-29
+
+Por Michael B Kelley
+
+https://finance.yahoo.com/technology/article/nvidia-launches-ai-safety-platform-after-jensen-huang-calls-anthropic-openai-warnings-odd-103135599.html
+
+Nvidia (NVDA) released the Open Agent Safety Platform, which is aimed at helping AI developers enforce safeguards for agents, a few days after the AI hardware giant's CEO questioned the security approaches of Anthropic (ANTH.PVT) and OpenAI (OPAI.PVT).
+
+"AI's extraordinary potential for society will only be realized if we solve AI safety," Nvidia CEO Jensen Huang stated in a press release. "As we continue to discover the frontier of AI capabilities, we must accelerate discovery at the frontier of AI safety. Safety and security require full-stack engineering."
+
+Last week, Huang sat down with Ezra Klein of The New York Times to discuss recent warnings from Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman suggesting that the pace of AI development could threaten humanity.
+
+"If your product is not ready to ship, don't ship the product," Huang told The Ezra Klein Show podcast. "This is the first time that I've heard a company or CEO say that I need … the liability laws of products to be relieved so that I can pace myself."
+
+Huang repeatedly described the stance of the leading AI labs as "odd," given that those companies are leading AI innovation while the safety risks, in his view, can be mitigated with technology.
+
+"Nobody is building more compute today than the people asking to be slowed down," Huang told Klein. "It strikes me as odd. … I know a lot of people in those two labs who are dedicating their lives to do good work. They know what happened. I know they know what happened. I know they know how to fix it, and I know they're fixing it."
+
+Read more: AI isn't coming to destroy humanity, but experts say the real threats are here
+
+The new safety platform is aimed at establishing security protocols that could prevent alarming breaches from being unveiled by the frontier labs.
+
+"NVIDIA Open Agent Safety Platform brings together industry, researchers and public-sector organizations to share best practices, align on evaluation methods and foster international cooperation," Huang added in the press release. "Together, we can raise the bar for global AI safety."
+
+Speaking with Klein, Huang suggested that the AI labs simply rebalance their priorities.
+
+"So when I say we need to accelerate AI technology, people think, for some reason, that safety is not part of that," the Nvidia CEO said. "Safety is part of it. Alignment is part of it. Evaluation is part of it: Guardrailing, sandboxing, the isolation technology, monitoring technology, telemetry technology, external A.I. monitor technology — all of that stuff is A.I. technology. Accelerate the living daylights out of that."
