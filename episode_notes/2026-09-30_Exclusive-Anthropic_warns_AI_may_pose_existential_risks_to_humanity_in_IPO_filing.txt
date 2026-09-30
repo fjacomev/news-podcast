@@ -1,0 +1,35 @@
+Exclusive-Anthropic warns AI may pose 'existential risks to humanity' in IPO filing
+
+2026-09-30
+
+Por Echo Wang; Aditya Soni
+
+https://finance.yahoo.com/technology/ai/articles/exclusive-anthropic-warns-ai-may-001709847.html
+
+By Echo Wang and Aditya Soni
+
+Sept 28 (Reuters) - Anthropic plans to caution potential investors in its IPO that advanced AI could pose "catastrophic or existential risks to humanity," an extraordinary warning by a company seeking to profit from the same technology.
+
+The company's IPO prospectus, reviewed by Reuters, highlights risks associated with its AI models, which it said could exhibit "self-preserving behaviors," including attempts to "resist shutdown," to "conceal or manipulate information" and behavior "resembling blackmail."
+
+"Our development of highly advanced models, platforms, and applications and expansion of use cases could further increase the risk that our models cause harm," Anthropic said in the filing.
+
+While public companies routinely outline product risks to investors, few, if any, have issued warnings suggesting their technology could cause potential human extinction. Anthropic emphasized both the transformative potential of AI on par with industrialization and electricity and the irreversible harm it could cause if mishandled.
+
+Anthropic and other AI developers, including OpenAI, have faced scrutiny after incidents where experimental systems defied constraints, including a report of an OpenAI model breaching Australia's health-system database.
+
+Anthropic safety researcher Evan Hubinger estimated a greater than 10% probability that AI could kill humans within the next decade, echoing a sentiment by a former colleague, Jacob Coxon.
+
+RISK-HEAVY DISCLOSURES
+
+The company, which has positioned itself as a safety-first AI lab, devoted roughly 80 pages of the 261-page main body of its prospectus to laying out risk factors, nearly twice the 48 pages it used to describe its business.
+
+For comparison, SpaceX, which owns xAI, dedicated just around 38 of the 277-page main body of its prospectus to risk factors.
+
+"Potential model awareness of our evaluation efforts creates a significant limitation on our ability to assess model safety," Anthropic said in the prospectus, adding that models sometimes develop unexpected capabilities during training that may not be discovered until they have been deployed and have resulted in significant safety incidents.
+
+AI researchers have also warned that as models grow more capable, they increasingly recognize when they are being watched and adjust their behavior accordingly, which makes it harder to monitor model behavior.
+
+Anthropic declined to comment in response to a request for comment on Monday.
+
+UNCERTAIN RETURNS ON SAFETY INVESTMENT

@@ -1,0 +1,33 @@
+OpenAI's annualized revenue nearing $70 billion: Report
+
+2026-09-30
+
+Por Daniel Howley
+
+https://finance.yahoo.com/technology/article/openais-annualized-revenue-nearing-70-billion-report-164411134.html
+
+Anthropic (ANTH.PVT) might beat OpenAI (OPAI.PVT) to the public markets, but the Sam Altman-helmed AI lab is no slouch in its own right.
+
+According to Axios, OpenAI's annual recurring revenue is approaching $70 billion, up more than 70% since the start of the third quarter.
+
+In May, Anthropic said its annual revenue run rate reached $47 billion, up from $30 billion in April.
+
+Both companies are experiencing rapid growth thanks to their high-powered AI offerings. But Anthropic is widely expected to kick off its initial public offering sometime this fall. OpenAI, meanwhile, is anticipated to go public early next year.
+
+The pair has already confidentially filed their investor prospectus information with the Securities and Exchange Commission.
+
+On Monday, Reuters reported that it had reviewed Anthropic's S-1 paperwork, revealing that the company's 2025 revenue topped $4.6 billion, up 12x from the prior year. Its net losses, though, climbed to $42 billion.
+
+OpenAI and Anthropic are in a head-to-head battle over which company is the global AI leader.
+
+But they're also contending with the public's growing fears about out-of-control AI agents following a series of incidents this summer.
+
+Anthropic CEO Dario Amodei has called for labs to slow the pace of frontier AI model development, and OpenAI CEO Sam Altman is pausing the development of the company's most advanced models.
+
+The companies are also contending with increased competition from open-source AI models developed by developers in the US, Europe, and China, as well as more price-conscious customers who are less willing to spend virtually unlimited sums on AI tokens and are instead opting for a mixed-model approach.
+
+Tokens are a common form of measurement in the AI industry and generally represent individual words or word fragments.
+
+Click here for the latest technology news that will impact the stock market
+
+Read the latest financial and business news from Yahoo Finance

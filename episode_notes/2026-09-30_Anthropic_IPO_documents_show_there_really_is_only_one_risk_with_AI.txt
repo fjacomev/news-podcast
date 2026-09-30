@@ -1,0 +1,33 @@
+Anthropic IPO documents show there really is only one risk with AI
+
+2026-09-30
+
+Por Hamza Shaban
+
+https://finance.yahoo.com/technology/article/anthropic-ipo-documents-show-there-really-is-only-one-risk-with-ai-100000742.html
+
+Of all the risks Anthropic (ANTH.PVT) lists in 80-ish pages of warnings, amounting to almost a third of its IPO prospectus, there really is only one: not investing.
+
+That's the resounding message in the aftermath of the Claude maker's IPO documents getting leaked.
+
+The clear implied message of a frontier AI lab on the verge of becoming a $2 trillion company is that investors should join in. Sure, Anthropic listed the risks. But did you notice the expected $2 trillion valuation? Do you want to miss out on that? If the risks truly mattered, the projected valuation would be much closer to zero.
+
+Potential investors will be confronted with the extraordinary message that advanced AI could pose "catastrophic or existential risks to humanity." That's the company's own words via the prospectus, which was reviewed by Reuters. The risks associated with its AI models include "self-preserving behaviors," attempts to "conceal or manipulate information," and behavior "resembling blackmail."
+
+What's not to love?
+
+As Reuters notes, Anthropic's IPO risk factors add up to roughly 80 pages of a 261-page document, twice the number of pages the AI lab uses to describe its actual business. SpaceX, which, lest we forget, straps people and cargo onto a controlled explosion and hurls them through the sky into space, used around 38 pages to outline its risk factors.
+
+The financials are just as fraught. Anthropic lost more than $8 billion on an operating basis in 2025, even as revenue grew twelvefold, according to the documents.
+
+But the stark losses, even paired with the existential risks, only underscore just how valuable Anthropic and its backers believe its technology to be. The frontier AI lab views the coming AI era, Reuters reports, as more transformative than industrialization, electricity, and the internet.
+
+The public sale could value the company at more than $2 trillion, leapfrogging almost every major corporation aside from a handful of tech giants, soaking up capital and interest before OpenAI goes to market, and outrunning public warnings about AI's threats to human civilization.
+
+In this light, the dozens of pages of risks look less like formidable liabilities than endearing flaws. Untold future profits outweigh the biggest hypothetical fears.
+
+Hamza Shaban is a reporter for Yahoo Finance covering markets and the economy. Follow Hamza on X @hshaban.
+
+Click here for the latest technology news that will impact the stock market
+
+Read the latest financial and business news from Yahoo Finance
