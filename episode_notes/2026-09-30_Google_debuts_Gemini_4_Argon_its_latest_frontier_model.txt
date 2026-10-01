@@ -1,0 +1,35 @@
+Google debuts Gemini 4 Argon, its latest frontier model
+
+2026-09-30
+
+Por Daniel Howley
+
+https://finance.yahoo.com/technology/article/google-debuts-gemini-4-argon-its-latest-frontier-model-204002322.html
+
+Google (GOOG, GOOGL) debuted its Gemini 4 Argon frontier AI model on Wednesday, saying it delivers high-performance capabilities for tasks including software engineering, knowledge work, and cybersecurity.
+
+The company said it is initially releasing Gemini 4 Argon to trusted members of its Fairwind Program, which allows them to use Argon to find flaws in their software and fix them before Google makes the model more widely available.
+
+The search giant said it is also working with the US government's voluntary pre-release program for frontier models.
+
+Google parent Alphabet stock was flat on the news.
+
+The company is also jumping into the AI pricing wars, saying it will offer Gemini 4 Argon at introductory rates of $2 per million input tokens and $10 per million output tokens. Tokens are a measure of AI usage that represent parts of or entire words used in prompts (inputs) and responses (outputs).
+
+Anthropic (ANTH.PVT) currently offers its highest-end Fable 5.1 model for $10 per million input tokens and $50 per million output tokens. Its Opus 5.5 costs $4 per million inputs and $20 per million outputs.
+
+OpenAI's (OPAI.PVT) top-tier GPT-6 Astra costs $10 per input and $50 per output. Its new GPT-6.1 Sol is less expensive at $2 per input and $10 per output.
+
+Gemini 4 Argon is Google's best shot at rejoining the frontier AI conversation after it was surpassed by OpenAI's GPT 6 Astra and Anthropic's Fable 5.
+
+Google said the software already powers workflows within the company, ranging from coding to research and writing quality.
+
+Ahead of the release, however, Bloomberg reported that some within Google worry that Gemini 4 Argo isn't as powerful as offerings from Anthropic or OpenAI. Others, however, say it is.
+
+Google said it plans to release the software in phases before it is available for enterprise and customers.
+
+Email Daniel Howley at dhowley@yahoofinance.com. Follow him on X at @DanielHowley.
+
+Click here for the latest technology news that will impact the stock market
+
+Read the latest financial and business news from Yahoo Finance
