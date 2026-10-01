@@ -1,0 +1,31 @@
+FTC reportedly looking into whether OpenAI, Anthropic violated consumer protection laws.
+
+2026-10-01
+
+Por Daniel Howley
+
+https://finance.yahoo.com/technology/article/ftc-reportedly-looking-into-whether-openai-anthropic-violated-consumer-protection-laws-185820887.html
+
+The Federal Trade Commission is looking into the actions of leading AI labs Anthropic (ANTH.PVT), OpenAI (OPAI.PVT), and other AI firms to determine if they've harmed or misled consumers.
+
+According to the New York Times, the investigation centers on whether the companies harmed consumers when their AI models went rogue, as well as whether they engaged in unfair and deceptive business practices.
+
+The commission is expected to send out formal notices to the AI labs in the coming weeks. The FTC was already looking into the companies prior to OpenAI's disclosure that its high-powered AI models hacked into AI company Hugging Face in July.
+
+Since then, OpenAI, Anthropic, Meta, (META) and Google (GOOG, GOOGL) have each disclosed incidents of their AI gaining access to other sites and services.
+
+Last week, OpenAI revealed that its agents also accessed several Australian government websites. It also said the company's AI took unexpected steps when interacting with US government websites.
+
+News of the FTC's investigation comes after leaders from the AI industry met with President Trump on Tuesday to sign a non-binding agreement to monitor their systems and use third-party auditors to ensure they don't run wild.
+
+The heads of several companies joined the event, including Nvidia (NVDA) CEO Jensen Huang, SpaceX's (SPCX) Elon Musk, and Meta's Mark Zuckerberg.
+
+Experts say that while agents breaking into or gaining access to third-party systems is dangerous, standard security protocols could prevent similar incidents from occurring in the future.
+
+But some AI critics are calling for more direct intervention, including government regulation, to keep AI systems under control and prevent future breaches.
+
+Email Daniel Howley at dhowley@yahoofinance.com. Follow him on X at @DanielHowley.
+
+Click here for the latest technology news that will impact the stock market
+
+Read the latest financial and business news from Yahoo Finance

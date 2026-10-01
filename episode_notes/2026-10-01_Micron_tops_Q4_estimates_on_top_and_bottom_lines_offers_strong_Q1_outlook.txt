@@ -1,0 +1,39 @@
+Micron tops Q4 estimates on top and bottom lines, offers strong Q1 outlook
+
+2026-10-01
+
+Por Daniel Howley
+
+https://finance.yahoo.com/technology/article/micron-tops-q4-estimates-on-top-and-bottom-lines-offers-strong-q1-outlook-153230577.html
+
+Memory giant Micron (MU) reported its fourth quarter earnings after the bell on Wednesday, beating Wall Street's expectations on the top and bottom lines and offering a better-than-anticipated Q1 outlook.
+
+For the quarter, Micron reported earnings per share of $33.42 on revenue of $54.23 billion. Analysts were looking for EPS of $31.83 and revenue of $51.49 billion, according to Bloomberg analyst consensus estimates.
+
+The company saw EPS of $3.03 and revenue of $11.31 billion in the same quarter last year.
+
+For the second quarter, Micron is projecting revenue of between $60 billon and $63 billion; analysts were calling for $56.77 billion.
+
+Micron's fortunes, along with those of fellow memory chip producers Samsung (005930.KS) and SK Hynix (SKHY), have soared amid sky-high demand driven by the global AI build-out.
+
+Data centers require massive amounts of DRAM, used in high-bandwidth memory that goes into AI processors, including graphics processing units (GPUs), as well as ultra-fast flash storage. Micron produces both of those.
+
+That's helped propel the company's stock price to staggering heights, with shares rising roughly 275% year to date and 550% over the past 12 months as of Wednesday.
+
+Micron stock fell 1% during premarket trading on Thursday.
+
+Micron is also making big bets on its future growth. In August, the company announced that it would invest up to $10 billion over the next 10 years to build out a "long-horizon premier research institution" in Boise, Idaho.
+
+While the AI boom has been a boon for memory makers, it's taking a toll on other sectors of the tech industry.
+
+Consumer electronics manufacturers have raised prices on their devices to offset the rising cost of memory and storage chips. Most recently, Apple (AAPL) raised the prices of its iPhone 18 Pro line by $100 compared with its iPhone 17 Pro.
+
+While the price increases have cut into the number of devices manufacturers are selling, the higher price tags have offset much of the negative impact on their bottom lines
+
+Memory and chip stocks have been volatile in recent weeks amid concerns about AI safety, following Anthropic CEO Dario Amodei's call earlier this month to slow the development of frontier AI models.
+
+Email Daniel Howley at dhowley@yahoofinance.com. Follow him on X at @DanielHowley.
+
+Click here for the latest technology news that will impact the stock market
+
+Read the latest financial and business news from Yahoo Finance

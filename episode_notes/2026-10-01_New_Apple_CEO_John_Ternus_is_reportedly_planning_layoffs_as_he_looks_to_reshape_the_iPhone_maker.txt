@@ -1,0 +1,31 @@
+New Apple CEO John Ternus is reportedly planning layoffs as he looks to reshape the iPhone maker
+
+2026-10-01
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/technology/article/new-apple-ceo-john-ternus-is-reportedly-planning-layoffs-as-he-looks-to-reshape-the-iphone-maker-194734002.html
+
+It's almost a rite of passage that as soon as a new CEO settles into the top job, they fire people.
+
+They primarily do it to send a message to the organization to step it up, in part so they look good come earnings time. The other reason is to align the business with the new CEO's vision for the business, which may differ from that of the former CEO.
+
+In the case of new Apple (AAPL) CEO John Ternus, he may be just trimming the ranks because it has to be done, given the new realities facing the tech giant.
+
+Apple stock edged higher on Wednesday.
+
+Ternus is reportedly planning small-scale layoffs within large teams and canceling projects to make the company leaner, according to a Bloomberg report on Wednesday.
+
+"Money pressure is coming from 2 directions: a memory shortage is raising component costs, and services revenue fell quarter over quarter in June for the first time since 2022," tech expert Rohan Paul said in an X post.
+
+Recall that Apple issued cautious revenue guidance for the current quarter in late July, largely because the company is unable to source enough memory chips to meet demand. It's a problem former CEO Tim Cook expected to persist. Profit margins were also under significant pressure in the most recent quarter compared with the preceding quarter due to higher memory chip prices.
+
+"On the pricing front, we reluctantly raised prices, I would say," Cook said on his final earnings call. "We did it because we're in what I would characterize as a 100-year flood on the memory pricing, with exponential increases in memory prices."
+
+The memory chip market has tightened considerably as demand for high-bandwidth memory (HBM) and advanced dynamic random-access memory (DRAM) used in AI servers continues to outpace supply.
+
+Companies such as SK Hynix (SKHY), Samsung Electronics (005930.KS), and Micron (MU) have largely sold out their premium AI memory capacity through much of 2026 as customers, including Nvidia (NVDA), Microsoft (MSFT), Amazon (AMZN), and Meta (META), race to build AI infrastructure.
+
+The shortage has pushed memory prices sharply higher and given suppliers greater pricing power after several years of weak industry conditions. Experts expect memory supply to remain constrained into 2027, creating a favorable backdrop for the industry's largest producers.
+
+Layoffs under Ternus could help offset some of the memory chip pricing pressure that Apple has absorbed. According to Bloomberg, the company wants to avoid taking more significant price hikes in 2027 should the memory chip shortage rage on.

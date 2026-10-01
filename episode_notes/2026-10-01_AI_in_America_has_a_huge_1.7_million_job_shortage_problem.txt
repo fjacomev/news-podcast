@@ -1,0 +1,31 @@
+AI in America has a huge 1.7 million job shortage problem
+
+2026-10-01
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/technology/article/ai-in-america-has-a-huge-17-million-job-shortage-problem-100847922.html
+
+To deliver on the stock market's bold expectations for AI profits, you actually need human beings to build the data centers and handle a ton of other manual jobs in the supply chain.
+
+But that skilled trade labor is getting increasingly scarce.
+
+The US will need to fill 1.7 million skilled trades job openings annually through 2035, according to a new report out Wednesday from the Alliance for America's Skilled Trades. Current training programs produce just 55 workers for every 100 needed.
+
+The Alliance for America's Skilled Trades was founded by BlackRock (BLK), Ford (F), Google (GOOG), GOOGL), and Carhartt. But the challenge of finding these workers to build out AI infrastructure could be seen in who the alliance is adding today: Meta (META), Microsoft (MSFT), Nvidia (NVDA), and Waymo.
+
+"No single company can close the skilled trades gap alone. Training just 55 workers for every 100 needed puts economic growth at risk and leaves people without a clear path to a good career," Ford CEO Jim Farley said in a statement. "These careers deserve respect. Employers, educators and policymakers must work together to help people get the training, support and jobs they need to succeed."
+
+The skilled trades job gap matters as the US builds the infrastructure that powers AI. Employment of electricians, HVAC technicians, and industrial machinery mechanics is projected to grow at twice, three times, and five times, respectively, the rate for all occupations, the report shows.
+
+By 2034, Arizona will need 29,000 electricians, Texas will need 86,000 auto mechanics, and North Carolina will need 19,000 carpenters.
+
+The report sheds light on what is known as the essential economy, which includes construction, utilities, agriculture, transportation, oil and gas, and equipment manufacturing. It accounts for $12 trillion of the gross domestic product, 95 million jobs, and 3 million businesses.
+
+This area of the economy continues to experience labor shortages as older workers age out and Gen Z views jobs such as loading trains as too demanding. Meanwhile, some existing workers lack the skills to stay current as AI becomes embedded throughout the supply chain.
+
+According to a PRT Staffing survey, 17.4% of manufacturing companies report worker shortages. PRT projects that 3.8 million manufacturing jobs will need to be filled over the next decade.
+
+One cause of the shortage is the disappearance of shop class from schools, Dirty Jobs host Mike Rowe said.
+
+"And now, decades later, we're going, man, this is so weird, nobody wants to do this work," Rowe said on the Power Players with Brian Sozzi podcast on Yahoo Finance. "And then you've got the stigmas and the stereotypes and the myths and the misperceptions that are surrounding these same jobs."
