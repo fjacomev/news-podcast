@@ -1,0 +1,37 @@
+Anthropic reportedly looking to IPO as early as mid-November
+
+2026-10-02
+
+Por Michael B Kelley
+
+https://finance.yahoo.com/technology/article/anthropic-reportedly-looking-to-ipo-as-early-as-mid-november-180315768.html
+
+Anthropic's (ANTH.PVT) Thanksgiving looks like it may come with a heaping side of cash, as Bloomberg reports the company is aiming to hit the public markets as soon as mid-November.
+
+According to the report, the AI giant could begin marketing its initial public offering (IPO) the week of Nov. 9. Anthropic is targeting a valuation of up to $2 trillion, which would make it the largest IPO of all time.
+
+A follow-up report, citing people familiar with the matter, added that Anthropic is set to meet with prospective investors on Oct. 14.
+
+Earlier this week, Reuters reported that it obtained a copy of Anthropic's S-1 investor prospectus, which showed that the company's 2025 revenue grew 12x, ending the year at roughly $4.6 billion.
+
+Anthropic, founded in 2021 by former OpenAI (OPAI.PVT) employees, including CEO Dario Amodei, is one of the world's leading AI labs thanks to its Claude software and its focus on the enterprise market.
+
+Read more: How Anthropic overtook OpenAI to become the AI lab to beat
+
+Anthropic's Claude Code platform has made it a hit among software engineers, and its Claude Cowork tool upended the software-as-a-service (SaaS) space when it debuted earlier this year.
+
+While Anthropic appears poised to go public ahead of rival OpenAI, the companies are still neck and neck in the broader AI race.
+
+On Tuesday, Axios reported that OpenAI's annual recurring revenue is approaching $70 billion, up more than 70% since the start of the third quarter.
+
+The company also recently revealed its latest AI model, GPT-6.1 Sol, during its annual DevDay event on Tuesday.
+
+Anthropic has also faced its share of controversy. It continues to battle the Trump administration over the Department of Defense's decision to label the company a supply chain threat.
+
+And just last month, Amodei called on all AI labs to slow the development of frontier AI models after a former Anthropic employee said both the company and OpenAI were "racing straight to self-improving superintelligence and gambling with our lives."
+
+Both companies are also dealing with the fallout from their respective AI models going rogue and attempting to hack or otherwise access third-party networks and systems on their own.
+
+Click here for the latest technology news that will impact the stock market
+
+Read the latest financial and business news from Yahoo Finance

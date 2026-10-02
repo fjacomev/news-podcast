@@ -1,0 +1,63 @@
+Microsoft’s Trillion-Dollar Quarter Shows AI Trade Won’t Quit
+
+2026-10-02
+
+Por Ryan Vlastelica
+
+https://finance.yahoo.com/technology/ai/articles/microsoft-trillion-dollar-quarter-shows-091904010.html
+
+(Bloomberg) -- With Microsoft Corp.'s best quarter for decades in the books, Wall Street is betting the stock can keep rallying as the tech giant's standing in the artificial intelligence landscape continues to improve.
+
+The shares jumped 37.5% from July through September, their best quarterly showing since 1998, adding $1 trillion to the company's market capitalization. Microsoft also was the fifth-best performer in the technology-heavy Nasdaq 100 Index, which has gained just 0.4% over the last three months.
+
+"After a period where it struggled with the message, Microsoft has been crisper and cleaner on how it will monetize its capital outlay and benefit its customers," said Chad Morganlander, senior portfolio manager at Washington Crossing Advisors and a long-time holder of the stock.
+
+Much of the surge came after Microsoft's earnings in late July, which showed the fastest cloud growth in four years from strong AI demand. The stock jumped 16% the next day, its best session since October 2008, adding $450 billion in market value.
+
+The report eased concerns about whether Microsoft's heavy AI investments would lead to better growth, which is notable because the company has a more encouraging financial profile than the other big spenders like Alphabet Inc., Amazon.com Inc. and Meta Platforms Inc. Of the four, Microsoft is the only one that hasn't seen free cash flow turn negative on an annual basis.
+
+"It is showing a clear path to profitability with AI," Morganlander said. "As a company that is spending but not going into the red on account, it looks like the adult in the room."
+
+Microsoft's rally is particularly impressive considering the speed of the reversal in sentiment. June was the stock's worst month since 2000, as investors questioned the company's spending and the overall outlook for software companies in an AI world. But those industry concerns have eased, and investors were encouraged by the company's effort to transform its Copilot AI assistant into a product for corporate customers.
+
+"There are still fears of a 'SaaSpocalypse,' but it seems like Microsoft is less vulnerable to those issues," Morganlander said. "Meanwhile, people are impressed with how Copilot has been adopted and integrated."
+
+That said, while this quarter's push has carried Microsoft into the green for the year, its 6.1% gain significantly trails the Nasdaq 100's 20% surge.
+
+"It ripped this quarter because people made a mistake," said JoAnne Feeney, portfolio manager at Advisors Capital Management, which owns Microsoft shares. "Investors realized they misunderstood the company's potential, so a lot of the rally is just the reversal of that mistake."
+
+Still, the improving optimism has made Microsoft a darling on Wall Street. There are 72 analysts tracked by Bloomberg who follow the company, and only three don't have buy ratings. No one rates it a sell. And the average price target suggests the shares will rise about 11% in the coming 12 months.
+
+Last week, Stifel upgraded the stock to buy because Microsoft had "clearly turned the corner," according to analyst Brad Reback. The stock's momentum should continue in the second half, he wrote, noting that he's "increasingly comfortable with the company's ability to sustain mid/upper teens revenue growth."
+
+Microsoft shares could generate a total return of roughly 20% over the next year, according Morgan Stanley's Adam Wood, who pointed to its long-term growth potential and the company's recent decision to raise its dividend.
+
+"Combined with high-teens EPS growth, this supports a durable high-teens total return profile at MSFT, framing an attractive risk/reward," Wood wrote in a note dated Sept. 16.
+
+Revenue is expected to rise 18% in Microsoft's 2027 fiscal year, which closes at the end of June, roughly in line with fiscal 2026. Wall Street expects that figure to hit 21% in fiscal 2029. And while earnings per share is expected to climb about 11% in this fiscal year, down from nearly 32% in fiscal 2026, it's projected to reach nearly 19% in fiscal 2028 and 21% in fiscal 2029.
+
+The shares are hardly inexpensive at almost 25 times earnings estimated over the next 12 months, but it's a discount to their 10-year average of 27. Among the market's biggest tech stocks, only Apple Inc. is more expensive.
+
+"Some people want to see more Copilot adoption, or more capabilities in Copilot," Feeney said. "But adoption momentum continues to accelerate, and some of the recent announcements were positive, like we got last week. But it needs to keep delivering."
+
+Tech Chart of the Day
+
+Top Tech Stories
+
+Micron Technology Inc. gave an upbeat forecast for the current quarter, fueled by the AI building frenzy, though the chipmaker warned that rising compensation would weigh on profit margins.
+
+OpenAI accused its Chinese rival Moonshot AI of being responsible for a wide-scale effort to extract data from its GPT artificial intelligence systems that could be used to reproduce the reasoning and capabilities of the company's most advanced models.
+
+Paramount Skydance Corp.'s David Ellison said former Mattel Inc. chief Ynon Kreiz will be co-CEO of the combined companies after completing the pending $110 billion acquisition of Warner Bros. Discovery Inc.
+
+Huawei Technologies Co. plans to join rivals in jacking up smartphone prices to counter rising memory costs, betting on a chips-to-software edge to protect its lead while it explores markets abroad.
+
+Tencent Holdings Ltd. agreed to lease advanced AI chips from Oracle Corp. in Southeast Asia in the Chinese company's biggest such deal yet, the Financial Times reported.
+
+Earnings Due
+
+Earnings Premarket:
+
+Accenture (ACN US)
+
+--With assistance from Neil Campling and Subrat Patnaik.

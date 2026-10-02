@@ -1,0 +1,31 @@
+Broadcom to lend Anthropic up to $42 billion to lease chips, in latest circular investing deal
+
+2026-10-02
+
+Por Michael B Kelley
+
+https://finance.yahoo.com/technology/article/broadcom-to-lend-anthropic-up-to-42-billion-to-lease-chips-in-latest-circular-investing-deal-121617505.html
+
+Anthropic (ANTH.PVT) has inked a series of deals with tech heavyweights ranging from Amazon to Microsoft to both finance and provide computing capacity for the company's AI models.
+
+All three have raised concerns about circular financing, as each firm provides funding to Anthropic, which then uses it to purchase their services.
+
+Now you can add Broadcom (AVGO) to the list. According to Reuters, which obtained Anthropic's IPO prospectus, Broadcom is lending up to $42 billion to Anthropic for its infrastructure buildout.
+
+In turn, Anthropic is estimated to spend so much on Broadcom's technologies that the Claude developer will become the chip designer's largest compute customer by 2027.
+
+In April, Anthropic announced it was teaming up with Broadcom and Google for a deal that would see Google provide its Tensor Processing Unit (TPU) capacity to Anthropic, with the supply coming online in 2027.
+
+Broadcom designs Google's TPUs.
+
+Anthropic isn't just purchasing chips, though. The company is also leaning on Broadcom for equipment leasing and financing, Reuters reports.
+
+Wall Street analysts and investors have raised concerns about circular investing at multiple points throughout the AI buildout. Broadcom rivals Nvidia and AMD have also provided funding to their own customers, including OpenAI and Anthropic, which the labs then used to pay for access to the companies' high-powered chips.
+
+The concern about such financial schemes is that if one domino in the row falls, it will cause a chain reaction that will decimate the AI trade and, as a result, the global equities markets that have benefited from and come to rely on such firms to keep the good times on Wall Street rolling.
+
+Check out the full Reuters story here >
+
+Click here for in-depth analysis of the latest stock market news and events moving stock prices
+
+Read the latest financial and business news from Yahoo Finance
