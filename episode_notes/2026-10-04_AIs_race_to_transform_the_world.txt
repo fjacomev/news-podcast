@@ -1,0 +1,77 @@
+AIs race to transform the world
+
+2026-10-04
+
+Por Texto propio
+
+AI's race to transform the world before the money runs out
+
+Stephen Eisenhammer
+
+October 3, 2026
+
+LONDON, Oct 3 (Reuters) - Never has so much cash flowed into a new technology as is pouring into AI, eclipsing the sums splurged on railways or the internet when those technological revolutions sucked in capital.
+
+Cumulative spending globally on data centers alone could top $30 trillion by 2050, according to a projection by PwC, almost matching the value of outstanding US Treasuries. It "dwarfs" what was spent in the railroad or dotcom booms, even after adjusting for inflation, PwC said.
+
+Meanwhile, Anthropic, just ‌one of the major firms in the AI race, plans to spend $518 billion in coming years, according to the IPO prospectus seen by Reuters, which is more than 100 times its 2025 revenue. Its backers say AI technology will be more transformational than the advent of steam engines and the industrialization they powered.
+
+Yet lurking behind the dizzying projections and huge outlays by AI companies, alongside sky-high valuations, lie assumptions about vast broad-based productivity gains and future profits with little evidence so far - or historical precedent - to be sure they can deliver, economists say.
+
+PRODUCTIVITY GAINS 'REMAIN ELUSIVE'
+
+JP Morgan wrote in August that broad-based productivity gains in the US, which leads the AI race, "remain elusive", raising questions about the sustainability of AI valuations.
+
+A Bain & Company study said productivity gains from existing markets would not be enough to justify current outlays and "entirely new markets must emerge to close the funding gap", suggesting those could range from using AI-guided robots to developing new materials for batteries and semiconductors.
+
+US hyperscalers - the companies rolling out infrastructure around ⁠the world like Google, Amazon and Microsoft - and others in the AI race needed to find more than $4.2 trillion of new revenue in the next five years to fund the buildout, Bain said.
+
+"The question is whether the applications arrive in time to pay for it," according to the study, published last month.
+
+Few doubt the potential of AI to transform everything from work in an office to research labs, just as past revolutions shrank journey times from days to hours or connected the world at the touch of a keyboard.
+
+What seems more immutable is the maths behind securing a return on investment or the deadlines for repaying loans, leaving economists to work out the implications for the global economy beyond the ups and downs of investment cycles.
+
+"Historical precedent suggests that technology-driven booms often end when infrastructure buildouts cease to deliver sufficient returns," JP Morgan wrote.
+
+Using the example of Nvidia, the US company whose chips are the backbone of the AI revolution, JP Morgan estimated US productivity gains would need to be 3% to 5% annually over the next 10 years to justify its valuation. That would be a substantial increase from the baseline expectation of the US Congressional Budget Office of 1.75% annual productivity growth for that period.
+
+For the US alone - which according to some estimates accounts for about three quarters of the global AI investment total - investment will run as high as about $9 trillion from 2025 to 2032, equivalent to spending 3.2% of US GDP each year, according to Columbia Business School economist Stijn Van Nieuwerburgh.
+
+He estimates the US AI sector would need to generate about $3.55 trillion in annual revenue by 2032 to ‌earn a 10% ⁠return on investment. It earns a fraction of that now.
+
+Illustration shows "AI Artificial Inteligence" words
+
+"AI Artificial Intelligence" words, a keyboard and a robotics hand in this illustration taken, September 23, 2026. REUTERS/Dado Ruvic/Illustration/File Photo Purchase Licensing Rights, opens new tab
+
+The leveraged structure of much of the debt funding AI infrastructure also means "a relatively modest deterioration in demand, delays, or asset values can therefore produce much larger losses," he wrote in a conference paper, revised in October.
+
+AI AND 'THE RATE OF NEW WONDERS'
+
+The dizzying numbers have not stopped US AI bosses speaking with an otherworldly zeal about changes afoot.
+
+Anthropic's Dario Amodei has said an AI future could be "a thing of transcendent beauty", while OpenAI's Sam Altman has said "the rate of new wonders being achieved will be immense" as models learn to improve themselves and accelerate breakthroughs.
+
+Jasjeet Sekhon, chief strategy officer at Google DeepMind, told a summit at UC Berkeley in August that this self-teaching, known as recursive self-improvement, was a "key part of the investment thesis", and that it could, if achieved, deliver unprecedented productivity gains.
+
+Recursive self-improvement, while potentially delivering exponential AI advances, ⁠has also raised concerns about existential risks to humanity.
+
+Yet the pace of change in productivity might still end up lagging the timelines needed by corporate accounts departments.
+
+Diane Coyle, an economist at Britain's Cambridge University, said the productivity impact of past revolutionary technologies had usually taken about 10 to 50 years to feed through.
+
+Anthropic's economics team modeled a range of scenarios for how much extra growth AI would deliver at an annual rate in 2030. Assuming a baseline of 2% in a non-AI environment, it suggested growth of 2.4% in a scenario with modest AI impact, 5.4% in a substantial scenario and ⁠15.4% in an extreme scenario.
+
+Higher growth would mean more jobs lost, it said, without assigning probabilities for any of the outcomes.
+
+Amodei forecast last year that AI could wipe out half of all entry-level white-collar jobs within five years. For now, however, some researchers say it appears to have been limited to making it harder for those seeking office work to find a job.
+
+Studies in the US and Britain have pointed to a slowdown in early career hiring for white-collar positions performing tasks at which AI is adept, even if overall employment remains ⁠strong.
+
+Researchers at Stanford University said in August that employment of workers aged 22 to 25 in AI-exposed industries, such as accountants and paralegals, was 19% lower than for jobs that AI found hard to replicate, like janitors and builders.
+
+Yet even if the promised transformation takes longer than numbers surrounding AI companies imply, real economic benefits should stay - just as trains still ran after the Panic of 1873 that bankrupted railroad barons, while the internet didn't shut down after the 1990s dotcom bubble burst.
+
+"History is our friend in trying to understand this," said Coyle. "As long as one is left with the infrastructure that's needed to support all the productivity effects down the road, that's okay."
+
+Reporting by Stephen Eisenhammer; editing by Mark John and Edmund Blair
