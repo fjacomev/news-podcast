@@ -1,0 +1,25 @@
+US Lead in AI Over China Narrows After DeepSeek Gains, BI Says
+
+2026-10-05
+
+Por Saritha Rai
+
+https://finance.yahoo.com/technology/ai/articles/us-lead-ai-over-china-210300658.html
+
+(Bloomberg) -- American AI companies' performance lead over China narrowed sharply in past months to a record low after labs such as DeepSeek gained ground, threatening US tech supremacy, according to Bloomberg Intelligence.
+
+Most Read from Bloomberg
+
+Top Chinese models lag their US rivals by just 3% on benchmark scores after the September release of DeepSeek's V4.1 Flash, BI senior analyst Robert Lea wrote in a report Monday. That's down from about 9% in May and 15% earlier in the year. That improving performance spells further market share gains for Chinese contenders, he said.
+
+China's ascent is a result of deepening AI expertise and its researchers' ability to optimize their models for domestic hardware. The gains raise questions about the usefulness of US export restrictions on technology such as Nvidia Corp. chips, intended to curtail Chinese AI advances and prevent the likes of Huawei Technologies Co. from making progress with their own alternatives.
+
+The Asian country's progress "casts further doubt on the long-term sustainability of US technological supremacy in AI," Lea said.
+
+The two superpowers are vying to dominate a technology that drives economic productivity, military leadership and global influence. China's lower-cost AI models are bridging the gap with US rivals in user numbers just as Anthropic and OpenAI chase trillion-dollar valuations in stock market debuts, touting their superior capabilities.
+
+DeepSeek's V4.1 Flash ranked sixth globally last month on LiveBench, making it the highest-ranked Chinese model since the startup broke ground with its reasoning model R1 in 2025. LiveBench scores AI models based on their responses to and analysis of questions, puzzles or tasks, a process akin to gauging human IQ.
+
+DeepSeek last recorded a LiveBench score of 81.1, below Anthropic's best score of 83.4. That means the DeepSeek model delivers "comparable performance" to leading AI systems from Anthropic and OpenAI, Lea said. Still, while the score gap has narrowed to just 3%, just three of the top 15 models as assessed by LiveBench were Chinese.
+
+Such rankings shift, Lea cautioned, and it could be difficult to monetize regardless of leaderboard scores. Chinese models face increasing US regulatory scrutiny and even potential bans following allegations of model distillation.
