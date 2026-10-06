@@ -1,0 +1,29 @@
+OpenAI CEO Sam Altman says the company will pick humanity over share price, investors
+
+2026-10-06
+
+Por Daniel Howley
+
+https://finance.yahoo.com/technology/article/openai-ceo-sam-altman-says-the-company-will-pick-humanity-over-share-price-investors-183122239.html
+
+OpenAI (OPAI.PVT) CEO Sam Altman said that when the company eventually goes public, he plans to continue putting the nonprofit's mission ahead of shareholder interests if the two come into conflict.
+
+In a wide-ranging interview with Vanity Fair that touched on topics including his family, children's use of technology, and AI safety, Altman said that, unlike other companies, OpenAI is governed by its nonprofit arm and that it will continue to dictate how the broader AI lab operates.
+
+"We will remind investors and anyone that thinks about buying our shares that we are going to put the mission first," Altman said. "We believe that that will be compatible with our shareholders doing super well. I genuinely do think that, but if they're ever in tension, the mission is going to come first."
+
+The chief executive added that if OpenAI has to choose between its stock price going up and doing what is right for humanity, it will side with humanity.
+
+"That is part of the reason I think we'll be very successful over time. But if we are wrong about that, and for some reason AI progress is incompatible with making an incredibly valuable company, I really don't think it's the case, I really think these are compatible, we are clearly going to pick doing the right thing for humanity," Altman explained.
+
+OpenAI is widely expected to go public in early 2027. Rival Anthropic (ANTH.PVT) is rumored to be preparing its initial public offering ahead of Thanksgiving.
+
+Conversations around AI safety exploded into the public sphere after OpenAI revealed in late July that its AI models broke free of their restraints during safety testing and hacked into AI database Hugging Face's network.
+
+Since then, Anthropic, Google (GOOG, GOOGL), and Meta (META) have also said that their AI has gotten out during testing.
+
+The hacks and a series of comments from AI researchers raised concerns that AI poses an existential threat to humans. In September, Anthropic researcher Jacob Coxon posted on X that he was resigning from the company because it and his former employer, OpenAI, are "racing straight to self-improving superintelligence and gambling with our lives."
+
+Anthropic alignment science lead Evan Hubinger responded to Coxon's comments with his own, saying that he believes there is a greater-than-10% chance that the technology could "kill all humans."
+
+Cybersecurity experts say the incidents have more to do with poor cybersecurity management by the AI labs than with the AI itself, which poses no existential threat to humanity.

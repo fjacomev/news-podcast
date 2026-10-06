@@ -1,0 +1,31 @@
+Nvidia Partner Hon Hai Beats Sales Estimates Due to AI Frenzy
+
+2026-10-06
+
+Por Debby Wu
+
+https://finance.yahoo.com/technology/ai/articles/nvidia-partner-hon-hai-beats-074315755.html
+
+(Bloomberg) -- Nvidia Corp. partner Hon Hai Precision Industry Co. reported better-than-expected quarterly revenue, signaling sustained and elevated spending on global AI infrastructure.
+
+Most Read from Bloomberg
+
+Sales for the three-months ended in September totaled NT$3.03 trillion ($95.4 billion), up 47%. Analysts on average were looking for NT$2.83 trillion.
+
+Hon Hai's strong sales growth followed a bullish forecast from Micron Technology Inc. last week. Both add to evidence that spending on AI continues to climb. That's even as executives such as OpenAI's Sam Altman and Anthropic PBC's Dario Amodei have called for slowing development of the emerging technology to ensure it stays under human control.
+
+Hon Hai, which is a server assembly partner for Nvidia, has benefited from the construction of cloud infrastructure around the world over the past two years. The Taiwanese company's sales are seen as a check-in for the AI sector as investor concerns grow about overcapacity, rising debt levels and regulatory setbacks. Its share price are up about 10% since the beginning of the year.
+
+The Taipei-based company, also known as Foxconn, still derives a significant chunk of its revenue from its lower-margin business with Apple Inc. Hon Hai is the primary iPhone manufacturer with assembly facilities in China and India, although Apple is diversifying suppliers with the likes of Luxshare Precision Industry Co.
+
+What Bloomberg Intelligence Says
+
+Hon Hai is poised to sustain 25-35% revenue and earnings growth over the next few years, fueled by AI infrastructure demand. Deep vertical integration and a global footprint provide an advantage amid rising server complexity and demand for localized production. The cloud business has surpassed smart consumer electronics as the company's largest segment. Sales are set to climb further as capital spending expands from hyperscalers to neocloud, sovereign AI and enterprise buyers.
+
+Click here for the research.
+
+-Steven Tseng and Rebecca Wang, analysts
+
+Most Read from Bloomberg Businessweek
+
+2026 Bloomberg L.P.

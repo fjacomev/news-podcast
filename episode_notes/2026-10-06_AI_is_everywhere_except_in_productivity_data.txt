@@ -1,0 +1,27 @@
+AI is everywhere, except in productivity data
+
+2026-10-06
+
+Por Hamza Shaban
+
+https://finance.yahoo.com/technology/article/ai-is-everywhere-except-in-productivity-data-100000229.html
+
+For all the backlash against generative AI, the strongest case for its development is the huge economic gains the technology will usher in.
+
+But even if you ignore AI's negative impacts and accept the bullish case on its own terms, meaningful productivity data shows that AI isn't living up to its core efficiency claims.
+
+Yet, at least, we hasten to add. It was literally only last week that OpenAI released Dots.
+
+As Apollo chief economist Torsten Sløk wrote in a blog post on Monday, the AI boom is clearly visible in epic spending sprees and sky-high valuations. But it isn't evident in the most applicable productivity statistics, like the San Francisco Fed's "total factor productivity" (TFP) index, which measures economic output from labor and capital. (Disclosure: Yahoo is a portfolio company of funds managed by affiliates of Apollo Global Management.)
+
+The details really get into the weeds. But these details matter, as they're weeds that make it easy for AI bulls to try to claim a premature victory. But we'll attempt to spell this out as clearly as we can, because it's pretty fascinating.
+
+The beauty of TFP as a productivity statistic is that it holds steady not only the number of hours worked but also the amount of capital invested in the system. And it can show whether companies are producing more without adding more workers or machines.
+
+In other words, it's a proxy for innovation and genuine efficiency. And on this score, AI is nowhere in sight. Sløk's analysis of productivity growth over time shows that TFP is currently sitting "slightly below zero with no sign of acceleration since the AI capex cycle began."
+
+The TFP measure of AI's effect on the economy also comes into play as companies' AI costs are growing. Which means the justification for its use will be too.
+
+These productivity metrics tell a far different story than what AI backers frequently show off — the "per hour" output from labor — which is running above the post-2005 average by 2.5%. It's a juicy stat that gets cited as evidence that AI is already working. (Big Tech investors can show you their swelling portfolios too.)
+
+But strong output per hour can reflect other dynamics at play beyond tech innovation. As Sløk wrote, one way to juice output per hour is by so-called capital deepening, or giving workers better equipment.

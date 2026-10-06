@@ -1,0 +1,71 @@
+Cerebras Systems’ Tough 2026 Continues: It’ll Double Soon According to One of The Biggest Global Banks
+
+2026-10-06
+
+Por Alex Sirois
+
+https://247wallst.com/investing/2026/10/05/cerebras-systems-tough-2026-continues-itll-double-soon-according-to-one-of-the-biggest-global-banks/
+
+Cerebras Systems’ Tough 2026 Continues: It’ll Double Soon According to One of The Biggest Global Banks
+
+Cerebras stock cratered to a post-IPO low while rivals like NVIDIA and AMD surged, yet one of the world's largest banks just doubled down with a price target that implies the market is deeply, fundamentally wrong about this AI chip…
+
+Cerebras Systems (NASDAQ:CBRS) currently trades at $166.43. The average analyst price target is $291.64, which implies 75.2% upside.
+
+Cerebras makes wafer-scale AI chips and runs the Cerebras Inference Cloud, a service built for very fast AI inference. Its customers include OpenAI, AWS, G42, Figma (NYSE:FIG) and GSK (NYSE:GSK | GSK Price Prediction). It has also signed a multi-year OpenAI deal for 750 MW of inference compute valued at more than $20B.
+
+UBS, one of the world’s largest banks, has set the most bullish price target at $330.00. That works out to 98.3% upside, so UBS expects the stock to roughly double. Either the market is missing a hypergrowth story or analysts are anchored to the excitement around the IPO.
+
+Hot IPO Hits a Post-IPO Low
+
+Cerebras fell 19.5% in five sessions and hit a post-IPO low. Shares now trade below the IPO price and are down 46.5% from the first-day close of $311.07.
+
+Second-quarter results showed the crack. GAAP revenue of $180.11M missed the $193.55M consensus, though core revenue grew 103%. Core gross margin slipped to 40.6% from 46.5% the prior quarter. Third-quarter guidance calls for 38% to 40% margin.
+
+The selloff is specific to Cerebras. During the same week, NVIDIA (NASDAQ:NVDA) gained 3.95%.
+
+Why UBS Still Expects the Stock to Double
+
+UBS analyst Timothy Arcuri repeated his Buy rating and $330.00 target. His thesis: the WSE-3 chip delivers up to 6x the inference performance of GPU clusters; demand for inference workloads avoiding HBM memory bottlenecks keeps growing; and sovereign AI contracts like G42 partnerships provide revenue visibility several quarters out.
+
+The backlog supports this. Cerebras has $25.4 billion in remaining performance obligations, excluding AWS and other hyperscalers. Management raised 2026 core revenue guidance to $880 to $890 million and expects to more than triple core revenue in 2027. The average 2027 revenue estimate is $2.95 billion, with average 2027 EPS rising to $1.2737 from $0.9573 90 days ago. Over the past 30 days there were nine up revisions and no cuts.
+
+The catalysts have dates attached. Disaggregated inference with Helios racks from Advanced Micro Devices (NASDAQ:AMD) launches in the fourth quarter and promises 5x more throughput. AWS Bedrock availability follows in early 2027, with revenue from other hyperscalers starting in mid-2027. Management says gross margin bottoms in the third quarter and then moves toward 60% plus.
+
+The analyst ratings are skewed:
+
+- Strong Buy: 3
+
+- Buy: 7
+
+- Hold: 1
+
+- Sell: 0
+
+Arcuri asked on the earnings call whether OpenAI and AWS could make up about two-thirds of next year’s revenue. The CEO replied that OpenAI “will stay a big part next year.” Price targets carry real uncertainty.
+
+Cerebras Falls While Its Chip Rivals Rally
+
+Cerebras is falling on its own while its biggest rivals rally.
+
+NVIDIA is up 25.74% year to date at $233.95. Its average target of $327.70 implies 40.1% upside, with 10 Strong Buys, 48 Buys, 2 Holds and 1 Sell.
+
+AMD is up 196% year to date at $633.91, above its $619.51 target. It has 5 Strong Buys, 39 Buys and 11 Holds.
+
+Cerebras has the largest analyst-implied upside in the group. That gap reflects execution risk that its larger, profitable rivals don’t carry.
+
+Down 46.5% Since Debut as the S&P 500 Gains 12.86% This Year
+
+At $166.43, Cerebras has 75.2% upside to the $291.64 consensus target held by 11 analysts. The stock is close to its 52-week low of $160.81 and far below its high of $386.34.
+
+Cerebras is down 46.5% since its debut. Meanwhile, the S&P 500 is up 12.86% year to date. Cerebras trades at 58.09 times sales and 217x forward earnings.
+
+A Rare Discount Comes With OpenAI Strings Attached
+
+The bull case improves if AWS and the AMD partnership start bringing in revenue on schedule and gross margin bottoms in the third quarter as promised. The backlog already locks in years of growth, and the 2027 estimates keep rising.
+
+The bear case improves if OpenAI moves more work to NVIDIA or if new data centers come online late. When one customer dominates the backlog, it carries more risk than the headline figure suggests. More lockup releases could also keep pressure on the stock.
+
+The evidence leans bullish. The discount looks too steep for a company whose revenue is about to triple, the kind of early signal we cataloged in a free playbook on spotting the next NVIDIA. Still, OpenAI concentration is the risk I’d track most closely in every earnings report.
+
+Contact [email protected] for any questions or corrections.

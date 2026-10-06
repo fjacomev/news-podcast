@@ -1,0 +1,33 @@
+AI data center growth won't be slowed down by angry neighbors: Goldman Sachs
+
+2026-10-06
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/technology/article/ai-data-center-growth-wont-be-slowed-down-by-angry-neighbors-goldman-sachs-161404366.html
+
+Your band of angry neighbors is unlikely to stop that data center from going live in 2027, or so posits Goldman Sachs.
+
+"While US data center development faces increasing political and community opposition, project data and our updated capacity estimates suggest that the US data center growth outlook through 2027 remains largely unchanged," Goldman Sachs strategist Laura Cyr said in a new note on Monday.
+
+Cyr noted that this growth is coming despite increased disapproval from government and voters alike. "Recent developments, including Governor Abbott's directive to halt new Texas data center permits pending ERCOT and the Texas Water Development Board (TWDB) audits, highlight the growing scrutiny," she wrote. "Public sentiment has also turned more negative, with a recent NBC News poll showing 64% of voters would be less likely to support a candidate who backs a local data center, vs 11% who would be more likely,"
+
+Read more: Dirty Jobs' Mike Rowe says skilled labor shortage remains the 'pinch point' for the new economy
+
+Cyr has only made modest tweaks to her data center capacity forecasts against the tense political backdrop. She raised Goldman's year-end 2026 US data center capacity forecast by 5 gigawatts to 64 gigawatts, while reducing its year-end 2027 forecast by 5 gigawatts to 90 gigawatts.
+
+"We now expect US data center power demand to grow 38% (12 GW) in 2026 and 38% (17 GW) in 2027 (all assessed on a December vs December basis)," Cyr said.
+
+Data center builders have their work cut out for them in addressing a range of concerns from local governments and residents.
+
+According to BofA Global Research, up to 75% of a data center's total water consumption happens off-site — not from the cooling towers you can see on campus, but from the power plants.
+
+At the scale at which AI is now operating, millions of liters of water per day are indirectly consumed by routine AI interactions.
+
+The power picture is just as alarming.
+
+GPU-based server electricity demand is growing at roughly 30% per year, BofA said. The problem is no longer whether the US can generate enough total energy — it's whether local grids can physically deliver continuous power to the right location at the right moment without buckling under the strain.
+
+And then there is the materials story, which almost nobody is talking about.
+
+BofA estimated that every single incremental megawatt of new data center capacity embeds roughly 60 to 75 tons of metals — primarily copper — meaning the AI build-out is quietly running a massive, sustained extraction on global commodities markets that was never priced into anyone's model.
