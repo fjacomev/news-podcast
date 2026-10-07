@@ -1,0 +1,31 @@
+Agentic AI is ushering in a CPU 'renaissance'
+
+2026-10-07
+
+Por Hamza Shaban
+
+https://finance.yahoo.com/technology/article/agentic-ai-is-ushering-in-a-cpu-renaissance-100000059.html
+
+The agents have arrived. And so has the hardware that powers them.
+
+Meta's (META) Muse and OpenAI's (OPAI.PVT) Dots have thrust sophisticated digital assistants at the front of their AI sales pitch. And in the same way that the race to train increasingly competent models has catapulted GPU makers to the top of the stock charts, the chipmakers sustaining AI agents are enjoying a "renaissance," Citi analyst Atif Malik put it in a note to clients on Tuesday upgrading AMD's price target.
+
+The potential success for AI agents has forced a rethink of the CPU market. Malik wrote that the total market for CPUs should be expanded from $29 billion in 2025 to $300 billion in 2030, in the wake of Meta's Muse debut.
+
+With Meta already one of AMD's biggest customers, Malki noted, and AMD is thought to be the biggest beneficiary of this agentic shift, ready to catch the money as tech companies pour resources into running AI agents. Hence the price upgrade.
+
+As Bank of America analysts led by Vivek Arya wrote in a note last week, chip suppliers have a lot going for them right now: increased AI agent adoption by consumers and businesses, heightened competition across AI labs, and a limited supply of chips.
+
+On top of that, the AI safety debate, the team noted, will probably work as a positive catalyst, especially for agents, and as more resources shift from training models to actually putting them to work.
+
+"Any pacing or addition of safety guardrails to frontier models is likely to increase not reduce compute requirements and shift more demand to faster growing inference from training," they wrote.
+
+CPU's are becoming a bigger part of the AI equation, which in turn is lifting the tickers behind them. While GPUs continue to dominate data center spending, CPUs from Intel (INTC), and AMD are poised to rake it in from the growth of AI agents.
+
+As Malik summed up, "We still expect AMD to be the key beneficiary of the CPU renaissance and Intel as a secondary beneficiary."
+
+Hamza Shaban is a reporter for Yahoo Finance covering markets and the economy. Follow Hamza on X @hshaban.
+
+Click here for the latest technology news that will impact the stock market
+
+Read the latest financial and business news from Yahoo Finance
