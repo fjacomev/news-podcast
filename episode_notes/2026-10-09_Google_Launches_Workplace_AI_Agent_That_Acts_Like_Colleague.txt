@@ -1,0 +1,29 @@
+Google Launches Workplace AI Agent That Acts Like Colleague
+
+2026-10-09
+
+Por Davey Alba; Julia Love
+
+https://finance.yahoo.com/technology/ai/articles/google-launches-workplace-ai-agent-141743931.html
+
+(Bloomberg) -- Alphabet Inc.'s Google announced a Gemini agent for the workplace, ramping up competition with OpenAI, Anthropic PBC and Microsoft Corp. for corporate customers.
+
+Most Read from Bloomberg
+
+The artificial intelligence tool can be used for a range of tasks, from answering questions to content creation and coding, the company said on Thursday. The Gemini agent operates inside Google apps, including Gmail, Drive, Docs and Calendar, Google said.
+
+Google's new agent is built to work like a colleague rather than a chatbot, with its own corporate identity and the ability to pursue a goal across several days, the company said. That goes beyond Google's previous agent offerings, which in many cases responded to prompts or ran preset tasks within a single app.
+
+"It chooses the best model for the job, has built-in cost controls, and most importantly, has the security, administration and governance required by your company," Google Cloud Chief Executive Officer Thomas Kurian said in a blog post announcing the new agent.
+
+The launch is aimed at winning business customers that Google needs to justify its hundreds of billions of dollars in AI infrastructure spending. The company is in a heated race with Microsoft, OpenAI, Anthropic and Amazon.com Inc. to monetize those investments through lucrative corporate contracts.
+
+Some Google employees have expressed concerns that the company's capabilities at the cutting edge have fallen behind rivals, particularly in coding tasks. Google has begun sharing its next, improved flagship artificial intelligence model, Gemini 4 Argon, with trusted cybersecurity partners.
+
+Alphabet shares were little changed in New York.
+
+(Updated with more context starting in the third paragraph.)
+
+Most Read from Bloomberg Businessweek
+
+2026 Bloomberg L.P.

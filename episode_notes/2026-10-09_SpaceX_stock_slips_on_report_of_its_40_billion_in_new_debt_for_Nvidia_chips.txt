@@ -1,0 +1,33 @@
+SpaceX stock slips on report of its $40 billion in new debt for Nvidia chips
+
+2026-10-09
+
+Por Pras Subramanian
+
+https://finance.yahoo.com/markets/stocks/article/spacex-stock-slips-on-report-of-its-40-billion-in-new-debt-for-nvidia-chips-140223011.html
+
+SpaceX (SPCX) stock slipped on Wednesday as the Elon Musk-led space and AI company is reportedly set to tap the debt markets in a big way.
+
+Bloomberg reported that SpaceX is looking to issue $40 billion in new debt to buy Nvidia chips for its data centers. Per the report, the split would be $10 billion in bank loans and $30 billion in investment-grade debt, with bond investment giant PIMCO looking at the deal, and Apollo Global leading the financing. (Disclosure: Yahoo is a portfolio company of funds managed by affiliates of Apollo Global Management.)
+
+SpaceX stock closed down 2.5%.
+
+The data center business has been good for SpaceX. The company's data centers in Memphis, Tenn., dubbed Colossus 1 and 2, are generating billions per month in recurring revenue from AI compute services.
+
+Last month, SpaceX CFO Bret Johnsen updated investors on the size of the company's AI compute business.
+
+"We're on track, or we believe we're on track, to hit $100 billion ARR," Johnsen said about SpaceX's overall annual recurring revenue target, as AI compute deals helped fuel the growth. "What I would tell you, an update to that is that just earlier this month we closed another hosting deal, and that translates into about $1.11 billion a month starting December 1st of this year, which is another roughly $13 billion of ARR."
+
+It's a big feather in SpaceX's cap, which traditionally relied on rocket launches and Starlink internet service as its main revenue drivers.
+
+Yorkville Ives analyst Dan Ives, a notable SpaceX bull on Wall Street, said the deal provided "firepower for [SpaceX's] AI buildout," even if the debt picture is growing.
+
+"The debate is whether a company this early in its public life should carry that much leverage. We think the contracted backlog in AI and the cash generation of Starlink give SpaceX the capacity to service it, and we would rather see this compute financed and deployed than deferred," Ives said in a note published Wednesday morning.
+
+Ives has an Outperform rating on SpaceX and a $225 price target.
+
+Earlier this week, Morgan Stanley's Adam Jonas wrote that SpaceX stock was "cheap" and that now is the time to buy ahead of the upcoming Starship 15 launch, likely scheduled for late October or November.
+
+Click here for the latest technology news that will impact the stock market.
+
+Read the latest financial and business news from Yahoo Finance

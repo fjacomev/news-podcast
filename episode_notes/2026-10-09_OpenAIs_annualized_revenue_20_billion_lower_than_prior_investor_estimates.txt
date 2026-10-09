@@ -1,0 +1,29 @@
+OpenAI's annualized revenue $20 billion lower than prior investor estimates
+
+2026-10-09
+
+Por Daniel Howley
+
+https://finance.yahoo.com/technology/article/openais-annualized-revenue-20-billion-lower-than-prior-investor-estimates-174058048.html
+
+OpenAI's (OPAI.PVT) annualized revenue is reportedly $20 billion short of prior estimates.
+
+According to the Financial Times, the AI startup's annualized revenue topped out at roughly $50 billion as of September, well below the $70 billion outlets previously estimated.
+
+The dramatic swing is a result of investor miscalculations. The FT said investors who initially cited the $70 billion figure arrived at the number by comparing OpenAI's revenue with Anthropic's (ANTH.PVT).
+
+Annualized revenue takes a snapshot of revenue for a certain period and extrapolates it across a year. But OpenAI and Anthropic calculate their annualized revenue differently.
+
+Investors initially tried to determine whether OpenAI's sales reached $40 billion in August. Later, when OpenAI told investors that revenue grew 70%, they added that amount to the initial $40 billion estimate and landed on $70 billion.
+
+At $50 billion, OpenAI's annualized revenue would now fall below Anthropic's $65 billion in annualized sales.
+
+OpenAI is widely anticipated to kick off its initial public offering sometime in early 2027, while Anthropic is rumored to hit the public market sometime before Thanksgiving, with its public S-1 investor prospectus expected to land any day now.
+
+Both companies are battling for enterprise customers, offering up products including coding and general-purpose AI agents.
+
+Last week, OpenAI held its annual developers conference, where it debuted its new Dots AI agents for enterprise workers and its latest model, GPT-6.1 Sol.
+
+Click here for the latest technology news that will impact the stock market
+
+Read the latest financial and business news from Yahoo Finance
