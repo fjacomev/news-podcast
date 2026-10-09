@@ -1,0 +1,35 @@
+The tech industry wants you to run AI models at home, but it’s not for everyone
+
+2026-10-09
+
+Por Daniel Howley
+
+https://finance.yahoo.com/technology/article/the-tech-industry-wants-you-to-run-ai-models-at-home-but-its-not-for-everyone-195314548.html
+
+Microsoft (MSFT) on Wednesday unveiled its Nvidia-powered Surface Laptop Ultra, designed to let users run AI models at home without relying on the cloud.
+
+Starting at $2,599, the Surface Laptop Ultra runs on Nvidia's (NVDA) Arm-based RTX Spark, which offers upwards of 128GB of onboard memory.
+
+Most consumers and enterprise users access AI platforms through cloud services like OpenAI's (OPAI.PVT) ChatGPT, Anthropic's (ANTH.PVT) Claude, Google's (GOOG, GOOGL) Gemini, or Meta's (META) Muse. Microsoft and Nvidia, as well as rivals Apple (AAPL), Intel (INTC), and AMD (AMD), are increasingly pushing the concept of running AI software in the home.
+
+The thinking is pretty straightforward. Rather than having to use an online AI service, you can instead install an app on your computer, download an AI model of your choice, and get to work.
+
+There are some pretty compelling reasons to run AI services on your own machine if you're so inclined. But it's also not for everyone.
+
+When setting up your own AI system makes sense
+
+Running AI locally means you can use AI apps and agents how you see fit without usage limits. You can also choose from a variety of open-weight models from numerous AI developers, such as Google, Meta, and Nvidia, or from Chinese model developers like Moonshot AI and Alibaba Cloud.
+
+Unlike closed-weight models, like OpenAI's GPT-6 Astra or Anthropic's Opus 5.5, open-weight models can be tuned to some extent. But the primary reason users download them is that they're largely free.
+
+Local AI also provides better overall privacy, because your data stays on your machine rather than being sent up to the cloud, an important consideration for people working in fields such as law, medicine, or financial services.
+
+More advanced users have also leaned into running AI on their systems to take advantage of AI agents like OpenClaw that can organize your email, launch and operate apps, and make purchases on your behalf.
+
+The interest in agents sent early adopters scrambling for low-cost computers like Apple's Mac mini, which quickly became hard to come by in AI hotbeds like Silicon Valley.
+
+More recently, AI agents like Meta's Muse and OpenAI's Dots have introduced similar capabilities via cloud computing. But to take full advantage of those bots, you have to connect things like your Gmail, Uber, and other accounts to them, which means putting a lot of trust in Meta and OpenAI to protect your information.
+
+When to stick to the cloud
+
+While using your computer to run local AI models and agents provides improved privacy and enhanced customization options, doing so is a lot more complicated than simply logging into ChatGPT or Claude.
