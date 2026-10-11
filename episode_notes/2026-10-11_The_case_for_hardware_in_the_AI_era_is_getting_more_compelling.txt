@@ -1,0 +1,31 @@
+The case for hardware in the AI era is getting more compelling
+
+2026-10-11
+
+Por Hamza Shaban
+
+https://finance.yahoo.com/technology/article/the-case-for-hardware-in-the-ai-era-is-getting-more-compelling-100000428.html
+
+The term now seems almost quaint, the "iPhone killer."
+
+For almost two decades, tech companies have attempted to dethrone the king of gadgets without success. The phone market has since matured, and consumers have their pick that's been so "good enough" that Apple (AAPL) struggles to convince people to upgrade.
+
+What's urgently driving the tech world now isn't an effort to directly subvert the smartphone but to find novel ways to package AI into old and new hardware.
+
+And the case for doing it is becoming more persuasive.
+
+Apple itself is getting in on the action. As with its lock on apps and services, Cupertino acts as an innovative landlord, extracting rents. And, as Yorkville Ives's Dan Ives put it, the company is looking to extend that strategy as "the toll collector on the consumer AI highway."
+
+"Much of the debate has centered on whether Apple arrived early or late to generative AI," he wrote in a note earlier this week. "We think the question that matters more is how well the company can put useful AI in front of an installed base of more than 2.5 billion active devices and 1.5 billion iPhones."
+
+For any AI-infused device, trust will be key. And that's where Apple shines. While the new generation of AI labs wrestles with muddy debates about safety, mass unemployment, security vulnerabilities, and misuse, Apple has quietly gone about its business, burnishing its reputation.
+
+No rogue AI agents or apocalyptic AI takeovers here. Just an upgraded Siri that everyone has been waiting for, and more ways to use apps that you already rely upon to get things done.
+
+In a roundabout way, new AI-powered hardware might be the catalyst to weaken the dominance of the smartphone as the be-all and end-all consumer form factor.
+
+Microsoft this week unveiled its Nvidia-powered Surface Laptop Ultra, designed to let users run AI models at home without relying on the cloud. That's another pathway for AI hardware to succeed. The idea of running your own micro-data center at home might not be for everyone, but it has a certain appeal when you look at how much AI can cost on the cloud.
+
+Rather than use an online AI service, you can instead load an app on your computer, download the model of your choice, and get busy — essentially for the cost of your computer and power bill. For consumers and professionals whose main concern is maintaining privacy in the AI era, running a capable machine of your own has special appeal.
+
+But perhaps Apple will join Microsoft in doing this, and maybe the iPhone will still be the point guard for a person's DIY AI model at home.

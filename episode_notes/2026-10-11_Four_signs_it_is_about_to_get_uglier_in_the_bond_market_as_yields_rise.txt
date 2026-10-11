@@ -1,0 +1,57 @@
+Four signs it is about to get uglier in the bond market as yields rise
+
+2026-10-11
+
+Por Gertrude Chavez-Dreyfuss; Suzanne McGee; Laura Matthews
+
+https://finance.yahoo.com/markets/options/articles/four-signs-uglier-bond-market-100537045.html
+
+By Gertrude Chavez-Dreyfuss, Suzanne McGee and Laura Matthews
+
+NEW YORK, Oct 9 (Reuters) - It is white-knuckle time in the bond market.
+
+US Treasury yields have risen sharply since the war with Iran began in February, with the 10-year yield up some 135 basis points to 5.23% and the 30-year yield up around 110 basis points from its March low to 5.614%. Both are trading at levels last seen more than two decades ago.
+
+Investors are watching whether bond selling is starting to create its own momentum. Some key technical measures suggest another surge to even-higher yields could be ahead, creating a feedback loop that amplifies the market stress, though there are also reasons to believe that buyers will soon step in, seeking to lock in yields at their most investor-friendly levels since George W. Bush was president.
+
+"People in the market are recalibrating their expectations," said Dustin Reid, fixed income strategist at Mackenzie Investments.
+
+Here are four signs that the selling could worsen.
+
+VOLATILITY IS RISING IN RATE OPTIONS
+
+Investors are seeking out protection against rising yields, referred to as the "payer skew," in the options market. Investors use these markets to insure their portfolios against a sharp move in yields without having to sell their Treasury holdings.
+
+Demand for short-term protection against a jump in 10-year US swap rates has intensified, pushing the cost of insuring against a 200-basis-point rate rise over the next three months to 132 bps on Monday, the highest since the March 2023 banking crisis triggered by the collapse of Silicon Valley Bank.
+
+Swap rates refer to the cost investors pay to lock in a fixed interest rate instead of paying a floating rate.
+
+While options are tied to swap rates rather than Treasury yields, the two typically move together, making the surge in payer skew an indication of concern about the risk of higher long-term Treasury yields.
+
+Implied volatility, a key input in option prices, has climbed to 21.4 basis points for one-month options on 10-year swap rates, the highest since late March, reflecting growing uncertainty over the path of long-term yields.
+
+AI BUILDOUT RESHAPES CREDIT MARKETS
+
+A major contributor to the selloff has been a surge in corporate issuance to support the AI buildout, investors said. Spreads have remained tight, but buyers of longer-term bonds issued by AI hyperscalers are using the Treasury market to hedge their duration risk, a measure of exposure to rising interest rates — a practice that lately has spurred selling.
+
+"When a transaction prices midday, in the afternoon everyone is selling Treasury futures," said Neil Sun, portfolio manager at RBC BlueBay Asset Management, who focuses on investment-grade credit. Those who aren't hedging sometimes sell Treasuries outright to make room for higher-yielding investment-grade bonds.
+
+Goldman Sachs predicts that hyperscalers could sell a record $420 billion in debt next year, which likely means more hedging or selling of government securities.
+
+MORTGAGE HEDGING IS GATHERING PACE
+
+Investors exposed to mortgage assets are also hedging against the selloff in Treasuries. As rates rise, the expected life of mortgage-backed securities extends, making them more sensitive to further moves in yields in what is known as duration risk.
+
+Investors often respond by increasing interest-rate hedges to offset that added duration risk, a process known as convexity hedging. That includes selling of Treasury futures — which can add to selling pressure across bond markets.
+
+"The market is carrying a substantial cohort of mortgages originated over the past three years at coupons relatively close to current mortgage rates," said Mike Riddle, chief executive officer at Eris Innovations, a Chicago-based futures and options products developer. He said that could mean still more hedging, adding that nine large trades this month show investors in mortgages scrambling to protect their positions.
+
+YIELD CURVE STEEPENING
+
+The renewed steepening of the 10-year/30-year yield curve is another warning, suggesting investors are demanding a greater premium to hold the longest-dated government debt. The 10s-30s spread widened to about 37 basis points this week, as the 30-year yield rose faster than the 10-year's yield.
+
+While the curve has been steeper before, including in late July when that spread reached 52 basis points, the latest move is unfolding with these yields already near multidecade highs. That suggests the move is increasingly reflecting a rising term premium, rather than a broad repricing of the Fed's policy path. A higher term premium suggests investors are demanding higher compensation to hold long-term debt.
+
+"There's just more interest in the 10s than the 30s on the part of investors, who see there's much more potential for things to go wrong in the fiscal picture" in the United States over the longer time frame, said Alex Morris, co-founder of fixed income asset management firm F/m Investments. "Essentially, people are telling the Treasury, 'I don't know if you guys have got this under control.'"
+
+(Reporting by Gertrude Chavez-Dreyfuss and Laura Matthews in New York and Suzanne McGee in Providence; Editing by Colin Barr and David Gaffen)
