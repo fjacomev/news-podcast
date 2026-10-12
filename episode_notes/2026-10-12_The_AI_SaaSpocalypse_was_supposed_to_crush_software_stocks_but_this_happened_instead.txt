@@ -1,0 +1,27 @@
+The AI SaaSpocalypse was supposed to crush software stocks — but this happened instead
+
+2026-10-12
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/markets/article/the-ai-saaspocalypse-was-supposed-to-crush-software-stocks--but-this-happened-instead-163021702.html
+
+So much for the SaaSpocalypse eating all software stocks alive until they hit $0.
+
+The overused 2026 market slang — which promoted the view that AI players like Anthropic (ANTH.PVT) and OpenAI (OPAI.PVT) would crush the business models of software-as-a-service companies — should be put to bed. Because after a stretch where this narrative hammered many software players, most have rallied sharply back.
+
+And with good reason.
+
+The broader software group and the IGV index have rallied significantly since the end of June, JPMorgan strategist Samik Chatterjee pointed out (see the chart below), up 21% since the end of the month relative to the broader S&P 500 (^GSPC), up 4%. Some of the top performers include Paycom (PAYC), DocuSign (DOCU), Workday (WDAY), Salesforce (CRM), Cloudflare (NET), Twilio (TWLO), and Microsoft (MSFT).
+
+The broader rally has, in part, been helped by a valuation multiple rerating across infrastructure and application software companies, Chatterjee noted.
+
+Renewed belief in software stocks could be sustained into year-end as investors digest third quarter earnings reports.
+
+"Heading into C3Q earnings, we expect the broader share price momentum for the group to continue with infrastructure software companies leading the way on account of the AI-led tailwinds driving robust beats on both top-line and earnings, albeit potentially only in line on gross margins," Chatterjee said.
+
+He added, "We expect application software companies to also participate in the positive share price momentum for the sector into the year-end on account of raises to full-year guides, aided by building momentum in AI monetization, which is steadily building as incremental revenue on top of the core businesses, which range from modestly decelerating to stable growth across our coverage companies."
+
+Click here for in-depth analysis of the latest stock market news and events moving stock prices
+
+Read the latest financial and business news from Yahoo Finance
