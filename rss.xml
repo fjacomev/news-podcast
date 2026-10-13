@@ -7,7 +7,7 @@
     <link>https://fjacomev.github.io/news-podcast</link>
     <description>Podcast personal de noticias, leido en voz local</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 12:41:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 15:41:15 GMT</lastBuildDate>
     <image>
       <url>https://fjacomev.github.io/news-podcast/cover.jpg</url>
       <title>Fernando AI News</title>
@@ -18,6 +18,124 @@
     <itunes:summary>Podcast personal de noticias, leido en voz local</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
+
+    <item>
+      <title>Meta is betting the house on AI — CFO warns the stakes are &#x27;really bad&#x27; if it flops</title>
+      <author>Yahoo Finance</author>
+      <description>Meta is betting the house on AI — CFO warns the stakes are &#x27;really bad&#x27; if it flops
+
+2026-10-13
+
+Por Yahoo Finance
+
+https://finance.yahoo.com/technology/article/meta-is-betting-the-house-on-ai--cfo-warns-the-stakes-are-really-bad-if-it-flops-133413709.html
+
+Oh, to be Meta&#x27;s (META) very well-regarded CFO, Susan Li right now.
+
+Li — who has worked at Meta for 18 years, mostly in financial roles — is the person tasked with overseeing the company&#x27;s financial statements and ensuring Meta invests in projects with the highest potential return for investors. It&#x27;s also her job to assess risk and push back against the growth-at-all-costs duo of Mark Zuckerberg and Alexandr Wang.
+
+Right now, the job sure seems like a more Herculean task compared to years past.
+
+Wang revealed in a new episode of Stripe (STRI.PVT) co-founder John Collison&#x27;s Cheeky Pints podcast that Li pulled him aside &quot;many times&quot; during an executive offsite in Hawaii to warn that if the company&#x27;s newest model didn&#x27;t work, it would be bad news financially.
+
+&quot;And I think this is, and I kind of viscerally remember this. We were in Hawaii at the end of last year. It was kind of like the whole exec team got together,&quot; Wang said. &quot;And yeah, Susan pulled me aside many times and was like, you know, I just want to tell you if this doesn&#x27;t work, this is going to be really, really bad. It&#x27;s going to be very, very bad in financial terms. It&#x27;s like, it has to be good. If it&#x27;s good, it&#x27;s all good. We&#x27;re great. But if it&#x27;s bad, it&#x27;s really, really, really bad.&quot;
+
+Meta&#x27;s new model appears to work quite well. Now people just need to pay for it to justify the gargantuan investment Li signed off on.
+
+The company officially debuted its next-generation frontier AI models, Muse Wonder and Muse Wonder Full, this week from its Meta Superintelligence Labs.
+
+These frontier models represent a dramatic surge in intelligence by featuring deep multistep reasoning, dynamic memory retention, and native multitool execution capabilities across web and desktop environments.
+
+&quot;Yesterday&#x27;s launch of Muse Wonder and Wonder Full is Meta&#x27;s first frontier-class release and, in our view, is at or near parity with leading frontier labs,&quot; said Pivotal Research analyst Jeff Wlodarczak. &quot;On Meta&#x27;s benchmark set Wonder Full leads on roughly 7 of 14 tests in Meta&#x27;s benchmark set (including internal ones), with strong results on long horizon coding, legal agents, and memory, while scoring second on the independent Artificial Analysis Index (56 vs 58 for Claude Opus 5.5. Wonder is priced at $4/$20 per million tokens, matching Opus 5.5, while the stronger Wonder Full is sold only through Muse Code subscriptions ($50-$200 a month) rather than the API, which supports our view that Meta will monetize through paid tiers and enterprise rather than open weights.&quot;</description>
+      <content:encoded><![CDATA[<p>Meta is betting the house on AI — CFO warns the stakes are &#x27;really bad&#x27; if it flops</p><p>2026-10-13</p><p>Por Yahoo Finance</p><p>https://finance.yahoo.com/technology/article/meta-is-betting-the-house-on-ai--cfo-warns-the-stakes-are-really-bad-if-it-flops-133413709.html</p><p>Oh, to be Meta&#x27;s (META) very well-regarded CFO, Susan Li right now.</p><p>Li — who has worked at Meta for 18 years, mostly in financial roles — is the person tasked with overseeing the company&#x27;s financial statements and ensuring Meta invests in projects with the highest potential return for investors. It&#x27;s also her job to assess risk and push back against the growth-at-all-costs duo of Mark Zuckerberg and Alexandr Wang.</p><p>Right now, the job sure seems like a more Herculean task compared to years past.</p><p>Wang revealed in a new episode of Stripe (STRI.PVT) co-founder John Collison&#x27;s Cheeky Pints podcast that Li pulled him aside &quot;many times&quot; during an executive offsite in Hawaii to warn that if the company&#x27;s newest model didn&#x27;t work, it would be bad news financially.</p><p>&quot;And I think this is, and I kind of viscerally remember this. We were in Hawaii at the end of last year. It was kind of like the whole exec team got together,&quot; Wang said. &quot;And yeah, Susan pulled me aside many times and was like, you know, I just want to tell you if this doesn&#x27;t work, this is going to be really, really bad. It&#x27;s going to be very, very bad in financial terms. It&#x27;s like, it has to be good. If it&#x27;s good, it&#x27;s all good. We&#x27;re great. But if it&#x27;s bad, it&#x27;s really, really, really bad.&quot;</p><p>Meta&#x27;s new model appears to work quite well. Now people just need to pay for it to justify the gargantuan investment Li signed off on.</p><p>The company officially debuted its next-generation frontier AI models, Muse Wonder and Muse Wonder Full, this week from its Meta Superintelligence Labs.</p><p>These frontier models represent a dramatic surge in intelligence by featuring deep multistep reasoning, dynamic memory retention, and native multitool execution capabilities across web and desktop environments.</p><p>&quot;Yesterday&#x27;s launch of Muse Wonder and Wonder Full is Meta&#x27;s first frontier-class release and, in our view, is at or near parity with leading frontier labs,&quot; said Pivotal Research analyst Jeff Wlodarczak. &quot;On Meta&#x27;s benchmark set Wonder Full leads on roughly 7 of 14 tests in Meta&#x27;s benchmark set (including internal ones), with strong results on long horizon coding, legal agents, and memory, while scoring second on the independent Artificial Analysis Index (56 vs 58 for Claude Opus 5.5. Wonder is priced at $4/$20 per million tokens, matching Opus 5.5, while the stronger Wonder Full is sold only through Muse Code subscriptions ($50-$200 a month) rather than the API, which supports our view that Meta will monetize through paid tiers and enterprise rather than open weights.&quot;</p>]]></content:encoded>
+      <pubDate>Tue, 13 Oct 2026 15:41:14 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-10-13_Meta_is_betting_the_house_on_AI_CFO_warns_the_stakes_are_really_bad_if_it_flops.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-10-13_Meta_is_betting_the_house_on_AI_CFO_warns_the_stakes_are_really_bad_if_it_flops.mp3" length="1565811" type="audio/mpeg"/>
+      <itunes:duration>00:02:51</itunes:duration>
+      <itunes:author>Yahoo Finance</itunes:author>
+      <itunes:summary>Meta is betting the house on AI — CFO warns the stakes are &#x27;really bad&#x27; if it flops
+
+2026-10-13
+
+Por Yahoo Finance
+
+https://finance.yahoo.com/technology/article/meta-is-betting-the-house-on-ai--cfo-warns-the-stakes-are-really-bad-if-it-flops-133413709.html
+
+Oh, to be Meta&#x27;s (META) very well-regarded CFO, Susan Li right now.
+
+Li — who has worked at Meta for 18 years, mostly in financial roles — is the person tasked with overseeing the company&#x27;s financial statements and ensuring Meta invests in projects with the highest potential return for investors. It&#x27;s also her job to assess risk and push back against the growth-at-all-costs duo of Mark Zuckerberg and Alexandr Wang.
+
+Right now, the job sure seems like a more Herculean task compared to years past.
+
+Wang revealed in a new episode of Stripe (STRI.PVT) co-founder John Collison&#x27;s Cheeky Pints podcast that Li pulled him aside &quot;many times&quot; during an executive offsite in Hawaii to warn that if the company&#x27;s newest model didn&#x27;t work, it would be bad news financially.
+
+&quot;And I think this is, and I kind of viscerally remember this. We were in Hawaii at the end of last year. It was kind of like the whole exec team got together,&quot; Wang said. &quot;And yeah, Susan pulled me aside many times and was like, you know, I just want to tell you if this doesn&#x27;t work, this is going to be really, really bad. It&#x27;s going to be very, very bad in financial terms. It&#x27;s like, it has to be good. If it&#x27;s good, it&#x27;s all good. We&#x27;re great. But if it&#x27;s bad, it&#x27;s really, really, really bad.&quot;
+
+Meta&#x27;s new model appears to work quite well. Now people just need to pay for it to justify the gargantuan investment Li signed off on.
+
+The company officially debuted its next-generation frontier AI models, Muse Wonder and Muse Wonder Full, this week from its Meta Superintelligence Labs.
+
+These frontier models represent a dramatic surge in intelligence by featuring deep multistep reasoning, dynamic memory retention, and native multitool execution capabilities across web and desktop environments.
+
+&quot;Yesterday&#x27;s launch of Muse Wonder and Wonder Full is Meta&#x27;s first frontier-class release and, in our view, is at or near parity with leading frontier labs,&quot; said Pivotal Research analyst Jeff Wlodarczak. &quot;On Meta&#x27;s benchmark set Wonder Full leads on roughly 7 of 14 tests in Meta&#x27;s benchmark set (including internal ones), with strong results on long horizon coding, legal agents, and memory, while scoring second on the independent Artificial Analysis Index (56 vs 58 for Claude Opus 5.5. Wonder is priced at $4/$20 per million tokens, matching Opus 5.5, while the stronger Wonder Full is sold only through Muse Code subscriptions ($50-$200 a month) rather than the API, which supports our view that Meta will monetize through paid tiers and enterprise rather than open weights.&quot;</itunes:summary>
+    </item>
+
+    <item>
+      <title>Netflix could stop its stock free-fall with these 4 actions: KeyBanc analyst</title>
+      <author>Brian Sozzi</author>
+      <description>Netflix could stop its stock free-fall with these 4 actions: KeyBanc analyst
+
+2026-10-13
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/markets/stocks/article/netflix-could-stop-its-stock-free-fall-with-these-4-actions-keybanc-analyst-130507914.html
+
+Netflix (NFLX) won&#x27;t be spending the rest of 2026 integrating its once-sought-after prize in Warner Bros. Discovery. That pure joy goes to the well-paid exec team cobbled together by Skydance (SKYD) media titan David Ellison.
+
+But what the streaming pioneer should do, Wall Street says, is articulate a plan on its Oct. 20 earnings call to arrest the stock&#x27;s crash. Shares are down 25% this year and have steadily declined since mid-April.
+
+KeyBanc analyst Justin Patterson said in a note on Tuesday that he would like to hear four actions from Netflix management next week.
+
+We don&#x27;t think Patterson is alone in hoping for clarity on these fronts:
+
+-       &quot;The first action is content investment. We are already seeing this in areas like live events (which represents ~5% of content spend, and will continue to be measured) and licensed (which underperformed in 2H25 and has had improved content coming in over the course of 2026). As the content quality improves, we believe this could support both pricing power and ads monetization.&quot;
+
+-       &quot;The second action is product. Again, this has been occurring over the past year through areas like the new home screen and AI recommendation models. The new home screen is particularly interesting as it promoted live events and gaming more at the start, which we believe had some negative impact on engagement (i.e., recommendation algorithms were less optimized here than for series and films). As Netflix has learned more about how to promote this content, we believe this headwind is fading. We also believe there is more potential for TF1 type deals. Over a longer time horizon, we believe both gaming and potentially another ad tier could become more meaningful levers.&quot;
+
+-       &quot;The third action is operating expense reductions. Puck recently wrote an article about Netflix planning a roughly 5% workforce reduction, which would correspond to 800-850 employees. From 2019-2025, Netflix&#x27;s headcount has increased from ~8,600 to ~16,000. Given the size of the company today and potential savings from AI, we suspect there is room for some degree of expense realignment.&quot;
+
+-       &quot;Finally, we believe it could make sense to explore a dividend. Most media and entertainment stocks have paid dividends, and we have observed more large-cap internet companies doing the same to broaden the shareholder base (e.g., Alphabet, Meta (META). While this would not change the growth discussion, we do believe it could improve investor sentiment, support the P/E multiple, and potentially lessen the focus on large M&amp;A.&quot;</description>
+      <content:encoded><![CDATA[<p>Netflix could stop its stock free-fall with these 4 actions: KeyBanc analyst</p><p>2026-10-13</p><p>Por Brian Sozzi</p><p>https://finance.yahoo.com/markets/stocks/article/netflix-could-stop-its-stock-free-fall-with-these-4-actions-keybanc-analyst-130507914.html</p><p>Netflix (NFLX) won&#x27;t be spending the rest of 2026 integrating its once-sought-after prize in Warner Bros. Discovery. That pure joy goes to the well-paid exec team cobbled together by Skydance (SKYD) media titan David Ellison.</p><p>But what the streaming pioneer should do, Wall Street says, is articulate a plan on its Oct. 20 earnings call to arrest the stock&#x27;s crash. Shares are down 25% this year and have steadily declined since mid-April.</p><p>KeyBanc analyst Justin Patterson said in a note on Tuesday that he would like to hear four actions from Netflix management next week.</p><p>We don&#x27;t think Patterson is alone in hoping for clarity on these fronts:</p><p>-       &quot;The first action is content investment. We are already seeing this in areas like live events (which represents ~5% of content spend, and will continue to be measured) and licensed (which underperformed in 2H25 and has had improved content coming in over the course of 2026). As the content quality improves, we believe this could support both pricing power and ads monetization.&quot;</p><p>-       &quot;The second action is product. Again, this has been occurring over the past year through areas like the new home screen and AI recommendation models. The new home screen is particularly interesting as it promoted live events and gaming more at the start, which we believe had some negative impact on engagement (i.e., recommendation algorithms were less optimized here than for series and films). As Netflix has learned more about how to promote this content, we believe this headwind is fading. We also believe there is more potential for TF1 type deals. Over a longer time horizon, we believe both gaming and potentially another ad tier could become more meaningful levers.&quot;</p><p>-       &quot;The third action is operating expense reductions. Puck recently wrote an article about Netflix planning a roughly 5% workforce reduction, which would correspond to 800-850 employees. From 2019-2025, Netflix&#x27;s headcount has increased from ~8,600 to ~16,000. Given the size of the company today and potential savings from AI, we suspect there is room for some degree of expense realignment.&quot;</p><p>-       &quot;Finally, we believe it could make sense to explore a dividend. Most media and entertainment stocks have paid dividends, and we have observed more large-cap internet companies doing the same to broaden the shareholder base (e.g., Alphabet, Meta (META). While this would not change the growth discussion, we do believe it could improve investor sentiment, support the P/E multiple, and potentially lessen the focus on large M&amp;A.&quot;</p>]]></content:encoded>
+      <pubDate>Tue, 13 Oct 2026 15:40:32 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-10-13_Netflix_could_stop_its_stock_free-fall_with_these_4_actions_KeyBanc_analyst.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-10-13_Netflix_could_stop_its_stock_free-fall_with_these_4_actions_KeyBanc_analyst.mp3" length="1541769" type="audio/mpeg"/>
+      <itunes:duration>00:02:48</itunes:duration>
+      <itunes:author>Brian Sozzi</itunes:author>
+      <itunes:summary>Netflix could stop its stock free-fall with these 4 actions: KeyBanc analyst
+
+2026-10-13
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/markets/stocks/article/netflix-could-stop-its-stock-free-fall-with-these-4-actions-keybanc-analyst-130507914.html
+
+Netflix (NFLX) won&#x27;t be spending the rest of 2026 integrating its once-sought-after prize in Warner Bros. Discovery. That pure joy goes to the well-paid exec team cobbled together by Skydance (SKYD) media titan David Ellison.
+
+But what the streaming pioneer should do, Wall Street says, is articulate a plan on its Oct. 20 earnings call to arrest the stock&#x27;s crash. Shares are down 25% this year and have steadily declined since mid-April.
+
+KeyBanc analyst Justin Patterson said in a note on Tuesday that he would like to hear four actions from Netflix management next week.
+
+We don&#x27;t think Patterson is alone in hoping for clarity on these fronts:
+
+-       &quot;The first action is content investment. We are already seeing this in areas like live events (which represents ~5% of content spend, and will continue to be measured) and licensed (which underperformed in 2H25 and has had improved content coming in over the course of 2026). As the content quality improves, we believe this could support both pricing power and ads monetization.&quot;
+
+-       &quot;The second action is product. Again, this has been occurring over the past year through areas like the new home screen and AI recommendation models. The new home screen is particularly interesting as it promoted live events and gaming more at the start, which we believe had some negative impact on engagement (i.e., recommendation algorithms were less optimized here than for series and films). As Netflix has learned more about how to promote this content, we believe this headwind is fading. We also believe there is more potential for TF1 type deals. Over a longer time horizon, we believe both gaming and potentially another ad tier could become more meaningful levers.&quot;
+
+-       &quot;The third action is operating expense reductions. Puck recently wrote an article about Netflix planning a roughly 5% workforce reduction, which would correspond to 800-850 employees. From 2019-2025, Netflix&#x27;s headcount has increased from ~8,600 to ~16,000. Given the size of the company today and potential savings from AI, we suspect there is room for some degree of expense realignment.&quot;
+
+-       &quot;Finally, we believe it could make sense to explore a dividend. Most media and entertainment stocks have paid dividends, and we have observed more large-cap internet companies doing the same to broaden the shareholder base (e.g., Alphabet, Meta (META). While this would not change the growth discussion, we do believe it could improve investor sentiment, support the P/E multiple, and potentially lessen the focus on large M&amp;A.&quot;</itunes:summary>
+    </item>
 
     <item>
       <title>Nvidia, AMD, Google, and Meta team up on global blueprint for data center design</title>
@@ -8133,300 +8251,6 @@ Illustration shows &quot;AI Artificial Inteligence&quot; words
 &quot;AI Artificial Intelligence&quot; words, a keyboard and a robotics hand in this illustration taken, September 23, 2026. REUTERS/Dado Ruvic/Illustration/File Photo Purchase Licensing Rights, opens new tab
 
 The leveraged structure of much of the debt funding AI infrastructure also means &quot;a relatively modest deteri
-
-[Transcripcion recortada]</itunes:summary>
-    </item>
-
-    <item>
-      <title>Are We Parenting Faster Than We Can Think?</title>
-      <author>Newsletter</author>
-      <description>Are We Parenting Faster Than We Can Think?
-
-2026-10-03
-
-Por Newsletter
-
-The hardest decisions are rarely made when everyone is rested, focused, and ready to talk.
-
-The Parent Edit
-
-By Jill Murphy, Common Sense Media
-
-Edition #32 | October 2, 2026
-
-Parenting on the Fly? Same.
-
-Confession: Looking back at the last few editions of this newsletter (the Snap &quot;trial,&quot; the screen time requests I approved mid-meeting, the rules I created but never actually wrote down), I see a pattern. I&#x27;m not parenting with a plan. I&#x27;m parenting on the fly. Every call I make depends on the day, the kid, the friend group, and if I’m being honest, whether I&#x27;m really paying attention.
-
-I have a feeling I&#x27;m not the only one. So this week I want to ask about
-
-us
-
-instead. Not &quot;What&#x27;s your kid doing that&#x27;s driving you nuts?&quot; (I know. I have two of those.) Instead:
-
-What&#x27;s standing in
-
-your
-
-way?
-
-What keeps you from getting on track, or from even figuring out what &quot;on track&quot; looks like?
-
-Maybe it&#x27;s time to take a fresh look. Maybe you and your co-parent aren&#x27;t on the same page, or you’re noticing that every other family seems to have different rules and you&#x27;re the only &quot;mean&quot; one. Sometimes the technology just moves faster than you can keep up with. Or maybe it&#x27;s something as simple, and oddly hard, as finding one movie your 7-year-old and your 14-year-old will both watch.
-
-Tell me by age:
-
-Littles (under 8):
-
-Is it the guilt of the tablet as backup babysitter? Figuring out which
-
-shows
-
-and
-
-apps
-
-are actually educational? Getting out the door without a screen negotiation?
-
-Bigs (8–11):
-
-Is it
-
-first-phone pressure
-
-arriving earlier than expected? Games with chat features you don&#x27;t quite understand? Knowing when &quot;not yet&quot; is fair and when it&#x27;s mostly your own anxiety talking?
-
-Tweens (11–13):
-
-Is it social media (hi, Snap)? Workarounds
-
-you can&#x27;t keep up with
-
-? Feeling like other parents already say yes to everything?
-
-Teens (14+):
-
-Is it not knowing how much to step back?
-
-AI and homework
-
-? Staying in the loop when they&#x27;d really rather you didn&#x27;t?
-
-I&#x27;ll go first:
-
-Tonight&#x27;s to-do:
-
-Before you write back, finish this sentence:
-
-&quot;I&#x27;d have this handled if only ______.&quot;
-
-That blank is what I&#x27;d like to hear about.
-
-Send it my way to jmurphy@commonsense.org
-
-, and tell me your kids&#x27; ages. I&#x27;ll round up what comes in by age group in an upcoming edition, along with the best fixes from our child development experts.
-
-Screen Rules Are a Team Sport
-
-My
-
-daughters will argue with me for 10 minutes about putting the phone down, then hand it over to their grandmother without a word. Same kid, same phone, completely different reaction.
-
-The hard part usually isn&#x27;t the device itself. A lot of apps and games are designed without a natural stopping point, which means an adult has to become the stopping point. That handoff is hard. And kids often respond differently depending on who&#x27;s asking.
-
-Grandparents
-
-: You often get a different version of the kid than parents do. Use that. Ask the parents what their rules are before the visit, then make your house the place where screens just aren&#x27;t the main event. Have something ready to do instead or a project that needs their help. &quot;I need an extra set of hands for this. Can you put that down and come help me?&quot; works better than &quot;That&#x27;s enough screen time.&quot;
-
-Aunts, Uncles, &amp; Family Friends
-
-: You get to be the fun adult, so use it. Give a heads-up instead of a hard stop (&quot;Ten more minutes, then I want to show you something&quot;), and follow through with something worth showing. Most importantly, back up the parents&#x27; rules, even when it&#x27;d be easier to be the cool one. Kids notice pretty quickly when one adult will bend a rule another one set.
-
-Parents
-
-: You have to do this every single day, which is probably why it&#x27;s hardest. Give some warnings before you end (&quot;After this episode&quot; beats &quot;Off. Now.&quot;), let them reach a natural stopping point when you can, and don&#x27;t negotiate mid-meltdown. You can acknowledge that stopping is hard wit
-
-[Transcripcion recortada]</description>
-      <content:encoded><![CDATA[<p>Are We Parenting Faster Than We Can Think?</p><p>2026-10-03</p><p>Por Newsletter</p><p>The hardest decisions are rarely made when everyone is rested, focused, and ready to talk.</p><p>The Parent Edit</p><p>By Jill Murphy, Common Sense Media</p><p>Edition #32 | October 2, 2026</p><p>Parenting on the Fly? Same.</p><p>Confession: Looking back at the last few editions of this newsletter (the Snap &quot;trial,&quot; the screen time requests I approved mid-meeting, the rules I created but never actually wrote down), I see a pattern. I&#x27;m not parenting with a plan. I&#x27;m parenting on the fly. Every call I make depends on the day, the kid, the friend group, and if I’m being honest, whether I&#x27;m really paying attention.</p><p>I have a feeling I&#x27;m not the only one. So this week I want to ask about</p><p>us</p><p>instead. Not &quot;What&#x27;s your kid doing that&#x27;s driving you nuts?&quot; (I know. I have two of those.) Instead:</p><p>What&#x27;s standing in</p><p>your</p><p>way?</p><p>What keeps you from getting on track, or from even figuring out what &quot;on track&quot; looks like?</p><p>Maybe it&#x27;s time to take a fresh look. Maybe you and your co-parent aren&#x27;t on the same page, or you’re noticing that every other family seems to have different rules and you&#x27;re the only &quot;mean&quot; one. Sometimes the technology just moves faster than you can keep up with. Or maybe it&#x27;s something as simple, and oddly hard, as finding one movie your 7-year-old and your 14-year-old will both watch.</p><p>Tell me by age:</p><p>Littles (under 8):</p><p>Is it the guilt of the tablet as backup babysitter? Figuring out which</p><p>shows</p><p>and</p><p>apps</p><p>are actually educational? Getting out the door without a screen negotiation?</p><p>Bigs (8–11):</p><p>Is it</p><p>first-phone pressure</p><p>arriving earlier than expected? Games with chat features you don&#x27;t quite understand? Knowing when &quot;not yet&quot; is fair and when it&#x27;s mostly your own anxiety talking?</p><p>Tweens (11–13):</p><p>Is it social media (hi, Snap)? Workarounds</p><p>you can&#x27;t keep up with</p><p>? Feeling like other parents already say yes to everything?</p><p>Teens (14+):</p><p>Is it not knowing how much to step back?</p><p>AI and homework</p><p>? Staying in the loop when they&#x27;d really rather you didn&#x27;t?</p><p>I&#x27;ll go first:</p><p>Tonight&#x27;s to-do:</p><p>Before you write back, finish this sentence:</p><p>&quot;I&#x27;d have this handled if only ______.&quot;</p><p>That blank is what I&#x27;d like to hear about.</p><p>Send it my way to jmurphy@commonsense.org</p><p>, and tell me your kids&#x27; ages. I&#x27;ll round up what comes in by age group in an upcoming edition, along with the best fixes from our child development experts.</p><p>Screen Rules Are a Team Sport</p><p>My</p><p>daughters will argue with me for 10 minutes about putting the phone down, then hand it over to their grandmother without a word. Same kid, same phone, completely different reaction.</p><p>The hard part usually isn&#x27;t the device itself. A lot of apps and games are designed without a natural stopping point, which means an adult has to become the stopping point. That handoff is hard. And kids often respond differently depending on who&#x27;s asking.</p><p>Grandparents</p><p>: You often get a different version of the kid than parents do. Use that. Ask the parents what their rules are before the visit, then make your house the place where screens just aren&#x27;t the main event. Have something ready to do instead or a project that needs their help. &quot;I need an extra set of hands for this. Can you put that down and come help me?&quot; works better than &quot;That&#x27;s enough screen time.&quot;</p><p>Aunts, Uncles, &amp; Family Friends</p><p>: You get to be the fun adult, so use it. Give a heads-up instead of a hard stop (&quot;Ten more minutes, then I want to show you something&quot;), and follow through with something worth showing. Most importantly, back up the parents&#x27; rules, even when it&#x27;d be easier to be the cool one. Kids notice pretty quickly when one adult will bend a rule another one set.</p><p>Parents</p><p>: You have to do this every single day, which is probably why it&#x27;s hardest. Give some warnings before you end (&quot;After this episode&quot; beats &quot;Off. Now.&quot;), let them reach a natural stopping point when you can, and don&#x27;t negotiate mid-meltdown. You can acknowledge that stopping is hard wit</p>]]></content:encoded>
-      <pubDate>Sat, 03 Oct 2026 11:38:57 GMT</pubDate>
-      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-10-03_Are_We_Parenting_Faster_Than_We_Can_Think.mp3</guid>
-      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-10-03_Are_We_Parenting_Faster_Than_We_Can_Think.mp3" length="2959836" type="audio/mpeg"/>
-      <itunes:duration>00:05:33</itunes:duration>
-      <itunes:author>Newsletter</itunes:author>
-      <itunes:summary>Are We Parenting Faster Than We Can Think?
-
-2026-10-03
-
-Por Newsletter
-
-The hardest decisions are rarely made when everyone is rested, focused, and ready to talk.
-
-The Parent Edit
-
-By Jill Murphy, Common Sense Media
-
-Edition #32 | October 2, 2026
-
-Parenting on the Fly? Same.
-
-Confession: Looking back at the last few editions of this newsletter (the Snap &quot;trial,&quot; the screen time requests I approved mid-meeting, the rules I created but never actually wrote down), I see a pattern. I&#x27;m not parenting with a plan. I&#x27;m parenting on the fly. Every call I make depends on the day, the kid, the friend group, and if I’m being honest, whether I&#x27;m really paying attention.
-
-I have a feeling I&#x27;m not the only one. So this week I want to ask about
-
-us
-
-instead. Not &quot;What&#x27;s your kid doing that&#x27;s driving you nuts?&quot; (I know. I have two of those.) Instead:
-
-What&#x27;s standing in
-
-your
-
-way?
-
-What keeps you from getting on track, or from even figuring out what &quot;on track&quot; looks like?
-
-Maybe it&#x27;s time to take a fresh look. Maybe you and your co-parent aren&#x27;t on the same page, or you’re noticing that every other family seems to have different rules and you&#x27;re the only &quot;mean&quot; one. Sometimes the technology just moves faster than you can keep up with. Or maybe it&#x27;s something as simple, and oddly hard, as finding one movie your 7-year-old and your 14-year-old will both watch.
-
-Tell me by age:
-
-Littles (under 8):
-
-Is it the guilt of the tablet as backup babysitter? Figuring out which
-
-shows
-
-and
-
-apps
-
-are actually educational? Getting out the door without a screen negotiation?
-
-Bigs (8–11):
-
-Is it
-
-first-phone pressure
-
-arriving earlier than expected? Games with chat features you don&#x27;t quite understand? Knowing when &quot;not yet&quot; is fair and when it&#x27;s mostly your own anxiety talking?
-
-Tweens (11–13):
-
-Is it social media (hi, Snap)? Workarounds
-
-you can&#x27;t keep up with
-
-? Feeling like other parents already say yes to everything?
-
-Teens (14+):
-
-Is it not knowing how much to step back?
-
-AI and homework
-
-? Staying in the loop when they&#x27;d really rather you didn&#x27;t?
-
-I&#x27;ll go first:
-
-Tonight&#x27;s to-do:
-
-Before you write back, finish this sentence:
-
-&quot;I&#x27;d have this handled if only ______.&quot;
-
-That blank is what I&#x27;d like to hear about.
-
-Send it my way to jmurphy@commonsense.org
-
-, and tell me your kids&#x27; ages. I&#x27;ll round up what comes in by age group in an upcoming edition, along with the best fixes from our child development experts.
-
-Screen Rules Are a Team Sport
-
-My
-
-daughters will argue with me for 10 minutes about putting the phone down, then hand it over to their grandmother without a word. Same kid, same phone, completely different reaction.
-
-The hard part usually isn&#x27;t the device itself. A lot of apps and games are designed without a natural stopping point, which means an adult has to become the stopping point. That handoff is hard. And kids often respond differently depending on who&#x27;s asking.
-
-Grandparents
-
-: You often get a different version of the kid than parents do. Use that. Ask the parents what their rules are before the visit, then make your house the place where screens just aren&#x27;t the main event. Have something ready to do instead or a project that needs their help. &quot;I need an extra set of hands for this. Can you put that down and come help me?&quot; works better than &quot;That&#x27;s enough screen time.&quot;
-
-Aunts, Uncles, &amp; Family Friends
-
-: You get to be the fun adult, so use it. Give a heads-up instead of a hard stop (&quot;Ten more minutes, then I want to show you something&quot;), and follow through with something worth showing. Most importantly, back up the parents&#x27; rules, even when it&#x27;d be easier to be the cool one. Kids notice pretty quickly when one adult will bend a rule another one set.
-
-Parents
-
-: You have to do this every single day, which is probably why it&#x27;s hardest. Give some warnings before you end (&quot;After this episode&quot; beats &quot;Off. Now.&quot;), let them reach a natural stopping point when you can, and don&#x27;t negotiate mid-meltdown. You can acknowledge that stopping is hard wit
-
-[Transcripcion recortada]</itunes:summary>
-    </item>
-
-    <item>
-      <title>Shop Different book Review</title>
-      <author>Texto propio</author>
-      <description>Shop Different book Review
-
-2026-10-03
-
-Por Texto propio
-
-Apple stores struggled until the release of the iPod music player, which made even Windows users curious enough to wander inside.
-
-By Jason Snell
-
-September 30, 2026, 4:24 pm EDT
-
-Apple has become one of the world&#x27;s most valuable companies because of its products: the Mac, the iPad, the Apple Watch and most especially the iPhone. But the company&#x27;s product sales have been aided over the past 25 years by the presence of its iconic brand in more than 500 retail stores scattered across 27 countries and regions. Anyone who has ducked into an Apple store for a new iPhone or toted a broken Mac through the mall for a repair appointment at the Genius Bar has experienced what Steve Jobs and Ron Johnson built.
-
-In &quot;Shop Different: How Retail Revealed Apple&#x27;s Genius,&quot; Mr. Johnson details the remarkable story of how, in 1999, Jobs recruited him from Target to join Apple as head of retail and launch perhaps the biggest long shot of Jobs&#x27;s entire tenure as chief executive. At a time when computer stores were a moribund category and Apple&#x27;s brand was near its lowest ebb, the two men concocted a daring strategy: find some way to connect with the millions of consumers who had no interest in or understanding of Apple&#x27;s products.
-
-Mr. Johnson cuts the profile of the perfect retail executive. Born in Minnesota, he was entranced as a child by the Midwestern, midcentury power of Dayton&#x27;s department store. After Harvard he eschewed an obvious career path into finance and instead took a job at Mervyn&#x27;s, a West Coast department-store chain owned by Dayton&#x27;s parent, Dayton Hudson Corp. (now Target). From there it was on to the Target stores themselves. Mr. Johnson transformed the chain&#x27;s toy departments by devoting an entire aisle to Lego products.
-
-When Apple hired Mr. Johnson in 2000, he was based in Minnesota and didn&#x27;t own a computer. (Jobs sent him an iMac.) But Mr. Johnson had retail experience Apple lacked, and Jobs seems to have identified in Mr. Johnson an enthusiasm for the project that matched his own. Apple had only recently avoided bankruptcy. Jobs was persuaded that a retail presence would be vital to the company&#x27;s comeback.
-
-The CEO was making a gamble, but he and Mr. Johnson realized that to rebuild the company&#x27;s profile Apple needed to reach the regular people who shopped at places like Target. &quot;Most of our future customers will be introduced to Apple through the store,&quot; Mr. Johnson recounts saying to Jobs. &quot;So, eventually, it will become the most powerful physical expression of the brand.&quot; They agreed to model the store&#x27;s approach to customers on the Ritz-Carlton hotel chain, rather than a traditional retail outlet, which led to the concierge-like experience of the Genius Bar.
-
-It&#x27;s hard to imagine now, but in the late 1990s Apple products had little luster. As computers running Microsoft&#x27;s Windows 95 took over the world, Apple seemed dedicated to selling niche products. Jobs&#x27;s return to the company in 1997 and the introduction of the iMac (Apple&#x27;s first hit product in years) started to change perceptions, but Apple needed to reach buyers beyond its loyal base. Mr. Johnson knew where to find those people—in America&#x27;s shopping malls.
-
-Jobs brought his trademark product-development focus to Apple&#x27;s retail stores, joining Mr. Johnson for regular drives to a warehouse in which a secret mock-up of an Apple store would regularly be revised. At one point after most design decisions had been made, Mr. Johnson realized that a forthcoming new product strategy—the “Digital Hub,” which positioned Apple&#x27;s computers at the center of a constellation of digital cameras, music players and accessories—required a complete rethink of the retail operation. Jobs was furious, until he thought about it—at which point the mercurial CEO changed his opinion. “Ron thinks we&#x27;ve got it all wrong. . . . And you know, he&#x27;s right,” Mr. Johnson recounts Jobs telling Apple&#x27;s retail team.
-
-The success of the strat
-
-[Transcripcion recortada]</description>
-      <content:encoded><![CDATA[<p>Shop Different book Review</p><p>2026-10-03</p><p>Por Texto propio</p><p>Apple stores struggled until the release of the iPod music player, which made even Windows users curious enough to wander inside.</p><p>By Jason Snell</p><p>September 30, 2026, 4:24 pm EDT</p><p>Apple has become one of the world&#x27;s most valuable companies because of its products: the Mac, the iPad, the Apple Watch and most especially the iPhone. But the company&#x27;s product sales have been aided over the past 25 years by the presence of its iconic brand in more than 500 retail stores scattered across 27 countries and regions. Anyone who has ducked into an Apple store for a new iPhone or toted a broken Mac through the mall for a repair appointment at the Genius Bar has experienced what Steve Jobs and Ron Johnson built.</p><p>In &quot;Shop Different: How Retail Revealed Apple&#x27;s Genius,&quot; Mr. Johnson details the remarkable story of how, in 1999, Jobs recruited him from Target to join Apple as head of retail and launch perhaps the biggest long shot of Jobs&#x27;s entire tenure as chief executive. At a time when computer stores were a moribund category and Apple&#x27;s brand was near its lowest ebb, the two men concocted a daring strategy: find some way to connect with the millions of consumers who had no interest in or understanding of Apple&#x27;s products.</p><p>Mr. Johnson cuts the profile of the perfect retail executive. Born in Minnesota, he was entranced as a child by the Midwestern, midcentury power of Dayton&#x27;s department store. After Harvard he eschewed an obvious career path into finance and instead took a job at Mervyn&#x27;s, a West Coast department-store chain owned by Dayton&#x27;s parent, Dayton Hudson Corp. (now Target). From there it was on to the Target stores themselves. Mr. Johnson transformed the chain&#x27;s toy departments by devoting an entire aisle to Lego products.</p><p>When Apple hired Mr. Johnson in 2000, he was based in Minnesota and didn&#x27;t own a computer. (Jobs sent him an iMac.) But Mr. Johnson had retail experience Apple lacked, and Jobs seems to have identified in Mr. Johnson an enthusiasm for the project that matched his own. Apple had only recently avoided bankruptcy. Jobs was persuaded that a retail presence would be vital to the company&#x27;s comeback.</p><p>The CEO was making a gamble, but he and Mr. Johnson realized that to rebuild the company&#x27;s profile Apple needed to reach the regular people who shopped at places like Target. &quot;Most of our future customers will be introduced to Apple through the store,&quot; Mr. Johnson recounts saying to Jobs. &quot;So, eventually, it will become the most powerful physical expression of the brand.&quot; They agreed to model the store&#x27;s approach to customers on the Ritz-Carlton hotel chain, rather than a traditional retail outlet, which led to the concierge-like experience of the Genius Bar.</p><p>It&#x27;s hard to imagine now, but in the late 1990s Apple products had little luster. As computers running Microsoft&#x27;s Windows 95 took over the world, Apple seemed dedicated to selling niche products. Jobs&#x27;s return to the company in 1997 and the introduction of the iMac (Apple&#x27;s first hit product in years) started to change perceptions, but Apple needed to reach buyers beyond its loyal base. Mr. Johnson knew where to find those people—in America&#x27;s shopping malls.</p><p>Jobs brought his trademark product-development focus to Apple&#x27;s retail stores, joining Mr. Johnson for regular drives to a warehouse in which a secret mock-up of an Apple store would regularly be revised. At one point after most design decisions had been made, Mr. Johnson realized that a forthcoming new product strategy—the “Digital Hub,” which positioned Apple&#x27;s computers at the center of a constellation of digital cameras, music players and accessories—required a complete rethink of the retail operation. Jobs was furious, until he thought about it—at which point the mercurial CEO changed his opinion. “Ron thinks we&#x27;ve got it all wrong. . . . And you know, he&#x27;s right,” Mr. Johnson recounts Jobs telling Apple&#x27;s retail team.</p><p>The success of the strat</p>]]></content:encoded>
-      <pubDate>Sat, 03 Oct 2026 11:36:28 GMT</pubDate>
-      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-10-03_Shop_Different_book_Review.mp3</guid>
-      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-10-03_Shop_Different_book_Review.mp3" length="3521630" type="audio/mpeg"/>
-      <itunes:duration>00:06:36</itunes:duration>
-      <itunes:author>Texto propio</itunes:author>
-      <itunes:summary>Shop Different book Review
-
-2026-10-03
-
-Por Texto propio
-
-Apple stores struggled until the release of the iPod music player, which made even Windows users curious enough to wander inside.
-
-By Jason Snell
-
-September 30, 2026, 4:24 pm EDT
-
-Apple has become one of the world&#x27;s most valuable companies because of its products: the Mac, the iPad, the Apple Watch and most especially the iPhone. But the company&#x27;s product sales have been aided over the past 25 years by the presence of its iconic brand in more than 500 retail stores scattered across 27 countries and regions. Anyone who has ducked into an Apple store for a new iPhone or toted a broken Mac through the mall for a repair appointment at the Genius Bar has experienced what Steve Jobs and Ron Johnson built.
-
-In &quot;Shop Different: How Retail Revealed Apple&#x27;s Genius,&quot; Mr. Johnson details the remarkable story of how, in 1999, Jobs recruited him from Target to join Apple as head of retail and launch perhaps the biggest long shot of Jobs&#x27;s entire tenure as chief executive. At a time when computer stores were a moribund category and Apple&#x27;s brand was near its lowest ebb, the two men concocted a daring strategy: find some way to connect with the millions of consumers who had no interest in or understanding of Apple&#x27;s products.
-
-Mr. Johnson cuts the profile of the perfect retail executive. Born in Minnesota, he was entranced as a child by the Midwestern, midcentury power of Dayton&#x27;s department store. After Harvard he eschewed an obvious career path into finance and instead took a job at Mervyn&#x27;s, a West Coast department-store chain owned by Dayton&#x27;s parent, Dayton Hudson Corp. (now Target). From there it was on to the Target stores themselves. Mr. Johnson transformed the chain&#x27;s toy departments by devoting an entire aisle to Lego products.
-
-When Apple hired Mr. Johnson in 2000, he was based in Minnesota and didn&#x27;t own a computer. (Jobs sent him an iMac.) But Mr. Johnson had retail experience Apple lacked, and Jobs seems to have identified in Mr. Johnson an enthusiasm for the project that matched his own. Apple had only recently avoided bankruptcy. Jobs was persuaded that a retail presence would be vital to the company&#x27;s comeback.
-
-The CEO was making a gamble, but he and Mr. Johnson realized that to rebuild the company&#x27;s profile Apple needed to reach the regular people who shopped at places like Target. &quot;Most of our future customers will be introduced to Apple through the store,&quot; Mr. Johnson recounts saying to Jobs. &quot;So, eventually, it will become the most powerful physical expression of the brand.&quot; They agreed to model the store&#x27;s approach to customers on the Ritz-Carlton hotel chain, rather than a traditional retail outlet, which led to the concierge-like experience of the Genius Bar.
-
-It&#x27;s hard to imagine now, but in the late 1990s Apple products had little luster. As computers running Microsoft&#x27;s Windows 95 took over the world, Apple seemed dedicated to selling niche products. Jobs&#x27;s return to the company in 1997 and the introduction of the iMac (Apple&#x27;s first hit product in years) started to change perceptions, but Apple needed to reach buyers beyond its loyal base. Mr. Johnson knew where to find those people—in America&#x27;s shopping malls.
-
-Jobs brought his trademark product-development focus to Apple&#x27;s retail stores, joining Mr. Johnson for regular drives to a warehouse in which a secret mock-up of an Apple store would regularly be revised. At one point after most design decisions had been made, Mr. Johnson realized that a forthcoming new product strategy—the “Digital Hub,” which positioned Apple&#x27;s computers at the center of a constellation of digital cameras, music players and accessories—required a complete rethink of the retail operation. Jobs was furious, until he thought about it—at which point the mercurial CEO changed his opinion. “Ron thinks we&#x27;ve got it all wrong. . . . And you know, he&#x27;s right,” Mr. Johnson recounts Jobs telling Apple&#x27;s retail team.
-
-The success of the strat
 
 [Transcripcion recortada]</itunes:summary>
     </item>
