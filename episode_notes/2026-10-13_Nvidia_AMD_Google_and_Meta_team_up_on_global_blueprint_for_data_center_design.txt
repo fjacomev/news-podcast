@@ -1,0 +1,27 @@
+Nvidia, AMD, Google, and Meta team up on global blueprint for data center design
+
+2026-10-13
+
+Por Daniel Howley
+
+https://finance.yahoo.com/technology/article/nvidia-amd-google-and-meta-team-up-on-global-blueprint-for-data-center-design-150000023.html
+
+Nvidia (NVDA) is joining rival AMD (AMD) along with partners Google (GOOG, GOOGL) and Meta (META) to establish a new open specification for data center design.
+
+Called the Open Data Center Specification v0.7, the standard serves as a blueprint for building data centers, covering everything from the physical layout of the buildings to cooling and power architecture.
+
+The chip giant also said it's teaming with Google, Meta, and Microsoft (MSFT) to create the OCP Grid Resilience Specification, which serves as a standard for how data centers respond to power disruptions, ensuring they can rapidly return to full operation.
+
+According to Nvidia, the two specifications provide everyone from system makers to colocation providers and data center operators with a set of predefined templates for building data centers without having to contend with a slew of different customer designs.
+
+Data centers are incredibly complex facilities that require large amounts of power and cooling to keep the chips inside from overheating and failing. And adding custom designs and quirks can slow construction timelines.
+
+Open standards could change that, allowing builders to bring new data centers online faster. And the faster data centers go up, the more chips, systems, and networking components Nvidia can sell.
+
+At the same time, data centers are facing increasing pushback from communities across the US, with some towns and counties imposing moratoriums or outright bans to stop companies from building them.
+
+New York has enacted a statewide, one-year moratorium on data center construction, and Texas has halted new projects until it can determine the impact that connecting more power-hungry sites will have on its electrical grid.
+
+President Trump has pushed back against any resistance to data centers, saying they'll be moneymakers for states.
+
+Read the latest financial and business news from Yahoo Finance.
