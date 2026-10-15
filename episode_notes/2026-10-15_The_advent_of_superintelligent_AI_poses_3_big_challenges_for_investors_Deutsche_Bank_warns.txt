@@ -1,0 +1,31 @@
+The advent of superintelligent AI poses 3 big challenges for investors, Deutsche Bank warns
+
+2026-10-15
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/markets/article/the-advent-of-superintelligent-ai-poses-3-big-challenges-for-investors-deutsche-bank-warns-180036873.html
+
+AI models are only getting smarter, and that means the investing game could be about to change in very big ways, analysts at Deutsche Bank warned in a lengthy new white paper released on Tuesday.
+
+"Under our scenario, by 2030 the best performing AI models would have the qualities of 'superintelligence', that is better than human experts in all domains," Deutsche Bank analyst Adrian Cox wrote. "These would be frontier models: and using them would feel exactly like bringing the best human experts in a room to solve whatever business problem you faced. And the equivalents of today's frontier models would be available, quite literally, everywhere, compressed enough to run on every phone, tablet or laptop computer."
+
+Humans are already getting a flavor of what these models can potentially do across sectors like medicine, law, and robotics.
+
+In robotics alone, Cox pointed to recent news from Nvidia (NVDA) as evidence of the power of superintelligence. This past June, Nvidia trained robot arms to seat GPUs and cut zip ties. Under a superintelligence situation, the entire factory could be retooled overnight using robots.
+
+"In early 2026, we already see early examples of what highly capable AI can do," Cox explained. "They give a flavour for a world with superintelligence even if the reality would be a leap beyond, both quantitatively and qualitatively. At that point, superintelligence would mark a regime break, not a faster version of what we already have. Rather than blindly doing what humans specify, but just a bit better, it would specify the task itself."
+
+3 big changes investors should prepare for
+
+Of greatest interest, at least to us, is what Cox writes about future challenges for the average investor posed by superintelligence.
+
+"Diversification normally works because idiosyncratic risks are unrelated and average each other out. Here they would not: with one variable that overrides everything else, spreading capital across more names would just spread exposure rather than diluting it," Cox said.
+
+Consequently, Cox suggested investors may need to consider adapting their approach in three ways.
+
+First, investors should classify investments as adopters or casualties rather than position off averages.
+
+"Under a normal distribution, errors are symmetric and partially cancel each other out," Cox said. "But under bimodality they do not: to put a firm in one category or another means getting it completely right or wrong. Position size should track confidence in the classification."
+
+Second, they should avoid reading calm price action as low risk.
