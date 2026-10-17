@@ -1,0 +1,59 @@
+From e-cigarettes to abortion rights: A look at how big banks made debanking calls
+
+2026-10-17
+
+Por David Hollerith
+
+https://finance.yahoo.com/markets/article/from-e-cigarettes-to-abortion-rights-a-look-at-how-big-banks-made-debanking-calls-151436497.html
+
+A merchant selling MAGA gear, a religious nonprofit with public views on same-sex marriage, and an abortion rights group whose political donations went overwhelmingly to Democrats.
+
+These were some of the current and prospective customers that the nation's largest banks denied services to, according to a report released this week that offers more details on how political and religious views influenced banks' risk assessments behind closed doors.
+
+The Office of the Comptroller of the Currency (OCC), which reviewed roughly 50,000 documents from nine large US banks, found that lenders sometimes relied on reputational concerns rather than outright financial risks when deciding whom to bank. Regulators said a range of industries were targeted, including oil and gas exploration, coal mining, firearms manufacturing, detention facilities, and tobacco and e-cigarette retailers.
+
+The report shed further light on how those decisions played out, including disrupting a religious nonprofit's fundraising process and eliminating a merchant's access to payment services.
+
+The OCC stopped short of determining that the individual cases violated federal law. Federal protections against political discrimination in banking vary.
+
+In the months following the Jan. 6 Capitol riots in 2021, a payments processor owned by JPMorgan Chase closed the accounts of two different merchants selling Donald Trump and MAGA gear after concluding that the products promoted hate, violence, or racial intolerance.
+
+Months later, it did the same to another payments processor after the event organizer "called President Biden and Dr. Anthony Fauci 'the enemy' and characterized Black Lives Matter as Marxists" on social media. Employees for WePay and JPMorgan decided the posts were an "incitement of hate," according to the report.
+
+"[T]here is no set criteria to indicate if A, B, or C word is found to be considered as hate or racism or terrorism, etc," a JPMorgan risk employee later noted. The account closure was ultimately reversed.
+
+A JPMorgan spokesperson said the process used by WePay, a payments technology company it acquired and has since shut down, "did not meet our expectations."
+
+"We identified it, corrected it, and the business no longer operates," the bank said in a statement, adding that its policies prohibit discrimination based on political or religious views and that the report highlighted "a limited number of historical interactions among the nearly 90 million customers and small businesses we serve."
+
+While the OCC's findings offer more examples of conservatives encountering so-called debanking issues, the report also highlights that those difficulties weren't exclusive to right-wingers.
+
+Until 2025, one of the business lines of credit card giant Capital One treated any business engaged in "partisan activity" as posing a high reputational risk.
+
+In 2023, Capital One's business line declined a banking relationship with an organization promoting reproductive rights, with an employee noting "it's become so synonymous with abortion and the Dems." Capital One also rejected a gun-rights organization over concerns that customers might interpret the relationship as an endorsement of its political positions.
+
+Capital One has not responded for comment as of this writing.
+
+Wells Fargo asked one of its payment processors to look into a religious nonprofit to be sure it wasn't "associated with products or services that promote hate, violence, harassment, or abuse," according to the report.
+
+Wells Fargo shared information on a third-party website that highlighted the nonprofit's views on same-sex marriage. The payment processor ultimately terminated the nonprofit's account, disrupting its ability to collect donations.
+
+Wells Fargo has not responded for comment as of this writing. Separately, CEO Charles Scharf received a letter from the US Department of Housing and Urban Development earlier this month informing the bank that the agency is investigating whether its initiatives aimed at increasing black homeownership are in violation of the Fair Housing Act.
+
+At the center of these decisions is a longstanding banking practice that regulators judge banks on, known as reputational risk management, which seeks to set guidance for lenders on avoiding negative public backlash over their customers.
+
+Federal regulators, including the OCC, historically considered reputational risk when supervising banks, a practice that critics say encouraged lenders to avoid controversial customers regardless of their financial risk.
+
+The OCC has since reversed course, removing reputational risk from its supervisory framework and barring examiners from taking action against banks solely on that basis. The agency is now considering additional measures to prevent politically or religiously motivated debanking.
+
+"We support efforts to establish clear and consistent standards that promote access while maintaining sound risk management," the Bank Policy Institute, an industry lobbying group, said in a statement.
+
+The debanking controversy gained mainstream visibility when President Trump returned to the White House in 2025.
+
+"The banks discriminated against me very badly, and I was very good to the banks," the president said in an August interview on CNBC, days before signing an executive order calling for federal regulators to investigate "politicized or unlawful debanking."
+
+Trump-affiliated entities have separately sued Capital One and JPMorgan Chase over account closures following the 2021 attack on the US Capitol. Both lenders dispute the allegations and have sought dismissal, while JPMorgan contends that Trump still maintains a personal account with the bank.
+
+The OCC, meanwhile, said it is considering additional measures to prevent politically or religiously motivated debanking.
+
+David Hollerith covers a range of developments throughout the financial sector, from Wall Street to banking and asset management to crypto and fintech. Email him at david.hollerith@yahoofinance.com. Follow him on X at @DsHollers.

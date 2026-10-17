@@ -1,0 +1,35 @@
+Memory stocks slide into another bear market as chip losses near $2.5 trillion: Chart of the Day
+
+2026-10-17
+
+Por Jared Blikre
+
+https://finance.yahoo.com/markets/article/memory-stocks-slide-into-another-bear-market-as-chip-losses-near-25-trillion-chart-of-the-day-100000060.html
+
+AI's appetite for memory keeps growing while investors' appetite for memory stocks is shrinking.
+
+The Roundhill Memory ETF (DRAM) entered another bear market this week, falling more than 20% from its September rebound high. Losses deepened Thursday, leaving the fund roughly 22% below that peak and nearly 40% below June's record close.
+
+It's been an expensive round trip. DRAM plunged nearly 45% from June to late July, then rallied over 40% into September. The latest selling has erased more than three-quarters of that recovery.
+
+The dollar losses are enormous.
+
+Samsung Electronics (005930.KS), Micron (MU), SK Hynix (SKHY) and Sandisk (SNDK) — all DRAM components — have shed more than $700 billion in combined market value since October 6. A broader Yahoo Finance basket of 61 semiconductor and storage stocks has lost nearly $2.5 trillion.
+
+Samsung plunged nearly 10% Thursday in Seoul, before US trading began. The subsequent US rebound helped Micron finish nearly 2% higher, but the iShares Semiconductor ETF (SOXX) still posted its eighth straight decline — its longest losing streak since October 2008.
+
+Strong demand hasn't stopped investors from questioning future profits.
+
+China's CXMT (688825.SS) has announced progress on a denser memory-chip design, raising concerns about competition and pricing power. Yet the challenger fell, too — over 5% Thursday, leaving it down roughly 20% since September's end. DRAM holds it as well, with roughly 5% exposure as of September 30.
+
+Meanwhile, chipmakers helping finance their customers are attracting more scrutiny. That doesn't mean AI demand has disappeared. TSMC (TSM) reported another record quarterly profit Thursday. Investors are questioning how much of the boom will reach shareholders.
+
+DRAM's next major test sits around its late-July lows near $45 — another 9% below Thursday's close. Holding there would preserve the summer trading range. A sustained break would erase the rebound entirely.
+
+Internal AI tools helped analyze interview transcripts, research, and draft this post. Humans reviewed, edited, and fact-checked this post before publication.
+
+Jared Blikre is the global markets and data editor for Yahoo Finance. Follow him on X at @SPYJared or email him at jaredblikre@yahooinc.com.
+
+Click here for in-depth analysis of the latest stock market news and events moving stock prices
+
+Read the latest financial and business news from Yahoo Finance
