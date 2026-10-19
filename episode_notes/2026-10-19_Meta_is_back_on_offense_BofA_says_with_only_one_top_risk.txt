@@ -1,0 +1,27 @@
+Meta is 'back on offense,' BofA says — with only one top risk
+
+2026-10-19
+
+Por Hamza Shaban
+
+https://finance.yahoo.com/technology/article/meta-is-back-on-offense-bofa-says--with-only-one-top-risk-100000520.html
+
+What a turn of events for Mark Zuckerberg. The Meta CEO has steered his company from an AI also-ran to a leading contender, backed by a seemingly unstoppable ads machine. Fresh off successful debuts of AI agent Muse and a new frontier model, the social giant has won praise from early adopters and analysts who see more upside on a stock that's up close to 10% for the year.
+
+Meta (META) is "back on offense with AI," Bank of America analysts, led by Justin Post, summed up the company's glow-up, which has culminated in a suite of new AI products, in a note on Friday. "Recent AI launches have strengthened confidence in company's AI execution and we see Meta with least risk of AI disruption to core business in our coverage."
+
+The offense is so good it doesn't have to play defense — does it get better than that?
+
+Post's commentary is noteworthy for that enthusiasm. But it also highlights the broader risk for Meta and its peers as it gets set to report quarterly results on Wednesday. Even though its path to full monetization seems ever-clearer, an unexpected jolt upward in AI build-out expenses is still the chief concern.
+
+"[The] top risk is 2027 [earnings per share] pressure on more AI investment," Post wrote.
+
+Unlike the powerhouse AI labs, or Google's (GOOG) deep research background, Meta had been, until fairly recently, viewed as an AI laggard. Microsoft (MSFT) had its partnership with OpenAI, Amazon (AMZN) had its AWS infrastructure, and even Elon Musk's former startup xAI — now part of SpaceX (SPCX) — attracted a certain type of phenom engineer aligned with his worldview.
+
+That line of criticism has clearly given way to bullish sentiment. The AI restructuring and personnel shakeups appear to be paying off.
+
+Post wrote that traction with Muse and its models can drive up Meta's earnings multiple. Zuckerberg's next leg upward, he said, would be propelled by more usage, enterprise deals following Muse Wonder, and the launch of an enterprise coding agent.
+
+All the while, Meta has a humming ads machine, for which its higher-performing models can enhance the content recommendations and ad targeting at the core of its business.
+
+This cash-flow advantage is key to Meta's position in the AI marketplace, as not every AI company is diversified. But like nearly all these companies, a surprise surge in spending expectations, which are already massive, could cause problems for Meta's investor relations.

@@ -1,0 +1,31 @@
+Is Anthropic worth $2 trillion? How about $1.5 trillion?
+
+2026-10-19
+
+Por Michael B Kelley
+
+https://finance.yahoo.com/technology/article/is-anthropic-worth-2-trillion-how-about-15-trillion-192500921.html
+
+Anthropic's (ANTH.PVT) work will contribute to massive changes in the US economy and workforce, but how much is the leading AI lab actually worth as a public company?
+
+Reuters, citing several people familiar with the matter, reported that current and prospective investors in Anthropic's initial public offering who attended an investor day at Anthropic's San Francisco headquarters this week discussed a valuation of the Claude maker at about $1.5 trillion, down from earlier expectations of $2 trillion.
+
+"What's $500 billion between friends in the AI trade?" Yahoo Finance's Jake Conley quipped (video above) before adding, "It does get to the point of you're trying to justify these huge valuations: Do your numbers justify it?"
+
+Anthropic's third quarter revenue reportedly rose 45% from the second quarter to $16.8 billion, and the company stayed profitable on an adjusted basis. Reuters, which got its hands on Anthropic's IPO prospectus, previously reported that revenue more than doubled in the second quarter, to $11.6 billion from $4.7 billion.
+
+"While those numbers assuaged some concerns about the massive costs of developing AI systems," Reuters reported, "some investors were disappointed by the slowing sequential growth rate in the latest quarter."
+
+Yahoo Finance co-host Julie Hyman called the lower price "a reading-the-room moment," with AI stocks selling off this week. "All of this would seem to indicate that there's at least enough concern out there that you're not going to go out and try and overprice."
+
+Hyman also noted that one quarter may not settle it: "We don't know if it's going to reaccelerate in the fourth quarter."
+
+Conley wants a different yardstick than annual recurring revenue (ARR), the run-rate figure AI companies like to cite.
+
+"ARR, that's not a real number," he said. "Give me some GAAP numbers."
+
+Internal AI tools helped analyze interview transcripts, research, and draft this post. Humans reviewed, edited, and fact-checked this post before publication.
+
+Click here for in-depth analysis of the latest stock market news and events moving stock prices
+
+Read the latest financial and business news from Yahoo Finance
