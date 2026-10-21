@@ -1,0 +1,51 @@
+A New Approach for AI Investing
+
+2026-10-21
+
+Por Texto propio
+
+A New Approach for AI Investing
+
+morganstanley.com
+
+Key Takeaways
+
+- AI earnings momentum is broadening. Enablers remain strong, while adopters are beginning to see a meaningful improvement in fundamentals.
+
+- The AI trade is shifting toward select enablers as well as adopters whose improving fundamentals may not be fully reflected in expectations.
+
+- AI’s potential productivity impact and rapidly improving LLM capabilities could give adopters a larger role than they played in any previous technology cycles, a benefit the market may be underestimating.
+
+- Companies addressing data center bottlenecks—energy supply, labor and regulation—could benefit as demand for compute rises.
+
+- The broad-reaching impacts of artificial intelligence are becoming more visible every day. So are the effects on the earnings of companies developing or adopting the technology, as well as those building the infrastructure needed to support it.
+
+Morgan Stanley Research recently mapped the ~3,600 stocks under our global coverage to better understand how AI exposure is affecting companies across sectors.
+
+Our analysis suggests that investing in the AI theme is transitioning to a new approach: Investors should continue owning select enablers with durable earnings while increasingly adding adopters whose improving fundamentals aren’t fully reflected in expectations. Another opportunity lies with companies addressing key bottlenecks in data center development.
+
+What’s Different in This New Phase
+
+Technology enablers—including semiconductor, infrastructure and software companies—have traditionally outperformed during computing cycles as investors view them as the primary providers of the technology stack.
+
+Adopters, or companies that leverage new technologies to drive productivity gains and revenue growth, typically benefit after enablers.
+
+In this new phase, however, our research suggests that the spread of AI across industries could drive greater outperformance among adopters than in previous technology cycles, and that the market may still be underestimating how much value AI can create for them. The exponential growth of large language model capabilities and AI’s potential impact on productivity suggest a broader and more meaningful opportunity for value creation.
+
+Investing in the AI theme is evolving: Investors should continue owning select enablers with durable earnings while increasingly adding adopters whose improving fundamentals aren’t fully reflected in expectations.
+
+At the same time, demand for computing capacity is likely to significantly exceed supply for years to come. Three major bottlenecks are constraining the pace of data center development: energy supply that isn’t keeping up with demand, labor constraints and regulatory hurdles.
+
+As a result, we expect market leadership over the next six to 12 months to be concentrated among power companies that can address data center bottlenecks; select semiconductor and infrastructure companies; and early software enablers and AI adopters that are already translating the technology into productivity and revenue benefits. Late-stage software enablers and service companies are likely to benefit later in the cycle.
+
+What the Mapping of 3,600 Stocks Shows
+
+Earnings estimates still don’t reflect long-term benefits of AI adoption: Consensus estimates are beginning to include benefits of AI adoption, but primarily in the near term. However, we think AI-driven productivity gains for adopters could prove more durable than the market expects, creating potential upside to longer-term.
+
+AI momentum is broadening: The next phase of AI leadership is more likely to broaden rather than completely rotate. Enablers continue to show the strongest earnings momentum, but adopters are also seeing a meaningful inflection.
+
+Valuation divergence is improving adopters’ Risk/Reward: The median forward price-to-earnings ratio (P/E) for adopters has fallen to 18, broadly in line with the MSCI World and well below the 22 multiple for enablers. This divergence creates a more attractive entry point for adopters.
+
+AI exposure is broadening, while deepening remains concentrated: The AI opportunity is expanding into sectors beyond the traditional technology complex, including real estate, autos, consumer durables, transportation and consumer services. However, AI deepening—in which the technology becomes more material to the investment thesis—remains concentrated in software, semiconductors, utilities and media.
+
+The market is increasingly pricing AI exposure: Investors are more discerning about where AI can make a difference. The relevance of AI to the investment thesis has become increasingly important to stock performance. Companies where AI is “core to the thesis” have outperformed those where it is “significant.” Meanwhile, businesses that may be at risk from AI are underperforming those facing moderate disruption.
