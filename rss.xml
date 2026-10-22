@@ -7,7 +7,7 @@
     <link>https://fjacomev.github.io/news-podcast</link>
     <description>Podcast personal de noticias, leido en voz local</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 23:39:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:18:26 GMT</lastBuildDate>
     <image>
       <url>https://fjacomev.github.io/news-podcast/cover.jpg</url>
       <title>Fernando AI News</title>
@@ -18,6 +18,776 @@
     <itunes:summary>Podcast personal de noticias, leido en voz local</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
+
+    <item>
+      <title>Nvidia CEO Jensen Haung: ‘We have to accelerate AI safety’</title>
+      <author>Daniel Howley</author>
+      <description>Nvidia CEO Jensen Haung: ‘We have to accelerate AI safety’
+
+2026-10-22
+
+Por Daniel Howley
+
+https://finance.yahoo.com/technology/article/nvidia-ceo-jensen-huang-we-have-to-accelerate-ai-safety-124206653.html
+
+Nvidia (NVDA) CEO Jensen Huang says the AI industry needs to focus on safety following this summer&#x27;s revelations that AI agents from leading labs broke free of containment and hacked into websites, including Hugging Face.
+
+&quot;It shouldn&#x27;t have happened. Doesn&#x27;t need to happen,&quot; Huang told Deirdre Bosa at Nvidia&#x27;s GTC Berlin conference.
+
+During his keynote on Wednesday, Huang revealed Nvidia&#x27;s OpenShell Reference Architecture, which the company said will allow customers to build, contain, and observe AI agents. If an agent attempts to go rogue, Nvidia said the system can intervene and stop it.
+
+&quot;Hugging Face developed an exercise, a simulator, and they came to the conclusion: If OpenShell existed, their website wouldn&#x27;t have been attacked that way,&quot; Huang said.
+
+&quot;We have to accelerate AI safety, and safety technology and capability to me is one and the same … As much as it is capable, you want it to be safe. The two of them are really one and the same. And so in the future, as we develop these AI capabilities, safety will come along with it,&quot; he added.
+
+Part of that effort, the CEO said, comes down to establishing a zero-trust system around AI agents. Zero trust is a framework for protecting connected systems by limiting their exposure to other platforms and requiring people and platforms to regularly verify their identities.
+
+Doing so, the thinking goes, reduces exposure to hacking and other cyberattacks.
+
+&quot;These agents are autonomous systems, and when you have an autonomous system on your computer … you should first start with zero trust, and give it minimum privileges, minimum access, minimum use of tools,&quot; Huang explained.
+
+&quot;Maybe they could access a file, but they can&#x27;t delete the file. Maybe they can access the internet, but they can&#x27;t … send stuff out,&quot; he added. &quot;And so there are a lot of different things you could specify. Those practices about how to deploy agents and deploy autonomous systems [have] to be adopted across the board right away.&quot;
+
+According to Huang, Nvidia is working with more than 100 companies to develop features to manage AI agents using OpenShell.
+
+&quot;We&#x27;re working with all the labs and working with all the operating system companies. I think the [hacking incidents were] unfortunate, but I think that it&#x27;s very much transformative for the industry,&quot; he added.
+
+Click here for the latest technology news that will impact the stock market
+
+Read the latest financial and business news from Yahoo Finance</description>
+      <content:encoded><![CDATA[<p>Nvidia CEO Jensen Haung: ‘We have to accelerate AI safety’</p><p>2026-10-22</p><p>Por Daniel Howley</p><p>https://finance.yahoo.com/technology/article/nvidia-ceo-jensen-huang-we-have-to-accelerate-ai-safety-124206653.html</p><p>Nvidia (NVDA) CEO Jensen Huang says the AI industry needs to focus on safety following this summer&#x27;s revelations that AI agents from leading labs broke free of containment and hacked into websites, including Hugging Face.</p><p>&quot;It shouldn&#x27;t have happened. Doesn&#x27;t need to happen,&quot; Huang told Deirdre Bosa at Nvidia&#x27;s GTC Berlin conference.</p><p>During his keynote on Wednesday, Huang revealed Nvidia&#x27;s OpenShell Reference Architecture, which the company said will allow customers to build, contain, and observe AI agents. If an agent attempts to go rogue, Nvidia said the system can intervene and stop it.</p><p>&quot;Hugging Face developed an exercise, a simulator, and they came to the conclusion: If OpenShell existed, their website wouldn&#x27;t have been attacked that way,&quot; Huang said.</p><p>&quot;We have to accelerate AI safety, and safety technology and capability to me is one and the same … As much as it is capable, you want it to be safe. The two of them are really one and the same. And so in the future, as we develop these AI capabilities, safety will come along with it,&quot; he added.</p><p>Part of that effort, the CEO said, comes down to establishing a zero-trust system around AI agents. Zero trust is a framework for protecting connected systems by limiting their exposure to other platforms and requiring people and platforms to regularly verify their identities.</p><p>Doing so, the thinking goes, reduces exposure to hacking and other cyberattacks.</p><p>&quot;These agents are autonomous systems, and when you have an autonomous system on your computer … you should first start with zero trust, and give it minimum privileges, minimum access, minimum use of tools,&quot; Huang explained.</p><p>&quot;Maybe they could access a file, but they can&#x27;t delete the file. Maybe they can access the internet, but they can&#x27;t … send stuff out,&quot; he added. &quot;And so there are a lot of different things you could specify. Those practices about how to deploy agents and deploy autonomous systems [have] to be adopted across the board right away.&quot;</p><p>According to Huang, Nvidia is working with more than 100 companies to develop features to manage AI agents using OpenShell.</p><p>&quot;We&#x27;re working with all the labs and working with all the operating system companies. I think the [hacking incidents were] unfortunate, but I think that it&#x27;s very much transformative for the industry,&quot; he added.</p><p>Click here for the latest technology news that will impact the stock market</p><p>Read the latest financial and business news from Yahoo Finance</p>]]></content:encoded>
+      <pubDate>Thu, 22 Oct 2026 11:18:25 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-10-22_Nvidia_CEO_Jensen_Haung_We_have_to_accelerate_AI_safety.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-10-22_Nvidia_CEO_Jensen_Haung_We_have_to_accelerate_AI_safety.mp3" length="1427034" type="audio/mpeg"/>
+      <itunes:duration>00:02:36</itunes:duration>
+      <itunes:author>Daniel Howley</itunes:author>
+      <itunes:summary>Nvidia CEO Jensen Haung: ‘We have to accelerate AI safety’
+
+2026-10-22
+
+Por Daniel Howley
+
+https://finance.yahoo.com/technology/article/nvidia-ceo-jensen-huang-we-have-to-accelerate-ai-safety-124206653.html
+
+Nvidia (NVDA) CEO Jensen Huang says the AI industry needs to focus on safety following this summer&#x27;s revelations that AI agents from leading labs broke free of containment and hacked into websites, including Hugging Face.
+
+&quot;It shouldn&#x27;t have happened. Doesn&#x27;t need to happen,&quot; Huang told Deirdre Bosa at Nvidia&#x27;s GTC Berlin conference.
+
+During his keynote on Wednesday, Huang revealed Nvidia&#x27;s OpenShell Reference Architecture, which the company said will allow customers to build, contain, and observe AI agents. If an agent attempts to go rogue, Nvidia said the system can intervene and stop it.
+
+&quot;Hugging Face developed an exercise, a simulator, and they came to the conclusion: If OpenShell existed, their website wouldn&#x27;t have been attacked that way,&quot; Huang said.
+
+&quot;We have to accelerate AI safety, and safety technology and capability to me is one and the same … As much as it is capable, you want it to be safe. The two of them are really one and the same. And so in the future, as we develop these AI capabilities, safety will come along with it,&quot; he added.
+
+Part of that effort, the CEO said, comes down to establishing a zero-trust system around AI agents. Zero trust is a framework for protecting connected systems by limiting their exposure to other platforms and requiring people and platforms to regularly verify their identities.
+
+Doing so, the thinking goes, reduces exposure to hacking and other cyberattacks.
+
+&quot;These agents are autonomous systems, and when you have an autonomous system on your computer … you should first start with zero trust, and give it minimum privileges, minimum access, minimum use of tools,&quot; Huang explained.
+
+&quot;Maybe they could access a file, but they can&#x27;t delete the file. Maybe they can access the internet, but they can&#x27;t … send stuff out,&quot; he added. &quot;And so there are a lot of different things you could specify. Those practices about how to deploy agents and deploy autonomous systems [have] to be adopted across the board right away.&quot;
+
+According to Huang, Nvidia is working with more than 100 companies to develop features to manage AI agents using OpenShell.
+
+&quot;We&#x27;re working with all the labs and working with all the operating system companies. I think the [hacking incidents were] unfortunate, but I think that it&#x27;s very much transformative for the industry,&quot; he added.
+
+Click here for the latest technology news that will impact the stock market
+
+Read the latest financial and business news from Yahoo Finance</itunes:summary>
+    </item>
+
+    <item>
+      <title>Nvidia CEO Jensen Huang says data center builders have to be ‘good neighbors’</title>
+      <author>Daniel Howley</author>
+      <description>Nvidia CEO Jensen Huang says data center builders have to be ‘good neighbors’
+
+2026-10-22
+
+Por Daniel Howley
+
+https://finance.yahoo.com/technology/article/nvidia-ceo-jensen-huang-says-data-center-builders-have-to-be-good-neighbors-132705446.html
+
+Nvidia (NVDA) CEO Jensen Huang says that for data center builders to win over communities, they must first partner with them and be good neighbors.
+
+&quot;When you go into a community … before you start building, you ought to extend yourself out to the local community and partner with them,&quot; Huang told Deirdre Bosa during the company&#x27;s GTC event in Berlin.
+
+&quot;Let them know what you&#x27;re about to do is going to bring, of course, all the benefits, but it&#x27;s going to, of course, bring new neighbors,&quot; he said.
+
+Data center construction has faced major pushback across the US, with some counties and towns instituting outright bans on the facilities. New York has placed a one-year, statewide moratorium on data center construction. Texas, meanwhile, has put connecting new data centers to its grid on hold as it works to determine their potential impact.
+
+The issue has even become a flash point in the midterm elections, with President Trump backing data center development, and Democrats and some Republicans campaigning against them.
+
+Residents have lodged complaints about the constant noise generated by data centers, water usage, increased electricity costs, and more.
+
+To help ease tensions with local residents, some companies, including Microsoft (MSFT) and Amazon (AMZN), have taken steps to win over municipalities by dropping controversial nondisclosure agreements (NDAs).
+
+NDAs have become a key issue among some data center opponents, as they prevent local leaders from disclosing information about the projects.
+
+&quot;Everybody has now taken a step back, whether it&#x27;s the NDAs or contributing to the communities, whether it&#x27;s building shops and … community centers and improving schools and in many cases even supporting lower taxes and, you know, all kinds of benefits that can be brought to the local communities,&quot; Huang said.
+
+&quot;I think those are all good ideas, and each one of them ought to be … tailored for the needs of the community. But the most important thing is you&#x27;ve got to be a good visitor. You know you should be a good guest. And before you go into a community, stop by and see if you can be helpful,&quot; he added.
+
+Follow Daniel Howley on X @DanielHowley or email him at dhowley@yahoofinance.com.
+
+Click here for the latest technology news that will impact the stock market
+
+Read the latest financial and business news from Yahoo Finance</description>
+      <content:encoded><![CDATA[<p>Nvidia CEO Jensen Huang says data center builders have to be ‘good neighbors’</p><p>2026-10-22</p><p>Por Daniel Howley</p><p>https://finance.yahoo.com/technology/article/nvidia-ceo-jensen-huang-says-data-center-builders-have-to-be-good-neighbors-132705446.html</p><p>Nvidia (NVDA) CEO Jensen Huang says that for data center builders to win over communities, they must first partner with them and be good neighbors.</p><p>&quot;When you go into a community … before you start building, you ought to extend yourself out to the local community and partner with them,&quot; Huang told Deirdre Bosa during the company&#x27;s GTC event in Berlin.</p><p>&quot;Let them know what you&#x27;re about to do is going to bring, of course, all the benefits, but it&#x27;s going to, of course, bring new neighbors,&quot; he said.</p><p>Data center construction has faced major pushback across the US, with some counties and towns instituting outright bans on the facilities. New York has placed a one-year, statewide moratorium on data center construction. Texas, meanwhile, has put connecting new data centers to its grid on hold as it works to determine their potential impact.</p><p>The issue has even become a flash point in the midterm elections, with President Trump backing data center development, and Democrats and some Republicans campaigning against them.</p><p>Residents have lodged complaints about the constant noise generated by data centers, water usage, increased electricity costs, and more.</p><p>To help ease tensions with local residents, some companies, including Microsoft (MSFT) and Amazon (AMZN), have taken steps to win over municipalities by dropping controversial nondisclosure agreements (NDAs).</p><p>NDAs have become a key issue among some data center opponents, as they prevent local leaders from disclosing information about the projects.</p><p>&quot;Everybody has now taken a step back, whether it&#x27;s the NDAs or contributing to the communities, whether it&#x27;s building shops and … community centers and improving schools and in many cases even supporting lower taxes and, you know, all kinds of benefits that can be brought to the local communities,&quot; Huang said.</p><p>&quot;I think those are all good ideas, and each one of them ought to be … tailored for the needs of the community. But the most important thing is you&#x27;ve got to be a good visitor. You know you should be a good guest. And before you go into a community, stop by and see if you can be helpful,&quot; he added.</p><p>Follow Daniel Howley on X @DanielHowley or email him at dhowley@yahoofinance.com.</p><p>Click here for the latest technology news that will impact the stock market</p><p>Read the latest financial and business news from Yahoo Finance</p>]]></content:encoded>
+      <pubDate>Thu, 22 Oct 2026 11:17:47 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-10-22_Nvidia_CEO_Jensen_Huang_says_data_center_builders_have_to_be_good_neighbors.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-10-22_Nvidia_CEO_Jensen_Huang_says_data_center_builders_have_to_be_good_neighbors.mp3" length="1327934" type="audio/mpeg"/>
+      <itunes:duration>00:02:24</itunes:duration>
+      <itunes:author>Daniel Howley</itunes:author>
+      <itunes:summary>Nvidia CEO Jensen Huang says data center builders have to be ‘good neighbors’
+
+2026-10-22
+
+Por Daniel Howley
+
+https://finance.yahoo.com/technology/article/nvidia-ceo-jensen-huang-says-data-center-builders-have-to-be-good-neighbors-132705446.html
+
+Nvidia (NVDA) CEO Jensen Huang says that for data center builders to win over communities, they must first partner with them and be good neighbors.
+
+&quot;When you go into a community … before you start building, you ought to extend yourself out to the local community and partner with them,&quot; Huang told Deirdre Bosa during the company&#x27;s GTC event in Berlin.
+
+&quot;Let them know what you&#x27;re about to do is going to bring, of course, all the benefits, but it&#x27;s going to, of course, bring new neighbors,&quot; he said.
+
+Data center construction has faced major pushback across the US, with some counties and towns instituting outright bans on the facilities. New York has placed a one-year, statewide moratorium on data center construction. Texas, meanwhile, has put connecting new data centers to its grid on hold as it works to determine their potential impact.
+
+The issue has even become a flash point in the midterm elections, with President Trump backing data center development, and Democrats and some Republicans campaigning against them.
+
+Residents have lodged complaints about the constant noise generated by data centers, water usage, increased electricity costs, and more.
+
+To help ease tensions with local residents, some companies, including Microsoft (MSFT) and Amazon (AMZN), have taken steps to win over municipalities by dropping controversial nondisclosure agreements (NDAs).
+
+NDAs have become a key issue among some data center opponents, as they prevent local leaders from disclosing information about the projects.
+
+&quot;Everybody has now taken a step back, whether it&#x27;s the NDAs or contributing to the communities, whether it&#x27;s building shops and … community centers and improving schools and in many cases even supporting lower taxes and, you know, all kinds of benefits that can be brought to the local communities,&quot; Huang said.
+
+&quot;I think those are all good ideas, and each one of them ought to be … tailored for the needs of the community. But the most important thing is you&#x27;ve got to be a good visitor. You know you should be a good guest. And before you go into a community, stop by and see if you can be helpful,&quot; he added.
+
+Follow Daniel Howley on X @DanielHowley or email him at dhowley@yahoofinance.com.
+
+Click here for the latest technology news that will impact the stock market
+
+Read the latest financial and business news from Yahoo Finance</itunes:summary>
+    </item>
+
+    <item>
+      <title>Where people make over $1 million a year but still choose to rent</title>
+      <author>Claire Boston</author>
+      <description>Where people make over $1 million a year but still choose to rent
+
+2026-10-22
+
+Por Claire Boston
+
+https://finance.yahoo.com/real-estate/article/where-people-make-over-1-million-a-year-but-still-choose-to-rent-100000195.html
+
+For even America&#x27;s highest earners, renting can look more appealing than buying a home.
+
+The number of renters in the US earning $1 million and up more than tripled between 2020 and 2024, according to RentCafe data, outpacing the growth in high-earning homeowners during the same period.
+
+The data suggests that even the country&#x27;s highest earners, while likely able to afford to buy if they wanted to, aren&#x27;t immune to trends that have pushed millions of Americans to rent for longer. High mortgage rates still curtail their buying power, strong stock market performance makes tying up money in a home look less appealing, and renting can be a more flexible option than going through the process of buying and selling a high-end home.
+
+Most $1 million-earning renter households are concentrated in the nation&#x27;s priciest cities, where salaries tend to be higher and the cost differential between renting and owning often aggressively favors renting.
+
+In New York City, home to more than 7,000 of these high-earning renters, a monthly rent of $15,000 to $20,000 — considered &quot;comfortable&quot; on that income by conventional affordability metrics — can cover a two- or three-bedroom apartment overlooking Central Park or a two-story unit in the trendy West Village. Buying a comparable unit, though, usually costs far more after factoring in high mortgage rates, taxes, and monthly maintenance fees.
+
+San Francisco has the second-highest population of high-earning renters, with more than 1,800, followed by Los Angeles with 1,500.
+
+But high-earning renters are increasingly popping up in small and midsize cities. Harrisburg, Pa., the state&#x27;s capital, now has more than 140 renter households making over $1 million, up from just three in 2020. In Provo, Utah, the figure jumped from 10 to 264 in four years. Des Moines, Iowa, saw its highest-earning renters increase from four to 92 during the same period.
+
+Most high-earning renters work in well-paying industries such as technology and finance or hold executive or managerial roles within their companies. About three-quarters of renter households bring in more than $1 million a year by combining two relatively high salaries, rather than having a single person rake in seven figures.
+
+Claire Boston is a senior reporter for Yahoo Finance covering housing, mortgages, and home insurance.</description>
+      <content:encoded><![CDATA[<p>Where people make over $1 million a year but still choose to rent</p><p>2026-10-22</p><p>Por Claire Boston</p><p>https://finance.yahoo.com/real-estate/article/where-people-make-over-1-million-a-year-but-still-choose-to-rent-100000195.html</p><p>For even America&#x27;s highest earners, renting can look more appealing than buying a home.</p><p>The number of renters in the US earning $1 million and up more than tripled between 2020 and 2024, according to RentCafe data, outpacing the growth in high-earning homeowners during the same period.</p><p>The data suggests that even the country&#x27;s highest earners, while likely able to afford to buy if they wanted to, aren&#x27;t immune to trends that have pushed millions of Americans to rent for longer. High mortgage rates still curtail their buying power, strong stock market performance makes tying up money in a home look less appealing, and renting can be a more flexible option than going through the process of buying and selling a high-end home.</p><p>Most $1 million-earning renter households are concentrated in the nation&#x27;s priciest cities, where salaries tend to be higher and the cost differential between renting and owning often aggressively favors renting.</p><p>In New York City, home to more than 7,000 of these high-earning renters, a monthly rent of $15,000 to $20,000 — considered &quot;comfortable&quot; on that income by conventional affordability metrics — can cover a two- or three-bedroom apartment overlooking Central Park or a two-story unit in the trendy West Village. Buying a comparable unit, though, usually costs far more after factoring in high mortgage rates, taxes, and monthly maintenance fees.</p><p>San Francisco has the second-highest population of high-earning renters, with more than 1,800, followed by Los Angeles with 1,500.</p><p>But high-earning renters are increasingly popping up in small and midsize cities. Harrisburg, Pa., the state&#x27;s capital, now has more than 140 renter households making over $1 million, up from just three in 2020. In Provo, Utah, the figure jumped from 10 to 264 in four years. Des Moines, Iowa, saw its highest-earning renters increase from four to 92 during the same period.</p><p>Most high-earning renters work in well-paying industries such as technology and finance or hold executive or managerial roles within their companies. About three-quarters of renter households bring in more than $1 million a year by combining two relatively high salaries, rather than having a single person rake in seven figures.</p><p>Claire Boston is a senior reporter for Yahoo Finance covering housing, mortgages, and home insurance.</p>]]></content:encoded>
+      <pubDate>Thu, 22 Oct 2026 11:17:11 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-10-22_Where_people_make_over_1_million_a_year_but_still_choose_to_rent.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-10-22_Where_people_make_over_1_million_a_year_but_still_choose_to_rent.mp3" length="1411688" type="audio/mpeg"/>
+      <itunes:duration>00:02:33</itunes:duration>
+      <itunes:author>Claire Boston</itunes:author>
+      <itunes:summary>Where people make over $1 million a year but still choose to rent
+
+2026-10-22
+
+Por Claire Boston
+
+https://finance.yahoo.com/real-estate/article/where-people-make-over-1-million-a-year-but-still-choose-to-rent-100000195.html
+
+For even America&#x27;s highest earners, renting can look more appealing than buying a home.
+
+The number of renters in the US earning $1 million and up more than tripled between 2020 and 2024, according to RentCafe data, outpacing the growth in high-earning homeowners during the same period.
+
+The data suggests that even the country&#x27;s highest earners, while likely able to afford to buy if they wanted to, aren&#x27;t immune to trends that have pushed millions of Americans to rent for longer. High mortgage rates still curtail their buying power, strong stock market performance makes tying up money in a home look less appealing, and renting can be a more flexible option than going through the process of buying and selling a high-end home.
+
+Most $1 million-earning renter households are concentrated in the nation&#x27;s priciest cities, where salaries tend to be higher and the cost differential between renting and owning often aggressively favors renting.
+
+In New York City, home to more than 7,000 of these high-earning renters, a monthly rent of $15,000 to $20,000 — considered &quot;comfortable&quot; on that income by conventional affordability metrics — can cover a two- or three-bedroom apartment overlooking Central Park or a two-story unit in the trendy West Village. Buying a comparable unit, though, usually costs far more after factoring in high mortgage rates, taxes, and monthly maintenance fees.
+
+San Francisco has the second-highest population of high-earning renters, with more than 1,800, followed by Los Angeles with 1,500.
+
+But high-earning renters are increasingly popping up in small and midsize cities. Harrisburg, Pa., the state&#x27;s capital, now has more than 140 renter households making over $1 million, up from just three in 2020. In Provo, Utah, the figure jumped from 10 to 264 in four years. Des Moines, Iowa, saw its highest-earning renters increase from four to 92 during the same period.
+
+Most high-earning renters work in well-paying industries such as technology and finance or hold executive or managerial roles within their companies. About three-quarters of renter households bring in more than $1 million a year by combining two relatively high salaries, rather than having a single person rake in seven figures.
+
+Claire Boston is a senior reporter for Yahoo Finance covering housing, mortgages, and home insurance.</itunes:summary>
+    </item>
+
+    <item>
+      <title>Buffett’s Berkshire just trounced chip stocks and flashed a rare dot-com-era signal</title>
+      <author>Jared Blikre</author>
+      <description>Buffett’s Berkshire just trounced chip stocks and flashed a rare dot-com-era signal
+
+2026-10-22
+
+Por Jared Blikre
+
+https://finance.yahoo.com/markets/article/buffetts-berkshire-just-trounced-chip-stocks-and-flashed-a-rare-dot-com-era-signal-165123739.html
+
+For three weeks, Wall Street sold the hottest trade in the market and bought one of the oldest. Chip stocks lost 15% while Warren Buffett&#x27;s Berkshire Hathaway gained 7%.
+
+That swing carried Berkshire&#x27;s Class B stock (BRK-B) to a record close Tuesday, its first since May 2, 2025 — the day before Buffett said he would hand the CEO job to Greg Abel. The stock pushed to an intraday record Wednesday, as did the Class A stock (BRK-A).
+
+The wait took 17 months, a stretch in which the S&amp;P 500 (^GSPC) gained more than 35%.
+
+From Oct. 6 through Tuesday, the iShares Semiconductor ETF (SOXX) fell in 10 of 11 sessions. Berkshire rose on nine of those days, and on chips&#x27; two worst days, Oct. 14 and Oct. 16, it posted two of its best gains of the run.
+
+For now, that price action has made Berkshire look like a hedge against the AI chip trade. Since Oct. 1, it has mostly risen on the days chips fell.
+
+Berkshire is on track to rise in 14 of its last 15 sessions. Along the way, it strung together a 10-day winning streak, its first since 2018, according to Yahoo Finance calculations.
+
+A gap last seen during the dot-com bust
+
+From Oct. 2 through Tuesday, Berkshire beat SOXX by 22 percentage points. That&#x27;s the widest gap over any 12-session stretch since early 2010, according to Yahoo Finance calculations that compare Berkshire with the PHLX Semiconductor Index (^SOX) back to 1994. The 12-session window is the one that captures this month&#x27;s widest gap.
+
+The rarer signal is the combination.
+
+Chips fell at least 14% while Berkshire gained at least 7% over 12 sessions. Before this month, that last happened Oct. 3, 2001. Every earlier case came in 1995-96 or in 2000-01, the latter as the dot-com bubble burst.
+
+History sends a mixed message from here.
+
+In the near term, chips bounced. They were higher a week later in five of the six earlier cases, and they&#x27;re rebounding Wednesday,too. A year out, chips were lower in five of six instances, and the S&amp;P 500 fell in four.
+
+Four of those six cases came during the same bear market, though. Treat this as a rare signal, not a forecast.
+
+Abel&#x27;s Berkshire is spending again
+
+Abel has also changed how Berkshire uses its cash. Berkshire bought back about $4.5 billion of its own stock in the second quarter and ended 14 straight quarters of net stock selling while its cash pile fell from a record $397 billion.
+
+Buffett said Sept. 18 he would also step down as chairman. The stock bottomed two weeks later.
+
+The next test comes with third quarter results, expected to be released Saturday, Nov. 7.</description>
+      <content:encoded><![CDATA[<p>Buffett’s Berkshire just trounced chip stocks and flashed a rare dot-com-era signal</p><p>2026-10-22</p><p>Por Jared Blikre</p><p>https://finance.yahoo.com/markets/article/buffetts-berkshire-just-trounced-chip-stocks-and-flashed-a-rare-dot-com-era-signal-165123739.html</p><p>For three weeks, Wall Street sold the hottest trade in the market and bought one of the oldest. Chip stocks lost 15% while Warren Buffett&#x27;s Berkshire Hathaway gained 7%.</p><p>That swing carried Berkshire&#x27;s Class B stock (BRK-B) to a record close Tuesday, its first since May 2, 2025 — the day before Buffett said he would hand the CEO job to Greg Abel. The stock pushed to an intraday record Wednesday, as did the Class A stock (BRK-A).</p><p>The wait took 17 months, a stretch in which the S&amp;P 500 (^GSPC) gained more than 35%.</p><p>From Oct. 6 through Tuesday, the iShares Semiconductor ETF (SOXX) fell in 10 of 11 sessions. Berkshire rose on nine of those days, and on chips&#x27; two worst days, Oct. 14 and Oct. 16, it posted two of its best gains of the run.</p><p>For now, that price action has made Berkshire look like a hedge against the AI chip trade. Since Oct. 1, it has mostly risen on the days chips fell.</p><p>Berkshire is on track to rise in 14 of its last 15 sessions. Along the way, it strung together a 10-day winning streak, its first since 2018, according to Yahoo Finance calculations.</p><p>A gap last seen during the dot-com bust</p><p>From Oct. 2 through Tuesday, Berkshire beat SOXX by 22 percentage points. That&#x27;s the widest gap over any 12-session stretch since early 2010, according to Yahoo Finance calculations that compare Berkshire with the PHLX Semiconductor Index (^SOX) back to 1994. The 12-session window is the one that captures this month&#x27;s widest gap.</p><p>The rarer signal is the combination.</p><p>Chips fell at least 14% while Berkshire gained at least 7% over 12 sessions. Before this month, that last happened Oct. 3, 2001. Every earlier case came in 1995-96 or in 2000-01, the latter as the dot-com bubble burst.</p><p>History sends a mixed message from here.</p><p>In the near term, chips bounced. They were higher a week later in five of the six earlier cases, and they&#x27;re rebounding Wednesday,too. A year out, chips were lower in five of six instances, and the S&amp;P 500 fell in four.</p><p>Four of those six cases came during the same bear market, though. Treat this as a rare signal, not a forecast.</p><p>Abel&#x27;s Berkshire is spending again</p><p>Abel has also changed how Berkshire uses its cash. Berkshire bought back about $4.5 billion of its own stock in the second quarter and ended 14 straight quarters of net stock selling while its cash pile fell from a record $397 billion.</p><p>Buffett said Sept. 18 he would also step down as chairman. The stock bottomed two weeks later.</p><p>The next test comes with third quarter results, expected to be released Saturday, Nov. 7.</p>]]></content:encoded>
+      <pubDate>Thu, 22 Oct 2026 11:16:29 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-10-22_Buffetts_Berkshire_just_trounced_chip_stocks_and_flashed_a_rare_dot-com-era_signal.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-10-22_Buffetts_Berkshire_just_trounced_chip_stocks_and_flashed_a_rare_dot-com-era_signal.mp3" length="1623002" type="audio/mpeg"/>
+      <itunes:duration>00:02:58</itunes:duration>
+      <itunes:author>Jared Blikre</itunes:author>
+      <itunes:summary>Buffett’s Berkshire just trounced chip stocks and flashed a rare dot-com-era signal
+
+2026-10-22
+
+Por Jared Blikre
+
+https://finance.yahoo.com/markets/article/buffetts-berkshire-just-trounced-chip-stocks-and-flashed-a-rare-dot-com-era-signal-165123739.html
+
+For three weeks, Wall Street sold the hottest trade in the market and bought one of the oldest. Chip stocks lost 15% while Warren Buffett&#x27;s Berkshire Hathaway gained 7%.
+
+That swing carried Berkshire&#x27;s Class B stock (BRK-B) to a record close Tuesday, its first since May 2, 2025 — the day before Buffett said he would hand the CEO job to Greg Abel. The stock pushed to an intraday record Wednesday, as did the Class A stock (BRK-A).
+
+The wait took 17 months, a stretch in which the S&amp;P 500 (^GSPC) gained more than 35%.
+
+From Oct. 6 through Tuesday, the iShares Semiconductor ETF (SOXX) fell in 10 of 11 sessions. Berkshire rose on nine of those days, and on chips&#x27; two worst days, Oct. 14 and Oct. 16, it posted two of its best gains of the run.
+
+For now, that price action has made Berkshire look like a hedge against the AI chip trade. Since Oct. 1, it has mostly risen on the days chips fell.
+
+Berkshire is on track to rise in 14 of its last 15 sessions. Along the way, it strung together a 10-day winning streak, its first since 2018, according to Yahoo Finance calculations.
+
+A gap last seen during the dot-com bust
+
+From Oct. 2 through Tuesday, Berkshire beat SOXX by 22 percentage points. That&#x27;s the widest gap over any 12-session stretch since early 2010, according to Yahoo Finance calculations that compare Berkshire with the PHLX Semiconductor Index (^SOX) back to 1994. The 12-session window is the one that captures this month&#x27;s widest gap.
+
+The rarer signal is the combination.
+
+Chips fell at least 14% while Berkshire gained at least 7% over 12 sessions. Before this month, that last happened Oct. 3, 2001. Every earlier case came in 1995-96 or in 2000-01, the latter as the dot-com bubble burst.
+
+History sends a mixed message from here.
+
+In the near term, chips bounced. They were higher a week later in five of the six earlier cases, and they&#x27;re rebounding Wednesday,too. A year out, chips were lower in five of six instances, and the S&amp;P 500 fell in four.
+
+Four of those six cases came during the same bear market, though. Treat this as a rare signal, not a forecast.
+
+Abel&#x27;s Berkshire is spending again
+
+Abel has also changed how Berkshire uses its cash. Berkshire bought back about $4.5 billion of its own stock in the second quarter and ended 14 straight quarters of net stock selling while its cash pile fell from a record $397 billion.
+
+Buffett said Sept. 18 he would also step down as chairman. The stock bottomed two weeks later.
+
+The next test comes with third quarter results, expected to be released Saturday, Nov. 7.</itunes:summary>
+    </item>
+
+    <item>
+      <title>Nvidia reveals plans for &#x27;an AI factory in a shipping container&#x27; to build data centers in weeks, not months</title>
+      <author>Daniel Howley</author>
+      <description>Nvidia reveals plans for &#x27;an AI factory in a shipping container&#x27; to build data centers in weeks, not months
+
+2026-10-22
+
+Por Daniel Howley
+
+https://finance.yahoo.com/technology/article/nvidia-reveals-plans-for-an-ai-factory-in-a-shipping-container-to-build-data-centers-in-weeks-not-months-125029004.html
+
+Nvidia reveals plans for &#x27;an AI factory in a shipping container&#x27; to build data centers in weeks, not months
+
+Nvidia (NVDA) wants to reduce the time it takes for its customers to start generating revenue from its AI systems.
+
+At its GTC event in Berlin on Wednesday, the company unveiled its DSX POD, a reference design for an AI data center packed into a box about the size of a standard shipping container.
+
+Data center construction can take months, if not years, to get up and running. And because they don&#x27;t start generating revenue until they begin processing AI tokens, the longer a data center takes to come online, the more expenses pile up.
+
+The DSX POD is meant to serve as a faster, modular solution for companies that need access to data center capabilities sooner rather than later.
+
+&quot;The moment then you have to install these AI factories, and they&#x27;re gigantic. And putting these AI factories into service takes months. If we could reduce that months, you know, from the moment that the systems are shipped to the moment that it&#x27;s deployed and being operational, if we could reduce it from months to weeks or even a month, that will be completely game-changing for all of these AI factories,&quot; CEO Jensen Huang told Deirdre Bosa.
+
+According to Nvidia, the Vera Rubin-powered DSX PODs will arrive on site, ready to be plugged into the power, cooling, and networking infrastructure, reducing deployment time from six months to 14 days.
+
+The company said DSX PODs won&#x27;t replace traditional data centers, but will serve as a means to start running AI applications before brick-and-mortar facilities are ready.
+
+&quot;With Nvidia DSX POD, we&#x27;re bringing factory-built precision and speed to AI infrastructure construction — reducing deployment time from months to weeks so customers can scale capacity and bring revenue-generating production online faster,&quot; Nvidia CEO Jensen Huang said in a statement.
+
+According to the company, the DSX POD supports liquid cooling, but because it uses dry-cooler designs, it can save up to 54 million liters of water per day versus a standard data center.
+
+Standing up data centers more quickly doesn&#x27;t just help Nvidia&#x27;s customers, though. Faster data center deployment should ease at least one of the chokepoints in the AI build-out, which means faster chip sales for Nvidia.
+
+Semiconductors aren&#x27;t the only bottleneck for data center builders. Getting the electricity necessary to power those processors is also a concern. And power plants take far longer to construct than data centers.
+
+Nvidia said it&#x27;s working with partners, including Anduril, Armada, Bull, Crusoe, Dell Technologies (DELL), Foxconn, and others, to begin delivering the DSX POD in early 2027.
+
+Click here for the latest technology news that will impact the stock market
+
+Read the latest financial and business news from Yahoo Finance</description>
+      <content:encoded><![CDATA[<p>Nvidia reveals plans for &#x27;an AI factory in a shipping container&#x27; to build data centers in weeks, not months</p><p>2026-10-22</p><p>Por Daniel Howley</p><p>https://finance.yahoo.com/technology/article/nvidia-reveals-plans-for-an-ai-factory-in-a-shipping-container-to-build-data-centers-in-weeks-not-months-125029004.html</p><p>Nvidia reveals plans for &#x27;an AI factory in a shipping container&#x27; to build data centers in weeks, not months</p><p>Nvidia (NVDA) wants to reduce the time it takes for its customers to start generating revenue from its AI systems.</p><p>At its GTC event in Berlin on Wednesday, the company unveiled its DSX POD, a reference design for an AI data center packed into a box about the size of a standard shipping container.</p><p>Data center construction can take months, if not years, to get up and running. And because they don&#x27;t start generating revenue until they begin processing AI tokens, the longer a data center takes to come online, the more expenses pile up.</p><p>The DSX POD is meant to serve as a faster, modular solution for companies that need access to data center capabilities sooner rather than later.</p><p>&quot;The moment then you have to install these AI factories, and they&#x27;re gigantic. And putting these AI factories into service takes months. If we could reduce that months, you know, from the moment that the systems are shipped to the moment that it&#x27;s deployed and being operational, if we could reduce it from months to weeks or even a month, that will be completely game-changing for all of these AI factories,&quot; CEO Jensen Huang told Deirdre Bosa.</p><p>According to Nvidia, the Vera Rubin-powered DSX PODs will arrive on site, ready to be plugged into the power, cooling, and networking infrastructure, reducing deployment time from six months to 14 days.</p><p>The company said DSX PODs won&#x27;t replace traditional data centers, but will serve as a means to start running AI applications before brick-and-mortar facilities are ready.</p><p>&quot;With Nvidia DSX POD, we&#x27;re bringing factory-built precision and speed to AI infrastructure construction — reducing deployment time from months to weeks so customers can scale capacity and bring revenue-generating production online faster,&quot; Nvidia CEO Jensen Huang said in a statement.</p><p>According to the company, the DSX POD supports liquid cooling, but because it uses dry-cooler designs, it can save up to 54 million liters of water per day versus a standard data center.</p><p>Standing up data centers more quickly doesn&#x27;t just help Nvidia&#x27;s customers, though. Faster data center deployment should ease at least one of the chokepoints in the AI build-out, which means faster chip sales for Nvidia.</p><p>Semiconductors aren&#x27;t the only bottleneck for data center builders. Getting the electricity necessary to power those processors is also a concern. And power plants take far longer to construct than data centers.</p><p>Nvidia said it&#x27;s working with partners, including Anduril, Armada, Bull, Crusoe, Dell Technologies (DELL), Foxconn, and others, to begin delivering the DSX POD in early 2027.</p><p>Click here for the latest technology news that will impact the stock market</p><p>Read the latest financial and business news from Yahoo Finance</p>]]></content:encoded>
+      <pubDate>Thu, 22 Oct 2026 11:15:39 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-10-22_Nvidia_reveals_plans_for_an_AI_factory_in_a_shipping_container_to_build_data_centers_in_weeks_not_months.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-10-22_Nvidia_reveals_plans_for_an_AI_factory_in_a_shipping_container_to_build_data_centers_in_weeks_not_months.mp3" length="1743610" type="audio/mpeg"/>
+      <itunes:duration>00:03:12</itunes:duration>
+      <itunes:author>Daniel Howley</itunes:author>
+      <itunes:summary>Nvidia reveals plans for &#x27;an AI factory in a shipping container&#x27; to build data centers in weeks, not months
+
+2026-10-22
+
+Por Daniel Howley
+
+https://finance.yahoo.com/technology/article/nvidia-reveals-plans-for-an-ai-factory-in-a-shipping-container-to-build-data-centers-in-weeks-not-months-125029004.html
+
+Nvidia reveals plans for &#x27;an AI factory in a shipping container&#x27; to build data centers in weeks, not months
+
+Nvidia (NVDA) wants to reduce the time it takes for its customers to start generating revenue from its AI systems.
+
+At its GTC event in Berlin on Wednesday, the company unveiled its DSX POD, a reference design for an AI data center packed into a box about the size of a standard shipping container.
+
+Data center construction can take months, if not years, to get up and running. And because they don&#x27;t start generating revenue until they begin processing AI tokens, the longer a data center takes to come online, the more expenses pile up.
+
+The DSX POD is meant to serve as a faster, modular solution for companies that need access to data center capabilities sooner rather than later.
+
+&quot;The moment then you have to install these AI factories, and they&#x27;re gigantic. And putting these AI factories into service takes months. If we could reduce that months, you know, from the moment that the systems are shipped to the moment that it&#x27;s deployed and being operational, if we could reduce it from months to weeks or even a month, that will be completely game-changing for all of these AI factories,&quot; CEO Jensen Huang told Deirdre Bosa.
+
+According to Nvidia, the Vera Rubin-powered DSX PODs will arrive on site, ready to be plugged into the power, cooling, and networking infrastructure, reducing deployment time from six months to 14 days.
+
+The company said DSX PODs won&#x27;t replace traditional data centers, but will serve as a means to start running AI applications before brick-and-mortar facilities are ready.
+
+&quot;With Nvidia DSX POD, we&#x27;re bringing factory-built precision and speed to AI infrastructure construction — reducing deployment time from months to weeks so customers can scale capacity and bring revenue-generating production online faster,&quot; Nvidia CEO Jensen Huang said in a statement.
+
+According to the company, the DSX POD supports liquid cooling, but because it uses dry-cooler designs, it can save up to 54 million liters of water per day versus a standard data center.
+
+Standing up data centers more quickly doesn&#x27;t just help Nvidia&#x27;s customers, though. Faster data center deployment should ease at least one of the chokepoints in the AI build-out, which means faster chip sales for Nvidia.
+
+Semiconductors aren&#x27;t the only bottleneck for data center builders. Getting the electricity necessary to power those processors is also a concern. And power plants take far longer to construct than data centers.
+
+Nvidia said it&#x27;s working with partners, including Anduril, Armada, Bull, Crusoe, Dell Technologies (DELL), Foxconn, and others, to begin delivering the DSX POD in early 2027.
+
+Click here for the latest technology news that will impact the stock market
+
+Read the latest financial and business news from Yahoo Finance</itunes:summary>
+    </item>
+
+    <item>
+      <title>The simple reason JPMorgan thinks SpaceX will triple: It&#x27;s going after a $28 trillion market</title>
+      <author>Hamza Shaban</author>
+      <description>The simple reason JPMorgan thinks SpaceX will triple: It&#x27;s going after a $28 trillion market
+
+2026-10-22
+
+Por Hamza Shaban
+
+https://finance.yahoo.com/technology/article/the-simple-reason-jpmorgan-thinks-spacex-will-triple-its-going-after-a-28-trillion-market-183620489.html
+
+SpaceX (SPCX) is on a roll. After reporting earnings for the second time as a public company — turning a profit and showing massive AI revenue — investors are pouring in, driving a 10% gain on Wednesday and stock upgrades from Wall Street.
+
+One analyst note stood out among a strong field: JPMorgan&#x27;s massive bull thesis. It&#x27;s common enough for CEO Elon Musk to bet big on himself. But analyst Doug Anmuth laid out another optimistic case, more than doubling his price target to $500 from $240, implying an upside of more than 200% from Wednesday&#x27;s price.
+
+The reason? In a sentence: &quot;No other company is as well positioned to go after the combined anticipated [total addressable market] of $28T+,&quot; Anmuth wrote in a note after earnings.
+
+In other words, SpaceX is going after everything.
+
+Musk&#x27;s (current) favorite corporate child has already gone beyond rockets and satellites into telecommunications and a complete chip to data center to Grok vertical integration AI, which has overtaken the rest of SpaceX&#x27;s operations to become its biggest business by revenue. Alone, these businesses would be huge. Together, they approach a quarter of US GDP.
+
+Just imagine if robotaxi and robotics markets get tacked on to that.
+
+In the corporate world, focus often means success — finding the right product, targeting the right customers, and defining the specific value your firm brings. But when you&#x27;re a giant tech conglomerate, your lane extends to market conquest. Everything is up for grabs, and the name of the game is planting flags. The space race, the AI race, and even, for Musk, the telecom race and supplanting legacy carriers like AT&amp;T (T), Verizon (VZ), and T-Mobile (TMUS).
+
+All of this makes the Tesla (TSLA) angle especially interesting. If SpaceX is already on its way to the moon, why not merge with an EV, robotics, and robotaxi company too? The boards of both companies have formed special committees to explore a tie-up. Yet another reason why Musk&#x27;s enormous ambitions and SpaceX&#x27;s promising start as a publicly traded company can prompt such lofty projections.
+
+On the company&#x27;s earnings call Tuesday, Musk said he projects SpaceX&#x27;s annual recurring revenue by the end of 2027 to fall &quot;somewhere between $500 billion and $1 trillion.&quot; This quarter gave us a hint of where things are going, revealing how, in the span of a few months, SpaceX morphed into a new, AI-forward company. The current quarter and the year ahead might very well show another astonishing leap.
+
+Hamza Shaban is a reporter for Yahoo Finance covering markets and the economy. Follow Hamza on X @hshaban.
+
+Click here for the latest technology news that will impact the stock market
+
+Read the latest financial and business news from Yahoo Finance</description>
+      <content:encoded><![CDATA[<p>The simple reason JPMorgan thinks SpaceX will triple: It&#x27;s going after a $28 trillion market</p><p>2026-10-22</p><p>Por Hamza Shaban</p><p>https://finance.yahoo.com/technology/article/the-simple-reason-jpmorgan-thinks-spacex-will-triple-its-going-after-a-28-trillion-market-183620489.html</p><p>SpaceX (SPCX) is on a roll. After reporting earnings for the second time as a public company — turning a profit and showing massive AI revenue — investors are pouring in, driving a 10% gain on Wednesday and stock upgrades from Wall Street.</p><p>One analyst note stood out among a strong field: JPMorgan&#x27;s massive bull thesis. It&#x27;s common enough for CEO Elon Musk to bet big on himself. But analyst Doug Anmuth laid out another optimistic case, more than doubling his price target to $500 from $240, implying an upside of more than 200% from Wednesday&#x27;s price.</p><p>The reason? In a sentence: &quot;No other company is as well positioned to go after the combined anticipated [total addressable market] of $28T+,&quot; Anmuth wrote in a note after earnings.</p><p>In other words, SpaceX is going after everything.</p><p>Musk&#x27;s (current) favorite corporate child has already gone beyond rockets and satellites into telecommunications and a complete chip to data center to Grok vertical integration AI, which has overtaken the rest of SpaceX&#x27;s operations to become its biggest business by revenue. Alone, these businesses would be huge. Together, they approach a quarter of US GDP.</p><p>Just imagine if robotaxi and robotics markets get tacked on to that.</p><p>In the corporate world, focus often means success — finding the right product, targeting the right customers, and defining the specific value your firm brings. But when you&#x27;re a giant tech conglomerate, your lane extends to market conquest. Everything is up for grabs, and the name of the game is planting flags. The space race, the AI race, and even, for Musk, the telecom race and supplanting legacy carriers like AT&amp;T (T), Verizon (VZ), and T-Mobile (TMUS).</p><p>All of this makes the Tesla (TSLA) angle especially interesting. If SpaceX is already on its way to the moon, why not merge with an EV, robotics, and robotaxi company too? The boards of both companies have formed special committees to explore a tie-up. Yet another reason why Musk&#x27;s enormous ambitions and SpaceX&#x27;s promising start as a publicly traded company can prompt such lofty projections.</p><p>On the company&#x27;s earnings call Tuesday, Musk said he projects SpaceX&#x27;s annual recurring revenue by the end of 2027 to fall &quot;somewhere between $500 billion and $1 trillion.&quot; This quarter gave us a hint of where things are going, revealing how, in the span of a few months, SpaceX morphed into a new, AI-forward company. The current quarter and the year ahead might very well show another astonishing leap.</p><p>Hamza Shaban is a reporter for Yahoo Finance covering markets and the economy. Follow Hamza on X @hshaban.</p><p>Click here for the latest technology news that will impact the stock market</p><p>Read the latest financial and business news from Yahoo Finance</p>]]></content:encoded>
+      <pubDate>Thu, 22 Oct 2026 11:14:55 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-10-22_The_simple_reason_JPMorgan_thinks_SpaceX_will_triple_Its_going_after_a_28_trillion_market.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-10-22_The_simple_reason_JPMorgan_thinks_SpaceX_will_triple_Its_going_after_a_28_trillion_market.mp3" length="1714169" type="audio/mpeg"/>
+      <itunes:duration>00:03:09</itunes:duration>
+      <itunes:author>Hamza Shaban</itunes:author>
+      <itunes:summary>The simple reason JPMorgan thinks SpaceX will triple: It&#x27;s going after a $28 trillion market
+
+2026-10-22
+
+Por Hamza Shaban
+
+https://finance.yahoo.com/technology/article/the-simple-reason-jpmorgan-thinks-spacex-will-triple-its-going-after-a-28-trillion-market-183620489.html
+
+SpaceX (SPCX) is on a roll. After reporting earnings for the second time as a public company — turning a profit and showing massive AI revenue — investors are pouring in, driving a 10% gain on Wednesday and stock upgrades from Wall Street.
+
+One analyst note stood out among a strong field: JPMorgan&#x27;s massive bull thesis. It&#x27;s common enough for CEO Elon Musk to bet big on himself. But analyst Doug Anmuth laid out another optimistic case, more than doubling his price target to $500 from $240, implying an upside of more than 200% from Wednesday&#x27;s price.
+
+The reason? In a sentence: &quot;No other company is as well positioned to go after the combined anticipated [total addressable market] of $28T+,&quot; Anmuth wrote in a note after earnings.
+
+In other words, SpaceX is going after everything.
+
+Musk&#x27;s (current) favorite corporate child has already gone beyond rockets and satellites into telecommunications and a complete chip to data center to Grok vertical integration AI, which has overtaken the rest of SpaceX&#x27;s operations to become its biggest business by revenue. Alone, these businesses would be huge. Together, they approach a quarter of US GDP.
+
+Just imagine if robotaxi and robotics markets get tacked on to that.
+
+In the corporate world, focus often means success — finding the right product, targeting the right customers, and defining the specific value your firm brings. But when you&#x27;re a giant tech conglomerate, your lane extends to market conquest. Everything is up for grabs, and the name of the game is planting flags. The space race, the AI race, and even, for Musk, the telecom race and supplanting legacy carriers like AT&amp;T (T), Verizon (VZ), and T-Mobile (TMUS).
+
+All of this makes the Tesla (TSLA) angle especially interesting. If SpaceX is already on its way to the moon, why not merge with an EV, robotics, and robotaxi company too? The boards of both companies have formed special committees to explore a tie-up. Yet another reason why Musk&#x27;s enormous ambitions and SpaceX&#x27;s promising start as a publicly traded company can prompt such lofty projections.
+
+On the company&#x27;s earnings call Tuesday, Musk said he projects SpaceX&#x27;s annual recurring revenue by the end of 2027 to fall &quot;somewhere between $500 billion and $1 trillion.&quot; This quarter gave us a hint of where things are going, revealing how, in the span of a few months, SpaceX morphed into a new, AI-forward company. The current quarter and the year ahead might very well show another astonishing leap.
+
+Hamza Shaban is a reporter for Yahoo Finance covering markets and the economy. Follow Hamza on X @hshaban.
+
+Click here for the latest technology news that will impact the stock market
+
+Read the latest financial and business news from Yahoo Finance</itunes:summary>
+    </item>
+
+    <item>
+      <title>Tesla stock slips despite Q3 earnings beat, better-than-expected capex spend</title>
+      <author>Pras Subramanian</author>
+      <description>Tesla stock slips despite Q3 earnings beat, better-than-expected capex spend
+
+2026-10-22
+
+Por Pras Subramanian
+
+https://finance.yahoo.com/markets/stocks/article/tesla-stock-slips-despite-q3-earnings-beat-better-than-expected-capex-spend-101521707.html
+
+Tesla (TSLA) reported better-than-expected third quarter earnings, with its free cash flow and capex spending coming in ahead of Wall Street estimates.
+
+Tesla reported Q3 revenue of $28.05 billion vs. Bloomberg consensus of $28.13 billion. Tesla posted adjusted EPS of $0.48 vs. the $0.44 estimate, with adjusted EBITDA of $3.90 billion vs. $3.66 billion.
+
+Tesla stock fell almost 5% before the bell on Thursday, with Morningstar analyst Seth Goldstein claiming the market was reacting to &quot;capacity constraints in the company&#x27;s auto and battery growth, which could slow near-term growth.&quot;
+
+But that might not be the whole story. Tesla reported free cash flow of $1.53 billion vs. an estimated -$4.92 billion, with capital expenditures climbing to $4.732 billion vs. an estimated $7.96 billion for the quarter.
+
+On the earnings call, Tesla updated its full-year capex guidance to $20 billion from $25 billion previously. Tesla CFO Vaibhav Taneja said the savings would come from &quot;managing our capital deployment efficiently, and plan to fund [capex] primarily from our cash flows from operations,&quot; he said.
+
+&quot;I think capex is actually ending up being a little lower than we anticipated, but we&#x27;ll start to become more meaningful next year. And then noticeable in the tens of billions in &#x27;28,&quot; CEO Elon Musk said on the call.
+
+Roundhill CEO Dave Mazza posits the cutting capex means the Tesla isn&#x27;t transitioning fast enough to an AI-focused company betting on robotaxis, Optimus robots, and compute.
+
+Tesla revealed its Optimus robot started production at its Fremont factory. &quot;While we will continue to iterate on the hardware and manufacturing process, we have proven that the current manufacturing process for Optimus is suitable for a commercial product,&quot; the company said in its earnings release.
+
+&quot;I would expect that it takes us probably at least a year — maybe a little longer — to get to that annualized rate [1 million units], to get to 20,000 units a week,&quot; Musk said on the earnings call. Musk added that Tesla may release an Optimus demo video in about a month, stressing that he didn&#x27;t want the robot&#x27;s movements to be preplanned.
+
+Regarding its other AI efforts, Tesla said it plans to reach 400 MW of AI training compute by the end of the year. Tesla said its active FSD (full self-driving) subscriptions climbed to 1.74 million.
+
+&quot;The biggest driver of demand is full self-driving,&quot; Musk said regarding vehicle sales.
+
+&quot;The Cybercab fleet in Austin has grown by a factor of 10,&quot; Musk added while discussing Tesla&#x27;s robotaxi fleet. He added, &quot;I don&#x27;t think there&#x27;s any company in the world that can match our scale with autonomous vehicles.&quot;
+
+Musk also stirred the pot recently with comments about a possible tie-up with SpaceX, his other company.
+
+&quot;I think both SpaceX and Tesla have formed special committees to discuss this idea,&quot; Musk said during SpaceX&#x27;s earnings call Tuesday night. &quot;At the request of shareholders, and these special committees consist of independent directors. And because I&#x27;m a conflicted party, I can&#x27;t actually be in the discussions of the special committees.&quot;
+
+He added, &quot;I don&#x27;t think we should necessarily assume that I think some people out there assume that a SpaceX and Tesla merger is a certainty. And I think that would be overstating it. Do I think it would be a good idea? Yes.&quot;
+
+On the Tesla call, Musk briefly touched on it but added nothing new. &quot;With regard to a potential merger with SpaceX, I think I said everything that should be said yesterday [Tuesday],&quot; Musk said.
+
+Teslareported Q3 deliveries of 486,532, down 2% from a year ago but well ahead of the Bloomberg consensus of 463,000. Energy storage deployments came in at 13.7 GWh, up from 12.5 GWh a year ago and Q2&#x27;s 13.5 GWh.
+
+Tesl
+
+[Transcripcion recortada]</description>
+      <content:encoded><![CDATA[<p>Tesla stock slips despite Q3 earnings beat, better-than-expected capex spend</p><p>2026-10-22</p><p>Por Pras Subramanian</p><p>https://finance.yahoo.com/markets/stocks/article/tesla-stock-slips-despite-q3-earnings-beat-better-than-expected-capex-spend-101521707.html</p><p>Tesla (TSLA) reported better-than-expected third quarter earnings, with its free cash flow and capex spending coming in ahead of Wall Street estimates.</p><p>Tesla reported Q3 revenue of $28.05 billion vs. Bloomberg consensus of $28.13 billion. Tesla posted adjusted EPS of $0.48 vs. the $0.44 estimate, with adjusted EBITDA of $3.90 billion vs. $3.66 billion.</p><p>Tesla stock fell almost 5% before the bell on Thursday, with Morningstar analyst Seth Goldstein claiming the market was reacting to &quot;capacity constraints in the company&#x27;s auto and battery growth, which could slow near-term growth.&quot;</p><p>But that might not be the whole story. Tesla reported free cash flow of $1.53 billion vs. an estimated -$4.92 billion, with capital expenditures climbing to $4.732 billion vs. an estimated $7.96 billion for the quarter.</p><p>On the earnings call, Tesla updated its full-year capex guidance to $20 billion from $25 billion previously. Tesla CFO Vaibhav Taneja said the savings would come from &quot;managing our capital deployment efficiently, and plan to fund [capex] primarily from our cash flows from operations,&quot; he said.</p><p>&quot;I think capex is actually ending up being a little lower than we anticipated, but we&#x27;ll start to become more meaningful next year. And then noticeable in the tens of billions in &#x27;28,&quot; CEO Elon Musk said on the call.</p><p>Roundhill CEO Dave Mazza posits the cutting capex means the Tesla isn&#x27;t transitioning fast enough to an AI-focused company betting on robotaxis, Optimus robots, and compute.</p><p>Tesla revealed its Optimus robot started production at its Fremont factory. &quot;While we will continue to iterate on the hardware and manufacturing process, we have proven that the current manufacturing process for Optimus is suitable for a commercial product,&quot; the company said in its earnings release.</p><p>&quot;I would expect that it takes us probably at least a year — maybe a little longer — to get to that annualized rate [1 million units], to get to 20,000 units a week,&quot; Musk said on the earnings call. Musk added that Tesla may release an Optimus demo video in about a month, stressing that he didn&#x27;t want the robot&#x27;s movements to be preplanned.</p><p>Regarding its other AI efforts, Tesla said it plans to reach 400 MW of AI training compute by the end of the year. Tesla said its active FSD (full self-driving) subscriptions climbed to 1.74 million.</p><p>&quot;The biggest driver of demand is full self-driving,&quot; Musk said regarding vehicle sales.</p><p>&quot;The Cybercab fleet in Austin has grown by a factor of 10,&quot; Musk added while discussing Tesla&#x27;s robotaxi fleet. He added, &quot;I don&#x27;t think there&#x27;s any company in the world that can match our scale with autonomous vehicles.&quot;</p><p>Musk also stirred the pot recently with comments about a possible tie-up with SpaceX, his other company.</p><p>&quot;I think both SpaceX and Tesla have formed special committees to discuss this idea,&quot; Musk said during SpaceX&#x27;s earnings call Tuesday night. &quot;At the request of shareholders, and these special committees consist of independent directors. And because I&#x27;m a conflicted party, I can&#x27;t actually be in the discussions of the special committees.&quot;</p><p>He added, &quot;I don&#x27;t think we should necessarily assume that I think some people out there assume that a SpaceX and Tesla merger is a certainty. And I think that would be overstating it. Do I think it would be a good idea? Yes.&quot;</p><p>On the Tesla call, Musk briefly touched on it but added nothing new. &quot;With regard to a potential merger with SpaceX, I think I said everything that should be said yesterday [Tuesday],&quot; Musk said.</p><p>Teslareported Q3 deliveries of 486,532, down 2% from a year ago but well ahead of the Bloomberg consensus of 463,000. Energy storage deployments came in at 13.7 GWh, up from 12.5 GWh a year ago and Q2&#x27;s 13.5 GWh.</p><p>Tesl</p>]]></content:encoded>
+      <pubDate>Thu, 22 Oct 2026 11:14:11 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-10-22_Tesla_stock_slips_despite_Q3_earnings_beat_better-than-expected_capex_spend.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-10-22_Tesla_stock_slips_despite_Q3_earnings_beat_better-than-expected_capex_spend.mp3" length="2848200" type="audio/mpeg"/>
+      <itunes:duration>00:05:18</itunes:duration>
+      <itunes:author>Pras Subramanian</itunes:author>
+      <itunes:summary>Tesla stock slips despite Q3 earnings beat, better-than-expected capex spend
+
+2026-10-22
+
+Por Pras Subramanian
+
+https://finance.yahoo.com/markets/stocks/article/tesla-stock-slips-despite-q3-earnings-beat-better-than-expected-capex-spend-101521707.html
+
+Tesla (TSLA) reported better-than-expected third quarter earnings, with its free cash flow and capex spending coming in ahead of Wall Street estimates.
+
+Tesla reported Q3 revenue of $28.05 billion vs. Bloomberg consensus of $28.13 billion. Tesla posted adjusted EPS of $0.48 vs. the $0.44 estimate, with adjusted EBITDA of $3.90 billion vs. $3.66 billion.
+
+Tesla stock fell almost 5% before the bell on Thursday, with Morningstar analyst Seth Goldstein claiming the market was reacting to &quot;capacity constraints in the company&#x27;s auto and battery growth, which could slow near-term growth.&quot;
+
+But that might not be the whole story. Tesla reported free cash flow of $1.53 billion vs. an estimated -$4.92 billion, with capital expenditures climbing to $4.732 billion vs. an estimated $7.96 billion for the quarter.
+
+On the earnings call, Tesla updated its full-year capex guidance to $20 billion from $25 billion previously. Tesla CFO Vaibhav Taneja said the savings would come from &quot;managing our capital deployment efficiently, and plan to fund [capex] primarily from our cash flows from operations,&quot; he said.
+
+&quot;I think capex is actually ending up being a little lower than we anticipated, but we&#x27;ll start to become more meaningful next year. And then noticeable in the tens of billions in &#x27;28,&quot; CEO Elon Musk said on the call.
+
+Roundhill CEO Dave Mazza posits the cutting capex means the Tesla isn&#x27;t transitioning fast enough to an AI-focused company betting on robotaxis, Optimus robots, and compute.
+
+Tesla revealed its Optimus robot started production at its Fremont factory. &quot;While we will continue to iterate on the hardware and manufacturing process, we have proven that the current manufacturing process for Optimus is suitable for a commercial product,&quot; the company said in its earnings release.
+
+&quot;I would expect that it takes us probably at least a year — maybe a little longer — to get to that annualized rate [1 million units], to get to 20,000 units a week,&quot; Musk said on the earnings call. Musk added that Tesla may release an Optimus demo video in about a month, stressing that he didn&#x27;t want the robot&#x27;s movements to be preplanned.
+
+Regarding its other AI efforts, Tesla said it plans to reach 400 MW of AI training compute by the end of the year. Tesla said its active FSD (full self-driving) subscriptions climbed to 1.74 million.
+
+&quot;The biggest driver of demand is full self-driving,&quot; Musk said regarding vehicle sales.
+
+&quot;The Cybercab fleet in Austin has grown by a factor of 10,&quot; Musk added while discussing Tesla&#x27;s robotaxi fleet. He added, &quot;I don&#x27;t think there&#x27;s any company in the world that can match our scale with autonomous vehicles.&quot;
+
+Musk also stirred the pot recently with comments about a possible tie-up with SpaceX, his other company.
+
+&quot;I think both SpaceX and Tesla have formed special committees to discuss this idea,&quot; Musk said during SpaceX&#x27;s earnings call Tuesday night. &quot;At the request of shareholders, and these special committees consist of independent directors. And because I&#x27;m a conflicted party, I can&#x27;t actually be in the discussions of the special committees.&quot;
+
+He added, &quot;I don&#x27;t think we should necessarily assume that I think some people out there assume that a SpaceX and Tesla merger is a certainty. And I think that would be overstating it. Do I think it would be a good idea? Yes.&quot;
+
+On the Tesla call, Musk briefly touched on it but added nothing new. &quot;With regard to a potential merger with SpaceX, I think I said everything that should be said yesterday [Tuesday],&quot; Musk said.
+
+Teslareported Q3 deliveries of 486,532, down 2% from a year ago but well ahead of the Bloomberg consensus of 463,000. Energy storage deployments came in at 13.7 GWh, up from 12.5 GWh a year ago and Q2&#x27;s 13.5 GWh.
+
+Tesl
+
+[Transcripcion recortada]</itunes:summary>
+    </item>
+
+    <item>
+      <title>US to Tap National Diesel Reserve as Prices Soar Before Election</title>
+      <author>Ari Natter</author>
+      <description>US to Tap National Diesel Reserve as Prices Soar Before Election
+
+2026-10-22
+
+Por Ari Natter
+
+https://finance.yahoo.com/energy/articles/us-tap-national-diesel-prices-132130934.html
+
+(Bloomberg) -- The Trump administration is tapping an emergency reserve of diesel set aside to heat homes in the Northeast as fuel prices are surging weeks before the midterm elections.
+
+Most Read from Bloomberg
+
+The Energy Department plans to loan 315,000 barrels from the 1 million barrel Northeast Home Heating Oil Reserve, according to a statement Wednesday. Deliveries are scheduled to be completed by Nov. 13.
+
+&quot;This is a temporary measure to solve a temporary supply disruption,&quot; Energy Secretary Chris Wright said in the statement.
+
+The average price of diesel, which has hit record highs during the Iran war, is about $6.32 a gallon, according to AAA. About 4% of the nation&#x27;s households use heating oil, including in Maine, New Hampshire and Alaska — all of which are politically competitive.
+
+The diesel fuel reserve, housed in commercial storage facilities across the Northeast, was used in the aftermath of Hurricane Sandy in 2012 to provide fuel for emergency responders in New York and New Jersey, as well as in the wake of snowstorms that same year.
+
+Created under former President Bill Clinton, the reserve is designed to provide the Northeast 10 days of supply, which is roughly the time it takes for ships to bring additional heating oil from the Gulf of Mexico to New York Harbor, according to the Energy Department.
+
+The Trump administration last year proposed selling the reserve, which the Energy Department estimated would generate $100 million.
+
+Wright said in the statement that the governors of New York and New England should approve a proposed pipeline that the Trump administration is pushing to build to bring more natural gas to the region.
+
+Also See: US Taps Wartime Law to Help Build Stalled New York Pipeline
+
+Most Read from Bloomberg Businessweek
+
+2026 Bloomberg L.P.</description>
+      <content:encoded><![CDATA[<p>US to Tap National Diesel Reserve as Prices Soar Before Election</p><p>2026-10-22</p><p>Por Ari Natter</p><p>https://finance.yahoo.com/energy/articles/us-tap-national-diesel-prices-132130934.html</p><p>(Bloomberg) -- The Trump administration is tapping an emergency reserve of diesel set aside to heat homes in the Northeast as fuel prices are surging weeks before the midterm elections.</p><p>Most Read from Bloomberg</p><p>The Energy Department plans to loan 315,000 barrels from the 1 million barrel Northeast Home Heating Oil Reserve, according to a statement Wednesday. Deliveries are scheduled to be completed by Nov. 13.</p><p>&quot;This is a temporary measure to solve a temporary supply disruption,&quot; Energy Secretary Chris Wright said in the statement.</p><p>The average price of diesel, which has hit record highs during the Iran war, is about $6.32 a gallon, according to AAA. About 4% of the nation&#x27;s households use heating oil, including in Maine, New Hampshire and Alaska — all of which are politically competitive.</p><p>The diesel fuel reserve, housed in commercial storage facilities across the Northeast, was used in the aftermath of Hurricane Sandy in 2012 to provide fuel for emergency responders in New York and New Jersey, as well as in the wake of snowstorms that same year.</p><p>Created under former President Bill Clinton, the reserve is designed to provide the Northeast 10 days of supply, which is roughly the time it takes for ships to bring additional heating oil from the Gulf of Mexico to New York Harbor, according to the Energy Department.</p><p>The Trump administration last year proposed selling the reserve, which the Energy Department estimated would generate $100 million.</p><p>Wright said in the statement that the governors of New York and New England should approve a proposed pipeline that the Trump administration is pushing to build to bring more natural gas to the region.</p><p>Also See: US Taps Wartime Law to Help Build Stalled New York Pipeline</p><p>Most Read from Bloomberg Businessweek</p><p>2026 Bloomberg L.P.</p>]]></content:encoded>
+      <pubDate>Thu, 22 Oct 2026 11:12:59 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-10-22_US_to_Tap_National_Diesel_Reserve_as_Prices_Soar_Before_Election.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-10-22_US_to_Tap_National_Diesel_Reserve_as_Prices_Soar_Before_Election.mp3" length="1098531" type="audio/mpeg"/>
+      <itunes:duration>00:01:57</itunes:duration>
+      <itunes:author>Ari Natter</itunes:author>
+      <itunes:summary>US to Tap National Diesel Reserve as Prices Soar Before Election
+
+2026-10-22
+
+Por Ari Natter
+
+https://finance.yahoo.com/energy/articles/us-tap-national-diesel-prices-132130934.html
+
+(Bloomberg) -- The Trump administration is tapping an emergency reserve of diesel set aside to heat homes in the Northeast as fuel prices are surging weeks before the midterm elections.
+
+Most Read from Bloomberg
+
+The Energy Department plans to loan 315,000 barrels from the 1 million barrel Northeast Home Heating Oil Reserve, according to a statement Wednesday. Deliveries are scheduled to be completed by Nov. 13.
+
+&quot;This is a temporary measure to solve a temporary supply disruption,&quot; Energy Secretary Chris Wright said in the statement.
+
+The average price of diesel, which has hit record highs during the Iran war, is about $6.32 a gallon, according to AAA. About 4% of the nation&#x27;s households use heating oil, including in Maine, New Hampshire and Alaska — all of which are politically competitive.
+
+The diesel fuel reserve, housed in commercial storage facilities across the Northeast, was used in the aftermath of Hurricane Sandy in 2012 to provide fuel for emergency responders in New York and New Jersey, as well as in the wake of snowstorms that same year.
+
+Created under former President Bill Clinton, the reserve is designed to provide the Northeast 10 days of supply, which is roughly the time it takes for ships to bring additional heating oil from the Gulf of Mexico to New York Harbor, according to the Energy Department.
+
+The Trump administration last year proposed selling the reserve, which the Energy Department estimated would generate $100 million.
+
+Wright said in the statement that the governors of New York and New England should approve a proposed pipeline that the Trump administration is pushing to build to bring more natural gas to the region.
+
+Also See: US Taps Wartime Law to Help Build Stalled New York Pipeline
+
+Most Read from Bloomberg Businessweek
+
+2026 Bloomberg L.P.</itunes:summary>
+    </item>
+
+    <item>
+      <title>Anthropic to publicly file for IPO as early as Friday, sources say</title>
+      <author>David Hollerith</author>
+      <description>Anthropic to publicly file for IPO as early as Friday, sources say
+
+2026-10-22
+
+Por David Hollerith
+
+https://finance.yahoo.com/markets/article/anthropic-to-publicly-file-for-ipo-as-early-as-friday-sources-say-135343841.html
+
+Anthropic (ANTH.PVT) is set to publicly file its S-1 investor prospectus as soon as Friday, according to three people familiar with the artificial intelligence firm&#x27;s plans. The move would mark a crucial next step for what could be the biggest IPO in history.
+
+The much-anticipated public debut, expected to surpass SpaceX&#x27;s (SPCX) June IPO, is widely viewed as a crucial test of investor appetite for the artificial intelligence boom, as investors have become more concerned about the industry&#x27;s massive spending.
+
+Anthropic confidentially submitted a draft IPO registration statement to the Securities and Exchange Commission (SEC) in June. Under SEC rules, companies using the confidential process must make their registration materials available 15 calendar days before the start of their formal investor roadshow.
+
+Anthropic did not respond to a request for comment on the timing of its S-1.
+
+A public filing would clear a key procedural hurdle toward a potential November listing, though the timing of the offering remains subject to market conditions and other factors. Crucially, it would also give regular investors their first look at the financial details and risks around one of the AI industry&#x27;s fastest-growing companies.
+
+Anthropic is spending billions on AI infrastructure to train and run its suite of Claude models. That includes working with Google (GOOG, GOOGL) and Amazon (AMZN), as well as renting out graphics processor unit (GPU) capacity from SpaceX&#x27;s Colossus 1 data center.
+
+The company pulled in $16.3 billion in revenue over the first six months of 2026 and reported a net loss of over $80 billion, according to a Tuesday Wall Street Journal report. Wall Street is anticipating that the company could raise as much as $100 billion at a $2 trillion valuation, Reuters previously reported.
+
+Last week, Anthropic told investors at its San Francisco office that its revenue climbed to $16.8 billion in the third quarter, up from $11.5 billion in the second quarter, according to the Financial Times, noting that the company is also profitable on an adjusted basis.
+
+The colossal offering comes as this year&#x27;s banner IPO market is becoming more challenging. Earlier this week, shares of South Korean data center provider Elice plummeted a staggering 32% during its first trading day after raising $151 million. Nvidia-backed Firmus Grid abruptly shelved plans for a public listing earlier this month after investors balked at its proposed valuation, while several other companies have postponed plans to go public, citing market conditions.</description>
+      <content:encoded><![CDATA[<p>Anthropic to publicly file for IPO as early as Friday, sources say</p><p>2026-10-22</p><p>Por David Hollerith</p><p>https://finance.yahoo.com/markets/article/anthropic-to-publicly-file-for-ipo-as-early-as-friday-sources-say-135343841.html</p><p>Anthropic (ANTH.PVT) is set to publicly file its S-1 investor prospectus as soon as Friday, according to three people familiar with the artificial intelligence firm&#x27;s plans. The move would mark a crucial next step for what could be the biggest IPO in history.</p><p>The much-anticipated public debut, expected to surpass SpaceX&#x27;s (SPCX) June IPO, is widely viewed as a crucial test of investor appetite for the artificial intelligence boom, as investors have become more concerned about the industry&#x27;s massive spending.</p><p>Anthropic confidentially submitted a draft IPO registration statement to the Securities and Exchange Commission (SEC) in June. Under SEC rules, companies using the confidential process must make their registration materials available 15 calendar days before the start of their formal investor roadshow.</p><p>Anthropic did not respond to a request for comment on the timing of its S-1.</p><p>A public filing would clear a key procedural hurdle toward a potential November listing, though the timing of the offering remains subject to market conditions and other factors. Crucially, it would also give regular investors their first look at the financial details and risks around one of the AI industry&#x27;s fastest-growing companies.</p><p>Anthropic is spending billions on AI infrastructure to train and run its suite of Claude models. That includes working with Google (GOOG, GOOGL) and Amazon (AMZN), as well as renting out graphics processor unit (GPU) capacity from SpaceX&#x27;s Colossus 1 data center.</p><p>The company pulled in $16.3 billion in revenue over the first six months of 2026 and reported a net loss of over $80 billion, according to a Tuesday Wall Street Journal report. Wall Street is anticipating that the company could raise as much as $100 billion at a $2 trillion valuation, Reuters previously reported.</p><p>Last week, Anthropic told investors at its San Francisco office that its revenue climbed to $16.8 billion in the third quarter, up from $11.5 billion in the second quarter, according to the Financial Times, noting that the company is also profitable on an adjusted basis.</p><p>The colossal offering comes as this year&#x27;s banner IPO market is becoming more challenging. Earlier this week, shares of South Korean data center provider Elice plummeted a staggering 32% during its first trading day after raising $151 million. Nvidia-backed Firmus Grid abruptly shelved plans for a public listing earlier this month after investors balked at its proposed valuation, while several other companies have postponed plans to go public, citing market conditions.</p>]]></content:encoded>
+      <pubDate>Thu, 22 Oct 2026 11:12:33 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-10-22_Anthropic_to_publicly_file_for_IPO_as_early_as_Friday_sources_say.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-10-22_Anthropic_to_publicly_file_for_IPO_as_early_as_Friday_sources_say.mp3" length="1594115" type="audio/mpeg"/>
+      <itunes:duration>00:02:54</itunes:duration>
+      <itunes:author>David Hollerith</itunes:author>
+      <itunes:summary>Anthropic to publicly file for IPO as early as Friday, sources say
+
+2026-10-22
+
+Por David Hollerith
+
+https://finance.yahoo.com/markets/article/anthropic-to-publicly-file-for-ipo-as-early-as-friday-sources-say-135343841.html
+
+Anthropic (ANTH.PVT) is set to publicly file its S-1 investor prospectus as soon as Friday, according to three people familiar with the artificial intelligence firm&#x27;s plans. The move would mark a crucial next step for what could be the biggest IPO in history.
+
+The much-anticipated public debut, expected to surpass SpaceX&#x27;s (SPCX) June IPO, is widely viewed as a crucial test of investor appetite for the artificial intelligence boom, as investors have become more concerned about the industry&#x27;s massive spending.
+
+Anthropic confidentially submitted a draft IPO registration statement to the Securities and Exchange Commission (SEC) in June. Under SEC rules, companies using the confidential process must make their registration materials available 15 calendar days before the start of their formal investor roadshow.
+
+Anthropic did not respond to a request for comment on the timing of its S-1.
+
+A public filing would clear a key procedural hurdle toward a potential November listing, though the timing of the offering remains subject to market conditions and other factors. Crucially, it would also give regular investors their first look at the financial details and risks around one of the AI industry&#x27;s fastest-growing companies.
+
+Anthropic is spending billions on AI infrastructure to train and run its suite of Claude models. That includes working with Google (GOOG, GOOGL) and Amazon (AMZN), as well as renting out graphics processor unit (GPU) capacity from SpaceX&#x27;s Colossus 1 data center.
+
+The company pulled in $16.3 billion in revenue over the first six months of 2026 and reported a net loss of over $80 billion, according to a Tuesday Wall Street Journal report. Wall Street is anticipating that the company could raise as much as $100 billion at a $2 trillion valuation, Reuters previously reported.
+
+Last week, Anthropic told investors at its San Francisco office that its revenue climbed to $16.8 billion in the third quarter, up from $11.5 billion in the second quarter, according to the Financial Times, noting that the company is also profitable on an adjusted basis.
+
+The colossal offering comes as this year&#x27;s banner IPO market is becoming more challenging. Earlier this week, shares of South Korean data center provider Elice plummeted a staggering 32% during its first trading day after raising $151 million. Nvidia-backed Firmus Grid abruptly shelved plans for a public listing earlier this month after investors balked at its proposed valuation, while several other companies have postponed plans to go public, citing market conditions.</itunes:summary>
+    </item>
+
+    <item>
+      <title>Kalshi could be headed for Supreme Court showdown, CEO says</title>
+      <author>Reuters</author>
+      <description>Kalshi could be headed for Supreme Court showdown, CEO says
+
+2026-10-22
+
+Por Reuters
+
+https://finance.yahoo.com/markets/options/articles/kalshi-could-headed-supreme-court-152217818.html
+
+DUBLIN, Oct 21 (Reuters) - A legal clash between prediction markets and US states over who should regulate the industry could eventually end up at the Supreme Court, Tarek Mansour, the co-founder of Kalshi, told Reuters.
+
+&quot;I think the process will play out the way it&#x27;s going to play out,&quot; Mansour, who is chief executive of the platform, said on the Reuters Econ World podcast.
+
+Dozens of states have taken legal action over sports-related trades on Kalshi, a prediction markets platform that offers users yes-or-no bets on everything from which political party will control Congress after next month&#x27;s midterms to who will win the current season of &quot;Dancing with the Stars.&quot;
+
+The states say prediction markets like Kalshi are subject to state gambling laws and gambling taxes. Kalshi argues that its wagers aren&#x27;t gambling and should be exempt from state supervision. The company says sports contracts traded on its platform are a type of financial derivative and are subject to federal regulation under the Commodity Futures Trading Commission (CFTC).
+
+Federal appeals courts have so far split, with Kalshi on the losing end of some recent cases. But the platform secured a big appeals court victory in the action brought against it by New Jersey, which has asked for a Supreme Court review.
+
+Mansour declined to comment on Kalshi&#x27;s odds of winning if the Supreme Court agrees to take up the case, but said the company was very confident in its legal position.
+
+&quot;Frankly, the statute and the structure is very, very clear and, you know, whether people think a sports game is a game, this commodities exchange act gave the CFTC the authority to decide what to do with the game, and to regulate it the way it sees fit, and that&#x27;s what it&#x27;s doing.&quot;
+
+At stake is the future of a booming industry. The prediction market has surged in recent years with an explosion in sports betting, helping drive Kalshi&#x27;s valuation to around $40 billion in a new funding round, according to people familiar with the matter.
+
+Mansour said sports currently accounts for close to 65% of its revenue, compared to around 95% nine months ago.
+
+A Supreme Court victory for Kalshi could cement its position as a leader in prediction markets and boost its push to become a one-stop trading platform for a wide array of asset classes competing with traditional exchange heavyweights, like CME Group and Intercontinental Exchange, the parent of the New York Stock Exchange. A defeat would leave the company vulnerable to states that want to maintain tight control over gaming and could crimp its profits from sports wagers.
+
+(Reporting by Carmel Crimmins; Editing by Daniel Wallis)</description>
+      <content:encoded><![CDATA[<p>Kalshi could be headed for Supreme Court showdown, CEO says</p><p>2026-10-22</p><p>Por Reuters</p><p>https://finance.yahoo.com/markets/options/articles/kalshi-could-headed-supreme-court-152217818.html</p><p>DUBLIN, Oct 21 (Reuters) - A legal clash between prediction markets and US states over who should regulate the industry could eventually end up at the Supreme Court, Tarek Mansour, the co-founder of Kalshi, told Reuters.</p><p>&quot;I think the process will play out the way it&#x27;s going to play out,&quot; Mansour, who is chief executive of the platform, said on the Reuters Econ World podcast.</p><p>Dozens of states have taken legal action over sports-related trades on Kalshi, a prediction markets platform that offers users yes-or-no bets on everything from which political party will control Congress after next month&#x27;s midterms to who will win the current season of &quot;Dancing with the Stars.&quot;</p><p>The states say prediction markets like Kalshi are subject to state gambling laws and gambling taxes. Kalshi argues that its wagers aren&#x27;t gambling and should be exempt from state supervision. The company says sports contracts traded on its platform are a type of financial derivative and are subject to federal regulation under the Commodity Futures Trading Commission (CFTC).</p><p>Federal appeals courts have so far split, with Kalshi on the losing end of some recent cases. But the platform secured a big appeals court victory in the action brought against it by New Jersey, which has asked for a Supreme Court review.</p><p>Mansour declined to comment on Kalshi&#x27;s odds of winning if the Supreme Court agrees to take up the case, but said the company was very confident in its legal position.</p><p>&quot;Frankly, the statute and the structure is very, very clear and, you know, whether people think a sports game is a game, this commodities exchange act gave the CFTC the authority to decide what to do with the game, and to regulate it the way it sees fit, and that&#x27;s what it&#x27;s doing.&quot;</p><p>At stake is the future of a booming industry. The prediction market has surged in recent years with an explosion in sports betting, helping drive Kalshi&#x27;s valuation to around $40 billion in a new funding round, according to people familiar with the matter.</p><p>Mansour said sports currently accounts for close to 65% of its revenue, compared to around 95% nine months ago.</p><p>A Supreme Court victory for Kalshi could cement its position as a leader in prediction markets and boost its push to become a one-stop trading platform for a wide array of asset classes competing with traditional exchange heavyweights, like CME Group and Intercontinental Exchange, the parent of the New York Stock Exchange. A defeat would leave the company vulnerable to states that want to maintain tight control over gaming and could crimp its profits from sports wagers.</p><p>(Reporting by Carmel Crimmins; Editing by Daniel Wallis)</p>]]></content:encoded>
+      <pubDate>Thu, 22 Oct 2026 11:11:53 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-10-22_Kalshi_could_be_headed_for_Supreme_Court_showdown_CEO_says.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-10-22_Kalshi_could_be_headed_for_Supreme_Court_showdown_CEO_says.mp3" length="1516193" type="audio/mpeg"/>
+      <itunes:duration>00:02:44</itunes:duration>
+      <itunes:author>Reuters</itunes:author>
+      <itunes:summary>Kalshi could be headed for Supreme Court showdown, CEO says
+
+2026-10-22
+
+Por Reuters
+
+https://finance.yahoo.com/markets/options/articles/kalshi-could-headed-supreme-court-152217818.html
+
+DUBLIN, Oct 21 (Reuters) - A legal clash between prediction markets and US states over who should regulate the industry could eventually end up at the Supreme Court, Tarek Mansour, the co-founder of Kalshi, told Reuters.
+
+&quot;I think the process will play out the way it&#x27;s going to play out,&quot; Mansour, who is chief executive of the platform, said on the Reuters Econ World podcast.
+
+Dozens of states have taken legal action over sports-related trades on Kalshi, a prediction markets platform that offers users yes-or-no bets on everything from which political party will control Congress after next month&#x27;s midterms to who will win the current season of &quot;Dancing with the Stars.&quot;
+
+The states say prediction markets like Kalshi are subject to state gambling laws and gambling taxes. Kalshi argues that its wagers aren&#x27;t gambling and should be exempt from state supervision. The company says sports contracts traded on its platform are a type of financial derivative and are subject to federal regulation under the Commodity Futures Trading Commission (CFTC).
+
+Federal appeals courts have so far split, with Kalshi on the losing end of some recent cases. But the platform secured a big appeals court victory in the action brought against it by New Jersey, which has asked for a Supreme Court review.
+
+Mansour declined to comment on Kalshi&#x27;s odds of winning if the Supreme Court agrees to take up the case, but said the company was very confident in its legal position.
+
+&quot;Frankly, the statute and the structure is very, very clear and, you know, whether people think a sports game is a game, this commodities exchange act gave the CFTC the authority to decide what to do with the game, and to regulate it the way it sees fit, and that&#x27;s what it&#x27;s doing.&quot;
+
+At stake is the future of a booming industry. The prediction market has surged in recent years with an explosion in sports betting, helping drive Kalshi&#x27;s valuation to around $40 billion in a new funding round, according to people familiar with the matter.
+
+Mansour said sports currently accounts for close to 65% of its revenue, compared to around 95% nine months ago.
+
+A Supreme Court victory for Kalshi could cement its position as a leader in prediction markets and boost its push to become a one-stop trading platform for a wide array of asset classes competing with traditional exchange heavyweights, like CME Group and Intercontinental Exchange, the parent of the New York Stock Exchange. A defeat would leave the company vulnerable to states that want to maintain tight control over gaming and could crimp its profits from sports wagers.
+
+(Reporting by Carmel Crimmins; Editing by Daniel Wallis)</itunes:summary>
+    </item>
 
     <item>
       <title>A New Approach for AI Investing</title>
@@ -7227,832 +7997,6 @@ Emanuel explained, &quot;Focus this reporting season will first be placed intent
 Click here for in-depth analysis of the latest stock market news and events moving stock prices
 
 Read the latest financial and business news from Yahoo Finance</itunes:summary>
-    </item>
-
-    <item>
-      <title>A handful of tech stocks are masking an ugly S&amp;P 500 problem</title>
-      <author>Brian Sozzi</author>
-      <description>A handful of tech stocks are masking an ugly S&amp;P 500 problem
-
-2026-10-13
-
-Por Brian Sozzi
-
-https://finance.yahoo.com/markets/article/a-handful-of-tech-stocks-are-masking-an-ugly-sp-500-problem-133611321.html
-
-Thank goodness for the likes of Nvidia (NVDA), Micron (MU), and a few other high-profile tech stocks in the S&amp;P 500 (^GSPC).
-
-Without their strong gains, the S&amp;P 500 would be looking ugly — and far from hovering at record highs.
-
-About 84% of S&amp;P 500 stocks are now trading at least 10% below their all-time highs, according to new analysis from the Kobeissi Letter.
-
-The Real Estate (XLRE) sector leads the pullback, with 97% of its stocks down at least 10%, followed by Materials (XLB) at 96%, Utilities (XLU) at 94%, and Consumer Discretionary (XLY) at 92%.
-
-Pressure in these spaces likely reflects concerns about earnings from companies exposed to high interest rates, notably in housing and retail.
-
-Energy, meanwhile, has held up relatively better, with 62% of stocks in the sector more than 10% below their all-time highs, followed by Healthcare (XLV) at 70% and Technology (XLK) at 72%.
-
-What&#x27;s more, 59% of S&amp;P 500 stocks are down at least 20% from their highs, 41% are down more than 30%, and 17% are off by more than 50%.
-
-&quot;A few names are carrying the entire stock market,&quot; strategists at the Kobeissi Letter rightly pointed out.
-
-Read more: How to protect your money during turmoil, stock market volatility
-
-Yet despite the drawdowns underneath the surface of the S&amp;P 500, the market is celebrating a milestone.
-
-Investors are currently living in the 11th bull market since the 1950s, which is on track to become the seventh to complete at least four full years on Oct. 12, per data from Truist co-chief investment officer Keith Lerner.
-
-Measured against every bull market dating back to the 1950s, the 119% advance sits near the middle of the pack, well below the 401% gain during the 2009 to 2020 cycle and the 582% gain from 1987 to 2000.
-
-The historical average advance for a bull market in Lerner&#x27;s measurement period is 184%. Of the 10 prior bull markets, six lasted longer than four years.
-
-Click here for in-depth analysis of the latest stock market news and events moving stock prices
-
-Read the latest financial and business news from Yahoo Finance</description>
-      <content:encoded><![CDATA[<p>A handful of tech stocks are masking an ugly S&amp;P 500 problem</p><p>2026-10-13</p><p>Por Brian Sozzi</p><p>https://finance.yahoo.com/markets/article/a-handful-of-tech-stocks-are-masking-an-ugly-sp-500-problem-133611321.html</p><p>Thank goodness for the likes of Nvidia (NVDA), Micron (MU), and a few other high-profile tech stocks in the S&amp;P 500 (^GSPC).</p><p>Without their strong gains, the S&amp;P 500 would be looking ugly — and far from hovering at record highs.</p><p>About 84% of S&amp;P 500 stocks are now trading at least 10% below their all-time highs, according to new analysis from the Kobeissi Letter.</p><p>The Real Estate (XLRE) sector leads the pullback, with 97% of its stocks down at least 10%, followed by Materials (XLB) at 96%, Utilities (XLU) at 94%, and Consumer Discretionary (XLY) at 92%.</p><p>Pressure in these spaces likely reflects concerns about earnings from companies exposed to high interest rates, notably in housing and retail.</p><p>Energy, meanwhile, has held up relatively better, with 62% of stocks in the sector more than 10% below their all-time highs, followed by Healthcare (XLV) at 70% and Technology (XLK) at 72%.</p><p>What&#x27;s more, 59% of S&amp;P 500 stocks are down at least 20% from their highs, 41% are down more than 30%, and 17% are off by more than 50%.</p><p>&quot;A few names are carrying the entire stock market,&quot; strategists at the Kobeissi Letter rightly pointed out.</p><p>Read more: How to protect your money during turmoil, stock market volatility</p><p>Yet despite the drawdowns underneath the surface of the S&amp;P 500, the market is celebrating a milestone.</p><p>Investors are currently living in the 11th bull market since the 1950s, which is on track to become the seventh to complete at least four full years on Oct. 12, per data from Truist co-chief investment officer Keith Lerner.</p><p>Measured against every bull market dating back to the 1950s, the 119% advance sits near the middle of the pack, well below the 401% gain during the 2009 to 2020 cycle and the 582% gain from 1987 to 2000.</p><p>The historical average advance for a bull market in Lerner&#x27;s measurement period is 184%. Of the 10 prior bull markets, six lasted longer than four years.</p><p>Click here for in-depth analysis of the latest stock market news and events moving stock prices</p><p>Read the latest financial and business news from Yahoo Finance</p>]]></content:encoded>
-      <pubDate>Tue, 13 Oct 2026 12:29:12 GMT</pubDate>
-      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-10-13_A_handful_of_tech_stocks_are_masking_an_ugly_SP_500_problem.mp3</guid>
-      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-10-13_A_handful_of_tech_stocks_are_masking_an_ugly_SP_500_problem.mp3" length="1446427" type="audio/mpeg"/>
-      <itunes:duration>00:02:37</itunes:duration>
-      <itunes:author>Brian Sozzi</itunes:author>
-      <itunes:summary>A handful of tech stocks are masking an ugly S&amp;P 500 problem
-
-2026-10-13
-
-Por Brian Sozzi
-
-https://finance.yahoo.com/markets/article/a-handful-of-tech-stocks-are-masking-an-ugly-sp-500-problem-133611321.html
-
-Thank goodness for the likes of Nvidia (NVDA), Micron (MU), and a few other high-profile tech stocks in the S&amp;P 500 (^GSPC).
-
-Without their strong gains, the S&amp;P 500 would be looking ugly — and far from hovering at record highs.
-
-About 84% of S&amp;P 500 stocks are now trading at least 10% below their all-time highs, according to new analysis from the Kobeissi Letter.
-
-The Real Estate (XLRE) sector leads the pullback, with 97% of its stocks down at least 10%, followed by Materials (XLB) at 96%, Utilities (XLU) at 94%, and Consumer Discretionary (XLY) at 92%.
-
-Pressure in these spaces likely reflects concerns about earnings from companies exposed to high interest rates, notably in housing and retail.
-
-Energy, meanwhile, has held up relatively better, with 62% of stocks in the sector more than 10% below their all-time highs, followed by Healthcare (XLV) at 70% and Technology (XLK) at 72%.
-
-What&#x27;s more, 59% of S&amp;P 500 stocks are down at least 20% from their highs, 41% are down more than 30%, and 17% are off by more than 50%.
-
-&quot;A few names are carrying the entire stock market,&quot; strategists at the Kobeissi Letter rightly pointed out.
-
-Read more: How to protect your money during turmoil, stock market volatility
-
-Yet despite the drawdowns underneath the surface of the S&amp;P 500, the market is celebrating a milestone.
-
-Investors are currently living in the 11th bull market since the 1950s, which is on track to become the seventh to complete at least four full years on Oct. 12, per data from Truist co-chief investment officer Keith Lerner.
-
-Measured against every bull market dating back to the 1950s, the 119% advance sits near the middle of the pack, well below the 401% gain during the 2009 to 2020 cycle and the 582% gain from 1987 to 2000.
-
-The historical average advance for a bull market in Lerner&#x27;s measurement period is 184%. Of the 10 prior bull markets, six lasted longer than four years.
-
-Click here for in-depth analysis of the latest stock market news and events moving stock prices
-
-Read the latest financial and business news from Yahoo Finance</itunes:summary>
-    </item>
-
-    <item>
-      <title>She Was Offered 40 Million for Silence on Elon Musk</title>
-      <author>Texto propio</author>
-      <description>She Was Offered 40 Million for Silence on Elon Musk
-
-2026-10-12
-
-Por Texto propio
-
-She Was Offered $40 Million for Silence on Elon Musk. She Spoke Out Instead.
-
-By Coralie Kraft
-
-October 9, 2026
-
-Ashley St. Clair is sick of people asking her the same questions about Elon Musk. “People treat me like I’m some Elon psychoanalyst,” she said during a visit to The New York Times in September. “They want to know, ‘What’s it like to hang out with him?’ or they say, ‘Not many people have spent time with him one-on-one.’” She sighed. “It’s annoying and laborious.”
-
-You can’t blame them for asking. St. Clair, a former conservative influencer, gave birth to one of Musk’s children in 2024. (At the time, she also had another child from a previous relationship.) This fall, she’s a significant figure in “Musk,” Alex Gibney’s nearly four-hour-long documentary about the world’s first trillionaire, and she has more pressing points. “This is about a deeper rot in our society, where we’ve equated capital with morality,” she said. “There’s a level of societal and individual trust that we give to people if they have money.”
-
-Musk did not respond to requests for comment. After TMZ reported that Ashley St. Clair rejected a $40 million N.D.A., Musk responded via X, stating, “She was never offered that and has a history of making false claims.” He also condemned Gibney’s documentary with another post on X reading, “Gibney just assembled a hit list of people who either have an axe to grind or don’t even know me.”
-
-Gibney, the Oscar-winning documentary filmmaker, first met St. Clair in December 2025. “Beyond Musk’s baby obsession, Ashley had a front-row seat during the 2024 campaign and was able to tell me things I didn’t know about Musk’s motivations,” he said in an email. Below, St. Clair shares her side of the story.
-
-These are edited excerpts from the conversation.
-
-Were you at all nervous about participating in the film?
-
-No. I was familiar with some of Alex’s documentary work, like “Going Clear.” I liked that he didn’t have any fear. He has a history of treating facts and narratives with respect.
-
-You’ve seen the film. How did you feel watching it?
-
-What was both validating and terrifying was the way the narratives harmonized. Me, Justine [Wilson, Musk’s first wife], Sam Harris [the New Atheist philosopher] and Geoffrey Hinton [the so-called Godfather of A.I.] — there are so many similarities in our experiences with Elon. I think when you’re able to take people who have never spoken to each other and harmonize a narrative, that is the truth.
-
-A woman with long dark hair wearing a brown sleeveless top looks toward the camera.
-
-“I would say it felt emotionally intimate. We were in contact every day,” St. Clair said about her relationship with Musk. Credit... Elinor Kry for The New York Times
-
-What did your life look like when you met Musk in 2023?
-
-How did you feel when he followed you?
-
-I don’t think people understand the number of eyeballs that were on everyone Elon interacted with at that time. I was getting “Congratulations!” texts from people in MAGA. Right away, there were people saying, “She’s going to be his next baby mama.” I was about to turn 24.
-
-And when did you meet in person for the first time?
-
-Did it feel like a romantic relationship?
-
-I would say it felt emotionally intimate. We were in contact every day. But also I was never like, “I’m the chosen one.” At the time, he was this savior of free speech, and I was very wrapped up in all of that. I’d say there was a bit of idolization going on, too.
-
-When did you start talking about having a child together?
-
-In January 2024, we went on vacation to St. Bart’s, and he said, “You should have 10 kids! Let’s have a kid. My only limited resource is time.”
-
-What did that mean to you?
-
-I wanted more children, so it meant that I would always be able to take care of my kids financially. Also, within MAGA, it was seen as a stain on your character to be a single mom. So to have this bastion of the rig
-
-[Transcripcion recortada]</description>
-      <content:encoded><![CDATA[<p>She Was Offered 40 Million for Silence on Elon Musk</p><p>2026-10-12</p><p>Por Texto propio</p><p>She Was Offered $40 Million for Silence on Elon Musk. She Spoke Out Instead.</p><p>By Coralie Kraft</p><p>October 9, 2026</p><p>Ashley St. Clair is sick of people asking her the same questions about Elon Musk. “People treat me like I’m some Elon psychoanalyst,” she said during a visit to The New York Times in September. “They want to know, ‘What’s it like to hang out with him?’ or they say, ‘Not many people have spent time with him one-on-one.’” She sighed. “It’s annoying and laborious.”</p><p>You can’t blame them for asking. St. Clair, a former conservative influencer, gave birth to one of Musk’s children in 2024. (At the time, she also had another child from a previous relationship.) This fall, she’s a significant figure in “Musk,” Alex Gibney’s nearly four-hour-long documentary about the world’s first trillionaire, and she has more pressing points. “This is about a deeper rot in our society, where we’ve equated capital with morality,” she said. “There’s a level of societal and individual trust that we give to people if they have money.”</p><p>Musk did not respond to requests for comment. After TMZ reported that Ashley St. Clair rejected a $40 million N.D.A., Musk responded via X, stating, “She was never offered that and has a history of making false claims.” He also condemned Gibney’s documentary with another post on X reading, “Gibney just assembled a hit list of people who either have an axe to grind or don’t even know me.”</p><p>Gibney, the Oscar-winning documentary filmmaker, first met St. Clair in December 2025. “Beyond Musk’s baby obsession, Ashley had a front-row seat during the 2024 campaign and was able to tell me things I didn’t know about Musk’s motivations,” he said in an email. Below, St. Clair shares her side of the story.</p><p>These are edited excerpts from the conversation.</p><p>Were you at all nervous about participating in the film?</p><p>No. I was familiar with some of Alex’s documentary work, like “Going Clear.” I liked that he didn’t have any fear. He has a history of treating facts and narratives with respect.</p><p>You’ve seen the film. How did you feel watching it?</p><p>What was both validating and terrifying was the way the narratives harmonized. Me, Justine [Wilson, Musk’s first wife], Sam Harris [the New Atheist philosopher] and Geoffrey Hinton [the so-called Godfather of A.I.] — there are so many similarities in our experiences with Elon. I think when you’re able to take people who have never spoken to each other and harmonize a narrative, that is the truth.</p><p>A woman with long dark hair wearing a brown sleeveless top looks toward the camera.</p><p>“I would say it felt emotionally intimate. We were in contact every day,” St. Clair said about her relationship with Musk. Credit... Elinor Kry for The New York Times</p><p>What did your life look like when you met Musk in 2023?</p><p>How did you feel when he followed you?</p><p>I don’t think people understand the number of eyeballs that were on everyone Elon interacted with at that time. I was getting “Congratulations!” texts from people in MAGA. Right away, there were people saying, “She’s going to be his next baby mama.” I was about to turn 24.</p><p>And when did you meet in person for the first time?</p><p>Did it feel like a romantic relationship?</p><p>I would say it felt emotionally intimate. We were in contact every day. But also I was never like, “I’m the chosen one.” At the time, he was this savior of free speech, and I was very wrapped up in all of that. I’d say there was a bit of idolization going on, too.</p><p>When did you start talking about having a child together?</p><p>In January 2024, we went on vacation to St. Bart’s, and he said, “You should have 10 kids! Let’s have a kid. My only limited resource is time.”</p><p>What did that mean to you?</p><p>I wanted more children, so it meant that I would always be able to take care of my kids financially. Also, within MAGA, it was seen as a stain on your character to be a single mom. So to have this bastion of the rig</p>]]></content:encoded>
-      <pubDate>Mon, 12 Oct 2026 22:58:49 GMT</pubDate>
-      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-10-12_She_Was_Offered_40_Million_for_Silence_on_Elon_Musk.mp3</guid>
-      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-10-12_She_Was_Offered_40_Million_for_Silence_on_Elon_Musk.mp3" length="3574441" type="audio/mpeg"/>
-      <itunes:duration>00:06:47</itunes:duration>
-      <itunes:author>Texto propio</itunes:author>
-      <itunes:summary>She Was Offered 40 Million for Silence on Elon Musk
-
-2026-10-12
-
-Por Texto propio
-
-She Was Offered $40 Million for Silence on Elon Musk. She Spoke Out Instead.
-
-By Coralie Kraft
-
-October 9, 2026
-
-Ashley St. Clair is sick of people asking her the same questions about Elon Musk. “People treat me like I’m some Elon psychoanalyst,” she said during a visit to The New York Times in September. “They want to know, ‘What’s it like to hang out with him?’ or they say, ‘Not many people have spent time with him one-on-one.’” She sighed. “It’s annoying and laborious.”
-
-You can’t blame them for asking. St. Clair, a former conservative influencer, gave birth to one of Musk’s children in 2024. (At the time, she also had another child from a previous relationship.) This fall, she’s a significant figure in “Musk,” Alex Gibney’s nearly four-hour-long documentary about the world’s first trillionaire, and she has more pressing points. “This is about a deeper rot in our society, where we’ve equated capital with morality,” she said. “There’s a level of societal and individual trust that we give to people if they have money.”
-
-Musk did not respond to requests for comment. After TMZ reported that Ashley St. Clair rejected a $40 million N.D.A., Musk responded via X, stating, “She was never offered that and has a history of making false claims.” He also condemned Gibney’s documentary with another post on X reading, “Gibney just assembled a hit list of people who either have an axe to grind or don’t even know me.”
-
-Gibney, the Oscar-winning documentary filmmaker, first met St. Clair in December 2025. “Beyond Musk’s baby obsession, Ashley had a front-row seat during the 2024 campaign and was able to tell me things I didn’t know about Musk’s motivations,” he said in an email. Below, St. Clair shares her side of the story.
-
-These are edited excerpts from the conversation.
-
-Were you at all nervous about participating in the film?
-
-No. I was familiar with some of Alex’s documentary work, like “Going Clear.” I liked that he didn’t have any fear. He has a history of treating facts and narratives with respect.
-
-You’ve seen the film. How did you feel watching it?
-
-What was both validating and terrifying was the way the narratives harmonized. Me, Justine [Wilson, Musk’s first wife], Sam Harris [the New Atheist philosopher] and Geoffrey Hinton [the so-called Godfather of A.I.] — there are so many similarities in our experiences with Elon. I think when you’re able to take people who have never spoken to each other and harmonize a narrative, that is the truth.
-
-A woman with long dark hair wearing a brown sleeveless top looks toward the camera.
-
-“I would say it felt emotionally intimate. We were in contact every day,” St. Clair said about her relationship with Musk. Credit... Elinor Kry for The New York Times
-
-What did your life look like when you met Musk in 2023?
-
-How did you feel when he followed you?
-
-I don’t think people understand the number of eyeballs that were on everyone Elon interacted with at that time. I was getting “Congratulations!” texts from people in MAGA. Right away, there were people saying, “She’s going to be his next baby mama.” I was about to turn 24.
-
-And when did you meet in person for the first time?
-
-Did it feel like a romantic relationship?
-
-I would say it felt emotionally intimate. We were in contact every day. But also I was never like, “I’m the chosen one.” At the time, he was this savior of free speech, and I was very wrapped up in all of that. I’d say there was a bit of idolization going on, too.
-
-When did you start talking about having a child together?
-
-In January 2024, we went on vacation to St. Bart’s, and he said, “You should have 10 kids! Let’s have a kid. My only limited resource is time.”
-
-What did that mean to you?
-
-I wanted more children, so it meant that I would always be able to take care of my kids financially. Also, within MAGA, it was seen as a stain on your character to be a single mom. So to have this bastion of the rig
-
-[Transcripcion recortada]</itunes:summary>
-    </item>
-
-    <item>
-      <title>DOJ Urges Companies to Self Disclose Fraud and Avoid Prosecution</title>
-      <author>Jimmy Jenkins</author>
-      <description>DOJ Urges Companies to Self Disclose Fraud and Avoid Prosecution
-
-2026-10-12
-
-Por Jimmy Jenkins
-
-https://finance.yahoo.com/economy/policy/articles/doj-urges-companies-self-disclose-165231597.html
-
-(Bloomberg) -- The head of the US Justice Department&#x27;s Criminal Division is urging companies to self report possible fraud, favoring settlements with companies that proactively disclose potential violations over what could become costly and time-consuming prosecutions.
-
-Most Read from Bloomberg
-
-The approach has prompted criticism from some public-interest groups that President Donald Trump&#x27;s second administration is being soft on crime, with one group publishing a report Wednesday listing the &quot;cancellation&quot; of more than 200 enforcement actions inherited from the Biden administration. Those actions include ending federal investigations, lawsuits, and settlements.
-
-Assistant Attorney General Tysen Duva said in an interview with Bloomberg News that the approach is already paying off for the Justice Department. In the coming months, he said he will be announcing corporate enforcement policy resolutions, non-prosecution agreements and deferred-prosecution agreements with companies, and charges against individuals that were a result of self disclosures.
-
-&quot;It is better to try to obtain cooperation from an entity and provide incentives for them to come in and tell you what happened,&quot; Duva said. &quot;Because if they don&#x27;t, it&#x27;s up to a whistleblower or a confidential informant. And then you get in this lengthy, protracted litigation.&quot;
-
-Duva said if the Justice Department is able to convince companies to come in early and self disclose, his agency can truncate — and in some cases eliminate — a costly legal process. He said his emphasis on self-disclosure followed a precedent set before he was tapped to run the Criminal Division last year.
-
-Duva was elevated from his previous post as a Jacksonville, Florida-based assistant US attorney in July of 2025, and confirmed by the Senate the following December.
-
-&quot;We really want to try to allay some fears and communicate very clearly that this means if you come in, and you self disclose, that you can obtain the declination, but you have to fully cooperate,&quot; Duva said. &quot;It is laying out what you learned, how you learned it, and who did it. And as part of that, you would take that information and pursue charges against individuals.&quot;
-
-The Justice Department pointed to a resolution reached in March with medical device company Balt SAS as an example a self-disclosure success. The department said the company disclosed and took steps to remediate the behavior. In return, DOJ declined to prosecute Balt as a company, instead bringing charges against two individuals. The company also agreed to pay $1.2 million in disgorgement.</description>
-      <content:encoded><![CDATA[<p>DOJ Urges Companies to Self Disclose Fraud and Avoid Prosecution</p><p>2026-10-12</p><p>Por Jimmy Jenkins</p><p>https://finance.yahoo.com/economy/policy/articles/doj-urges-companies-self-disclose-165231597.html</p><p>(Bloomberg) -- The head of the US Justice Department&#x27;s Criminal Division is urging companies to self report possible fraud, favoring settlements with companies that proactively disclose potential violations over what could become costly and time-consuming prosecutions.</p><p>Most Read from Bloomberg</p><p>The approach has prompted criticism from some public-interest groups that President Donald Trump&#x27;s second administration is being soft on crime, with one group publishing a report Wednesday listing the &quot;cancellation&quot; of more than 200 enforcement actions inherited from the Biden administration. Those actions include ending federal investigations, lawsuits, and settlements.</p><p>Assistant Attorney General Tysen Duva said in an interview with Bloomberg News that the approach is already paying off for the Justice Department. In the coming months, he said he will be announcing corporate enforcement policy resolutions, non-prosecution agreements and deferred-prosecution agreements with companies, and charges against individuals that were a result of self disclosures.</p><p>&quot;It is better to try to obtain cooperation from an entity and provide incentives for them to come in and tell you what happened,&quot; Duva said. &quot;Because if they don&#x27;t, it&#x27;s up to a whistleblower or a confidential informant. And then you get in this lengthy, protracted litigation.&quot;</p><p>Duva said if the Justice Department is able to convince companies to come in early and self disclose, his agency can truncate — and in some cases eliminate — a costly legal process. He said his emphasis on self-disclosure followed a precedent set before he was tapped to run the Criminal Division last year.</p><p>Duva was elevated from his previous post as a Jacksonville, Florida-based assistant US attorney in July of 2025, and confirmed by the Senate the following December.</p><p>&quot;We really want to try to allay some fears and communicate very clearly that this means if you come in, and you self disclose, that you can obtain the declination, but you have to fully cooperate,&quot; Duva said. &quot;It is laying out what you learned, how you learned it, and who did it. And as part of that, you would take that information and pursue charges against individuals.&quot;</p><p>The Justice Department pointed to a resolution reached in March with medical device company Balt SAS as an example a self-disclosure success. The department said the company disclosed and took steps to remediate the behavior. In return, DOJ declined to prosecute Balt as a company, instead bringing charges against two individuals. The company also agreed to pay $1.2 million in disgorgement.</p>]]></content:encoded>
-      <pubDate>Mon, 12 Oct 2026 11:33:57 GMT</pubDate>
-      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-10-12_DOJ_Urges_Companies_to_Self_Disclose_Fraud_and_Avoid_Prosecution.mp3</guid>
-      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-10-12_DOJ_Urges_Companies_to_Self_Disclose_Fraud_and_Avoid_Prosecution.mp3" length="1515265" type="audio/mpeg"/>
-      <itunes:duration>00:02:45</itunes:duration>
-      <itunes:author>Jimmy Jenkins</itunes:author>
-      <itunes:summary>DOJ Urges Companies to Self Disclose Fraud and Avoid Prosecution
-
-2026-10-12
-
-Por Jimmy Jenkins
-
-https://finance.yahoo.com/economy/policy/articles/doj-urges-companies-self-disclose-165231597.html
-
-(Bloomberg) -- The head of the US Justice Department&#x27;s Criminal Division is urging companies to self report possible fraud, favoring settlements with companies that proactively disclose potential violations over what could become costly and time-consuming prosecutions.
-
-Most Read from Bloomberg
-
-The approach has prompted criticism from some public-interest groups that President Donald Trump&#x27;s second administration is being soft on crime, with one group publishing a report Wednesday listing the &quot;cancellation&quot; of more than 200 enforcement actions inherited from the Biden administration. Those actions include ending federal investigations, lawsuits, and settlements.
-
-Assistant Attorney General Tysen Duva said in an interview with Bloomberg News that the approach is already paying off for the Justice Department. In the coming months, he said he will be announcing corporate enforcement policy resolutions, non-prosecution agreements and deferred-prosecution agreements with companies, and charges against individuals that were a result of self disclosures.
-
-&quot;It is better to try to obtain cooperation from an entity and provide incentives for them to come in and tell you what happened,&quot; Duva said. &quot;Because if they don&#x27;t, it&#x27;s up to a whistleblower or a confidential informant. And then you get in this lengthy, protracted litigation.&quot;
-
-Duva said if the Justice Department is able to convince companies to come in early and self disclose, his agency can truncate — and in some cases eliminate — a costly legal process. He said his emphasis on self-disclosure followed a precedent set before he was tapped to run the Criminal Division last year.
-
-Duva was elevated from his previous post as a Jacksonville, Florida-based assistant US attorney in July of 2025, and confirmed by the Senate the following December.
-
-&quot;We really want to try to allay some fears and communicate very clearly that this means if you come in, and you self disclose, that you can obtain the declination, but you have to fully cooperate,&quot; Duva said. &quot;It is laying out what you learned, how you learned it, and who did it. And as part of that, you would take that information and pursue charges against individuals.&quot;
-
-The Justice Department pointed to a resolution reached in March with medical device company Balt SAS as an example a self-disclosure success. The department said the company disclosed and took steps to remediate the behavior. In return, DOJ declined to prosecute Balt as a company, instead bringing charges against two individuals. The company also agreed to pay $1.2 million in disgorgement.</itunes:summary>
-    </item>
-
-    <item>
-      <title>The AI SaaSpocalypse was supposed to crush software stocks — but this happened instead</title>
-      <author>Brian Sozzi</author>
-      <description>The AI SaaSpocalypse was supposed to crush software stocks — but this happened instead
-
-2026-10-12
-
-Por Brian Sozzi
-
-https://finance.yahoo.com/markets/article/the-ai-saaspocalypse-was-supposed-to-crush-software-stocks--but-this-happened-instead-163021702.html
-
-So much for the SaaSpocalypse eating all software stocks alive until they hit $0.
-
-The overused 2026 market slang — which promoted the view that AI players like Anthropic (ANTH.PVT) and OpenAI (OPAI.PVT) would crush the business models of software-as-a-service companies — should be put to bed. Because after a stretch where this narrative hammered many software players, most have rallied sharply back.
-
-And with good reason.
-
-The broader software group and the IGV index have rallied significantly since the end of June, JPMorgan strategist Samik Chatterjee pointed out (see the chart below), up 21% since the end of the month relative to the broader S&amp;P 500 (^GSPC), up 4%. Some of the top performers include Paycom (PAYC), DocuSign (DOCU), Workday (WDAY), Salesforce (CRM), Cloudflare (NET), Twilio (TWLO), and Microsoft (MSFT).
-
-The broader rally has, in part, been helped by a valuation multiple rerating across infrastructure and application software companies, Chatterjee noted.
-
-Renewed belief in software stocks could be sustained into year-end as investors digest third quarter earnings reports.
-
-&quot;Heading into C3Q earnings, we expect the broader share price momentum for the group to continue with infrastructure software companies leading the way on account of the AI-led tailwinds driving robust beats on both top-line and earnings, albeit potentially only in line on gross margins,&quot; Chatterjee said.
-
-He added, &quot;We expect application software companies to also participate in the positive share price momentum for the sector into the year-end on account of raises to full-year guides, aided by building momentum in AI monetization, which is steadily building as incremental revenue on top of the core businesses, which range from modestly decelerating to stable growth across our coverage companies.&quot;
-
-Click here for in-depth analysis of the latest stock market news and events moving stock prices
-
-Read the latest financial and business news from Yahoo Finance</description>
-      <content:encoded><![CDATA[<p>The AI SaaSpocalypse was supposed to crush software stocks — but this happened instead</p><p>2026-10-12</p><p>Por Brian Sozzi</p><p>https://finance.yahoo.com/markets/article/the-ai-saaspocalypse-was-supposed-to-crush-software-stocks--but-this-happened-instead-163021702.html</p><p>So much for the SaaSpocalypse eating all software stocks alive until they hit $0.</p><p>The overused 2026 market slang — which promoted the view that AI players like Anthropic (ANTH.PVT) and OpenAI (OPAI.PVT) would crush the business models of software-as-a-service companies — should be put to bed. Because after a stretch where this narrative hammered many software players, most have rallied sharply back.</p><p>And with good reason.</p><p>The broader software group and the IGV index have rallied significantly since the end of June, JPMorgan strategist Samik Chatterjee pointed out (see the chart below), up 21% since the end of the month relative to the broader S&amp;P 500 (^GSPC), up 4%. Some of the top performers include Paycom (PAYC), DocuSign (DOCU), Workday (WDAY), Salesforce (CRM), Cloudflare (NET), Twilio (TWLO), and Microsoft (MSFT).</p><p>The broader rally has, in part, been helped by a valuation multiple rerating across infrastructure and application software companies, Chatterjee noted.</p><p>Renewed belief in software stocks could be sustained into year-end as investors digest third quarter earnings reports.</p><p>&quot;Heading into C3Q earnings, we expect the broader share price momentum for the group to continue with infrastructure software companies leading the way on account of the AI-led tailwinds driving robust beats on both top-line and earnings, albeit potentially only in line on gross margins,&quot; Chatterjee said.</p><p>He added, &quot;We expect application software companies to also participate in the positive share price momentum for the sector into the year-end on account of raises to full-year guides, aided by building momentum in AI monetization, which is steadily building as incremental revenue on top of the core businesses, which range from modestly decelerating to stable growth across our coverage companies.&quot;</p><p>Click here for in-depth analysis of the latest stock market news and events moving stock prices</p><p>Read the latest financial and business news from Yahoo Finance</p>]]></content:encoded>
-      <pubDate>Mon, 12 Oct 2026 11:33:18 GMT</pubDate>
-      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-10-12_The_AI_SaaSpocalypse_was_supposed_to_crush_software_stocks_but_this_happened_instead.mp3</guid>
-      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-10-12_The_AI_SaaSpocalypse_was_supposed_to_crush_software_stocks_but_this_happened_instead.mp3" length="1230368" type="audio/mpeg"/>
-      <itunes:duration>00:02:13</itunes:duration>
-      <itunes:author>Brian Sozzi</itunes:author>
-      <itunes:summary>The AI SaaSpocalypse was supposed to crush software stocks — but this happened instead
-
-2026-10-12
-
-Por Brian Sozzi
-
-https://finance.yahoo.com/markets/article/the-ai-saaspocalypse-was-supposed-to-crush-software-stocks--but-this-happened-instead-163021702.html
-
-So much for the SaaSpocalypse eating all software stocks alive until they hit $0.
-
-The overused 2026 market slang — which promoted the view that AI players like Anthropic (ANTH.PVT) and OpenAI (OPAI.PVT) would crush the business models of software-as-a-service companies — should be put to bed. Because after a stretch where this narrative hammered many software players, most have rallied sharply back.
-
-And with good reason.
-
-The broader software group and the IGV index have rallied significantly since the end of June, JPMorgan strategist Samik Chatterjee pointed out (see the chart below), up 21% since the end of the month relative to the broader S&amp;P 500 (^GSPC), up 4%. Some of the top performers include Paycom (PAYC), DocuSign (DOCU), Workday (WDAY), Salesforce (CRM), Cloudflare (NET), Twilio (TWLO), and Microsoft (MSFT).
-
-The broader rally has, in part, been helped by a valuation multiple rerating across infrastructure and application software companies, Chatterjee noted.
-
-Renewed belief in software stocks could be sustained into year-end as investors digest third quarter earnings reports.
-
-&quot;Heading into C3Q earnings, we expect the broader share price momentum for the group to continue with infrastructure software companies leading the way on account of the AI-led tailwinds driving robust beats on both top-line and earnings, albeit potentially only in line on gross margins,&quot; Chatterjee said.
-
-He added, &quot;We expect application software companies to also participate in the positive share price momentum for the sector into the year-end on account of raises to full-year guides, aided by building momentum in AI monetization, which is steadily building as incremental revenue on top of the core businesses, which range from modestly decelerating to stable growth across our coverage companies.&quot;
-
-Click here for in-depth analysis of the latest stock market news and events moving stock prices
-
-Read the latest financial and business news from Yahoo Finance</itunes:summary>
-    </item>
-
-    <item>
-      <title>For the first time ever, 10-year bond yields track diesel prices more closely than crude, and Trump’s fuel deal with Putin may be too little too late</title>
-      <author>Jason Ma</author>
-      <description>For the first time ever, 10-year bond yields track diesel prices more closely than crude, and Trump’s fuel deal with Putin may be too little too late
-
-2026-10-12
-
-Por Jason Ma
-
-https://finance.yahoo.com/energy/articles/first-time-ever-10-bond-171218177.html
-
-For the first time ever, 10-year bond yields track diesel prices more closely than crude, and Trump’s fuel deal with Putin may be too little too late
-
-Diesel prices have come off their all-time highs in recent weeks, but the key industrial fuel has already moved the needle across the economy and financial markets, making affordability a more potent issue in the midterm elections.
-
-The national average for diesel is about $6.277 per gallon, according to AAA, down from its $6.528 high but still 71% above year-ago levels. By contrast, U.S. crude oil is up 56% from a year earlier as damage to refining capacity in the Middle East and Russia has produced a sharper crunch in fuel markets.
-
-Because diesel is a critical input in manufacturing, agriculture and logistics, the recent price surge has been felt broadly. The latest consumer and producer price indexes showed jumps in transportation costs, while purchasing manager surveys signaled big spikes in prices businesses are paying.
-
-&quot;This is why products have been trading at double the price of crude during the past few months, something that has never happened before. Ultimately, diesel and gasoline drive inflation, not crude oil,&quot; Amrita Sen, director of market intelligence and co-founder at Energy Aspects, wrote in the Financial Times on Wednesday.
-
-And as higher fuel costs keep inflation forecasts elevated, markets are pricing in a more hawkish Federal Reserve that&#x27;s ready to hike rates further. Bond yields have risen in anticipation of tighter monetary policy, raising borrowing costs for consumers.
-
-Crude prices had previously moved in tandem with prices for refined products and had long been a proxy for those costs, but that relationship has broken down, according to Sen.
-
-&quot;In fact, since May, 10-year US Treasury yields have correlated more closely with diesel prices than crude prices, for the first time ever,&quot; she added.
-
-That&#x27;s why the Trump administration has started paying more attention lately to bringing down diesel prices, Sen said.
-
-Over the past week alone, President Donald Trump has taken steps to ease the cost burden. On Monday, he signed an executive order to defer the 24-cent federal tax per gallon on diesel until the end of the year, though most states have separate levies on diesel.
-
-And on Friday, he said he reached a deal with Vladimir Putin to obtain diesel from Russia, a stunning reversal from years of U.S. pressure on Moscow over its invasion of Ukraine.
-
-Russia will supply more than 300,000 tons of diesel now, followed by an additional 500,000 tons in November and 1 million tons &quot;immediately thereafter,&quot; according to Trump. Russia will deliver another 3 million tons &quot;within a short period of time&quot; after that.</description>
-      <content:encoded><![CDATA[<p>For the first time ever, 10-year bond yields track diesel prices more closely than crude, and Trump’s fuel deal with Putin may be too little too late</p><p>2026-10-12</p><p>Por Jason Ma</p><p>https://finance.yahoo.com/energy/articles/first-time-ever-10-bond-171218177.html</p><p>For the first time ever, 10-year bond yields track diesel prices more closely than crude, and Trump’s fuel deal with Putin may be too little too late</p><p>Diesel prices have come off their all-time highs in recent weeks, but the key industrial fuel has already moved the needle across the economy and financial markets, making affordability a more potent issue in the midterm elections.</p><p>The national average for diesel is about $6.277 per gallon, according to AAA, down from its $6.528 high but still 71% above year-ago levels. By contrast, U.S. crude oil is up 56% from a year earlier as damage to refining capacity in the Middle East and Russia has produced a sharper crunch in fuel markets.</p><p>Because diesel is a critical input in manufacturing, agriculture and logistics, the recent price surge has been felt broadly. The latest consumer and producer price indexes showed jumps in transportation costs, while purchasing manager surveys signaled big spikes in prices businesses are paying.</p><p>&quot;This is why products have been trading at double the price of crude during the past few months, something that has never happened before. Ultimately, diesel and gasoline drive inflation, not crude oil,&quot; Amrita Sen, director of market intelligence and co-founder at Energy Aspects, wrote in the Financial Times on Wednesday.</p><p>And as higher fuel costs keep inflation forecasts elevated, markets are pricing in a more hawkish Federal Reserve that&#x27;s ready to hike rates further. Bond yields have risen in anticipation of tighter monetary policy, raising borrowing costs for consumers.</p><p>Crude prices had previously moved in tandem with prices for refined products and had long been a proxy for those costs, but that relationship has broken down, according to Sen.</p><p>&quot;In fact, since May, 10-year US Treasury yields have correlated more closely with diesel prices than crude prices, for the first time ever,&quot; she added.</p><p>That&#x27;s why the Trump administration has started paying more attention lately to bringing down diesel prices, Sen said.</p><p>Over the past week alone, President Donald Trump has taken steps to ease the cost burden. On Monday, he signed an executive order to defer the 24-cent federal tax per gallon on diesel until the end of the year, though most states have separate levies on diesel.</p><p>And on Friday, he said he reached a deal with Vladimir Putin to obtain diesel from Russia, a stunning reversal from years of U.S. pressure on Moscow over its invasion of Ukraine.</p><p>Russia will supply more than 300,000 tons of diesel now, followed by an additional 500,000 tons in November and 1 million tons &quot;immediately thereafter,&quot; according to Trump. Russia will deliver another 3 million tons &quot;within a short period of time&quot; after that.</p>]]></content:encoded>
-      <pubDate>Mon, 12 Oct 2026 11:32:45 GMT</pubDate>
-      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-10-12_For_the_first_time_ever_10-year_bond_yields_track_diesel_prices_more_closely_than_crude_and_Trumps_fuel_deal_w.mp3</guid>
-      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-10-12_For_the_first_time_ever_10-year_bond_yields_track_diesel_prices_more_closely_than_crude_and_Trumps_fuel_deal_w.mp3" length="1646549" type="audio/mpeg"/>
-      <itunes:duration>00:03:01</itunes:duration>
-      <itunes:author>Jason Ma</itunes:author>
-      <itunes:summary>For the first time ever, 10-year bond yields track diesel prices more closely than crude, and Trump’s fuel deal with Putin may be too little too late
-
-2026-10-12
-
-Por Jason Ma
-
-https://finance.yahoo.com/energy/articles/first-time-ever-10-bond-171218177.html
-
-For the first time ever, 10-year bond yields track diesel prices more closely than crude, and Trump’s fuel deal with Putin may be too little too late
-
-Diesel prices have come off their all-time highs in recent weeks, but the key industrial fuel has already moved the needle across the economy and financial markets, making affordability a more potent issue in the midterm elections.
-
-The national average for diesel is about $6.277 per gallon, according to AAA, down from its $6.528 high but still 71% above year-ago levels. By contrast, U.S. crude oil is up 56% from a year earlier as damage to refining capacity in the Middle East and Russia has produced a sharper crunch in fuel markets.
-
-Because diesel is a critical input in manufacturing, agriculture and logistics, the recent price surge has been felt broadly. The latest consumer and producer price indexes showed jumps in transportation costs, while purchasing manager surveys signaled big spikes in prices businesses are paying.
-
-&quot;This is why products have been trading at double the price of crude during the past few months, something that has never happened before. Ultimately, diesel and gasoline drive inflation, not crude oil,&quot; Amrita Sen, director of market intelligence and co-founder at Energy Aspects, wrote in the Financial Times on Wednesday.
-
-And as higher fuel costs keep inflation forecasts elevated, markets are pricing in a more hawkish Federal Reserve that&#x27;s ready to hike rates further. Bond yields have risen in anticipation of tighter monetary policy, raising borrowing costs for consumers.
-
-Crude prices had previously moved in tandem with prices for refined products and had long been a proxy for those costs, but that relationship has broken down, according to Sen.
-
-&quot;In fact, since May, 10-year US Treasury yields have correlated more closely with diesel prices than crude prices, for the first time ever,&quot; she added.
-
-That&#x27;s why the Trump administration has started paying more attention lately to bringing down diesel prices, Sen said.
-
-Over the past week alone, President Donald Trump has taken steps to ease the cost burden. On Monday, he signed an executive order to defer the 24-cent federal tax per gallon on diesel until the end of the year, though most states have separate levies on diesel.
-
-And on Friday, he said he reached a deal with Vladimir Putin to obtain diesel from Russia, a stunning reversal from years of U.S. pressure on Moscow over its invasion of Ukraine.
-
-Russia will supply more than 300,000 tons of diesel now, followed by an additional 500,000 tons in November and 1 million tons &quot;immediately thereafter,&quot; according to Trump. Russia will deliver another 3 million tons &quot;within a short period of time&quot; after that.</itunes:summary>
-    </item>
-
-    <item>
-      <title>Bond yields are surging worldwide — and France is on the &#x27;ugly side&#x27;: Chart of the Day</title>
-      <author>Ines Ferré</author>
-      <description>Bond yields are surging worldwide — and France is on the &#x27;ugly side&#x27;: Chart of the Day
-
-2026-10-12
-
-Por Ines Ferré
-
-https://finance.yahoo.com/markets/article/bond-yields-are-surging-worldwide--and-france-is-on-the-ugly-side-chart-of-the-day-123643553.html
-
-It&#x27;s not just the US seeing a rapid rise in bond yields. The surge in Treasury yields worldwide is raising alarm bells among investors.
-
-&quot;Any lingering doubts about whether the world has truly left the era of low interest rates behind should now be quashed,&quot; Thomas Garretson, senior portfolio strategist at RBC Wealth Management, wrote in a recent note.
-
-Longer-dated bond yields have been flagging issues &quot;that have been percolating in global bond markets for years, which are now coming to a head,&quot; he noted.
-
-Wall Street strategists see an array of reasons behind the rise in yields.
-
-&quot;On the good side of the spectrum, better-than-expected economic growth has driven US bond yields up to levels that are back to normal,&quot; Ed Yardeni of Yardeni Research wrote last week.
-
-&quot;On the ugly side, soaring bond yields in France are signaling a looming debt crisis,&quot; he said.
-
-The protests over public education funding across major French cities have coincided with surging bond yields.
-
-Macquarie strategists have argued that there is a &quot;direct and self-reinforcing causal connection&quot; between recent street riots over proposed budget cuts in France and the country&#x27;s bond market stress.
-
-Behind France, the US 10-year yield (^TNX) has posted its biggest jump among more than 20 countries tracked by Yardeni Research.
-
-Italy, Indonesia, Japan, and South Korea have also seen their benchmark yields rise at least 100 basis points since the start of the year.
-
-Rising yields are also attributed to higher oil prices stemming from the war in the Middle East and the unwinding of the yen-carry trade.
-
-Japanese investors, who accumulated over $1.3 trillion in US Treasurys during the era of negative domestic rates, have been repatriating capital as domestic yields normalize.
-
-RBC research estimates that every $100 billion shift in Japanese holdings impacts 10-year Treasury yields by roughly 50 basis points. As of July 2026, Japan&#x27;s holdings are down $120 billion so far this year and about $300 billion from their 2021 peak.
-
-As the US 10-year Treasury yield hangs near its highest level in 24 years, strategists are seeing a risk of 6% for the first time since 2000.
-
-Even as bond yields revert to their levels prior to the 2008 financial crisis, strong earnings reports, coupled with a pause in interest rate hikes from the Fed, are expected to keep the stock market rally intact headed into the end of the year.
-
-Seasonal tailwinds during midterm election years also favor a positive return for the S&amp;P 500 this quarter.
-
-Ines Ferre is a Senior Business Reporter for Yahoo Finance covering the US stock market, publicly traded companies, and commodities.
-
-Click here for the latest stock market news and in-depth analysis, including events that move stocks</description>
-      <content:encoded><![CDATA[<p>Bond yields are surging worldwide — and France is on the &#x27;ugly side&#x27;: Chart of the Day</p><p>2026-10-12</p><p>Por Ines Ferré</p><p>https://finance.yahoo.com/markets/article/bond-yields-are-surging-worldwide--and-france-is-on-the-ugly-side-chart-of-the-day-123643553.html</p><p>It&#x27;s not just the US seeing a rapid rise in bond yields. The surge in Treasury yields worldwide is raising alarm bells among investors.</p><p>&quot;Any lingering doubts about whether the world has truly left the era of low interest rates behind should now be quashed,&quot; Thomas Garretson, senior portfolio strategist at RBC Wealth Management, wrote in a recent note.</p><p>Longer-dated bond yields have been flagging issues &quot;that have been percolating in global bond markets for years, which are now coming to a head,&quot; he noted.</p><p>Wall Street strategists see an array of reasons behind the rise in yields.</p><p>&quot;On the good side of the spectrum, better-than-expected economic growth has driven US bond yields up to levels that are back to normal,&quot; Ed Yardeni of Yardeni Research wrote last week.</p><p>&quot;On the ugly side, soaring bond yields in France are signaling a looming debt crisis,&quot; he said.</p><p>The protests over public education funding across major French cities have coincided with surging bond yields.</p><p>Macquarie strategists have argued that there is a &quot;direct and self-reinforcing causal connection&quot; between recent street riots over proposed budget cuts in France and the country&#x27;s bond market stress.</p><p>Behind France, the US 10-year yield (^TNX) has posted its biggest jump among more than 20 countries tracked by Yardeni Research.</p><p>Italy, Indonesia, Japan, and South Korea have also seen their benchmark yields rise at least 100 basis points since the start of the year.</p><p>Rising yields are also attributed to higher oil prices stemming from the war in the Middle East and the unwinding of the yen-carry trade.</p><p>Japanese investors, who accumulated over $1.3 trillion in US Treasurys during the era of negative domestic rates, have been repatriating capital as domestic yields normalize.</p><p>RBC research estimates that every $100 billion shift in Japanese holdings impacts 10-year Treasury yields by roughly 50 basis points. As of July 2026, Japan&#x27;s holdings are down $120 billion so far this year and about $300 billion from their 2021 peak.</p><p>As the US 10-year Treasury yield hangs near its highest level in 24 years, strategists are seeing a risk of 6% for the first time since 2000.</p><p>Even as bond yields revert to their levels prior to the 2008 financial crisis, strong earnings reports, coupled with a pause in interest rate hikes from the Fed, are expected to keep the stock market rally intact headed into the end of the year.</p><p>Seasonal tailwinds during midterm election years also favor a positive return for the S&amp;P 500 this quarter.</p><p>Ines Ferre is a Senior Business Reporter for Yahoo Finance covering the US stock market, publicly traded companies, and commodities.</p><p>Click here for the latest stock market news and in-depth analysis, including events that move stocks</p>]]></content:encoded>
-      <pubDate>Mon, 12 Oct 2026 11:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-10-12_Bond_yields_are_surging_worldwide_and_France_is_on_the_ugly_side_Chart_of_the_Day.mp3</guid>
-      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-10-12_Bond_yields_are_surging_worldwide_and_France_is_on_the_ugly_side_Chart_of_the_Day.mp3" length="1695188" type="audio/mpeg"/>
-      <itunes:duration>00:03:05</itunes:duration>
-      <itunes:author>Ines Ferré</itunes:author>
-      <itunes:summary>Bond yields are surging worldwide — and France is on the &#x27;ugly side&#x27;: Chart of the Day
-
-2026-10-12
-
-Por Ines Ferré
-
-https://finance.yahoo.com/markets/article/bond-yields-are-surging-worldwide--and-france-is-on-the-ugly-side-chart-of-the-day-123643553.html
-
-It&#x27;s not just the US seeing a rapid rise in bond yields. The surge in Treasury yields worldwide is raising alarm bells among investors.
-
-&quot;Any lingering doubts about whether the world has truly left the era of low interest rates behind should now be quashed,&quot; Thomas Garretson, senior portfolio strategist at RBC Wealth Management, wrote in a recent note.
-
-Longer-dated bond yields have been flagging issues &quot;that have been percolating in global bond markets for years, which are now coming to a head,&quot; he noted.
-
-Wall Street strategists see an array of reasons behind the rise in yields.
-
-&quot;On the good side of the spectrum, better-than-expected economic growth has driven US bond yields up to levels that are back to normal,&quot; Ed Yardeni of Yardeni Research wrote last week.
-
-&quot;On the ugly side, soaring bond yields in France are signaling a looming debt crisis,&quot; he said.
-
-The protests over public education funding across major French cities have coincided with surging bond yields.
-
-Macquarie strategists have argued that there is a &quot;direct and self-reinforcing causal connection&quot; between recent street riots over proposed budget cuts in France and the country&#x27;s bond market stress.
-
-Behind France, the US 10-year yield (^TNX) has posted its biggest jump among more than 20 countries tracked by Yardeni Research.
-
-Italy, Indonesia, Japan, and South Korea have also seen their benchmark yields rise at least 100 basis points since the start of the year.
-
-Rising yields are also attributed to higher oil prices stemming from the war in the Middle East and the unwinding of the yen-carry trade.
-
-Japanese investors, who accumulated over $1.3 trillion in US Treasurys during the era of negative domestic rates, have been repatriating capital as domestic yields normalize.
-
-RBC research estimates that every $100 billion shift in Japanese holdings impacts 10-year Treasury yields by roughly 50 basis points. As of July 2026, Japan&#x27;s holdings are down $120 billion so far this year and about $300 billion from their 2021 peak.
-
-As the US 10-year Treasury yield hangs near its highest level in 24 years, strategists are seeing a risk of 6% for the first time since 2000.
-
-Even as bond yields revert to their levels prior to the 2008 financial crisis, strong earnings reports, coupled with a pause in interest rate hikes from the Fed, are expected to keep the stock market rally intact headed into the end of the year.
-
-Seasonal tailwinds during midterm election years also favor a positive return for the S&amp;P 500 this quarter.
-
-Ines Ferre is a Senior Business Reporter for Yahoo Finance covering the US stock market, publicly traded companies, and commodities.
-
-Click here for the latest stock market news and in-depth analysis, including events that move stocks</itunes:summary>
-    </item>
-
-    <item>
-      <title>Zelenskyy Risks Rupture With Trump as Midterms Pressure Mounts</title>
-      <author>Aliaksandr Kudrytski; Natalia Drozdiak; Alberto Nardelli</author>
-      <description>Zelenskyy Risks Rupture With Trump as Midterms Pressure Mounts
-
-2026-10-12
-
-Por Aliaksandr Kudrytski; Natalia Drozdiak; Alberto Nardelli
-
-https://finance.yahoo.com/energy/articles/zelenskyy-risks-rupture-trump-midterms-020024586.html
-
-(Bloomberg) -- Ukrainian President Volodymyr Zelenskyy is on a collision course with President Donald Trump, who is increasingly looking at Kyiv&#x27;s battle against Russia primarily through the lens of energy prices ahead of US midterm elections.
-
-Most Read from Bloomberg
-
-Trump sprung an announcement of an &quot;energy ceasefire&quot; between Russia and Ukraine on Zelenskyy, as the US leader pushes for him to stop bombing Russian oil refineries and defends a controversial deal with Vladimir Putin on diesel exports.
-
-After Trump posted on social media about the ceasefire, Zelenskyy said he is willing to accept it, but only if Russia does too — his long-standing position — making clear his significant doubts about that prospect.
-
-&quot;Ukraine supports the ceasefire, and it is important that Russia support it as well,&quot; Zelenskyy said on social media, adding that he is &quot;awaiting details&quot; from the US on the deal.
-
-But as Ukraine continues to respond to Russia&#x27;s invasion with its own attacks on refineries, Zelenskyy increasingly risks running afoul of Trump. That poses a hazard for Kyiv as it still relies on US weapon purchases that are financed by other NATO allies and on intelligence-sharing from Washington. Ukraine is also strapped for cash ahead of the fifth winter of the war.
-
-A day before his ceasefire announcement — the second in as many months — Trump lashed out at Zelenskyy, suggesting he should consider stepping aside as Ukraine&#x27;s president. On Friday, after Trump reached the diesel export deal with Putin, Ukrainian negotiators cut short their talks in Miami with US envoys, according to people familiar with the matter, who spoke on condition of anonymity because they were not authorized to speak publicly.
-
-In the meeting, US negotiators, led by Trump&#x27;s son-in-law Jared Kushner and special envoy Steve Witkoff, told Ukrainian officials that the US was a strong partner, providing munitions and intelligence, and so Ukraine shouldn&#x27;t take actions that hurt American consumers like striking refineries, according to one of the people. That was perceived as an implied threat from the US to cut off intelligence to Kyiv, several of the people said. The Financial Times was first to report about the intelligence cutoff remark at the Miami meeting.
-
-European officials present at the meeting received no prior notification from the US on the imminent diesel deal with Moscow, one person said.
-
-Ahead of US midterms in November, the Trump administration is scrambling to bring down soaring fuel prices, which have raised costs for farmers and truckers. But the deal with Russia, which would release Russian diesel to global markets, risks sparking geopolitical backlash without boosting supply enough to materially lower prices.
-
-It&#x27;s also triggered significant bipartisan pushback in the US. Seven US senators — four Republicans and three Democrats — released a statement pointing out that Congress had banned imports of Russian energy since 2022, and that the deal was illegal.
-
-After years of devastating Russian aerial barrages, Ukraine has developed an increasingly effective strategy of hitting sensitive parts of the Kremlin&#x27;s economy with long-range drones in an effort to undermine Putin&#x27;s ability to finance the war.
-
-The attacks forced the Kremlin to pay oil companies steep subsidies to supply road fuels to the domestic market and ban diesel exports, which now also raises questions about Moscow&#x27;s ability to fulfill its deal with Trump. On Saturday, Russia partially lifted its ban on diesel exports, allowing 500,000 metric tons of fuel to reach international markets.
-
-Tensions between the US president and Zelenskyy have come and gone since Trump returned to the White House with a pledge to quickly end the war in Ukraine. Last year, 
-
-[Transcripcion recortada]</description>
-      <content:encoded><![CDATA[<p>Zelenskyy Risks Rupture With Trump as Midterms Pressure Mounts</p><p>2026-10-12</p><p>Por Aliaksandr Kudrytski; Natalia Drozdiak; Alberto Nardelli</p><p>https://finance.yahoo.com/energy/articles/zelenskyy-risks-rupture-trump-midterms-020024586.html</p><p>(Bloomberg) -- Ukrainian President Volodymyr Zelenskyy is on a collision course with President Donald Trump, who is increasingly looking at Kyiv&#x27;s battle against Russia primarily through the lens of energy prices ahead of US midterm elections.</p><p>Most Read from Bloomberg</p><p>Trump sprung an announcement of an &quot;energy ceasefire&quot; between Russia and Ukraine on Zelenskyy, as the US leader pushes for him to stop bombing Russian oil refineries and defends a controversial deal with Vladimir Putin on diesel exports.</p><p>After Trump posted on social media about the ceasefire, Zelenskyy said he is willing to accept it, but only if Russia does too — his long-standing position — making clear his significant doubts about that prospect.</p><p>&quot;Ukraine supports the ceasefire, and it is important that Russia support it as well,&quot; Zelenskyy said on social media, adding that he is &quot;awaiting details&quot; from the US on the deal.</p><p>But as Ukraine continues to respond to Russia&#x27;s invasion with its own attacks on refineries, Zelenskyy increasingly risks running afoul of Trump. That poses a hazard for Kyiv as it still relies on US weapon purchases that are financed by other NATO allies and on intelligence-sharing from Washington. Ukraine is also strapped for cash ahead of the fifth winter of the war.</p><p>A day before his ceasefire announcement — the second in as many months — Trump lashed out at Zelenskyy, suggesting he should consider stepping aside as Ukraine&#x27;s president. On Friday, after Trump reached the diesel export deal with Putin, Ukrainian negotiators cut short their talks in Miami with US envoys, according to people familiar with the matter, who spoke on condition of anonymity because they were not authorized to speak publicly.</p><p>In the meeting, US negotiators, led by Trump&#x27;s son-in-law Jared Kushner and special envoy Steve Witkoff, told Ukrainian officials that the US was a strong partner, providing munitions and intelligence, and so Ukraine shouldn&#x27;t take actions that hurt American consumers like striking refineries, according to one of the people. That was perceived as an implied threat from the US to cut off intelligence to Kyiv, several of the people said. The Financial Times was first to report about the intelligence cutoff remark at the Miami meeting.</p><p>European officials present at the meeting received no prior notification from the US on the imminent diesel deal with Moscow, one person said.</p><p>Ahead of US midterms in November, the Trump administration is scrambling to bring down soaring fuel prices, which have raised costs for farmers and truckers. But the deal with Russia, which would release Russian diesel to global markets, risks sparking geopolitical backlash without boosting supply enough to materially lower prices.</p><p>It&#x27;s also triggered significant bipartisan pushback in the US. Seven US senators — four Republicans and three Democrats — released a statement pointing out that Congress had banned imports of Russian energy since 2022, and that the deal was illegal.</p><p>After years of devastating Russian aerial barrages, Ukraine has developed an increasingly effective strategy of hitting sensitive parts of the Kremlin&#x27;s economy with long-range drones in an effort to undermine Putin&#x27;s ability to finance the war.</p><p>The attacks forced the Kremlin to pay oil companies steep subsidies to supply road fuels to the domestic market and ban diesel exports, which now also raises questions about Moscow&#x27;s ability to fulfill its deal with Trump. On Saturday, Russia partially lifted its ban on diesel exports, allowing 500,000 metric tons of fuel to reach international markets.</p><p>Tensions between the US president and Zelenskyy have come and gone since Trump returned to the White House with a pledge to quickly end the war in Ukraine. Last year, </p>]]></content:encoded>
-      <pubDate>Mon, 12 Oct 2026 11:31:14 GMT</pubDate>
-      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-10-12_Zelenskyy_Risks_Rupture_With_Trump_as_Midterms_Pressure_Mounts.mp3</guid>
-      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-10-12_Zelenskyy_Risks_Rupture_With_Trump_as_Midterms_Pressure_Mounts.mp3" length="4197456" type="audio/mpeg"/>
-      <itunes:duration>00:07:53</itunes:duration>
-      <itunes:author>Aliaksandr Kudrytski; Natalia Drozdiak; Alberto Nardelli</itunes:author>
-      <itunes:summary>Zelenskyy Risks Rupture With Trump as Midterms Pressure Mounts
-
-2026-10-12
-
-Por Aliaksandr Kudrytski; Natalia Drozdiak; Alberto Nardelli
-
-https://finance.yahoo.com/energy/articles/zelenskyy-risks-rupture-trump-midterms-020024586.html
-
-(Bloomberg) -- Ukrainian President Volodymyr Zelenskyy is on a collision course with President Donald Trump, who is increasingly looking at Kyiv&#x27;s battle against Russia primarily through the lens of energy prices ahead of US midterm elections.
-
-Most Read from Bloomberg
-
-Trump sprung an announcement of an &quot;energy ceasefire&quot; between Russia and Ukraine on Zelenskyy, as the US leader pushes for him to stop bombing Russian oil refineries and defends a controversial deal with Vladimir Putin on diesel exports.
-
-After Trump posted on social media about the ceasefire, Zelenskyy said he is willing to accept it, but only if Russia does too — his long-standing position — making clear his significant doubts about that prospect.
-
-&quot;Ukraine supports the ceasefire, and it is important that Russia support it as well,&quot; Zelenskyy said on social media, adding that he is &quot;awaiting details&quot; from the US on the deal.
-
-But as Ukraine continues to respond to Russia&#x27;s invasion with its own attacks on refineries, Zelenskyy increasingly risks running afoul of Trump. That poses a hazard for Kyiv as it still relies on US weapon purchases that are financed by other NATO allies and on intelligence-sharing from Washington. Ukraine is also strapped for cash ahead of the fifth winter of the war.
-
-A day before his ceasefire announcement — the second in as many months — Trump lashed out at Zelenskyy, suggesting he should consider stepping aside as Ukraine&#x27;s president. On Friday, after Trump reached the diesel export deal with Putin, Ukrainian negotiators cut short their talks in Miami with US envoys, according to people familiar with the matter, who spoke on condition of anonymity because they were not authorized to speak publicly.
-
-In the meeting, US negotiators, led by Trump&#x27;s son-in-law Jared Kushner and special envoy Steve Witkoff, told Ukrainian officials that the US was a strong partner, providing munitions and intelligence, and so Ukraine shouldn&#x27;t take actions that hurt American consumers like striking refineries, according to one of the people. That was perceived as an implied threat from the US to cut off intelligence to Kyiv, several of the people said. The Financial Times was first to report about the intelligence cutoff remark at the Miami meeting.
-
-European officials present at the meeting received no prior notification from the US on the imminent diesel deal with Moscow, one person said.
-
-Ahead of US midterms in November, the Trump administration is scrambling to bring down soaring fuel prices, which have raised costs for farmers and truckers. But the deal with Russia, which would release Russian diesel to global markets, risks sparking geopolitical backlash without boosting supply enough to materially lower prices.
-
-It&#x27;s also triggered significant bipartisan pushback in the US. Seven US senators — four Republicans and three Democrats — released a statement pointing out that Congress had banned imports of Russian energy since 2022, and that the deal was illegal.
-
-After years of devastating Russian aerial barrages, Ukraine has developed an increasingly effective strategy of hitting sensitive parts of the Kremlin&#x27;s economy with long-range drones in an effort to undermine Putin&#x27;s ability to finance the war.
-
-The attacks forced the Kremlin to pay oil companies steep subsidies to supply road fuels to the domestic market and ban diesel exports, which now also raises questions about Moscow&#x27;s ability to fulfill its deal with Trump. On Saturday, Russia partially lifted its ban on diesel exports, allowing 500,000 metric tons of fuel to reach international markets.
-
-Tensions between the US president and Zelenskyy have come and gone since Trump returned to the White House with a pledge to quickly end the war in Ukraine. Last year, 
-
-[Transcripcion recortada]</itunes:summary>
-    </item>
-
-    <item>
-      <title>Economist on US debt: &#x27;The problem is we&#x27;re not resilient&#x27;</title>
-      <author>Michael B Kelley</author>
-      <description>Economist on US debt: &#x27;The problem is we&#x27;re not resilient&#x27;
-
-2026-10-12
-
-Por Michael B Kelley
-
-https://finance.yahoo.com/economy/article/economist-on-us-debt-the-problem-is-were-not-resilient-115130428.html
-
-Kenneth Rogoff used to worry that America&#x27;s debt would slow growth. Nowadays, the former chief economist of the International Monetary Fund is worried about something worse.
-
-&quot;Just to be clear, I haven&#x27;t worried about a debt crisis in the US until very recently,&quot; Rogoff, a Harvard economics professor, told Yahoo Finance Executive Editor Brian Sozzi (video above).
-
-What would set one off? &quot;A shock like a bigger war than we had in Iran,&quot; Taiwan, &quot;a cyberattack, some out-of-the-box shock,&quot; Rogoff said. &quot;The problem is we&#x27;re not resilient.&quot;
-
-The debt, &quot;depending on how you measure it,&quot; is &quot;hitting an all-time high, going much higher,&quot; he explained. With interest rates back to historically normal levels, &quot;suddenly debt servicing costs are second on the budget, on its way to first, according to the CBO.&quot;
-
-Rogoff added, &quot;Politically, we&#x27;re sort of like a deer caught in the headlights.&quot;
-
-Read more: How the soaring federal debt affects you personally
-
-Other countries have the same problem, he said, pointing to France and the UK. However, he added, &quot;the US is the biggest debtor, and so it&#x27;s the most vulnerable to this rise in interest rates.&quot;
-
-A crisis could take several forms, Rogoff said. One is inflation: &quot;You can say the Fed would never allow that. Well, in an extreme situation, they would.&quot;
-
-Another is financial repression, &quot;which is basically what Japan did,&quot; pushing insurance companies, pension funds, and other locals to hold more government debt.
-
-Cutting spending or raising taxes is the third option, &quot;but I think until we have a crisis, the voter&#x27;s not going to go for it.&quot;
-
-&quot;Maybe nothing will happen for 15 years,&quot; he noted.
-
-And according to Rogoff, AI isn&#x27;t going to solve the issue.
-
-&quot;If it did come in big, it&#x27;s going to keep raising interest rates,&quot; Rogoff said. With the debt &quot;already, you know, over 100% of GDP,&quot; every one-point rise in rates means &quot;you might get more revenue, but you got to pay just as much or more on your debt.&quot;
-
-AI also favors capital over workers, he said, and &quot;labor is easier to tax than capital.&quot;
-
-Internal AI tools help analyze interview transcripts and draft. Editors reviewed, edited, and fact-checked this post before publication.
-
-Click here for in-depth analysis of the latest stock market news and events moving stock prices
-
-Read the latest financial and business news from Yahoo Finance</description>
-      <content:encoded><![CDATA[<p>Economist on US debt: &#x27;The problem is we&#x27;re not resilient&#x27;</p><p>2026-10-12</p><p>Por Michael B Kelley</p><p>https://finance.yahoo.com/economy/article/economist-on-us-debt-the-problem-is-were-not-resilient-115130428.html</p><p>Kenneth Rogoff used to worry that America&#x27;s debt would slow growth. Nowadays, the former chief economist of the International Monetary Fund is worried about something worse.</p><p>&quot;Just to be clear, I haven&#x27;t worried about a debt crisis in the US until very recently,&quot; Rogoff, a Harvard economics professor, told Yahoo Finance Executive Editor Brian Sozzi (video above).</p><p>What would set one off? &quot;A shock like a bigger war than we had in Iran,&quot; Taiwan, &quot;a cyberattack, some out-of-the-box shock,&quot; Rogoff said. &quot;The problem is we&#x27;re not resilient.&quot;</p><p>The debt, &quot;depending on how you measure it,&quot; is &quot;hitting an all-time high, going much higher,&quot; he explained. With interest rates back to historically normal levels, &quot;suddenly debt servicing costs are second on the budget, on its way to first, according to the CBO.&quot;</p><p>Rogoff added, &quot;Politically, we&#x27;re sort of like a deer caught in the headlights.&quot;</p><p>Read more: How the soaring federal debt affects you personally</p><p>Other countries have the same problem, he said, pointing to France and the UK. However, he added, &quot;the US is the biggest debtor, and so it&#x27;s the most vulnerable to this rise in interest rates.&quot;</p><p>A crisis could take several forms, Rogoff said. One is inflation: &quot;You can say the Fed would never allow that. Well, in an extreme situation, they would.&quot;</p><p>Another is financial repression, &quot;which is basically what Japan did,&quot; pushing insurance companies, pension funds, and other locals to hold more government debt.</p><p>Cutting spending or raising taxes is the third option, &quot;but I think until we have a crisis, the voter&#x27;s not going to go for it.&quot;</p><p>&quot;Maybe nothing will happen for 15 years,&quot; he noted.</p><p>And according to Rogoff, AI isn&#x27;t going to solve the issue.</p><p>&quot;If it did come in big, it&#x27;s going to keep raising interest rates,&quot; Rogoff said. With the debt &quot;already, you know, over 100% of GDP,&quot; every one-point rise in rates means &quot;you might get more revenue, but you got to pay just as much or more on your debt.&quot;</p><p>AI also favors capital over workers, he said, and &quot;labor is easier to tax than capital.&quot;</p><p>Internal AI tools help analyze interview transcripts and draft. Editors reviewed, edited, and fact-checked this post before publication.</p><p>Click here for in-depth analysis of the latest stock market news and events moving stock prices</p><p>Read the latest financial and business news from Yahoo Finance</p>]]></content:encoded>
-      <pubDate>Mon, 12 Oct 2026 11:29:20 GMT</pubDate>
-      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-10-12_Economist_on_US_debt_The_problem_is_were_not_resilient.mp3</guid>
-      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-10-12_Economist_on_US_debt_The_problem_is_were_not_resilient.mp3" length="1333125" type="audio/mpeg"/>
-      <itunes:duration>00:02:25</itunes:duration>
-      <itunes:author>Michael B Kelley</itunes:author>
-      <itunes:summary>Economist on US debt: &#x27;The problem is we&#x27;re not resilient&#x27;
-
-2026-10-12
-
-Por Michael B Kelley
-
-https://finance.yahoo.com/economy/article/economist-on-us-debt-the-problem-is-were-not-resilient-115130428.html
-
-Kenneth Rogoff used to worry that America&#x27;s debt would slow growth. Nowadays, the former chief economist of the International Monetary Fund is worried about something worse.
-
-&quot;Just to be clear, I haven&#x27;t worried about a debt crisis in the US until very recently,&quot; Rogoff, a Harvard economics professor, told Yahoo Finance Executive Editor Brian Sozzi (video above).
-
-What would set one off? &quot;A shock like a bigger war than we had in Iran,&quot; Taiwan, &quot;a cyberattack, some out-of-the-box shock,&quot; Rogoff said. &quot;The problem is we&#x27;re not resilient.&quot;
-
-The debt, &quot;depending on how you measure it,&quot; is &quot;hitting an all-time high, going much higher,&quot; he explained. With interest rates back to historically normal levels, &quot;suddenly debt servicing costs are second on the budget, on its way to first, according to the CBO.&quot;
-
-Rogoff added, &quot;Politically, we&#x27;re sort of like a deer caught in the headlights.&quot;
-
-Read more: How the soaring federal debt affects you personally
-
-Other countries have the same problem, he said, pointing to France and the UK. However, he added, &quot;the US is the biggest debtor, and so it&#x27;s the most vulnerable to this rise in interest rates.&quot;
-
-A crisis could take several forms, Rogoff said. One is inflation: &quot;You can say the Fed would never allow that. Well, in an extreme situation, they would.&quot;
-
-Another is financial repression, &quot;which is basically what Japan did,&quot; pushing insurance companies, pension funds, and other locals to hold more government debt.
-
-Cutting spending or raising taxes is the third option, &quot;but I think until we have a crisis, the voter&#x27;s not going to go for it.&quot;
-
-&quot;Maybe nothing will happen for 15 years,&quot; he noted.
-
-And according to Rogoff, AI isn&#x27;t going to solve the issue.
-
-&quot;If it did come in big, it&#x27;s going to keep raising interest rates,&quot; Rogoff said. With the debt &quot;already, you know, over 100% of GDP,&quot; every one-point rise in rates means &quot;you might get more revenue, but you got to pay just as much or more on your debt.&quot;
-
-AI also favors capital over workers, he said, and &quot;labor is easier to tax than capital.&quot;
-
-Internal AI tools help analyze interview transcripts and draft. Editors reviewed, edited, and fact-checked this post before publication.
-
-Click here for in-depth analysis of the latest stock market news and events moving stock prices
-
-Read the latest financial and business news from Yahoo Finance</itunes:summary>
-    </item>
-
-    <item>
-      <title>The bull market in stocks is about to enter its fifth year — here&#x27;s what the data says is next</title>
-      <author>Brian Sozzi</author>
-      <description>The bull market in stocks is about to enter its fifth year — here&#x27;s what the data says is next
-
-2026-10-12
-
-Por Brian Sozzi
-
-https://finance.yahoo.com/markets/article/the-bull-market-in-stocks-is-about-to-enter-its-fifth-year--heres-what-the-data-says-is-next-164838490.html
-
-Break out the birthday balloons for the bull market.
-
-Investors are currently living in the 11th bull market since the 1950s, which is on track to become the seventh to complete at least four full years on Oct. 12, according to a new analysis by Truist co-chief investment officer Keith Lerner.
-
-Measured against every bull market dating back to the 1950s, the 119% advance sits near the middle of the pack, well below the 401% gain during the 2009-2020 cycle and the 582% gain from 1987-2000.
-
-Read more: What is a bull market?
-
-The historical average advance for a bull market in Lerner&#x27;s measurement period is 184%. Of the 10 prior bull markets, six lasted longer than four years.
-
-Among bull markets that reached this stage, the fifth year produced an average return of 12% and a median return of 15%.
-
-&quot;The weight of the evidence remains supportive as the bull market enters its fifth year,&quot; Lerner wrote. &quot;Continued economic growth, resilient corporate profits, and a meaningful reset in valuations provide a solid foundation for maintaining a constructive stance. At the same time, history suggests investors should not get caught off guard by volatility as the cycle matures.&quot;
-
-The bull market this year has been powered by the one-two punch of strong corporate earnings and AI optimism.
-
-The S&amp;P 500 (^GSPC) is expected to report year-over-year earnings growth of 29.5% for the recently completed third quarter.
-
-If that plays out, it will mark the third consecutive quarter of earnings growth above 25%, according to FactSet. It would also represent the eighth straight quarter of double-digit percentage earnings growth.
-
-For the fourth quarter, Wall Street analysts are calling for earnings growth of 27.6%. And for all of 2026, analysts are predicting year-over-year earnings growth of 32.4%.
-
-Earnings estimates for 2027 are already on the rise, especially for tech names amid unrelenting AI demand.
-
-About 40% of the year-to-date revisions to S&amp;P 500 earnings estimates for 2026 are attributable to the semiconductor and hardware industries, according to a new analysis from Barclays strategist Venu Krishna.
-
-A substantial 75% of the year-to-date estimate revisions for 2027 come from the semiconductor and hardware sectors.
-
-Click here for in-depth analysis of the latest stock market news and events moving stock prices
-
-Read the latest financial and business news from Yahoo Finance</description>
-      <content:encoded><![CDATA[<p>The bull market in stocks is about to enter its fifth year — here&#x27;s what the data says is next</p><p>2026-10-12</p><p>Por Brian Sozzi</p><p>https://finance.yahoo.com/markets/article/the-bull-market-in-stocks-is-about-to-enter-its-fifth-year--heres-what-the-data-says-is-next-164838490.html</p><p>Break out the birthday balloons for the bull market.</p><p>Investors are currently living in the 11th bull market since the 1950s, which is on track to become the seventh to complete at least four full years on Oct. 12, according to a new analysis by Truist co-chief investment officer Keith Lerner.</p><p>Measured against every bull market dating back to the 1950s, the 119% advance sits near the middle of the pack, well below the 401% gain during the 2009-2020 cycle and the 582% gain from 1987-2000.</p><p>Read more: What is a bull market?</p><p>The historical average advance for a bull market in Lerner&#x27;s measurement period is 184%. Of the 10 prior bull markets, six lasted longer than four years.</p><p>Among bull markets that reached this stage, the fifth year produced an average return of 12% and a median return of 15%.</p><p>&quot;The weight of the evidence remains supportive as the bull market enters its fifth year,&quot; Lerner wrote. &quot;Continued economic growth, resilient corporate profits, and a meaningful reset in valuations provide a solid foundation for maintaining a constructive stance. At the same time, history suggests investors should not get caught off guard by volatility as the cycle matures.&quot;</p><p>The bull market this year has been powered by the one-two punch of strong corporate earnings and AI optimism.</p><p>The S&amp;P 500 (^GSPC) is expected to report year-over-year earnings growth of 29.5% for the recently completed third quarter.</p><p>If that plays out, it will mark the third consecutive quarter of earnings growth above 25%, according to FactSet. It would also represent the eighth straight quarter of double-digit percentage earnings growth.</p><p>For the fourth quarter, Wall Street analysts are calling for earnings growth of 27.6%. And for all of 2026, analysts are predicting year-over-year earnings growth of 32.4%.</p><p>Earnings estimates for 2027 are already on the rise, especially for tech names amid unrelenting AI demand.</p><p>About 40% of the year-to-date revisions to S&amp;P 500 earnings estimates for 2026 are attributable to the semiconductor and hardware industries, according to a new analysis from Barclays strategist Venu Krishna.</p><p>A substantial 75% of the year-to-date estimate revisions for 2027 come from the semiconductor and hardware sectors.</p><p>Click here for in-depth analysis of the latest stock market news and events moving stock prices</p><p>Read the latest financial and business news from Yahoo Finance</p>]]></content:encoded>
-      <pubDate>Mon, 12 Oct 2026 11:28:45 GMT</pubDate>
-      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-10-12_The_bull_market_in_stocks_is_about_to_enter_its_fifth_year_heres_what_the_data_says_is_next.mp3</guid>
-      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-10-12_The_bull_market_in_stocks_is_about_to_enter_its_fifth_year_heres_what_the_data_says_is_next.mp3" length="1601838" type="audio/mpeg"/>
-      <itunes:duration>00:02:54</itunes:duration>
-      <itunes:author>Brian Sozzi</itunes:author>
-      <itunes:summary>The bull market in stocks is about to enter its fifth year — here&#x27;s what the data says is next
-
-2026-10-12
-
-Por Brian Sozzi
-
-https://finance.yahoo.com/markets/article/the-bull-market-in-stocks-is-about-to-enter-its-fifth-year--heres-what-the-data-says-is-next-164838490.html
-
-Break out the birthday balloons for the bull market.
-
-Investors are currently living in the 11th bull market since the 1950s, which is on track to become the seventh to complete at least four full years on Oct. 12, according to a new analysis by Truist co-chief investment officer Keith Lerner.
-
-Measured against every bull market dating back to the 1950s, the 119% advance sits near the middle of the pack, well below the 401% gain during the 2009-2020 cycle and the 582% gain from 1987-2000.
-
-Read more: What is a bull market?
-
-The historical average advance for a bull market in Lerner&#x27;s measurement period is 184%. Of the 10 prior bull markets, six lasted longer than four years.
-
-Among bull markets that reached this stage, the fifth year produced an average return of 12% and a median return of 15%.
-
-&quot;The weight of the evidence remains supportive as the bull market enters its fifth year,&quot; Lerner wrote. &quot;Continued economic growth, resilient corporate profits, and a meaningful reset in valuations provide a solid foundation for maintaining a constructive stance. At the same time, history suggests investors should not get caught off guard by volatility as the cycle matures.&quot;
-
-The bull market this year has been powered by the one-two punch of strong corporate earnings and AI optimism.
-
-The S&amp;P 500 (^GSPC) is expected to report year-over-year earnings growth of 29.5% for the recently completed third quarter.
-
-If that plays out, it will mark the third consecutive quarter of earnings growth above 25%, according to FactSet. It would also represent the eighth straight quarter of double-digit percentage earnings growth.
-
-For the fourth quarter, Wall Street analysts are calling for earnings growth of 27.6%. And for all of 2026, analysts are predicting year-over-year earnings growth of 32.4%.
-
-Earnings estimates for 2027 are already on the rise, especially for tech names amid unrelenting AI demand.
-
-About 40% of the year-to-date revisions to S&amp;P 500 earnings estimates for 2026 are attributable to the semiconductor and hardware industries, according to a new analysis from Barclays strategist Venu Krishna.
-
-A substantial 75% of the year-to-date estimate revisions for 2027 come from the semiconductor and hardware sectors.
-
-Click here for in-depth analysis of the latest stock market news and events moving stock prices
-
-Read the latest financial and business news from Yahoo Finance</itunes:summary>
-    </item>
-
-    <item>
-      <title>US 10-year Treasury yield risks hitting 6% for first time since 2000, Pimco&#x27;s Ivascyn tells FT</title>
-      <author>Reuters</author>
-      <description>US 10-year Treasury yield risks hitting 6% for first time since 2000, Pimco&#x27;s Ivascyn tells FT
-
-2026-10-12
-
-Por Reuters
-
-https://finance.yahoo.com/markets/currencies/articles/us-10-treasury-yield-risks-052945916.html
-
-Oct 9 (Reuters) - The benchmark 10-year US Treasury yield could rise to 6% for the first time since 2000 as high oil prices fuel inflation concerns and worries over the country&#x27;s growing public debt, Dan Ivascyn, Chief Investment Officer at bond fund manager Pimco, told the Financial Times.
-
-US Treasury yields are a yardstick for global borrowing costs and asset prices. The 10-year yield has risen almost 120 basis points this year and is trading slightly below the 5.34% level it hit last week, its highest since 2002.
-
-A sharp rise from the current level of 5.29% was &quot;feasible&quot; in the near term, Ivascyn told FT on Friday, citing factors such as hedge funds unwinding their losing bond positions.
-
-&quot;It is certainly possible, even from a short-term trading perspective, given that some of the activity we&#x27;ve seen in the last couple of weeks is tied to some negative technicals, some stop-out activity from the platform hedge funds and other levered investors. You can certainly get there,&quot; he said.
-
-If Treasury yields rose further, it could weigh on riskier assets such as stocks and corporate bonds, he said, adding that a move to 5.5% or higher would likely lead to &quot;some decent weakness in risk markets, both credit and equity&quot;.
-
-Global bonds have come under heavy selling pressure this year as soaring energy costs fan inflation and the AI boom lifts economic growth, leaving investors positioning for an era where interest rates stay higher for longer.
-
-Bond yields, which rise when prices fall, have consequently soared globally, with the US 10-year Treasury yield posting its biggest quarterly rise this century for the three months ending in September.
-
-(Reporting by Rajveer Singh Pardesi in Bengaluru; Editing by Janane Venkatraman)</description>
-      <content:encoded><![CDATA[<p>US 10-year Treasury yield risks hitting 6% for first time since 2000, Pimco&#x27;s Ivascyn tells FT</p><p>2026-10-12</p><p>Por Reuters</p><p>https://finance.yahoo.com/markets/currencies/articles/us-10-treasury-yield-risks-052945916.html</p><p>Oct 9 (Reuters) - The benchmark 10-year US Treasury yield could rise to 6% for the first time since 2000 as high oil prices fuel inflation concerns and worries over the country&#x27;s growing public debt, Dan Ivascyn, Chief Investment Officer at bond fund manager Pimco, told the Financial Times.</p><p>US Treasury yields are a yardstick for global borrowing costs and asset prices. The 10-year yield has risen almost 120 basis points this year and is trading slightly below the 5.34% level it hit last week, its highest since 2002.</p><p>A sharp rise from the current level of 5.29% was &quot;feasible&quot; in the near term, Ivascyn told FT on Friday, citing factors such as hedge funds unwinding their losing bond positions.</p><p>&quot;It is certainly possible, even from a short-term trading perspective, given that some of the activity we&#x27;ve seen in the last couple of weeks is tied to some negative technicals, some stop-out activity from the platform hedge funds and other levered investors. You can certainly get there,&quot; he said.</p><p>If Treasury yields rose further, it could weigh on riskier assets such as stocks and corporate bonds, he said, adding that a move to 5.5% or higher would likely lead to &quot;some decent weakness in risk markets, both credit and equity&quot;.</p><p>Global bonds have come under heavy selling pressure this year as soaring energy costs fan inflation and the AI boom lifts economic growth, leaving investors positioning for an era where interest rates stay higher for longer.</p><p>Bond yields, which rise when prices fall, have consequently soared globally, with the US 10-year Treasury yield posting its biggest quarterly rise this century for the three months ending in September.</p><p>(Reporting by Rajveer Singh Pardesi in Bengaluru; Editing by Janane Venkatraman)</p>]]></content:encoded>
-      <pubDate>Mon, 12 Oct 2026 11:28:02 GMT</pubDate>
-      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-10-12_US_10-year_Treasury_yield_risks_hitting_6_for_first_time_since_2000_Pimcos_Ivascyn_tells_FT.mp3</guid>
-      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-10-12_US_10-year_Treasury_yield_risks_hitting_6_for_first_time_since_2000_Pimcos_Ivascyn_tells_FT.mp3" length="1123883" type="audio/mpeg"/>
-      <itunes:duration>00:01:59</itunes:duration>
-      <itunes:author>Reuters</itunes:author>
-      <itunes:summary>US 10-year Treasury yield risks hitting 6% for first time since 2000, Pimco&#x27;s Ivascyn tells FT
-
-2026-10-12
-
-Por Reuters
-
-https://finance.yahoo.com/markets/currencies/articles/us-10-treasury-yield-risks-052945916.html
-
-Oct 9 (Reuters) - The benchmark 10-year US Treasury yield could rise to 6% for the first time since 2000 as high oil prices fuel inflation concerns and worries over the country&#x27;s growing public debt, Dan Ivascyn, Chief Investment Officer at bond fund manager Pimco, told the Financial Times.
-
-US Treasury yields are a yardstick for global borrowing costs and asset prices. The 10-year yield has risen almost 120 basis points this year and is trading slightly below the 5.34% level it hit last week, its highest since 2002.
-
-A sharp rise from the current level of 5.29% was &quot;feasible&quot; in the near term, Ivascyn told FT on Friday, citing factors such as hedge funds unwinding their losing bond positions.
-
-&quot;It is certainly possible, even from a short-term trading perspective, given that some of the activity we&#x27;ve seen in the last couple of weeks is tied to some negative technicals, some stop-out activity from the platform hedge funds and other levered investors. You can certainly get there,&quot; he said.
-
-If Treasury yields rose further, it could weigh on riskier assets such as stocks and corporate bonds, he said, adding that a move to 5.5% or higher would likely lead to &quot;some decent weakness in risk markets, both credit and equity&quot;.
-
-Global bonds have come under heavy selling pressure this year as soaring energy costs fan inflation and the AI boom lifts economic growth, leaving investors positioning for an era where interest rates stay higher for longer.
-
-Bond yields, which rise when prices fall, have consequently soared globally, with the US 10-year Treasury yield posting its biggest quarterly rise this century for the three months ending in September.
-
-(Reporting by Rajveer Singh Pardesi in Bengaluru; Editing by Janane Venkatraman)</itunes:summary>
     </item>
   </channel>
 </rss>

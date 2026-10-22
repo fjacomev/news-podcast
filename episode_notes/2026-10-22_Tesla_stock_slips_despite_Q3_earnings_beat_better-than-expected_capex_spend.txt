@@ -1,0 +1,47 @@
+Tesla stock slips despite Q3 earnings beat, better-than-expected capex spend
+
+2026-10-22
+
+Por Pras Subramanian
+
+https://finance.yahoo.com/markets/stocks/article/tesla-stock-slips-despite-q3-earnings-beat-better-than-expected-capex-spend-101521707.html
+
+Tesla (TSLA) reported better-than-expected third quarter earnings, with its free cash flow and capex spending coming in ahead of Wall Street estimates.
+
+Tesla reported Q3 revenue of $28.05 billion vs. Bloomberg consensus of $28.13 billion. Tesla posted adjusted EPS of $0.48 vs. the $0.44 estimate, with adjusted EBITDA of $3.90 billion vs. $3.66 billion.
+
+Tesla stock fell almost 5% before the bell on Thursday, with Morningstar analyst Seth Goldstein claiming the market was reacting to "capacity constraints in the company's auto and battery growth, which could slow near-term growth."
+
+But that might not be the whole story. Tesla reported free cash flow of $1.53 billion vs. an estimated -$4.92 billion, with capital expenditures climbing to $4.732 billion vs. an estimated $7.96 billion for the quarter.
+
+On the earnings call, Tesla updated its full-year capex guidance to $20 billion from $25 billion previously. Tesla CFO Vaibhav Taneja said the savings would come from "managing our capital deployment efficiently, and plan to fund [capex] primarily from our cash flows from operations," he said.
+
+"I think capex is actually ending up being a little lower than we anticipated, but we'll start to become more meaningful next year. And then noticeable in the tens of billions in '28," CEO Elon Musk said on the call.
+
+Roundhill CEO Dave Mazza posits the cutting capex means the Tesla isn't transitioning fast enough to an AI-focused company betting on robotaxis, Optimus robots, and compute.
+
+Tesla revealed its Optimus robot started production at its Fremont factory. "While we will continue to iterate on the hardware and manufacturing process, we have proven that the current manufacturing process for Optimus is suitable for a commercial product," the company said in its earnings release.
+
+"I would expect that it takes us probably at least a year — maybe a little longer — to get to that annualized rate [1 million units], to get to 20,000 units a week," Musk said on the earnings call. Musk added that Tesla may release an Optimus demo video in about a month, stressing that he didn't want the robot's movements to be preplanned.
+
+Regarding its other AI efforts, Tesla said it plans to reach 400 MW of AI training compute by the end of the year. Tesla said its active FSD (full self-driving) subscriptions climbed to 1.74 million.
+
+"The biggest driver of demand is full self-driving," Musk said regarding vehicle sales.
+
+"The Cybercab fleet in Austin has grown by a factor of 10," Musk added while discussing Tesla's robotaxi fleet. He added, "I don't think there's any company in the world that can match our scale with autonomous vehicles."
+
+Musk also stirred the pot recently with comments about a possible tie-up with SpaceX, his other company.
+
+"I think both SpaceX and Tesla have formed special committees to discuss this idea," Musk said during SpaceX's earnings call Tuesday night. "At the request of shareholders, and these special committees consist of independent directors. And because I'm a conflicted party, I can't actually be in the discussions of the special committees."
+
+He added, "I don't think we should necessarily assume that I think some people out there assume that a SpaceX and Tesla merger is a certainty. And I think that would be overstating it. Do I think it would be a good idea? Yes."
+
+On the Tesla call, Musk briefly touched on it but added nothing new. "With regard to a potential merger with SpaceX, I think I said everything that should be said yesterday [Tuesday]," Musk said.
+
+Teslareported Q3 deliveries of 486,532, down 2% from a year ago but well ahead of the Bloomberg consensus of 463,000. Energy storage deployments came in at 13.7 GWh, up from 12.5 GWh a year ago and Q2's 13.5 GWh.
+
+Tesla began commercial Cybercab service in Austin on Sept. 3, but federal regulators have questions. The National Highway Traffic Safety Administration (NHTSA) issued Tesla a special order with 21 requests on how it self-certified the Cybercab, which has no steering wheel or pedals, as compliant with federal safety standards. Tesla asked for an extension to Nov. 20. NHTSA granted 30 days instead, making answers due Oct. 30.
+
+Tesla also finally revealed its long-delayed Roadster last Thursday at SpaceX's (SPCX) facility in Waco, Texas. The car used cold-gas thrusters to jump over several Teslas, including a Semi. Tesla said the Roadster hit 0-60 mph in 0.81 seconds in a test at the event, and Musk said production starts in 2028.
+
+Deepwater's Gene Munster called it an "engineering flex" with little commercial value, and Morningstar expects the Roadster to sell fewer than 2,000 units a year.

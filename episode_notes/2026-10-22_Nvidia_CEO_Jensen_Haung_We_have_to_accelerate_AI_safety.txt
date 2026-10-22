@@ -1,0 +1,33 @@
+Nvidia CEO Jensen Haung: ‘We have to accelerate AI safety’
+
+2026-10-22
+
+Por Daniel Howley
+
+https://finance.yahoo.com/technology/article/nvidia-ceo-jensen-huang-we-have-to-accelerate-ai-safety-124206653.html
+
+Nvidia (NVDA) CEO Jensen Huang says the AI industry needs to focus on safety following this summer's revelations that AI agents from leading labs broke free of containment and hacked into websites, including Hugging Face.
+
+"It shouldn't have happened. Doesn't need to happen," Huang told Deirdre Bosa at Nvidia's GTC Berlin conference.
+
+During his keynote on Wednesday, Huang revealed Nvidia's OpenShell Reference Architecture, which the company said will allow customers to build, contain, and observe AI agents. If an agent attempts to go rogue, Nvidia said the system can intervene and stop it.
+
+"Hugging Face developed an exercise, a simulator, and they came to the conclusion: If OpenShell existed, their website wouldn't have been attacked that way," Huang said.
+
+"We have to accelerate AI safety, and safety technology and capability to me is one and the same … As much as it is capable, you want it to be safe. The two of them are really one and the same. And so in the future, as we develop these AI capabilities, safety will come along with it," he added.
+
+Part of that effort, the CEO said, comes down to establishing a zero-trust system around AI agents. Zero trust is a framework for protecting connected systems by limiting their exposure to other platforms and requiring people and platforms to regularly verify their identities.
+
+Doing so, the thinking goes, reduces exposure to hacking and other cyberattacks.
+
+"These agents are autonomous systems, and when you have an autonomous system on your computer … you should first start with zero trust, and give it minimum privileges, minimum access, minimum use of tools," Huang explained.
+
+"Maybe they could access a file, but they can't delete the file. Maybe they can access the internet, but they can't … send stuff out," he added. "And so there are a lot of different things you could specify. Those practices about how to deploy agents and deploy autonomous systems [have] to be adopted across the board right away."
+
+According to Huang, Nvidia is working with more than 100 companies to develop features to manage AI agents using OpenShell.
+
+"We're working with all the labs and working with all the operating system companies. I think the [hacking incidents were] unfortunate, but I think that it's very much transformative for the industry," he added.
+
+Click here for the latest technology news that will impact the stock market
+
+Read the latest financial and business news from Yahoo Finance
