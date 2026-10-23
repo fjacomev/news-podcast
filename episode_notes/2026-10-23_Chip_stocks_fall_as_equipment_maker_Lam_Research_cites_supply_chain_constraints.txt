@@ -1,0 +1,25 @@
+Chip stocks fall as equipment maker Lam Research cites 'supply chain constraints'
+
+2026-10-23
+
+Por Ines Ferré
+
+https://finance.yahoo.com/markets/article/chip-stocks-fall-as-equipment-maker-lam-research-cites-supply-chain-constraints-130648719.html
+
+Semiconductor stocks fell on Thursday as a major equipment supplier cited supply chain constraints on its earnings call.
+
+The PHLX Semiconductor Index (SOXX) tumbled more than 6% amid investor concerns that such limitations could potentially hurt chip sales. AI chip heavyweight Nvidia (NVDA) and Qualcomm (QCOM) dropped more 42%, while Marvell (MRVL) and Intel (INTC) shares were down 9% and 7%, respectively.
+
+Shares of chip developer Broadcom (AVGO) also fell more than 4%. Despite reaching an all-time high earlier this year, the stock is now flat year to date.
+
+Meanwhile, memory and storage highfliers Micron Technology (MU) and Sandisk (SNDK) were also in red territory.
+
+Shares of the wafer equipment maker Lam Research (LRCX) fell as much as 11% after CFO Doug Bettinger said the quarterly revenue guidance of $8.6 billion "would have been a bit higher if not for some near-term supply chain constraints," which the company is actively managing.
+
+Other equipment makers Applied Materials (AMAT) and ASML (ASML) declined 7% and 6%, respectively.
+
+Semiconductor stocks have been volatile in recent sessions as concerns over AI funding have weighed on the sector. Semiconductor companies have been a key beneficiary of the artificial intelligence build-out.
+
+On Thursday, the overall stock market was set to open lower as oil prices surged, raising expectations that the Federal Reserve may have to keep tightening monetary policy this year.
+
+Ines Ferre is a senior business reporter for Yahoo Finance.
