@@ -1,0 +1,31 @@
+SK Hynix pulls a $150 billion IPO as its own record US listing sits underwater
+
+2026-10-25
+
+Por Jared Blikre
+
+https://finance.yahoo.com/markets/article/sk-hynix-pulls-a-150-billion-ipo-as-its-own-record-us-listing-sits-underwater-134006966.html
+
+In July, SK Hynix (SKHY) raised $26.5 billion in the biggest US listing ever by a foreign company. Now the company is walking away from one of the biggest tech IPOs ever.
+
+The South Korean memory giant said Friday it has shelved plans to list Solidigm, its flash memory unit, in the US, citing market conditions and share price trends. Solidigm had aimed to raise $10 billion to $15 billion at a valuation of up to $150 billion, according to industry estimates cited by the Wall Street Journal.
+
+For a clue to why, look at the company's own stock.
+
+SK Hynix priced its US shares at $149 in July. SK Hynix stock is rising on Friday but still trades below that price, about a third below the stock's September record.
+
+SK Hynix has plenty of company
+
+Memory and storage stocks have shed $1.3 trillion in market value from their 2026 records, according to Yahoo Finance calculations. SK Hynix accounts for about $489 billion of that, and Micron (MU) accounts for about $411 billion. Of the 59 chip stocks in a Yahoo Finance basket, 58 are down in October.
+
+That's a strange look for an industry printing money. Memory makers are booking record profits on AI data center demand, and executives see shortages lasting into 2028. The stocks are trading as if the peak is already in, after a $3 trillion chip rout this month.
+
+Solidigm isn't the only AI-linked deal getting pulled back. Australian data center operator Firmus Grid canceled its IPO, and AirTrunk delayed its Singapore listing to next year. OpenAI is now seeking a $1.25 trillion valuation in funding talks, down from $1.4 trillion. Anthropic's (ANTH.PVT) blockbuster IPO is expected next month.
+
+The next test for memory stocks comes on Thursday, when Sandisk (SNDK) reports after the close.
+
+For SK Hynix, watch $149. A move back above its IPO price would put July's buyers back in the black. Until then, it's a ceiling.
+
+Internal AI tools helped analyze interview transcripts, research, and draft this post. Humans reviewed, edited, and fact-checked this post before publication.
+
+Follow Jared Blikre on X @SPYJared or email him at jaredblikre@yahooinc.com.
