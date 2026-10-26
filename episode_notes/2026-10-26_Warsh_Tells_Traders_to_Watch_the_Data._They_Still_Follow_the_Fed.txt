@@ -1,0 +1,83 @@
+Warsh Tells Traders to Watch the Data. They Still Follow the Fed
+
+2026-10-26
+
+Por Enda Curran; Ye Xie; Victor Swezey
+
+https://finance.yahoo.com/economy/policy/articles/warsh-tells-traders-watch-data-150000451.html
+
+(Bloomberg) -- Early on Oct. 14, just hours before the release of a much-anticipated report on US inflation, TD Securities' Gennadiy Goldberg recommended that clients bet against a Federal Reserve interest-rate hike later in the month. The logic was that inflation would likely be benign enough to justify a hold. Equally important, a slew of Fed officials had spent days pushing back against expectations for an imminent move.
+
+Most Read from Bloomberg
+
+Then the data came in hot. Traders quickly ramped up bets on an October hike, at one point putting the odds at roughly 50-50, up from about 20% before the report — and Goldberg and his team began debating whether to abandon their brand-new trade. But almost as quickly as the market moved against them, it started swinging back. By the end of the day, most of that move had been erased. "We didn't even have a chance to take the trade off," said Goldberg, head of US interest-rate strategy.
+
+Several market cross-currents were at play that day to stoke the roundtrip, including a stock selloff, AI jitters and increasing tensions in France. For many, though, it came down to the stream of Fedspeak signaling a pause in October. The seemingly explicit language stood out at a time when Chairman Kevin Warsh has said he wants to wean markets off such "forward guidance."
+
+Caught in the middle, traders fell back on the familiar and took their cue from what policymakers were saying. But they also acknowledge that on its own, the inflation data might have spurred them to wager on an October hike. All of this leaves investors in a precarious position heading into this week's policy meeting, still somewhat guessing and prone to a jolt if their read of the situation turns out to be wrong.
+
+"There's a disconnect between what Warsh has said and what the others have signaled," said Neil Dutta, head of economics at Renaissance Macro Research. "When you have this sort of development or condition, there's always a risk that the market can get whipsawed at any given meeting."
+
+To be sure, recent market developments make the chance of such a whipsaw less likely. With AI shares continuing to slide and concerns starting to build around US growth prospects should the artificial intelligence boom falter, traders now have even less conviction that the Fed will raise rates next week — or even this year. Odds of an October move now stand at less than 15%, based on interest-rate swaps. But it was a different picture just a few weeks ago, when the series of speeches began.
+
+The backdrop was a brutal bond selloff that had sent US yields sharply higher. The Fed had raised rates in September for the first time in three years, and expectations were building for an October hike and possibly another in December, all in the name of cooling an inflation rate that has persistently run ahead of the central bank's target.
+
+Tamping the Brakes
+
+This was the vibe when, on Sept. 29, Federal Reserve Bank of New York President John Williams said one more interest-rate hike "late this year" may be appropriate. That speech prompted traders to ratchet back the probability of an October hike slump to about 50% from 70%, based on federal funds futures contracts.
+
+Williams was followed two days later on Oct. 1 by Vice Chair Philip Jefferson, who suggested policymakers should take more time before deciding whether additional hikes are needed, views that sent market bets tumbling further toward 25%. A speech by Governor Christopher Waller on Oct. 8 that said officials don't need to tighten at consecutive meetings was enough to cement the outlook.
+
+"I think they were looking at the bond market and saying, 'Whoa, they're pricing in a lot more aggressive rate hikes than we are expecting,'" said Nationwide Chief Economist Kathy Bostjancic, referring to the Fed speakers. "So I think that unnerved them and they said 'Well, let's just slow things down.'"
+
+By the time the inflation data came out showing the fastest growth in five months, investors already had their minds made up for them, with most anticipating a hold on rates. Bostjancic says the odds for a hike should be closer to 50-50, and others have even stronger views.
+
+"The data is consistent with a hike," said Ed Al-Hussainy, portfolio manager at Columbia Threadneedle. "The only thing that is standing between a hike and a hold is this Fed language."
+
+Warsh himself used an appearance in Bangkok on Oct. 16 to emphasize he isn't pre-judging the outcome of any meeting. "I don't believe in saying now what I might do at the meetings that we have in the balance in this year," he said in a moderated discussion at the International Monetary Fund's annual meetings. "It's a new chapter at the Fed, and we're not in that business anymore."
+
+Even so, traders focused on the fact that the Fed chairman did nothing to dispel market expectations for no move next week — even after the inflation data — other than reiterate a commitment to deliver "price stability."
+
+Big Picture
+
+Matthew Luzzetti, chief US economist at Deutsche Bank AG said the Fed speeches before the inflation data were an example of traditional Fed communications during a period when officials feel there's a disconnect between market pricing and what policymakers are anticipating. Without it, the market might be even more volatile.
+
+"You can actually still fit it within the framework that Chair Wash has outlined and other officials have outlined, which is that 'We're not data-point dependent, what we are is looking at the trends in the data,'" Luzzetti said, who expects additional rate hikes in the months ahead.
+
+As for those trends — and critically for policymakers — inflation expectations remain anchored, which signals households and businesses remain confident that the central bank will curb prices in the months ahead.
+
+There is support for Warsh's views on trimming forward guidance both from fellow central bankers and private sector economists who say it can paint policymakers into a corner. There's a case, too, for refreshing how the central bank communicates its policy outlook to businesses and households.
+
+This time around, officials seemed to have felt signaling was necessary. But it's left investors confused by the inconsistent messaging: Either there is forward guidance or there isn't.
+
+"The market needs to know the rules, and right now we don't," said Jamie Patton, co-head of global rates at the TCW Group.
+
+What to Watch
+
+Economic data:
+
+-       Oct. 26: Chicago Fed national activity index; Dallas Fed manufacturing activity
+
+-       Oct. 27: ADP weekly employment change; durable goods orders; FHFA House Price Index; S&P Cotality CS 20-City Index; Conference Board consumer confidence index; Richmond Fed manufacturing index and business conditions; new home sales; Dallas Fed services activity; building permits
+
+-       Oct. 28: MBA mortgage applications; advance goods trade balance; retail inventories; wholesale inventories;
+
+-       Oct. 29: Personal income and spending; PCE price index; initial jobless claims; GDP; personal consumption
+
+-       Oct. 30: Employment Cost Index; MNI Chicago PMI
+
+Fed calendar:
+
+Auction calendar:
+
+-       Oct. 26: 13-, 26-week bills; 2-year notes
+
+-       Oct. 27: 6-, 52-week bills; 5-year notes
+
+-       Oct. 28: 17-week bills; 2-year floating rate notes
+
+-       Oct. 29: 4-, 8-week bills; 7-year notes
+
+Most Read from Bloomberg Businessweek
+
+2026 Bloomberg L.P.

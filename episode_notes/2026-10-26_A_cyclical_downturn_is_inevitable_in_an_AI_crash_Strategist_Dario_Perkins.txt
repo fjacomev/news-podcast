@@ -1,0 +1,31 @@
+'A cyclical downturn is inevitable' in an AI crash: Strategist Dario Perkins
+
+2026-10-26
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/markets/article/a-cyclical-downturn-is-inevitable-in-an-ai-crash-strategist-dario-perkins-170539090.html
+
+If the weakness in tech stocks continues to gain steam, it could end up being really ugly for investors, given how aggressively they have gone into tech stocks in recent years.
+
+That's the warning in a new paper making the rounds on Friday from TS Lombard strategist Dario Perkins titled "Wargaming the AI Crash."
+
+"The reality, of course, is that it is hard to identify the exact trigger for an AI crash. But we can model the fallout. In terms of financial markets, the impact is likely to be sizable. US stocks would be hit hard, with (at least) a 30% decline. That would wipe out around $20 trillion in market cap," Perkins said. Across debt markets and private credits, he estimated "$125–200 billion in losses. Spreads would blow out, and we should expect a wave of tech-related defaults."
+
+"The weakest players in the AI ecosystem — the neoclouds, Oracle, standalone model developers and construction/equipment suppliers — would face acute distress," he added. "The hyperscalers would suffer serious revenue downgrades; and even the promise of lower capital spending (the return of free cash flow) would offer scant consolation. The traditional banking sector would not be immune."
+
+In terms of how this would affect the US economy on a broader level, Perkins said, "A cyclical downturn is inevitable. Capital spending would plunge and confidence evaporate. There would be sizeable job losses in the construction sector. But as far as recessions go, we don't think this one would be particularly severe (at the milder end of historical norms). Not only is the macro footprint of the AI boom smaller than people think, but there is plenty of room for the Fed to cut rates. Ultimately, this policy response would be successful, especially for the bottom of America's K-shaped economy."
+
+The backdrop for tech stocks has become increasingly fraught as October has played out.
+
+Concerns began earlier this month with neocloud company CoreWeave (CRWV).
+
+The company's corporate bonds across maturities continued to be dumped amid fears of an AI slowdown and its implications for the company's precarious balance sheet. That has triggered a subsequent sharp sell-off in the stock.
+
+CoreWeave stock has been crushed in October to the tune of 35%.
+
+Meta (META) then dropped a bombshell in its third quarter results this week, posting negative free cash flow for the first time since 2012 amid aggressive spending on AI.
+
+The company said it would issue a new tranche of stock to help fuel its AI build-out.
+
+Tesla (TSLA) also slashed its capital expenditures plan for the year by $5 billion to $20 billion.
