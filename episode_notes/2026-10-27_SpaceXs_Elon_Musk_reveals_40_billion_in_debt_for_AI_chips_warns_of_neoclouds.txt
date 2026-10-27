@@ -1,0 +1,35 @@
+SpaceX's Elon Musk reveals $40 billion in debt for AI chips, warns of neoclouds
+
+2026-10-27
+
+Por Ines Ferré
+
+https://finance.yahoo.com/markets/stocks/article/spacexs-elon-musk-reveals-40-billion-in-debt-for-ai-chips-warns-of-neoclouds-122318683.html
+
+SpaceX (SPCX) CEO Elon Musk said his company closed on $40 billion in financing to pay for specialized chips used to power AI, but warned that access to debt is drying up for companies that solely rely on data center revenue.
+
+"As of the past few weeks, debt markets have almost entirely shut off access to money for any company that doesn't have substantial revenue independent of AI data centers," wrote Musk on X on Sunday.
+
+Musk went on to say that SpaceX (SPCX) closed $40 billion in debt for Nvidia's (NVDA) GPUS, or graphics processing units, used for AI, but highlighted that the space company is "investment-grade" and has Starlink & rocket launch revenue.
+
+In a follow-up post, Musk noted this "is primarily callable debt for GPU purchases that will arrive in Q1 and Q2. Not a major factor this quarter."
+
+Musk's comments reignited concerns about the rising cost of capital and the business models of so-called neoclouds, which rent computing power to train and run AI models.
+
+The debt disclosure comes on the heels of SpaceX's better-than-expected quarter.
+
+The company's AI segment brought in $7.6 billion in the third quarter, more than Starlink and the rocket business combined, and more than half of SpaceX's $14.6 billion in total revenue.
+
+Musk also took a shot at neoclouds, companies that rent out computing power and AI chips, saying they are "going to see guppy-level death and consolidation."
+
+"Some will make it through, but not many," said Musk.
+
+The comments following a viral chart earlier this month highlighted neocloud provider CoreWeave's (CRWV) spiking bond yields, underscoring concerns about the company's debt-heavy balance sheet.
+
+Shares of CoreWeave recovered during Monday's session after opening in red territory. The stock has tumbled more than 30% over the past month.
+
+Ines Ferre is a senior business reporter for Yahoo Finance.
+
+Click here for the latest technology news that will impact the stock market
+
+Read the latest financial and business news from Yahoo Finance

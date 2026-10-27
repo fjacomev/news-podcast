@@ -1,0 +1,35 @@
+CoreWeave, AI landlord stocks sink to lowest levels in more than a year as the price of insuring CoreWeave's debt doubles
+
+2026-10-27
+
+Por Jared Blikre
+
+https://finance.yahoo.com/markets/article/coreweave-ai-landlord-stocks-sink-to-lowest-levels-in-more-than-a-year-as-the-price-of-insuring-coreweaves-debt-doubles-140909005.html
+
+CoreWeave, AI landlord stocks sink to lowest levels in more than a year as the price of insuring CoreWeave's debt doubles
+
+Wall Street is still paying up for the companies that buy AI computing power. It's dumping the ones that borrowed billions to rent it out.
+
+Think of the neoclouds as AI's landlords. They take on heavy debt to buy Nvidia (NVDA) chips, then rent out the computing power to companies building AI. That works fine while money is cheap and tenants keep signing leases. It gets dicey when lenders start asking questions.
+
+They're asking now. A Yahoo Finance basket of eight neoclouds has lost more than 40% since late July. Microsoft (MSFT), one of the biggest renters of AI computing power, has gained nearly as much.
+
+CoreWeave (CRWV), the biggest of the group, closed Friday at its lowest since May 2025, then slid to about $51 early Monday before buyers stepped in. IREN (IREN), Core Scientific (CORZ), and Cipher Mining (CIFR) closed Friday at their lowest in more than a year, and Galaxy Digital (GLXY) hit a record low for its US listing.
+
+The bond market is sending the same message
+
+Investors can buy insurance against a company defaulting on its debt, called a credit default swap. For CoreWeave, that insurance now costs more than twice as much as it did in early June, according to Bloomberg data.
+
+At today's price, the market is effectively betting on better-than-even odds that CoreWeave defaults within five years, by Yahoo Finance calculations. That's double the odds of a year ago. It's a price with plenty of fear baked in, not a forecast.
+
+Last week, CoreWeave flirted with a bear trap — a dip that snaps back and burns traders betting on more losses. The bounce didn't stick, and the cost of insuring its debt kept climbing.
+
+Nebius (NBIS) is the exception. It's at its lowest only since July and still up big this year. It carries less debt than CoreWeave, and investors are sorting the group by balance sheet.
+
+The money hasn't dried up — it's gotten picky
+
+Elon Musk put it bluntly Sunday on X: Lenders have "almost entirely shut off access to money" for companies that depend on AI data centers for their revenue. SpaceX (SPCX), with its Starlink and launch businesses behind it, just borrowed $40 billion for AI chips.
+
+Musk isn't a neutral observer. SpaceX (SPCX), which absorbed his AI startup xAI in February, now rents out its own data centers to AI developers, including Anthropic and Google. Every neocloud that can't raise money is one less rival for those customers. And in a shakeout, the buyer with the strongest balance sheet usually gets the best deals.
+
+Wall Street's big money managers see the same divergence. In a BofA Global Research survey, fund managers who buy convertible bonds (a stock-and-debt hybrid that AI companies have used to raise cash) named an AI bubble as their top near-term worry. They're crowding into the safest borrowers, even though most don't expect AI spending to slow for at least another year.

@@ -1,0 +1,25 @@
+Anthropic IPO: SpaceX stands to make out big from AI lab's compute spending
+
+2026-10-27
+
+Por Pras Subramanian
+
+https://finance.yahoo.com/markets/stocks/article/anthropic-ipo-spacex-stands-to-make-out-big-from-ai-labs-compute-spending-184620862.html
+
+One company that's going to benefit big time from Anthropic's (ANTH.PVT) growth over the coming years: SpaceX (SPCX).
+
+In its IPO prospectus filed on Monday, Anthropic outlined how much it could spend with SpaceX over the coming years after entering into several agreements with SpaceXAI to access its NVIDIA (NVDA) GPUs for compute.
+
+"Under the SpaceXAI Arrangements, we agreed to spend an aggregate of up to $120.5 billion over terms extending into 2029, consisting of approximately $3.1 billion in the aggregate per month once all capacity has been delivered, which we expect in December 2026, with different fees during capacity ramping periods," the company said.
+
+While it was known that SpaceX and Anthropic had contracted for a billion dollar+ per month compute deal, it was not known how long the deal would last or the possible total outlay. A 90-day advance notice for cancellation was also disclosed.
+
+For SpaceX, it's another feather in its hat for its AI data center compute business, which is now shown to be durable. SpaceX CFO Bret Johnsen discussed growth in the company's SI business ventures during its Q3 earnings call.
+
+"There are many customers asking for compute, and we're actively building the supply to meet both internal and external demand. We expect to have additional new customers in future deals and will continuously evaluate the highest-margin usage for our compute assets across both new and existing cloud service agreements, including serving inference for our own SI products. What we're seeing in the market is extraordinary."
+
+Johnsen added that at current pricing, new compute deployments are generating a payback of less than a year, with pricing "currently tracking slightly above the high end of the 30 to $50 per watt range." Johnsen had previously said he expects SpaceX to hit an annual recurring revenue figure (ARR) of $100 billion by year-end.
+
+Not to be outdone, CEO Elon Musk said he sees SpaceX's ARR hitting between $500 billion and $1 trillion by the end of 2027. Musk is spending heavily too, with SpaceX confirming a new $40 billion deal for Nvidia chips, leased from Apollo Global. (Disclosure: Yahoo is a portfolio company of funds managed by affiliates of Apollo Global Management.)
+
+Musk also sees SpaceX as a competitor with a substantial advantage over smaller "neocloud" providers, owing to its credit rating and ancillary revenue streams such as Starlink and launches. The SpaceX CEO sees debt markets all but closed to the smaller AI data center players.

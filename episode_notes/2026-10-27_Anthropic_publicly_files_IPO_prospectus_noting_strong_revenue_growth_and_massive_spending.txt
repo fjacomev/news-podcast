@@ -1,0 +1,33 @@
+Anthropic publicly files IPO prospectus, noting strong revenue growth and massive spending
+
+2026-10-27
+
+Por Daniel Howley
+
+https://finance.yahoo.com/technology/article/anthropic-publicly-files-ipo-prospectus-noting-strong-revenue-growth-and-massive-spending-131807138.html
+
+Anthropic (ANTH.PVT) has publicly filed its S-1 investment prospectus with the Securities and Exchange Commission, giving investors a look at the company's most important financial information ahead of its initial public offering.
+
+The company, which will trade under the ticker symbol ANT, said it generated $16.3 billion in revenue in the six-month period that ended in June, more than the $4.6 billion the company saw in all of 2025.
+
+But the company also spent $9 billion on AI infrastructure in the first six months of the year, ahead of the $7.3 billion it spent throughout 2025.
+
+Roughly one-fifth of Anthropic's revenue came from two customers. The remainder came from a small handful of clients.
+
+According to the S-1, Anthropic saw a net loss of $80.7 billion through June, though the vast majority of that was the result of accounting charges.
+
+The company lost $42 billion in 2025.
+
+The AI giant also plans to spend upward of $430 billion on locked-in cloud computing deals with companies including Amazon and Google, major Anthropic investors, and others in the years ahead. Toss in cancellable and smaller deals, the total reaches as much as $637 billion.
+
+The company's market debut will test investors' appetite for a second public listing by a firm with an already massive valuation. SpaceX (SPCX) went public on June 12 at $150 per share and ended the day 20% higher.
+
+Helmed by CEO Dario Amodei, who co-founded the company with his sister Daniela, the company's president, Anthropic established a strong foothold in the enterprise market with its Claude chatbot, the popular AI coding tool Claude Code, and Claude Cowork.
+
+But the S-1 also reveals Anthropic's fears that models may develop capabilities the company doesn't anticipate.
+
+The filing lays out a host of potentially damaging scenarios in which its AI models could cause real-world harm. Anthropic said that could limit the company's ability to cover any potential damages.
+
+In an early September essay, Amodei called on the AI industry to slow the development of frontier AI models over fears that they could become too powerful for humans to control. The piece, coupled with statements by former and current researchers at AI companies, sent shockwaves through the industry and raised concerns that the technology could "kill all humans."
+
+Experts dispute those claims, saying that the risks surrounding AI stem from basic cybersecurity protections and from preventing people and governments from using it for things like identity theft, discrimination, and labor displacement.

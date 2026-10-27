@@ -1,0 +1,31 @@
+Anthropic is leasing data centers to reduce reliance on Amazon, Google, others
+
+2026-10-27
+
+Por Daniel Howley
+
+https://finance.yahoo.com/technology/article/anthropic-is-leasing-data-centers-to-reduce-reliance-on-amazon-google-others-173843933.html
+
+Anthropic (ANTH.PVT) says it is increasingly leaning into leasing AI data centers to power its vast computing needs.
+
+The company calls the initiative Anthropic Direct and says that it helps address its compute requirements beyond simply leasing capacity from cloud service providers such as Amazon (AMZN) and Google (GOOG, GOOGL), according to Anthropic's S-1 investor prospectus, which it made public Monday.
+
+"As our compute requirements have scaled, we have transitioned to a hybrid model in which, in addition to purchasing compute as a cloud service, we also procure specialized AI accelerators directly and operate this hardware in dedicated data center facilities leased and operated on our behalf, to our specification," the company says.
+
+The move could also provide long-term economic advantages, according to Anthropic.
+
+In November 2025, the company announced a $50 billion investment that will see Fluidstack build data centers in Texas and New York through which Anthropic will lease computing capacity. The company says it is also directly leasing data center capacity and plans to sign additional agreements going forward.
+
+The moves make Anthropic a major player in the data center space, but also come at a time when the facilities continue to draw backlash from communities across the country over concerns about air and noise pollution and water usage.
+
+Towns and counties throughout the US have issued moratoriums or outright bans on developing data centers in their regions. New York has issued a one-year, statewide moratorium, while Texas has halted data center permitting until it can determine the impact the power-hungry sites will have on its grid.
+
+Key risk factor
+
+Anthropic lists the threat of further moratoriums on data centers as a key risk factor for the company in its prospectus.
+
+"Opposition to data center development has also become more organized and coordinated across jurisdictions, and our public profile may draw particular attention to projects associated with us," the company wrote in its S-1.
+
+"The loss of, or a significant disruption at, any major facility may not be readily absorbed by our remaining or future infrastructure. We are expanding our data center capacity internationally as part of our efforts to diversify our infrastructure footprint and reduce concentration risks associated with operating a significant portion of our compute infrastructure in the United States and to support our international growth strategy," Anthropic added.
+
+Data centers have also become a key topic in the 2027 midterms, with voters on both sides of the aisle expressing disapproval.
