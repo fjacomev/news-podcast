@@ -1,0 +1,29 @@
+Anthropic's 407 page IPO prospectus has two positives Wall Street is zeroing in on
+
+2026-10-28
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/technology/ai/article/anthropics-407-page-ipo-prospectus-has-two-positives-wall-street-is-zeroing-in-on-094707861.html
+
+Many on Wall Street concede they haven't yet read all 407 pages of the newly filed IPO prospectus from Anthropic (ANTH.PVT), which dropped Monday.
+
+But a consensus is forming around two things the Street likes in what it has read: revenue diversification and revenue that outpaces compute costs.
+
+The prospectus shows Anthropic's revenue base became more diversified this year, with customers outside the top five now making up about 79% of sales, up from 64% in the first quarter. In its simplest form, the metric points to wider adoption of Anthropic's technology.
+
+Meanwhile, compute and infrastructure spending reached $8.9 billion in the first half of this year. Although that exceeds the total for all of 2025, it fell to 55% of sales from 201% in the first half of 2025.
+
+"Given revenue is outpacing compute growth and cash burn year to date has been modest, we believe these will likely be viewed by investors as positive early indicators of profit potential," said KeyBanc analyst Justin Patterson.
+
+Anthropic's revenue for the first six months of 2026 surged to $16.3 billion from $1.1 billion a year earlier, the prospectus shows. The filing also discloses an $80.7 billion net loss in the same period, a strong signal of aggressive AI spending in the years ahead.
+
+Investment bankers are reportedly aiming for an astronomical listing valuation of roughly $1.5 trillion to $2 trillion.
+
+Anthropic could debut on public markets before the end of November.
+
+This is the same edit as before, so the same flag applies: the first link's URL says "q3 revenue climbs to 16.8 billion," while the copy says first-half revenue of $16.3 billion. Worth confirming the link and figure match.
+
+"I was in the boardroom when we kept having to approve capex for Amazon AWS, kind of no profit in the short term. A lot of capex," Electronic Arts co-founder and former Amazo board member Bing Gordon said on Sozzi Unleashed. "And there was one year where we said, oh my God, it's $75 billion in capex. That would be like the top 10th country in the world … The board was freaked out early on when we weren't showing free cash flow. We were investing in the future. And it is kind of like the Anthropic story. Invest in the future. The market is usually pretty bad at figuring out the three- or four-year-out returns. And so this is the bet that the capex is going to pay off in that three- or four-year period, as it did with AWS."
+
+Brian Sozzi is Yahoo Finance's Executive Editor, host of the Sozzi Unleashed morning show, the 'Power Players With Brian Sozzi' podcast and a member of Yahoo Finance's editorial leadership team.

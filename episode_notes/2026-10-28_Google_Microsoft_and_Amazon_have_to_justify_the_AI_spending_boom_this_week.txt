@@ -1,0 +1,29 @@
+Google, Microsoft, and Amazon have to justify the AI spending boom this week
+
+2026-10-28
+
+Por Hamza Shaban
+
+https://finance.yahoo.com/technology/article/google-microsoft-and-amazon-have-to-justify-the-ai-spending-boom-this-week-100000898.html
+
+Google (GOOG, GOOGL), Microsoft (MSFT), and Amazon (AMZN) have one big, collective task on their digital shoulders this week as they report their quarterly earnings: They need to justify the AI spending boom.
+
+The stakes are high — these companies lead a week of corporate results that account for more than a third of the S&P 500's (^GSPC) earnings
+
+Like Meta (META) before them, the biggest question they'll face is likely about AI spending. Specifically, what that number is and how it compares to the expected returns.
+
+"All eyes will be on AI monetization vs. spending, with hyperscalers' 2027 capex estimates already revised up by nearly 90% YTD," Bank of America strategist Savita Subramanian wrote in a note on Tuesday.
+
+Tech execs having to justify their huge AI spending has been a feature of earnings reports for the past two years. Skeptical investors are eager to see returns on investment, and Wall Street has been rattled by cycles of doubt. But conditions in the economy and the investing environments have changed, heightening the urgency to show results.
+
+The recent tech sell-off has thrown AI financing into the spotlight. Companies leading the data center build-out have flagged. And investors have expressed mixed feelings about tech giants like Meta selling shares and borrowing to finance their AI ambitions.
+
+The massive demand for financing has increased the competition for capital. That has put pressure on tech companies to preemptively raise enormous sums of money, especially as Wall Street prepares to shepherd the blockbuster IPOs of two frontier AI labs — Anthropic (ANTH.PVT) as soon as next month and OpenAI (OPAI.PVT) likely next year.
+
+AI business dynamics are also changing. The era of tokenmaxxing is officially over. Businesses are becoming pickier and choosier with their AI spending — scaling back, using less expensive models, and experimenting with different services. The slowdown in token spending among corporations suggests the lavish appetite for compute only existed when it was effectively free. And so, if the demand for compute isn't infinite and is actually price-sensitive, that means justifying AI costs will be more important.
+
+Lastly, Meta's Muse and the early success of personal assistant AI agents have scrambled product priorities. Meta has reoriented the entire company around the division behind Muse and envisions its operations becoming a massive service network and revenue engine. The cash might not come now or even soon, but it will flow, the bull thesis goes.
+
+Zuckerberg might have a mixed record, but his company is behind him. And he had the benefit of moving first. The other tech giants this week will have to come up with answers too.
+
+Follow Hamza Shaban on X @hshaban.

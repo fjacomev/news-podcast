@@ -1,0 +1,33 @@
+Oracle, in effort to reduce reliance on Nvidia, adds AI chips from Google, Cerebras, and SambaNova
+
+2026-10-28
+
+Por Daniel Howley
+
+https://finance.yahoo.com/technology/article/oracle-in-effort-to-reduce-reliance-on-nvidia-adds-ai-chips-from-google-cerebras-and-sambanova-160000593.html
+
+Oracle (ORCL) is diversifying its AI cloud infrastructure, signing deals to bring chips from Google (GOOG, GOOGL), Cerebras (CBRS), and SambaNova (SANS.PVT) onto its networks as it looks to diversify beyond Nvidia's processors.
+
+The move marks the first time Google is selling its Tensor Processing Units (TPUs) for use within a third-party hyperscaler's data center rather than simply renting capacity to companies.
+
+Cerebras's massive chips will provide AI inference capacity and AI agent processing power, while SambaNova's SN50 processor will handle agentic inference.
+
+Oracle said its decision to bring on Google, Cerebras, and SambaNova's processors provides its customers with the right infrastructure for their particular needs.
+
+Companies are increasingly working to reduce their dependence on Nvidia's AI chips to avoid being locked into a single supplier and to help contain costs.
+
+Google, Amazon (AMZN), Microsoft (MSFT), Meta (META), OpenAI (OPAI.PVT), and Anthropic (ANTH.PVT) either currently have or are developing their own custom AI chips. Like Google, Amazon is looking to offer its chips to third-party data center companies.
+
+In June, Amazon's head of AI, Peter DeSantis, told Bloomberg that the company was in early discussions to begin selling its chips to outside data centers.
+
+Nvidia has previously said it generates roughly half of its revenue from hyperscalers, making Google's move and Amazon's potential efforts of particular concern for the company.
+
+But that doesn't mean Nvidia is in any immediate trouble. While the company's customers are clearly moving in on its home turf, they're still spending billions to buy up Nvidia's own chips.
+
+Case in point: In addition to bringing on Google, Cerebras, and SambaNova's chips, Oracle said it is bringing Nvidia's Vera Rubin NVL72 superclusters and Vera CPUs to its Oracle Cloud Infrastructure (OCI).
+
+In addition to Oracle's chip updates, the company said it's partnering with OpenAI on its Oracle AI Workspace. The platform allows users to access Oracle's tools via ChatGPT, letting them describe a task they want to accomplish and have the AI get to work.
+
+The team-up also includes a new initiative called Oracle AI Security Mesh, which lets companies access OpenAI's cyber models to scan their software for flaws and vulnerabilities within OCI, fix them, and deploy them.
+
+Correction: This is the first time Google is selling its chips for use in a third-party hyperscaler's data center. A prior version of this did not indicate that the chips have been sold to other data center operators.

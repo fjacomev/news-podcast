@@ -1,0 +1,43 @@
+AMD To Invest $1B In Meta Stock Offering As AI Partnership Expands — Helios Systems Now Running At Meta
+
+2026-10-28
+
+Por StockTwits Inc; Harshita Tyagi
+
+https://stocktwits.com/news-articles/markets/equity/amd-to-invest-1-b-in-meta-stock-offering-as-ai-partnership-expands-helios-systems-now-running-at-meta/cZUeasFRBCK
+
+Advertisement|Remove ads.
+
+AMD also announced that its Helios computing systems are running at Meta, while its EPYC processors power Meta's Muse AI agent. The chipmaker said its technology also supports Meta's Muse Spark Open and Muse Glimmer models.
+
+As of this writing, AMD stock was up over 3%, while META stock was down over 1%.
+
+AMD said initial Helios systems have been installed and are being tested by Meta ahead of a broader deployment.
+
+Meta has deployed millions of EPYC processors across multiple generations, while AMD Instinct graphics processing units (GPUs) are already being used in production for AI training, ranking and recommendation systems, the company informed.
+
+The developments build on a February agreement under which Meta plans to deploy up to 6 gigawatts of AMD GPUs across multiple generations. "With Helios now running at Meta, we are taking that partnership to a new scale in the superintelligence era," said CEO Lisa Su.
+
+Meanwhile, Mark Zuckerberg said, “We're making big investments in the computing power that will enable us to bring personal superintelligence to everyone, and AMD plays an important role in that.”
+
+The announcement follows Meta's decision to increase its Class A common-stock offering to $25 billion from $22.5 billion, priced at $625 per share. According to a Bloomberg report, the share sale attracted demand for about five times the available shares as the company seeks to raise $98 billion for its AI spending.
+
+The company also priced an offering of 250 million depositary shares representing mandatory convertible preferred stock at $50 each, bringing the two offerings to approximately $37.5 billion.
+
+Separately, Meta plans to establish an additional share-sale program of up to $60 billion, expected to begin in the first quarter of 2027. That program has not yet launched.
+
+The fundraising forms part of Meta's strategy to finance its AI infrastructure investments, with the company forecasting capital expenditures of $135 billion to $145 billion in 2026.
+
+Nvidia (NVDA) on Monday announced plans to invest $3 billion in Meta's equity offering as the companies expand their collaboration on Muse and its family of AI models.
+
+The chipmaker said the partnership will focus on improving the performance and efficiency of Meta's AI models, while Meta intends to expand its deployment of Nvidia's computing and networking infrastructure.
+
+Meta had previously identified Nvidia, AMD and Broadcom (AVGO) as prospective investors interested in purchasing up to $5 billion of its Class A shares collectively, while noting those indications were nonbinding.
+
+On Stocktwits, retail investors' sentiment around Meta stock remained ‘bullish’ amid high message volume. Sentiment around AMD stock flipped to ‘bullish’ territory.
+
+So far this year, while Meta stock has fallen over 4%, AMD stock has surged more than 145%. By comparison, the Invesco NASDAQ 100 ETF (QQQM), which holds both stocks, has risen over 16% over this period.
+
+For updates and corrections, email newsroom[at]stocktwits[dot]com
+
+Comments posted here will also appear on symbol pages.

@@ -1,0 +1,37 @@
+Google to report Q3 results as investors focus on AI growth, weigh Meta Muse AI risk
+
+2026-10-28
+
+Por Daniel Howley
+
+https://finance.yahoo.com/technology/article/google-to-report-q3-results-as-investors-focus-on-ai-growth-weigh-meta-muse-ai-risk-191624324.html
+
+Google (GOOG, GOOGL) will report its third-quarter earnings after the bell on Wednesday, as Wall Street braces for a deluge of information about the health of the AI trade.
+
+Investors have been vacillating between concern and exuberance about the future of AI and whether hyperscalers' vast investments in the technology will pay off.
+
+Those fears came into focus last week, as traders dumped shares of CoreWeave over questions about its massive debt load, sending large swaths of the market lower.
+
+For the third quarter, analysts anticipate Google will report earnings per share of $3.01 on revenue of $127.8 billion. Revenue excluding traffic acquisition costs is expected to come in at $111.2 billion.
+
+Google's advertising segment is projected to see sales of $83.5 billion, while its cloud unit could see revenue jump 91% to $28.9 billion.
+
+Google stock rose 1% during premarket trading on Wednesday, ahead of its earnings release.
+
+The company could also book significant revenue on the sale of its custom Tensor Processing Units (TPUs) to third-party data centers. On Tuesday, Oracle announced that it will be the first company to purchase Google's AI processors for use in its own data centers.
+
+"Near-term, we think TPU sales-driven upside, a competitive agentic offering, and broader Gemini 4 launch could be catalysts," BofA Global Research analyst Justin Post wrote in an investor note.
+
+According to TD Cowen analyst John Blackledge, Google is expected to generate $9.4 billion in TPU sales in the second half of 2026. That, he wrote, could increase to $62.5 billion in 2027 and 138 billion in 2028.
+
+But Google is also facing increasing competition from Meta thanks to its new Muse AI agent. According to Meta CEO Mark Zuckerberg, 10 million people have set up Muse, with the majority of users accessing the app for shopping.
+
+If Muse continues to expand its user base and gain ground in online sales, it could prove to be a long-term threat to Google.
+
+"Search usage [and] growth is back in focus given Muse launch and challenges Google could face in migrating users to agentic while maintaining strong monetization," Post wrote.
+
+Email Daniel Howley at dhowley@yahoofinance.com. Follow him on X at @DanielHowley.
+
+Click here for the latest technology news that will impact the stock market
+
+Read the latest financial and business news from Yahoo Finance
