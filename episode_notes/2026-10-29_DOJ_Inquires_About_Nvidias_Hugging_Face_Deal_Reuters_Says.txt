@@ -1,0 +1,35 @@
+DOJ Inquires About Nvidia’s Hugging Face Deal, Reuters Says
+
+2026-10-29
+
+Por Nick Turner
+
+https://finance.yahoo.com/technology/ai/articles/doj-inquires-nvidia-hugging-face-193103860.html
+
+(Bloomberg) -- The US Justice Department is making inquiries about Nvidia Corp.'s agreement to acquire AI model company Hugging Face for about $13 billion, part of broader regulatory scrutiny of the chip giant, Reuters reported.
+
+Most Read from Bloomberg
+
+-       Apple's Foldable iPhone Duo Draws Early Complaints of the Screen Cracking
+
+-       Netanyahu Leads Eisenkot in Race to Form Israeli Government
+
+-       Anthropic Files for IPO in Global Race to Raise Cash for AI
+
+-       Finland and Norway Hold 'Frank' Call With Putin on Ukraine
+
+The department is exploring how the transaction may affect competition in the artificial intelligence market, the news agency said, citing unidentified people familiar with the situation. At the same time, the DOJ is continuing a yearslong probe into the chipmaker's conduct, Reuters said.
+
+Nvidia announced the Hugging Face deal in September, touting the purchase as a way to protect the open-source software community. Developers rely on the Hugging Face platform to share models and data that can be freely used by anyone. As part of the deal, Nvidia has vowed to keep the platform open.
+
+The Justice Department has inquired whether the acquisition will let Nvidia control a key distribution point for AI, according to Reuters.
+
+A representative for Nvidia declined to comment. Hugging Face didn't immediately respond to a request for comment.
+
+The Justice Department said it doesn't typically comment on matters before it under longstanding policy. "We can affirm that this DOJ under President Trump's leadership will continue to prioritize advancement of Super Intelligence for the betterment of the American people," the department said in a statement, using the administration's preferred term for AI.
+
+Nvidia, the world's most valuable company, has parlayed its dominance in AI chips into a role in other markets, including software, AI models and networking equipment.
+
+Bloomberg News reported last month that the DOJ was investigating whether Nvidia structured a $20 billion licensing agreement with AI chip startup Groq Inc. to avoid antitrust review. Though Groq remained an independent company after that deal, the startup's chief executive officer and operating chief moved to Nvidia as part of the transaction. Some US lawmakers later said the agreement was a takeover that stifled competition.
+
+More recently, Nvidia has been discussing a deal with startup Reflection AI, Bloomberg has reported. That startup, which is already backed by Nvidia, debuted an open-weight model earlier this month. With such software, developers release the model's parameters, or weights, allowing others to freely use and modify the technology.

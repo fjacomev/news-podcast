@@ -1,0 +1,27 @@
+Oracle stock soars as it promises the AI spending will start paying for itself
+
+2026-10-29
+
+Por Jared Blikre
+
+https://finance.yahoo.com/markets/article/oracle-stock-soars-as-it-promises-the-ai-spending-will-start-paying-for-itself-201056802.html
+
+For months, investors have asked how Oracle (ORCL) would pay for its AI build-out. On Wednesday the company put numbers on it, and the stock had its best day since May.
+
+Shares closed up about 11% at about $144 Wednesday, adding more than $40 billion in market value, as the company laid out new financial targets at its investor day. Even with the jump, the stock is still down about 25% this year.
+
+The stock barely moved for most of the session, hovering near $130 until about 2:20 p.m. ET. Within minutes, it was up 13% after Oracle's release crossed.
+
+Oracle said it expects about $30 billion in free cash flow, the cash left over after paying for data centers and other spending, in its fiscal year ending May 2029. It burned through about $24 billion in the fiscal year that ended this May. The company also said it would limit new fundraising, a mix of stock and debt, to $20 billion through May 2030, and that capital spending would start falling in fiscal 2029 after peaking.
+
+Oracle stuck with its goal of $225 billion in revenue in fiscal 2030. It also reaffirmed its outlook for the current fiscal year, including at least $90 billion in revenue.
+
+Investors this year have worried about how much debt Oracle and other AI cloud providers are taking on to build data centers, and the fundraising cap speaks directly to that. Before the investor day, Fidelity's Jurrien Timmer pointed out on X that credit worries were back, citing the rising cost of insuring Oracle and CoreWeave (CRWV) debt against default.
+
+"The bond market is regulating as it always does," wrote Timmer, Fidelity's director of global macro. He added that "a more disciplined allocation of capital today will prevent a bursting bubble tomorrow."
+
+Wednesday's gain was one of Oracle's biggest since September 2025. That month, the stock soared 36% in a single day, its best since 1992, after the company reported a surge in contracted AI cloud business. Shares then lost more than half their value from that record as investors questioned how Oracle would fund the build-out, bottoming near $115 in July.
+
+The rally spread to the companies that supply and run AI data centers. Vertiv (VRT), which makes power and cooling equipment, jumped about 16%. Memory makers SK Hynix (SKHY) and Sandisk (SNDK) rose 8% to 13%, and Micron (MU) gained about 6%. CoreWeave (CRWV) and Nebius (NBIS), which rent out AI computing power, each rose about 7%. Bloom Energy (BE) and Quanta Services (PWR) gained around 5%.
+
+The biggest AI names didn't join in. Nvidia (NVDA) and Meta (META) each fell about 1%, and Microsoft (MSFT) ended flat.
