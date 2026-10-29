@@ -1,0 +1,37 @@
+Intel tops Q3 earnings estimates, but falls short of Q4 outlook on sluggish PC sales as stock plunges 20%
+
+2026-10-29
+
+Por Daniel Howley
+
+https://finance.yahoo.com/technology/article/intel-tops-q3-earnings-estimates-but-falls-short-of-q4-outlook-on-sluggish-pc-sales-as-stock-plunges-20-200949548.html
+
+Intel tops Q3 earnings estimates, but falls short of Q4 outlook on sluggish PC sales as stock plunges 20%
+
+Intel (INTC) reported better-than-anticipated third-quarter earnings after the bell Thursday, but Q4 revenue outlook fell short of Wall Street's expectations on declining PC sales.
+
+Intel stock fell more than 20% on the news.
+
+In the fourth quarter, Intel is projecting revenue of $15 billion to $16 billion, well below the $17 billion analysts expected.
+
+Intel says the shortfall is a result of a worse-than-anticipated drop in PC revenue. The industry is contending with two overlapping factors at the moment: difficult comparisons to last year, when Microsoft ended support for Windows 10, forcing enterprises around the world to purchase newer Windows 11 systems, and the steady increase in PC prices, which is eating into demand.
+
+At the same time, a deadly explosion at an Intel plant in Israel, unrelated to the war, will limit Intel's ability to meet demand. The incident is expected to account for roughly $300 million of the Q4 revenue miss.
+
+For Q3, Intel saw adjusted earnings (EPS) of $0.52, ahead of EPS projections of $0.41. Revenue was in line with estimates of $16.5 billion and up 21% year over year.
+
+Intel's Intel Product segment, which includes sales of its data center and PC processors, came in at $15.4 billion versus an estimate of $15.5 billion. PC chip sales hit $8.1 billion, missing a target of $8.8 billion. Data center sales, however, helped buoy the segment, topping $7.3 billion in the quarter, up from a projected $6.6 billion.
+
+AI is driving strong demand for Intel's data center central processing units (CPUs). And that demand is continuing to increase as more AI agents come online.
+
+Intel's Foundry business, its chip manufacturing arm, generated $6.7 billion in Q3, ahead of Wall Street's $6.1 billion estimate and up 58% year over year.
+
+Intel's foundry business is reportedly beginning to sign big-name customers, with The Information reporting that Google (GOOG, GOOGL) placed an order with the company to produce 3 million of its custom Tensor Processing Units. Nvidia is also reportedly in talks with Intel to build its chips.
+
+According to Reuters, Intel is also in discussions with SK Hynix about a deal that could see the memory chip maker lease space at Intel's Ohio manufacturing facility.
+
+Email Daniel Howley at dhowley@yahoofinance.com. Follow him on X at @DanielHowley.
+
+Click here for the latest technology news that will impact the stock market
+
+Read the latest financial and business news from Yahoo Finance

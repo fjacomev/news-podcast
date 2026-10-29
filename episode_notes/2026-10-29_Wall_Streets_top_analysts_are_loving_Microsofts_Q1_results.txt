@@ -1,0 +1,31 @@
+Wall Street's top analysts are loving Microsoft's Q1 results
+
+2026-10-29
+
+Por Daniel Howley
+
+https://finance.yahoo.com/technology/article/wall-streets-top-analysts-are-loving-microsofts-q1-results-161837180.html
+
+Microsoft (MSFT) reported better-than-expected earnings after the bell Wednesday. And while the stock was off more than 1%, Wall Street analysts praised the company's performance.
+
+The cloud giant recorded earnings per share (EPS) of $4.89 on revenue of $92.28 billion. Analysts were projecting EPS of $4.73 on revenue of $90.63 billion, according to Bloomberg consensus estimates.
+
+The company saw EPS of $4.13 and revenue of $77.6 billion in the same period last year.
+
+Microsoft's Azure revenue was the star of the show, growing 48% year over year to $33.17 billion from $22.38 billion.
+
+"Microsoft reported strong fiscal first-quarter results and guided above expectations across the board, reinforcing our view that the AI thesis is playing out across both the infrastructure and application layers," William Blair's Jason Ader wrote in a note following Microsoft's report.
+
+TD Cowen analyst Derrick Wood offered a similar assessment of Microsoft's results, raising his fiscal 2027 Azure growth estimate from 43% to 48% and increasing the firm's price target on the stock to $650 from $625.
+
+Cantor's Thomas Blakey also pointed to Microsoft's Azure as a particular bright spot in the report, noting that the company delivered improved data center efficiencies that helped support cloud growth despite lower-than-anticipated capital expenditures.
+
+Blakey raised Cantor's price target on Microsoft's stock to $630 from $608.
+
+Patrick Walravens of Citizens increased the firm's price target on Microsoft to $625 from $550 following the company's results.
+
+In his investor note, Walravens explained that while Microsoft's consumer business revenue fell 3%, the company is "well-positioned with enterprises, where demand for Azure continues to exceed supply, and we continue to view the stock as an attractive opportunity for long-term capital appreciation for several reasons."
+
+At BofA Global Research, Tal Liani reaffirmed the firm's rating on Microsoft's stock, writing in his investor note Thursday, "In our view, MSFT's positioning across infrastructure, models and software continues to provide multiple paths to monetize AI demand. We fine-tune our estimates to reflect strong Azure momentum, reiterate our Buy and increase our PO to $630 from $600 prior."
+
+Email Daniel Howley at dhowley@yahoofinance.com. Follow him on X at @DanielHowley, or reach out to him on Signal or Telegram.
