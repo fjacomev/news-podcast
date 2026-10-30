@@ -1,0 +1,39 @@
+North Korean hackers likelinked to record-breaking $6.3 billion Binance crypto heist
+
+2026-10-30
+
+Por Ines Ferré
+
+https://finance.yahoo.com/markets/article/bitcoin-drops-to-76000-as-binance-hack-spooks-investors-tether-circle-freeze-assets-083406383.html
+
+Binance, the world's largest cryptocurrency exchange, was hit late Thursday by what investigators say is the biggest crypto hack in history, with $6.3 billion in funds impacted and roughly half of those assets frozen.
+
+Customer withdrawals have been temporarily suspended, and co-CEO Richard Teng promised the exchange will cover all losses.
+
+"We are committed to covering all hacked losses through our company funds. Your assets are safe," Teng said on social media.
+
+Binance said it has money set aside in a Secure Asset Fund for Users to handle extreme cases, such as security breaches.
+
+$6.3 billion Binance hack shakes crypto industry
+
+Here's what you need to know:
+
+Binance co-CEO Yi He said in a separate social media post Friday morning that customer withdrawals should resume within 48 hours.
+
+"We are rebuilding the withdrawal service, and we are not switching it back until it passes rigorous testing," noted Teng on Friday. "We are very hopeful that users will be able to withdraw prior to the Sunday deadline."
+
+Teng said the hack was not carried out by one person. Initial findings pointed to a compromised laptop, but further review revealed broader security breaches.
+
+"This was a complex attack," Teng said. "The attacker also used a self-destruct mechanism that destroyed tooling and tracers."
+
+The attack has rattled crypto markets and related stocks. Bitcoin (BTC-USD) tumbled 5% to hover below $77,000 on Friday.
+
+Other major crypto assets also tumbled after the hack, with ether (ETH-USD) dropping 4% to around $2,200. Binance's native token, BNB (BND-USD), also plunged by more than 6%.
+
+Crypto-related stocks traded lower, led by shares of Circle, trading platforms Coinbase (COIN) and Robinhood (HOOD), and digital-asset Treasury giant Strategy (MSTR).
+
+Binance said that about $3 billion in assets have been "frozen on-chain so far."
+
+The frozen assets include over $2 billion in stablecoins. Tether, the world's largest stablecoin issuer, "froze more than 1.567B" of its USDT stablecoin in relation to the hack," CEO Paolo Ardoino said on X. The second-largest issuer, Circle (CRCL), froze another $800 million "in coordination with law enforcement," CEO Jeremy Allaire said. World Liberty Financial, a cryptocurrency venture co-founded by President Trump and his sons, said it froze $27 million of its stablecoin, USD1, associated with the hack, according to CEO Zack Witkoff.
+
+Although details are still emerging, the hack is shaping up to be the largest crypto theft in history, far exceeding the previous record set in February 2025, when attackers stole $1.5 billion from the crypto derivatives exchange ByBit.

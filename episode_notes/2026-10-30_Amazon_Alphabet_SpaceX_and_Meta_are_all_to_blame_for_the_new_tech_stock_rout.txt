@@ -1,0 +1,37 @@
+Amazon, Alphabet, SpaceX, and Meta are all to blame for the new tech stock rout
+
+2026-10-30
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/markets/stocks/article/amazon-alphabet-spacex-and-meta-are-all-to-blame-for-the-new-tech-stock-rout-090324190.html
+
+Don't blame Intel's (INTC) weak guidance, tied to a prolonged memory chip supply shortage, for the fresh rout on tech stocks.
+
+Blame the hyperscalers like Amazon (AMZN), Alphabet (GOOG, GOOGL), and Meta (META) for not properly guiding Wall Street on how much they intend to spend this year and next on AI infrastructure. The bills are coming in much larger than expected, and Wall Street can't stomach it.
+
+That's why you aren't seeing many heroes out there saying buy the dip right now. That's why Friday is shaping up to be another bloodbath for tech stocks.
+
+Remember, it's cash flow that will be used to repay all the debt hyperscalers are poised to incur to support their robust AI infrastructure build-outs. The fact that cash flow is drying up due to a protracted period of spending is the bug that's causing the debt and stock markets to catch a cold.
+
+Kudos to Amazon for at least not burying its free cash flow metric — the most important metric for tech at the moment — at the bottom of its earnings release. It made it no less tough to stomach, but at least it was easy to find quickly.
+
+Amazon's free cash flow decreased to an outflow of $42.4 billion for the trailing 12 months, driven primarily by a year-over-year increase of $94.8 billion in purchases of property and equipment. This increase primarily reflects investments in artificial intelligence, Amazon said.
+
+This compares to a free cash flow inflow of $14.8 billion for the trailing 12 months ended Sept. 30 of last year.
+
+"We still expect 2026 cash capex of approximately $220 billion, the majority for AWS, and expect to spend meaningfully more in 2027," Amazon CEO Andy Jassy said on his earnings call.
+
+Amazon stock is down 7% in premarket trading today.
+
+On Wednesday evening, Google posted negative free cash flow of $9.1 billion in the quarter versus Wall Street's estimate for negative $3.5 billion.
+
+Thursday saw more than $500 billion in market value wiped off Google.
+
+Meta dropped a bombshell in its third quarter results last week, posting negative free cash flow for the first time since 2012. SpaceX (SPCX) burned about $9.9 billion in free cash flow in the quarter.
+
+Both stocks have continued to sell off post-earnings.
+
+Hyperscaler free cash flow is likely to stay negative, Evercore ISI strategist Julian Emanuel pointed out. The hyperscaler cohort of Meta, Amazon, Google, Microsoft, Oracle (ORCL), and SpaceX (SPCX) is now expected to be near $200 billion in losses over the next year, Emanuel's research shows.
+
+This is what the market is pricing in today. Painful, yes.
