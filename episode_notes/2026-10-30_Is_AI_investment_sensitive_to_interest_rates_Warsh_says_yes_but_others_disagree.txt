@@ -1,0 +1,31 @@
+Is AI investment sensitive to interest rates? Warsh says yes, but others disagree.
+
+2026-10-30
+
+Por Jennifer Schonberger
+
+https://finance.yahoo.com/economy/policy/article/is-ai-investment-sensitive-to-interest-rates-warsh-says-yes-but-others-disagree-162933738.html
+
+Federal Reserve Chairman Kevin Warsh said he disagrees with the view that Fed rate hikes will have no impact on investment in artificial intelligence, given strong demand for AI and the high returns investors expect.
+
+"I was skeptical of that view," Warsh said during a press conference on Wednesday following the central bank's decision to hold benchmark rates steady. "Interest rates get in the cracks. Interest rates affect directly or indirectly almost everything."
+
+The issue was first raised last month, when Pershing Square CEO Bill Ackman, in a post on X, expressed skepticism that higher rates would reduce demand and investment in AI.
+
+"What if higher rates don't reduce demand and investment because the demand for intelligence and energy is unaffected by higher rates because winning the race for super intelligence has a near-infinite ROI and the demand for compute will remain incalculable," Ackman wrote. "What if the old models don't apply to the current paradigm?"
+
+Warsh pointed out that credit spreads for certain assets have widened since the Fed raised rates in September, and financial conditions have tightened as investors have differentiated between tech firms and other companies in their investment decisions.
+
+"With respect to the new technology and this investment surge, do interest rates matter? I believe they do," Warsh said. "And I don't believe that they're somehow divorced from the rest of the economy."
+
+The comments come as the economy grew faster than expected in the third quarter, fueled largely by AI investments.
+
+Joe Brusuelas, chief economist for RSM, noted that if one is looking for evidence of AI-driven growth, the details of the third quarter GDP are instructive. A nearly 13% increase in private nonresidential investment — likely data centers — along with a more than 20% increase in equipment outlays is rare, he noted.
+
+Also, spending on information processing equipment contributed 0.86% to GDP, computers and peripherals contributed 0.72%, and software 0.23%. Intellectual property was up 8.4%.
+
+"The idea that AI-led investment is sensitive to rates is in the conversation. Sure does not look that way following the September rate hike," Brusuelas wrote on X.
+
+Moody's chief economist Mark Zandi also believes there's merit to the notion that AI isn't sensitive to higher rates.
+
+"AI is running on its own dynamic and expectations for future profits are quite high," he told Yahoo Finance. "So as long as that continues, then hyperscalers will be able to pay this interest rate plus a lot more, and it won't do a lot of damage."

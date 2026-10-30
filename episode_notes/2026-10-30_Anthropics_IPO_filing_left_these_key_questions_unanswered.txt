@@ -1,0 +1,31 @@
+Anthropic’s IPO filing left these key questions unanswered
+
+2026-10-30
+
+Por Julie Hyman
+
+https://finance.yahoo.com/markets/article/anthropics-ipo-filing-left-these-key-questions-unanswered-090000298.html
+
+Anthropic's hotly anticipated S-1 filing finally dropped Monday, providing investors with greater visibility into its financials, ownership structure, and potential risks.
+
+But there are plenty of questions the document didn't answer that will be vital in helping investors decide whether to buy the stock. Some clarity could come before the IPO. Other lingering uncertainties might not be resolved for years.
+
+First, creating short-term suspense, the prospectus contained several prominent omissions that will likely be included in an amended filing before the IPO. They include third quarter financials and details on share-lockup expirations — when insiders are allowed to sell. The expiration schedule currently includes dates but not the number of shares affected.
+
+The most important interim question is where Anthropic shares will be priced. It's tough to decide whether to buy something if you don't know what it costs. Analysts can't get a handle on the public stock's valuation before pricing is announced.
+
+They won't have long to wait: A pricing range will be included in an amended filing that will be released when Anthropic begins its IPO roadshow. The debut is reportedly set for before the end of November, so investors will know firm pricing within weeks.
+
+For the answers to other questions, investors will have to be more patient.
+
+Companies typically don't put financial forecasts into an S-1. They're technically allowed, but businesses can be held liable for misstatements in a prospectus, so they tend to avoid them.
+
+That's what Gil Luria, D.A. Davidson director of technology research, is waiting for. "Now I mostly want to know what guidance looks like for Q4 and 2027 — top and bottom line," he wrote in an email.
+
+Anthropic's filing revealed more than $500 billion in compute spending commitments in the coming years. The cadence of that spend, however, is unclear, Cory Johnson of Epistrophy Capital said.
+
+As he pointed out, a data center purchase is recognized once it's completed and turned over to the buyer, although there may be up-front payments as well. For Anthropic, "I want to know when those moments are, when those payments have to be made," Johnson said.
+
+The answer to that question leads to another, larger one: "What does normalized profitability look like once the current infrastructure build-out matures?" Robert Schiffman, senior technology credit analyst at Bloomberg Intelligence, asked.
+
+"Revenue is scaling extraordinarily quickly, but with hundreds of billions of dollars of compute commitments, investors still don't have a clear picture of sustainable margins, returns on invested capital or how much revenue ultimately needs to be generated from each dollar of compute," Schiffman said.

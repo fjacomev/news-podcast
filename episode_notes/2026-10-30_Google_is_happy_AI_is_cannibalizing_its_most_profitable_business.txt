@@ -1,0 +1,31 @@
+Google is happy AI is cannibalizing its most profitable business
+
+2026-10-30
+
+Por Hamza Shaban
+
+https://finance.yahoo.com/technology/article/google-is-happy-ai-is-cannibalizing-its-most-profitable-business-100000654.html
+
+People across the country are worried that AI is going to cannibalize jobs. But for Google (GOOG, GOOGL), it's mostly just eating itself by cannibalizing its own revenue.
+
+That's been the central business tension at the search company ever since it pivoted headfirst into the AI transformation.
+
+On the earnings call on Wednesday, executives said that the strong growth of Google's AI Mode contributed to a deceleration in revenue growth because the company makes less ad money on AI than it does on traditional search.
+
+Google parent Alphabet's stock plunged 12% on Thursday, shedding nearly $500 billion.
+
+Searching through a web browser is foundational to the modern internet and to Google's $3 trillion valuation. But one of the big bets of the AI era is that more people will interact with the internet through the lens of AI chatbots and agents, radically altering how people experience the web and personal computing.
+
+If you don't already command a huge tech platform, that shift away from search represents a huge business opportunity. But owning the thing being disrupted, especially if it's been a money machine, has meant that Google's embrace of AI means risking the legacy business that made its fortune.
+
+Despite that enormous problem, Google says we should treat the lost revenue from this cannibalization just like more AI investment in a vision that will prevail. And that it's very bullish on.
+
+It's a compelling case, to hear them tell it: Search, powered by AI, may actually be getting users excited. Google CEO Sundar Pichai said AI investments helped lead to the company's fastest search query growth in five years. Google's like a startup again, with usage trumping revenue.
+
+"The majority of AI mode queries are incremental, creating more monetization opportunities over time," chief business officer Philipp Schindler said. "Our user research shows that people are comfortable with ads on these surfaces and find them highly relevant."
+
+And when asked about the potential for AI agents to eat into search revenues, Pichai offered a similar argument.
+
+"I would view it as an expansion opportunity," Pichai said. "Just like a few years ago, being able to incorporate AI chat use cases in search allowed people to ask more and do more in search, which is what is playing out in our usage."
+
+Follow Hamza Shaban on X @hshaban.
