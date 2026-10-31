@@ -1,0 +1,31 @@
+Amazon's AI build-out just pushed its cash burn to a record: Chart of the Day
+
+2026-10-31
+
+Por Jared Blikre
+
+https://finance.yahoo.com/markets/article/amazons-ai-build-out-just-pushed-its-cash-burn-to-a-record-chart-of-the-day-100000920.html
+
+Wall Street spent the week punishing Big Tech's biggest AI spenders. Amazon (AMZN) just posted the deepest cash burn in its history.
+
+Amazon's free cash flow — the cash left after paying for data centers, warehouses, and equipment — was an outflow of more than $42 billion over the 12 months through September, according to its third quarter results released Thursday. That's nearly double the previous record of about $23 billion, set in 2022 after Amazon overbuilt its warehouse network. Three months earlier, the outflow was less than $8 billion.
+
+One quarter did most of the damage. Amazon spent about $77 billion on property and equipment from July through September, more than double the $35 billion it spent a year earlier. Its operations brought in about $42 billion, leaving a gap of roughly $33 billion over three months, according to Yahoo Finance calculations.
+
+So far, the spending is working.
+
+Amazon Web Services (AWS) grew 39% to about $46 billion, its fastest pace in nearly five years, and Amazon's operating margin of nearly 14% was its highest ever. CEO Andy Jassy said in the release that he projects AWS growth of more than 40% in both 2027 and 2028. Anthropic's (ANTH.PVT) computing commitments alone amount to about a fifth of AWS's backlog as of June, according to Yahoo Finance calculations based on the AI lab's IPO filing.
+
+Paying for it has meant borrowing. Amazon's long-term debt reached about $173 billion at the end of September, up from about $66 billion at the end of 2025, while its cash fell to about $56 billion from about $87 billion. Meta (META) took a different route this week with a nearly $100 billion stock sale.
+
+Bond traders have noticed. The cost of insuring Amazon's debt against default for five years with credit default swaps has risen about 50% since early August, according to Bloomberg data. That price implies roughly a 7% chance of default over five years, up from about 5%, according to Yahoo Finance calculations.
+
+Amazon stock fell about 4% Thursday to its lowest close since July 30 as Alphabet's record drop weighed on Big Tech. It slid further after-hours as sales, earnings, and its profit outlook for the holiday quarter missed estimates.
+
+Amazon isn't planning to ease off. CEO Andy Jassy said on the company's earnings call Thursday that Amazon still expects to spend about $220 billion this year, mostly on AWS, and to "spend meaningfully more in 2027."
+
+"Would it be more convenient if this type of acceleration and opportunity happened over 25 years and you could spread the CapEx over 25 years? Yeah, it might be more convenient, but that's not the world that we live in," Jassy said. "We can fund this plan. I think it will forever change the size of Amazon."
+
+Internal AI tools helped analyze interview transcripts, research, and draft this post. Humans reviewed, edited, and fact-checked this post before publication.
+
+Follow Jared Blikre on X @SPYJared or email him at jaredblikre@yahooinc.com.
