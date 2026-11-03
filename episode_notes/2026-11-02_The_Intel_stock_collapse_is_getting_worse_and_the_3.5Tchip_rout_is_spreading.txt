@@ -1,0 +1,35 @@
+The Intel stock collapse is getting worse — and the $3.5Tchip rout is spreading
+
+2026-11-02
+
+Por Jared Blikre
+
+https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html
+
+Wall Street mostly swept up last week's tech wreckage Monday. Chip stocks kept tracking mud back through the house.
+
+About 7 in 10 S&P 500 stocks rose Monday, yet nearly every chip stock fell, and the group shed more than $400 billion in market value in a single session, by Yahoo Finance calculations.
+
+Intel (INTC) led the way down again.
+
+The chipmaker slid about 9% after its worst day since 1974 on Oct. 30, when a disappointing forecast knocked nearly 29% off the stock. Monday's close left Intel worth less than half of what it was when September ended.
+
+And the damage didn't stick to Intel.
+
+Micron (MU), Sandisk (SNDK), Seagate (STX), and Western Digital (WDC) — the memory and storage names that led the chip boom this year — all got clobbered, falling roughly 6% to 8%. Marvell (MRVL) fell even harder, a drop that came as it agreed to buy Lumentum (LITE) in a $115 billion deal. Nvidia (NVDA) held up better than most, but it's still down about 16% since Oct. 6.
+
+Zoom out and the mess gets bigger. Chip and memory stocks have lost about $3.7 trillion in market value since Oct. 6, by Yahoo Finance calculations. Nvidia lost the most in dollars, but Intel's drop of nearly half is the steepest among the giants.
+
+Not everything tied to AI bled. SpaceX (SPCX) rose, though it's still well below where it started October. Software was mixed, apart from cybersecurity stocks like Fortinet (FTNT) and CrowdStrike (CRWD), which fell with chips.
+
+Adam Johnson, founder of the Bullseye Brief and portfolio manager of the American Ingenuity Fund, thinks last week's sell-off already priced in the worst.
+
+"The market kitchen-sinked it," Johnson told Yahoo Finance on Monday. "They discounted everything that could go wrong. And when you do that, typically that's when you see a bottom."
+
+John Chambers, founder and CEO of JC2 Ventures and Cisco's former CEO, expects the gap between winners and losers to keep widening.
+
+"There will be major train wrecks," Chambers told Yahoo Finance, also on Monday. "And rising tide does not raise all boats. I would not bet against Nvidia."
+
+Stock Trader's Almanac editor Jeff Hirsch, who coined the term "Octoberphobia," bought the sell-off on Oct. 30. History is on his side. Chips have climbed in all eight midterm cycles since 1994, measured from the last October close through the following June, by Yahoo Finance calculations. But in 2002 and 2018, they first fell about another 11%.
+
+Next up is AMD (AMD), which reports third quarter results Tuesday after the bell, the same day as the midterm vote.
