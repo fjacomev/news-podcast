@@ -1,0 +1,31 @@
+Chip stocks are bouncing back from a fresh bear market as Wall Street’s safe havens slip
+
+2026-11-04
+
+Por Jared Blikre
+
+https://finance.yahoo.com/markets/article/chip-stocks-are-bouncing-back-from-a-fresh-bear-market-as-wall-streets-safe-havens-slip-152637092.html
+
+Monday's close left chip stocks in a fresh bear market, below their summer lows and a key technical level. Tuesday, they're bouncing back like they want to make the bears regret it.
+
+The PHLX Semiconductor Index (^SOX) finished Nov. 2 about 22% below its Oct. 6 high, its second bear market since June. It was also the index's second straight close below its 200-day moving average, a line it hadn't closed under since June 2025, and its lowest close since April.
+
+Nearly every chip and storage stock in the S&P 500 rose in early trading Tuesday, led by memory and chip-equipment names, and the index climbed back above its July 29 low. If chips can hold that ground, Monday's breakdown starts to look like a bear trap — a break below a key level that quickly reverses, catching traders who bet on more losses.
+
+The bigger hurdle sits just overhead. The iShares Semiconductor ETF (SOXX) needs to get back above its 200-day average, near $477, to start repairing the damage. Above that, the next levels to watch are about $524 and $596.
+
+The calendar is on the bulls' side
+
+Chip stocks have climbed in all eight midterm cycles since 1994, measured from the last October close through the following June, by Yahoo Finance calculations. That's the stretch Stock Trader's Almanac editor Jeff Hirsch calls the best months of the year for semiconductors. But in 2002 and 2018, chips first fell about another 11% before the rally kicked in.
+
+Election Day itself has been kind to stocks too. The S&P 500 (^GSPC) has risen on 10 of the last 14 midterm election days, going back to 1970.
+
+Meanwhile, the rest of the market is moving the other way. Roughly two-thirds of S&P 500 stocks fell in early trading, a mirror image of Monday, when about 7 in 10 rose while chips sank. Consumer staples, utilities, and real estate, the safe havens that carried the market through October, slipped.
+
+From the Oct. 6 close through Nov. 2, staples and health care climbed about 10% to 11%, while SOXX fell 23%.
+
+Apple (AAPL), which has become Wall Street's hedge against the AI trade, saw its shares fall after it warned that memory costs will keep rising. Luke Kawa, head of markets at Sherwood News, called the seesaw between Apple and chips "almost Pavlovian."
+
+"Apple goes down and what goes up in response? Semis," Kawa told Yahoo Finance on Nov. 3.
+
+He also sees real damage in the charts. "What seems different this time is that it's really the first time throughout the AI boom that we're now seeing … lower highs and lower lows across major swaths of the space," Kawa said. Lower highs and lower lows are the very definition of a downtrend.

@@ -1,0 +1,91 @@
+Global financial markets were already fragile. Big AI bets could break them
+
+2026-11-04
+
+Por Dhara Ranasinghe; Amanda Cooper
+
+https://finance.yahoo.com/markets/stocks/articles/analysis-global-markets-were-already-050846745.html
+
+By Dhara Ranasinghe and Amanda Cooper
+
+LONDON, Nov 3 (Reuters) - Financial markets are struggling under the weight of wars, soaring sovereign debt and trade tensions, with signs of trouble showing across the world — from the selloff in Japanese and French bonds to plunging emerging-market currencies. Now, the one trade that helped investors remain optimistic is starting to show cracks as well.
+
+So far, the multitrillion-dollar spending splurge on artificial intelligence, aided by Washington's light-touch approach to business, has propelled stock markets to record highs and raised expectations for the global economy to grow a healthy 3% this year.
+
+But investors are getting nervous about market resiliency. US President Donald Trump's erratic trade policies and the Iran war's energy shock have revived inflation worldwide, putting pressure on central banks to raise interest rates. That, along with AI's capital-investment surge and highly indebted governments, is driving up borrowing costs to multidecade highs.
+
+With US midterm elections, volatile geopolitics and central bank policy promising further uncertainty in the final stretch of the year, some investors and economists say risks to the global economy are mounting.
+
+"Rising rates always seem to sniff out and expose the most vulnerable time after time," said Jim O'Neill, former Goldman Sachs chief economist and former British Treasury minister. "Countries and businesses too exposed suffer the most."
+
+He said if inflation did not ease, the risks stemming from the vast amount of debt-financed investment flowing into the AI sector would grow. The US central bank has missed its inflation target for more than half a decade; euro-area inflation at 3.8% is also above its 2% target.
+
+"In some ways, it's surprising to me there haven't been more bumps in the AI trade already," O'Neill said.
+
+'SIGNS OF THINGS BREAKING'
+
+Market jitters showed up abruptly in October, when investors rushed out of AI stocks and into safe-haven bonds.
+
+More than $2 trillion in market value was wiped from the tech-heavy Nasdaq 100 last month, as Big Tech's earnings intensified investor scrutiny of whether the cash invested can generate returns quickly enough. The cost of insuring bonds of some tech companies surged, some proposed data center projects struggled to raise money, and technology stocks from South Korea and China to the US tumbled.
+
+Investors flocked to bonds. Yields, which move inversely to price, fell from multidecade highs, with the benchmark 10-year Treasury, which guides borrowing costs globally, falling almost 20 basis points on October 22, its biggest daily fall since early 2023.
+
+The 10-year yield is still hovering around 5%, a threshold some investors see as a risk to broader financial stability.
+
+Strains were already showing up in parts of the world where the AI buildout has been less of a driving force.
+
+In France, bond yields soared to levels last seen during the 2012 euro zone debt crisis, leaving the government with little room to address demands from protesters who have taken to the streets in the worst civil unrest in years.
+
+In Japan, whose economy is dependent on energy imports, bond yields recently hit 30-year peaks. Authorities are under pressure to raise rates faster, undermining Tokyo's policy goals that called for additional spending and possibly upending global capital flows.
+
+"There are some signs of things breaking," said Mike Riddell, a lead portfolio manager at Fidelity International, which manages over $1 trillion worth of assets, pointing to troubles in France and Australia, where the housing market is in the throes of the worst downturn in decades.
+
+German bonds, also considered a safe haven, have become more attractive, Riddell added.
+
+US economist Paul Krugman said persistently elevated inflation that prompts significant rate increases, rising government bond yields and cracks in the AI boom are major concerns for the US economy.
+
+"There are troubling aspects of the current economy that could potentially be harbingers of the crisis to come," Krugman wrote in an October 25 column on online newsletter platform Substack.
+
+White House spokesperson Matthew Middleton said the Trump administration is committed to maintaining the US leadership in AI, fueling revenue growth and driving productivity across the economy.
+
+To be sure, there are many reasons for investors to remain optimistic. Over the past two years, recession warnings have proven wrong. Europe's economic data has proved more resilient than expected, and labour markets, too, have been stable.
+
+Earnings are also strong. In the US, 84% of the S&P 500 companies that have reported results so far in the third quarter have beaten consensus estimates, according to LSEG data.
+
+AI SPENDING SHIELDED MARKETS — UNTIL NOW
+
+Much of that resilience, however, has been due to AI spending. The so-called hyperscalers — half a dozen US tech firms — are poised to invest $1.2 trillion next year in that buildout, or as much as all of Europe's companies combined, Danske Bank estimates. That's on top of an estimated $900 billion those tech firms are forecast to spend this year.
+
+Tech and AI stocks compose over 40% of the S&P 500 and account for much of the index's 70% rise over the past five years. While the big-cap S&P has lost 3% from the early October peak as investors have pulled back from AI, the Russell 2000 small-cap index, whose companies are more rate-sensitive, is down nearly 8% from its August peak.
+
+"I particularly note the narrowness of the leadership," said Societe Generale global strategist Albert Edwards, who is credited with calling the 1997 Asian financial crisis.
+
+"I like the adaption of the Winston Churchill quote: 'Never have stocks owed so much to so few'," said Edwards, a self-described "uber bear."
+
+Without AI spending, some analysts say the US economy could have already slipped into recession and dragged down others with it, given the surge in energy prices due to the Iran war.
+
+For Sheila Bair, who chaired the Federal Deposit Insurance Corporation during the 2008 crisis, there are warning signs similar to the run-up to that collapse, including the explosive growth in lending by parts of the financial sector whose business model now risks being threatened by rates moving higher.
+
+"You have a buildup of leverage and AI companies that are relying a lot more on debt now to finance their ambitions," said Bair, adding she sees significant fragilities.
+
+"I also worry about the lack of fiscal firepower if we have another crisis because we're just so strapped."
+
+RISING RISKS OF GLOBAL SHOCKS
+
+The Iran war, which has dragged on for months, has disrupted oil supplies and sent prices soaring, adding to current economic fragility. At $105 a barrel, oil is up almost 75% so far this year. Trump has signalled the US and Israel could restart attacks on Iran after the midterms.
+
+From Indonesia to the Philippines, some emerging-market currencies have hit record lows as the cost of crude oil has surged, forcing their central banks to raise rates.
+
+In its July financial stability report, the Bank of England warned that the unpredictable global environment raises the likelihood of additional large global shocks that "could interact with one another, increasing their combined impact."
+
+Should that happen, debt-laden governments would have far less firepower to deal with the economic and social fallout of any major downturn. Total global debt stands at over $350 trillion, a record, according to the Institute of International Finance. That figure is almost three times the size of the global economy.
+
+Current fissures among traditional alliances may make it more difficult for leading economies to come together as they did with rescue packages and monetary stimulus during the 2008 global financial crisis, said Tina Fordham, founder and geopolitical strategist at Fordham Global Foresight. With less coordination, a 2008-level event now could trigger a global depression, she said.
+
+Should AI spending falter, the shockwaves could ripple worldwide. Foreign investors are heavily exposed to the US market; their net purchases of US securities jumped to nearly $280 billion in August, a record for a single month, the latest Treasury International Capital data shows.
+
+Fordham referred to billionaire investor Warren Buffett's famous remark about market risks: it is only when the tide goes out that one discovers who has been swimming naked.
+
+"The tide is AI," she said.
+
+(Additional reporting by Rocky Swift in Tokyo; Suzanne McGee in New York and Sruthi Shankar in Bengaluru; Editing by Elisa Martinuzzi, Paritosh Bansal and David Gaffen)

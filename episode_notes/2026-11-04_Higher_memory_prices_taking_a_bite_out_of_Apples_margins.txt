@@ -1,0 +1,35 @@
+Higher memory prices taking a bite out of Apple’s margins
+
+2026-11-04
+
+Por Daniel Howley
+
+https://finance.yahoo.com/technology/article/higher-memory-prices-take-a-bite-out-of-apples-margins-161921051.html
+
+Apple (AAPL) reported better-than-anticipated Q4 results after the bell on Friday, with iPhone and Services revenue topping Wall Street estimates.
+
+But the company's stock fell after it told analysts on its earnings call that rising memory prices driven by the AI buildout will take a bigger bite out of margins going forward.
+
+Apple stock fell more than 2% Tuesday.
+
+While CFO Kevan Parekh said he expects Q1 to be Apple's best quarter ever, he also noted that gross margins will come in between 45% and 46%, down from 47.89% in Q4 and below the 48.16% the company saw in Q1 last year.
+
+Parekh attributed the declines to higher memory costs and to the ramping up of Siri AI.
+
+Complicating matters is the fact that Apple saw a roughly 1% margin benefit in Q4 from tariff refunds. The company also says it managed to offset higher memory costs in prior quarters thanks to carry-in inventory and lower prices on non-memory components.
+
+But that powder is running dry.
+
+"What we're seeing with memory pricing right now is unprecedented," CEO John Ternus said, later adding that the company increased its manufacturing purchase obligations by $33 billion from the June to September quarter.
+
+The AI buildout isn't just hitting memory prices, though. It's also disrupting chip manufacturing more generally. Apple has repeatedly called out supply constraints related to advanced processing nodes for its high-powered chips.
+
+That, coupled with less flexibility in the global supply chain, is impacting the company's ability to increase its inventory.
+
+But as more of Apple's devices transition to newer processing nodes, that should begin to improve.
+
+Still, the company expects supply constraints on its Mac and iPad lines in Q1 due to the memory crisis.
+
+There's still no end in sight for the memory and storage, either. Companies like Micron (MU) and SK Hynix (SKHY) have said it will likely last until 2030, keeping the pressure on for far longer.
+
+Email Daniel Howley at dhowley@yahoofinance.com. Follow him on X at @DanielHowley, or reach out on Signal or Telegram.

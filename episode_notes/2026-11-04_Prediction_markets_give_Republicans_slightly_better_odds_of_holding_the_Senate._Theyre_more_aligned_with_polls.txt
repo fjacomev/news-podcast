@@ -1,0 +1,59 @@
+Prediction markets give Republicans slightly better odds of holding the Senate. They’re more aligned with pollsters regarding the House.
+
+2026-11-04
+
+Por Ben Werschkul
+
+https://finance.yahoo.com/economy/article/prediction-markets-vs-polls-election-forecasting-industry-faces-midterm-test-100000463.html
+
+Prediction markets and pollsters both say Democrats are favored to take both the US House and Senate in the midterms. Prediction markets have been a little less certain about it, though traders' odds jumped on Tuesday on the chances of Democrats taking control of the Senate.
+
+That's setting up what could be another chapter in the burgeoning rivalry between prediction markets and polls following 2024's closely watched results.
+
+The differences have been most evident in the upper chamber. A small but consistent gap has been evident for months in the odds of Democrats winning control of the Senate. The gap has averaged about 7.3 percentage points since Sept. 1, according to a Yahoo Finance analysis.
+
+But the gap has narrowed approaching Election Day, closing to 2.9 percentage points on Tuesday morning. Three prediction markets place a 77.3% chance of Democrats taking control, while two polling-based models put the chances a bit higher at 80.2%.
+
+The odds have been a bit more evenly matched around the House of Representatives, with an average gap of less than a percentage point in recent months.
+
+The latest read on Tuesday showed a 2.2-percentage-point gap, with prediction markets suggesting a 94% chance of Democrats flipping the chamber, versus 96.2% odds from polls.
+
+This analysis was conducted by averaging the daily odds from three leading prediction markets, Kalshi, Polymarket, and PredictIt, to create one rolling prediction market measure. Those values were then compared to the average of two leading poll-focused models — one from statistician Nate Silver and another from Harvard called ElectIt.
+
+These gaps have had an outsized effect on public perceptions in recent years.
+
+This was especially true in 2024, when a 10-percentage-point difference between prediction markets and polls led to some post-election analyses claiming that prediction markets had gotten the results right and polls had gotten them wrong.
+
+The stakes for prediction market companies are high. Kalshi and Polymarket have long argued that their markets are more truthful than polls because market participants have money on the line. The markets also had a high-profile miss recently when the winner of Brazil's presidential election was given just 20% odds before ultimately prevailing.
+
+The scrutiny also comes as these markets continue to grow rapidly. Kalshi shared new data over the weekend that more than $1.2 billion has now been traded on midterm markets, surpassing the platform's volume during the 2024 presidential election.
+
+Increased government scrutiny of the prediction markets
+
+Policymakers, meanwhile, have ramped up criticism of the sector and promised challenges on both the legislative and legal fronts.
+
+Senator Elizabeth Warren, who could lead the Senate's powerful banking committee if Democrats take power, and Republican Senator John Curtis teamed up on a recent letter to both Kalshi and Polymarket raising concerns about election-related prediction markets and possible market manipulation.
+
+"We are particularly troubled by election-related event contracts," the senators wrote. "Event contracts tied to elections receive prominent coverage and are treated by some observers as indicators of political momentum."
+
+In Curtis's home state of Utah, a lawsuit brought by Kalshi is challenging whether federal rules can overrule Utah's anti-gambling laws, which lawmakers want to apply to prediction markets.
+
+In an amicus brief supporting Utah, the group Better Markets wrote, "the stakes couldn't be higher ... Utah has every right to decide that Utahns shouldn't be subjected to sports betting's harms."
+
+A gap that proved significant in 2024
+
+There are also echoes this year of the polling and prediction market situation on the eve of the 2024 election. Prediction markets gave Donald Trump better odds of winning and then capitalized when he prevailed.
+
+But the actual odds in the days before the election differed only in a matter of degree.
+
+The day before the election, prediction markets gave Trump between a 57% and 62% chance of victory. Many polls, meanwhile, showed the election as a dead heat, with Nate Silver writing on election morning in 2024 that Kamala Harris had a 50.015% chance of winning based on an average of dozens of polls.
+
+Yet the difference between those odds isn't as dramatic as it might seem. 50% odds imply that one side is likely to win 5 times if the election were held 10 times. 60% odds make it 6 out of 10.
+
+The prediction markets also underestimated the eventual winner in some respects, with Trump's odds of winning the popular vote listed at between 20-30% on Kalshi and Polymarket on election morning in 2024 before Trump did just that.
+
+But it didn't slow executives' victory lap. Polymarket CEO Shayne Coplan argued that both higher odds in the days before the election as well as earlier movement on election night showed how they had "called the election."
+
+This story has been updated.
+
+Ben Werschkul is a Washington correspondent for Yahoo Finance.

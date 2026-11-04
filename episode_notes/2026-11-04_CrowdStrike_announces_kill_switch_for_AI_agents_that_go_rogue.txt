@@ -1,0 +1,21 @@
+CrowdStrike announces 'kill switch' for AI agents that go rogue
+
+2026-11-04
+
+Por Ines Ferré
+
+https://finance.yahoo.com/markets/stocks/article/crowdstrike-says-it-will-buy-2-ai-cybersecurity-startups-announces-kill-switch-for-ai-agents-163631619.html
+
+What happened: CrowdStrike (CRWD) announced a 'kill switch' for AI agents, sending its shares up more than 1% on Tuesday. The cybersecurity company also agreed to buy two AI security startups. The combined purchase price for both is $495 million, according to the Wall Street Journal.
+
+What's behind the move: CrowdStrike said it developed a 'Kill Switch' in Falcon Guardian, giving security teams control over AI agents. If an agent deviates from its intended behavior, a defender can terminate it wherever it runs, prevent it from launching again, and cut off its access to the enterprise network.
+
+"AI safety is how you get the full benefit of AI. When you deploy agents with a kill switch, you stay in control," said George Kurtz, CEO and founder of CrowdStrike, in a press release.
+
+CrowdStrike stock rose 1% before the bell on Wednesday.
+
+What else you need to know: CrowdStrike also announced on Tuesday that it has signed an agreement to acquire Fiddler AI, a startup that develops tools that help companies track their AI systems.
+
+The company also announced an agreement to acquire Dreadnode, a startup that develops tools to test AI systems for security vulnerabilities. CrowdStrike said the technology will enable its Falcon platform to continuously scan AI models, applications, and agents for potential security weaknesses before deployment.
+
+Despite concerns earlier this year that AI would disrupt traditional business models, cybersecurity companies have instead benefited from the rise of agentic AI, which is driving increased demand for verification and authentication.
