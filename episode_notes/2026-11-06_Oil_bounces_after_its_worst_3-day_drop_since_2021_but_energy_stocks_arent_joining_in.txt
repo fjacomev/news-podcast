@@ -1,0 +1,31 @@
+Oil bounces after its worst 3-day drop since 2021, but energy stocks aren't joining in
+
+2026-11-06
+
+Por Jared Blikre
+
+https://finance.yahoo.com/markets/article/oil-bounces-after-its-worst-3-day-drop-since-2021-but-energy-stocks-arent-joining-in-184905541.html
+
+Almost everything on Wall Street was in the red Thursday, but oil was one of the few exceptions. WTI crude (CL=F) rose about 3% after its worst three-day drop since late 2021, and energy stocks didn't join the bounce.
+
+WTI futures fell 15% from their Oct. 30 settle above $104 to a Nov. 4 settle near $88, the lowest since Aug. 31. The steepest leg came Nov. 4, after Democrats won control of Congress and Vice President JD Vance posted on X, "The reason we lost is the war."
+
+It's been the pattern all year.
+
+Oil and the S&P 500 (^GSPC) have moved in opposite directions more often in 2026 than in any year since at least 2001, according to Yahoo Finance calculations. The correlation between their daily moves is -0.44, where -1 would mean they always move in opposite directions. The previous low was -0.25 in 2003, the year the US invaded Iraq.
+
+With the Iran war driving crude, rising oil has been bad news for stocks, and falling oil good news. On Nov. 4, the S&P 500 rose more than 1.5% as crude fell more than 8%. Thursday ran in reverse.
+
+Energy stocks didn't play along. The Energy Select Sector SPDR (XLE) fell 3% to its lowest close since Sept. 30, as Exxon Mobil (XOM) and Chevron (CVX) slipped about 2% and Baker Hughes (BKR) and Williams (WMB) fell with the market.
+
+XLE is still 2026's best-performing sector, up about 40% this year, but it has fallen 12% from its Oct. 30 high in four sessions.
+
+Crude still carries plenty of war premium. WTI is up more than 50% this year, and Iran's crude exports "have fallen from roughly 1.8 million barrels per day to essentially zero," Apollo chief economist Torsten Sløk wrote in a Nov. 4 note. (Disclosure: Yahoo is a portfolio company of funds managed by affiliates of Apollo Global Management.)
+
+Washington's appetite for the war may count for more than any level.
+
+"The vice president probably is speaking for at least a good portion of the Republican caucus," Steve Sosnick, chief strategist at Interactive Brokers, said on Yahoo Finance's morning show Thursday. "JD Vance said the quiet part out loud."
+
+Internal AI tools helped analyze interview transcripts, research, and draft this post. Humans reviewed, edited, and fact-checked this post before publication.
+
+Follow Jared Blikre on X @SPYJared or email him at jaredblikre@yahooinc.com.

@@ -1,0 +1,31 @@
+AMD CEO Lisa Su sees AI becoming 'essential to every aspect of our lives'
+
+2026-11-06
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/technology/article/amd-ceo-lisa-su-sees-ai-becoming-essential-to-every-aspect-of-our-lives-172825495.html
+
+AMD (AMD) CEO Lisa Su appreciates the market's increasing jitters about the health and sustainability of AI demand.
+
+She doesn't see any signs of caution in her red-hot chips business, which is helping power the AI boom.
+
+"I think the market can sometimes be a little bit short-sighted. It is what it is," AMD CEO Lisa Su said on Sozzi Unleashed.
+
+"What I look at is in the long term, if you believe, which I do, I believe very deeply that computing, in many ways, equates to intelligence," Su added. "So the more compute you have, the more intelligent your company is, the more problems you're going to be able to solve, the more you're going to accelerate your business. If you believe that foundation, then investing ahead of the curve is the right thing to do because we're always investing for the long term — long term being three to five years and beyond. And that means you have to make the investments now. So I think from our standpoint, I've always operated that way. We're always looking at what do we see over the horizon? And over the horizon, I see AI and super intelligence becoming more and more essential to every aspect of our lives and every aspect of our business. So I believe in this demand, and I very much believe that many of the investments that are being made throughout the ecosystem are also seeing some of these same trends."
+
+AMD delivered a strong double beat in its third quarter earnings report on Tuesday evening.
+
+Third quarter sales jumped 45% year over year to a record $13.38 billion, comfortably surpassing Wall Street consensus estimates of roughly $13.06 billion.
+
+Adjusted earnings climbed 74% to $2.09 per share, easily topping analyst projections of $1.94 per share.
+
+The blowout performance was anchored by AMD's Data Center segment, where revenue surged 97% to a record $8.5 billion on robust demand for EPYC server processors and the production ramp of Instinct MI450 AI accelerators.
+
+For the fourth quarter, AMD said it sees 50% sequential growth in data centers. In 2027, Su guided to revenue growing more than 80%, with server revenue doubling and data center AI more than doubling.
+
+AMD stock finished Wednesday's session up 1% but fell 17% on Thursday. The stock has gained a sizzling 88% year to date.
+
+"With AI business reaching escape velocity, investor focus shifts from proving AI competitiveness to executing a multiyear ramp centered on MI450/MI455, Helios, and Venice with significant operating leverage as the business scales," Citi analyst Atif Malik said.
+
+Malik gave AMD a top pick call.
