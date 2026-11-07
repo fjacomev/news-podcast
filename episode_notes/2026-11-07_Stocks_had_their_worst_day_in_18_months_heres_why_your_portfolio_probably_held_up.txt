@@ -1,0 +1,39 @@
+Stocks had their worst day in 18 months — here’s why your portfolio probably held up
+
+2026-11-07
+
+Por Jared Blikre
+
+https://finance.yahoo.com/markets/article/stocks-had-their-worst-day-in-18-months--heres-what-that-means-for-your-portfolio-164024037.html
+
+The AI trade ran off a cliff Thursday. Most of the stock market was nowhere near the edge.
+
+The S&P 500 (^GSPC) fell more than 4% Thursday, its worst day since the April 2025 tariff crash. About $3 trillion in stock market value disappeared in a single session.
+
+Chipmakers took the hardest hit. The PHLX Semiconductor Index (^SOX) dropped 12%, its worst day since March 2020, and Nvidia (NVDA) fell 9%, its worst day since the DeepSeek scare in January 2025.
+
+The trigger was Washington. Democrats won control of Congress this week, and candidates in both parties campaigned against AI data centers, the giant buildings those chips go into. Investors worry that new rules could slow the building boom that sent chip stocks to records.
+
+But look past the AI stocks, and the picture gets a lot calmer.
+
+The S&P 500 is only about 5% below its October record and is still up about 8% this year. The typical stock in the index is about 3% off its high, and more than half of S&P 500 stocks are up for the week.
+
+How can both be true? The S&P 500 gives the biggest companies the biggest say. Chipmakers alone make up about 14% of the index, by Yahoo Finance's count, so when they crash, they drag the whole index down even when most other companies are holding steady.
+
+For an average portfolio, the damage so far is modest. For every $1,000 in an S&P 500 index fund at the market's Oct. 6 peak, you'd have about $950 left, and the index is still up about 8% this year. Savers in target-date funds, which mix stocks with bonds, fared even better Thursday. Vanguard's Target Retirement 2035 fund (VTTHX) lost less than 3%, compared with more than 4% for the S&P 500.
+
+Stocks are bouncing Friday, with chip stocks leading the way, after a strong jobs report showed employers added 165,000 jobs in October, more than double the roughly 70,000 economists expected.
+
+The AI risk hiding in your index fund
+
+One good day doesn't mean the danger has passed.
+
+The same setup that cushioned investors this week cuts both ways. AI-linked companies are a big piece of the S&P 500, and they've powered much of the market's gains in recent years. If the AI slide deepens, index funds like those based on the S&P 500 will feel it a lot more.
+
+Rich Bernstein, global head of macro and customized investing at Janus Henderson Investors, compared the AI run to Wile E. Coyote, the cartoon character forever chasing the Road Runner off cliffs.
+
+"You're running full speed, and then you realize that there's nothing anymore, and you fall to the bottom of the canyon," Bernstein said on Yahoo Finance's "Market Domination" on Thursday. "That's momentum investing."
+
+Internal AI tools helped analyze interview transcripts, research, and draft this post. Humans reviewed, edited, and fact-checked this post before publication.
+
+Jared Blikre is the global markets and data editor for Yahoo Finance. Follow him on X at @SPYJared or email him at jaredblikre@yahooinc.com.

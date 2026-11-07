@@ -1,0 +1,31 @@
+Q-Day may arrive by 2030. AI’s power problem isn’t going anywhere
+
+2026-11-07
+
+Por Hamza Shaban
+
+https://finance.yahoo.com/technology/article/ai-powered-hacking-risk-is-getting-worse--and-thats-before-q-day-110000397.html
+
+The Binance hack was a harsh reminder: Nothing online is truly safe.
+
+After the largest cryptocurrency theft on record — initiated through classic phishing but executed through AI tools — corporate America and security analysts are warning of the fresh dangers posed by sophisticated AI technology, which can find and exploit software flaws much faster than people can.
+
+The risks, it seems, are on the rise for everyone.
+
+"This is every crypto platform, every wallet service, every bank, every financial institution that you use," Binance co-founder Changpeng Zhao said in an interview with Yahoo Finance. "Especially now with AI improving so quickly, I think we're going to see a lot more of this."
+
+While the hack underscored the weaknesses of centralized financial intermediaries, rather than the underlying blockchain technology, "its effects could spread to other market participants," Moody's analysts wrote in a note this week.
+
+Circle's (CRCL) Jeremy Allaire told us this week that the acceleration of agentic AI means risk is accelerating dramatically in tandem.
+
+"Any critical infrastructure, any major industry, hospital systems, energy systems, utilities, financial industry participants — everyone has risk here," he said. "I think the threat vectors are some of the most intense vectors we have ever seen in the history of the world. I think we are in a hot environment right now, and everyone needs to be operating from the assumption that they are under attack."
+
+It's truly wild to think that bank robberies, a phenomenon that seems almost archaic, are a risk that has somehow boomeranged back.
+
+And just like AI's turbocharged hacking worries, a new tech specter sits on the horizon, without a kill switch: "Q-day."
+
+Quantum computing presents an enticing idea: the ability to tackle calculations that would be impractical for legacy computers, while using far less energy.
+
+As early as 2030, computer scientists project that quantum computers can break the traditional encryption that safeguards pillars of the economy, such as the financial system and global communications, a moment the industry calls "Q-day."
+
+It's something we've been seeing in Wall Street analyst research that's mostly been absent from broader headlines, because it's more long-term. But in September, Bank of America's thematic research team noted that a key security algorithm could be broken with far fewer quantum bits (qubits) than previously thought. In just 10 months, researchers saw progress to the tune of a 99% (not a typo) decrease.

@@ -1,0 +1,25 @@
+Goldman’s US Stock Panic Gauge Hits Extreme, Signaling Rebound
+
+2026-11-07
+
+Por Natalia Kniazhevich
+
+https://finance.yahoo.com/markets/stocks/articles/goldman-us-stock-panic-gauge-152807575.html
+
+(Bloomberg) -- Goldman Sachs Group Inc. traders said the violent selloff in US equities has pushed market panic to an extreme level that historically signals a strong rebound over the medium term.
+
+Most Read from Bloomberg
+
+The bank's Vol Panic Index surged to 9.57 out of 10 on Thursday, crossing the 9.5 threshold that marks the panic zone. The roughly five-point increase was the third-largest daily jump on record. Coming on the heels of a huge decline Wednesday, the fourth largest, it resulted in the biggest ever two-day swing, traders including Lee Coppersmith wrote.
+
+"The combined two-day swing was the largest on record, which I think shows how quickly the market went from relief to outright panic," Coppersmith said.
+
+The sharp reversal followed an aggressive wave of demand for downside protection ahead of Wednesday's US midterm vote. Clients had sold hedges into the post-election relief rally, leaving portfolios materially under-protected when equities turned lower. As stocks tumbled and forced liquidations spread across hedge funds, investors scrambled to buy back the protection they had just shed, according to the traders.
+
+The rush for hedges was reflected in options activity. More than 11 million puts traded on Cboe on Thursday, the highest daily volume on record, surpassing the previous peak in April 2025. Index puts accounted for much of the activity, while single-stock put volume ranked fourth-highest ever, highlighting the concentration of demand in broad-market protection.
+
+Still, Goldman's historical analysis suggests the medium-term outlook becomes more constructive when panic reaches such extremes. Following the 15 previous signals in which its Vol Panic Index exceeded 9.5, the S&P 500 gained an average 4.6% over the subsequent three months, with an 80% hit rate. Over six months, the average gain was 9%, with stocks rising in 73% of cases.
+
+"Yesterday was as much about an exceptionally poor technical setup and forced re-hedging as it was about a deterioration in fundamentals," Coppersmith wrote.
+
+While there is still more positioning to work through as markets continue to search for a bottom, the historical pattern suggests that extreme volatility and forced selling can eventually create opportunities for investors willing to look beyond the near-term turbulence, according to Goldman's traders.
