@@ -1,0 +1,35 @@
+These Trump-backed chip stocks have seen steeper losses than the beleaguered sector
+
+2026-11-09
+
+Por Ben Werschkul
+
+https://finance.yahoo.com/markets/stocks/article/these-4-trump-backed-chip-stocks-have-seen-steeper-losses-than-the-beleaguered-sector-193153591.html
+
+Chipmaker Intel (INTC) is putting a notable drag on the burgeoning US government investment portfolio, shaving close to $20 billion off the government's stake in the chipmaker.
+
+But it's not the only one. The Trump administration's other semiconductor investments have also incurred sharp losses that outpace the beleaguered sector.
+
+Chipmaker GlobalFoundries (GFS), photonics company Aeluma (ALMU), and silicon carbide specialist Wolfspeed (WOLF) have all seen losses of at least 40% over the past six months, according to Yahoo Finance data.
+
+That's in excess of PHLX Semiconductor (^SOX), a capitalization-weighted index of the semiconductor sector, which is down about over 18% over the same span.
+
+Read more: Intel's stock crash shares an uncanny resemblance to its 2000 bust
+
+The government's portfolio, which spans 41 companies and includes industries from critical minerals to drones, according to a CATO Institute tracker, has taken investors on a wild ride since the Trump administration started buying up stakes last year.
+
+Semiconductor stocks have proved especially volatile, with sharper ups and downs, including a bounceback in evidence Friday. All four were up more than 5% at midday, and some by double digits, as the sector as a whole jumped a more modest 4%.
+
+The price action in these public chipmakers doesn't capture the private companies that have also negotiated equity stakes with the US government.
+
+Trump and his team have placed extra focus on semiconductors, leveraging funds made available by the 2022 CHIPS and Science Act to acquire equity stakes in a host of private chipmakers, including Commonwealth Fusion Systems and xLight.
+
+The Trump administration has also negotiated stakes in quantum computing companies using CHIPS Act money that have similarly struggled amid headwinds facing the tech sector as a whole.
+
+The government portfolio of quantum computing companies includes publicly traded companies like D-Wave Quantum (QBTS), Infleqtion (INFQ), Quantinuum (QNT), and Rigetti Computing (RGTI).
+
+The price oscillations could give ammunition to critics of the administration's investing approach. Economic research shows that full or partial government ownership in companies has historically led to worse outcomes for the companies and their stakeholders.
+
+In a 2025 survey of economists, a large majority said that a government taking equity stakes tends to be detrimental to both a company's performance and its governance standards.
+
+The mixed results of the government's investments at the moment also fly in the face of the outsized returns for taxpayers that Trump and his team often promise.
