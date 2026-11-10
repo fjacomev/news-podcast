@@ -1,0 +1,31 @@
+Anthropic's IPO dilemma after the AI sell-off: 'Damned if you do, damned if you don't'
+
+2026-11-10
+
+Por Ines Ferré
+
+https://finance.yahoo.com/markets/article/anthropics-ipo-dilemma-after-the-ai-sell-off-damned-if-you-do-damned-if-you-dont-231326634.html
+
+This past week's stock market meltdown could hardly have come at a more critical moment for Anthropic (ANTH.PVT). The sell-off cast a shadow over the frontier artificial intelligence developer's expected pre-Thanksgiving public debut, raising questions about its potential valuation and ability to sustain the next phase of AI growth.
+
+"The only thing that matters the rest of this year is the Anthropic IPO," said Neostellar principal Willy Lee on Yahoo Finance's Market Hang. Lee said investors want to know whether Anthropic can sustain long-term growth and secure a meaningful share of the AI market.
+
+"Those are the two questions that every investor is asking within their investment committee every single day before the IPO," said Lee.
+
+Anthropic recently revealed revenue grew $1,206% to $33.2 billion through the first nine months of the year. The company also noted a staggering aggregate committed spend of $895.4 billion, which it says is primarily related to compute and infrastructure.
+
+But the AI growth story was put to the test this past week as investors weighed a Democratic congressional win against the impact of the AI data center build-out. On Thursday, the Nasdaq Composite (^IXIC) suffered its worst daily decline since April 2025, with chip stocks leading the declines.
+
+The market turmoil prompted prospective buyers to discuss lowering Anthropic's valuation to a range of $1.2 trillion to $1.3 trillion, with some considering as low as $1.1 trillion, according to Bloomberg. That's far below estimates as high as $2 trillion projected in early October.
+
+Amid increasingly jittery sentiment toward AI stocks, Anthropic faces a difficult decision, particularly if the unwinding of the AI trade continues.
+
+"It would be difficult to go public," Anna Rathbun, founder and CEO of Grenadilla Advisory, told Yahoo Finance's Market Hang.
+
+If Anthropic decides to delay its IPO, investors could interpret the move as a bearish signal for the AI trade, said Kevin Mahn, chief investment officer at Hennion & Walsh.
+
+"If they don't delay, and their IPO fails, or comes in below expectations, that could be perceived as bearish to certain investors," said Mahn. "Damned if you do, damned if you don't."
+
+Investors will also be looking for clues about the health of the AI trade on Nov. 17, when Nvidia (NVDA) reports earnings. With hyperscalers Alphabet (GOOG, GOOGL), Microsoft (MSFT), Amazon (AMZN), and Meta (META) having already reported, along with foundry Taiwan Semiconductor Manufacturing (TSM) and chip equipment maker ASML (ASML), expectations are high that Nvidia will once again beat earnings estimates and raise its guidance.
+
+"We got so much confirmation already," said Shay Boloor, chief market strategist at Futurum. "I give it a 1% chance that they miss."

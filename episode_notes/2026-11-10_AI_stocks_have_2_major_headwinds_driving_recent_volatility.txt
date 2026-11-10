@@ -1,0 +1,27 @@
+AI stocks have 2 major headwinds driving recent volatility
+
+2026-11-10
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/markets/article/ai-stocks-have-2-major-headwinds-driving-recent-volatility-160346646.html
+
+AI stocks rose on Monday, but markets remain on high alert amid fears that a slowdown in data center build-outs will upset the profit boom of the world's biggest companies — all of which are in tech.
+
+Those fears have become amplified in the wake of the "blue wave" that crested on Election Day, which could see newly elected Democratic senators and governors muck up the AI expansion.
+
+Additionally, there appears to be a second, less-obvious driver of the recent painful AI stock rout.
+
+Companies like Apple (AAPL) and Amazon (AMZN) have recently said they are keeping a closer eye on AI token spending. The read-through is that AI tech doesn't have infinite pricing power.
+
+"A significant push back on the pricing of AI by enterprises is growing in a meaningful way," Miller Tabal chief markets strategist Matt Maley wrote in a note. "The new 'usage pricing' policy for enterprises has caused a massive jump in the cost of AI for these enterprises (companies) … and this has caused MANY of them to balk at these increased costs. Many are now using AI routers to direct simple queries to smaller/cheaper models … and keeping the expensive frontier models for more complicated tasks. Others are adopting open-weight and local models … and quite a few are now enforcing budgets and token caps for employees."
+
+This one-two punch led to a historic and painful session for investors on Nov. 5.
+
+The S&P 500 (^GSPC) lost 4.4% of its market value, wiping out $3 trillion in the process.
+
+The Dow Jones Industrial Average (^DJI) plunged 1,800 points in its worst single-day rout since 2020. The tech-heavy Nasdaq (^IXIC) cratered 5.5%, dragged down by semiconductor and cloud giants such as Micron (MU) and Sandisk (SNDK).
+
+Stocks have continued to trade with a downward bias, especially tech names.
+
+Maley added, "There are TWO major developments from the past several weeks which are creating some further significant … and warranted … fears about the ROI for the AI industry. … Yes, a slowdown in the buildout of the data centers will likely pushout the timeframe when many companies will be able to create their full profit potential … but this 'pricing' issue raises some significant questions about just how profitable it will be. In other words, the HUGE profit assumptions that have been imagined by many AI bulls for the profitability of AI are starting to wane."
