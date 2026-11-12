@@ -1,0 +1,73 @@
+AI Investing After the Midterms Dip
+
+2026-11-12
+
+Por Texto propio
+
+AI Investing After the Midterms Dip
+
+Key Takeaways
+
+The selloff in AI-related stocks after the U.S. midterms appeared overdone, and markets have since recovered some of the losses; and further volatility could create potential buying opportunities.
+
+Some data center projects scheduled for 2028 could move to 2029, potentially supporting a smoother rebalance between supply and demand across the supply chain.
+
+Morgan Stanley Research maintains its forecasts for hyperscaler capital spending of $1.6 trillion in 2028 and $1.8 trillion in 2029.
+
+Financing could become more selective, with increasing importance given to tenant quality, access to power and contractual protections.
+
+The main investment opportunities after the selloff include the hyperscalers, select data center supply chain companies, software enablers and AI adopters.
+
+Equity markets, particularly technology stocks, fell sharply in the days after the U.S. midterm elections. Democrats’ sizable advantage in both the House and Senate, alongside gains in several governors’ races, raised investor questions about the outlook for data center construction, the technology investment cycle and global equities. Markets have since recovered some of the losses from that initial post-election selloff.
+
+However, Morgan Stanley Research believes the selloff was an overreaction. Should there be further volatility, investors can look for opportunities among AI enablers, infrastructure providers and companies adopting the technology.
+
+The election results are more likely to delay some data center projects from 2028 to 2029 than derail the broader capital investment cycle. This has potential to elongate the AI spending cycle, which could bring a smoother rebalancing of supply and demand across the data center supply chain, an improved credit outlook and higher lease rates for computing capacity.
+
+More than 20 Morgan Stanley Research teams globally assessed how the new U.S. political landscape could affect data center development, policy and equity investment opportunities across the U.S., Asia and Europe.
+
+1. Data Center Buildout Delayed, Not Derailed
+
+Newly elected governors are unlikely to disrupt projects already under construction, leaving the outlook for 2027 projects unchanged. However, some data centers scheduled for completion in Texas and Ohio in 2028 could be delayed until 2029 as incoming governors work with legislators to establish new requirements for developers.
+
+Morgan Stanley Research has shifted 20% of its projected 2028 data center capacity to 2029, while maintaining a positive view of the overall buildout. Globally, the revised forecast implies growth in data center capacity of 9% in 2028 and 20% in 2029.
+
+Potential U.S. delays could also create attractive opportunities for data center development outside the country.
+
+2. AI Capital Spending Forecast Stays on Track
+
+Hyperscalers—the major technology companies providing cloud computing, storage and networking services—are likely to continue spending and building as much capacity as possible to develop and scale new products for billions of users. The reason is simple: AI investment continues to offer an estimated return on invested capital of more than 30%.
+
+Morgan Stanley Research maintains its forecasts for hyperscaler capital spending of $1.6 trillion in 2028 and $1.8 trillion in 2029.
+
+These companies are also likely to shift some development to states with more favorable policies toward data centers, including Tennessee and Louisiana.
+
+3. Financing Remains Available But Selective
+
+With capital spending forecasts unchanged, AI-related debt issuance is likely to remain high in 2027, led by the hyperscalers.
+
+However, financing for new construction and specialized AI cloud providers, known as neoclouds, could face greater scrutiny. Tenant quality, a credible path to securing power and contractual protections will likely become increasingly important.
+
+Where Investors Can Find AI Opportunities
+
+Following the sharp decline in AI-related stocks after the election, Morgan Stanley Research sees three main areas of opportunity.
+
+1. Hyperscalers
+
+Among AI enablers, the hyperscalers benefit from scale, access to capital and the ability to capitalize on advances in large language models. These advantages can translate into higher revenue and profitability per watt of data center power.
+
+As constraints on AI infrastructure persist and AI capabilities advance rapidly, the largest and most sophisticated companies should be well positioned to gain market share and expand profit margins.
+
+2. Select Companies in the Data Center Supply Chain
+
+Morgan Stanley Research favors companies across the technology supply chain, power generation and data center development whose recent share-price declines appear excessive.
+
+Potential opportunities include U.S. powered shell providers, which supply data centers with power infrastructure; behind-the-meter power generators, which supply electricity directly to facilities; independent power producers; and other energy companies. There could also be pockets of opportunity among data center developers in some of the fastest-growing markets, alongside select semiconductor and hardware companies with attractive potential returns relative to risk following the selloff.
+
+3. Software Enablers and AI Adopters
+
+Investment opportunities are also broadening into software and companies adopting AI.
+
+Morgan Stanley Research sees a transition in potential market outperformance from AI semiconductor and infrastructure enablers toward software and AI adopters. Previous computing cycles have followed a similar sequence, with value creation moving from chips to infrastructure and ultimately to software and applications.
+
+Signs of value creation are emerging at the application layer as businesses deploy AI for productive cases. Morgan Stanley Research favors early software enablers, particularly in cybersecurity and infrastructure software, as well as broadening into early AI adopters.
