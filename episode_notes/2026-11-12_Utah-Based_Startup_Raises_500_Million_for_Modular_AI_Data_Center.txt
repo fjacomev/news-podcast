@@ -1,0 +1,19 @@
+Utah-Based Startup Raises 500 Million for Modular AI Data Center
+
+2026-11-12
+
+Por Texto propio
+
+Utah-Based Startup Raises $500 Million for Modular AI Data Center
+
+(Bloomberg) -- Torus, an energy-storage startup, said it raised $500 million in funding to help launch a new shipping container-sized product that combines batteries with artificial-intelligence computing.
+
+The Series C round was led by Magnetar with participation from investors including Iconiq Capital, Origin Ventures and Trinity Capital, Salt Lake City-based Torus said in a statement. The funds will support manufacturing of the company's new product, called Foundry. Hydra Host, an AI infrastructure company, is among the customers, Torus said.
+
+Torus founder and Chief Executive Officer Nate Walkingshaw said in an interview that the computing containers can be installed at businesses or factories where grids have excess power capacity. That can help avoid expensive infrastructure upgrades that put pressure on utility bills. The units, which specialize in AI inference tasks, range in size from one to 20 megawatts and can be installed within four months, he said.
+
+The product launch comes as data-center developers in the US race to find enough power to run energy-intensive AI applications. Developers seeking to build sprawling campuses that can draw as much electricity as a city face the prospect of greater scrutiny and longer timelines in states, including Texas and Ohio, where Democrats who campaigned for tighter restrictions on data centers won governors' races in last week's midterm elections.
+
+Torus has been selling modular battery systems that help businesses and factories manage their energy use and reduce power bills. The shifting political landscape provides an opening for companies that can offer computing power without jacking up electricity bills or adding to local noise or pollution, Walkingshaw said.
+
+"The Foundry product is our version of a distributed data-center approach to move the chips to the power that's already there," he said.
