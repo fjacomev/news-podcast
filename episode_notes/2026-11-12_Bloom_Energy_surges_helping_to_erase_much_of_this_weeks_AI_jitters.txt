@@ -1,0 +1,33 @@
+Bloom Energy surges, helping to erase much of this week’s AI jitters
+
+2026-11-12
+
+Por Paige Oamek
+
+https://finance.yahoo.com/markets/stocks/article/bloom-energy-stock-surges-as-coreweave-earnings-spur-rally-in-power-stocks-185358201.html
+
+AI power-provider stocks rallied on Wednesday after CoreWeave (CRWV) posted earnings that eased worries about how data center build-outs get funded. Bloom Energy (BE) was one of the biggest winners, jumping about 16% by midday.
+
+The move may not have been a total surprise.
+
+Bloom's third quarter earnings, announced in late October, were a mixed picture. On one hand, the company, which designs, manufactures, and installs solid oxide fuel cells, reported record revenue of $1.24 billion, up 138% from a year earlier, and raised its 2026 revenue guidance for the third time this year, to $4.4 billion to $4.6 billion. It was also added to the S&P 500.
+
+On the other hand, Bloom burned cash. Operating cash flow was negative $27.1 million, and capital expenditures rose to $153.5 million, nearly triple its second quarter capex.
+
+Still, management said the market is broadening.
+
+"The demand for electricity is just going to skyrocket not just because of AI, but because of so many market segments that require electricity in this digital age," Bloom Energy CEO K.R. Sridhar said during an Oct. 22 earnings call. "This is coming from resiliency. It's coming from security."
+
+Some analysts say CoreWeave's earnings report added to that case.
+
+"CoreWeave's pricing comments suggest demand continues to outpace available supply, supporting our view that speed and certainty to power will remain differentiators for the foreseeable future," Evercore analyst Nicholas Amicucci said in a note on Wednesday.
+
+The positive sentiment around AI infrastructure following CoreWeave's earnings also bodes well for Nebius Group (NBIS), a significant Bloom Energy customer, which reports earnings on Thursday. Nebius also rose over 18% by midday on Wednesday.
+
+The move higher on Wednesday also came after Bloom secured a nonbinding agreement with California Resources Corporation earlier this month to explore carbon capture in the state.
+
+Additionally, a few days later, Bloom signed an agreement with Japanese technology firm NTT (9432.T). The company will deploy fuel cells across multiple data center projects worldwide operated by NTT Data Group.
+
+"We are witnessing strong interest in deploying Bloom systems to meet rapidly growing power demand in many international markets," Sridhar hinted during October's earnings call.
+
+Exploring international markets may prove to be fruitful — or even existentially vital. After the midterms, Bloom Energy stock was among the S&P 500's biggest losers. Shares dropped on concerns about data center delays, including Texas governor-elect Gina Hinojosa's possible moratorium on all data center approvals.

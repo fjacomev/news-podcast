@@ -1,0 +1,23 @@
+'Icarus' rise and fall': Analyst downgrades Nvidia stock amid Jensen Huang woes, highlights risks
+
+2026-11-12
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/markets/article/icarus-rise-and-fall-analyst-downgrades-nvidia-stock-amid-jensen-huang-woes-highlights-risks-131204555.html
+
+Let Wall Street analyst downgrades begin on the once-untouchable Nvidia (NVDA) stock in the wake of CEO Jensen Huang's high-profile affair.
+
+Baird analyst Tristan Gerra cut his rating on Nvidia to Neutral on Wednesday in a note titled, "Icarus' Rise and Fall; Company Will be Fine."
+
+"Downgrading to Neutral until uncertainties regarding U.S. government action likely resulting from the upcoming congressional hearing are lifted, U.S. government investigations reach their conclusions, revenue impact from risk channel near-term adjustments along with potential charges is quantified, and uncertainties around CEO tenure clear," Gerra wrote.
+
+Huang admitted to the affair on Sunday in an email to employees. Shares are down about 12% since the situation became public.
+
+Nvidia's board of directors launched an independent investigation into reports that the woman Huang had an affair with was allegedly a spy for the Chinese government.
+
+The board said it hired powerful law firm Wachtell, Lipton, Rosen & Katz to conduct the investigation. Former acting US Attorney of the Southern District of New York Joon Kim will run point on the investigation.
+
+Gerra highlighted several near-term risks to Nvidia's stock, including a new ban on H200 exports to China.
+
+"We believe low-level shipping is taking place into Asia-based warehouses with some inventories awaiting China demand. We estimate this could translate into a $5 billion write-down, Gerra said, adding: "Export control limitations notably addressing the Southeast Asia data center loopholes, along with DOJ potential action against Megaspeed and resulting preemptive or enforced actions from other data center operators located in the region with potential China demand exposure. Historically China-related GPU demand has been higher than Street expectations and often unquantified."

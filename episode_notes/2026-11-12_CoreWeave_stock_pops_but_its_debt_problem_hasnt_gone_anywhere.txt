@@ -1,0 +1,33 @@
+CoreWeave stock pops — but its debt problem hasn't gone anywhere
+
+2026-11-12
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/markets/article/coreweave-stock-pops--but-its-debt-problem-hasnt-gone-anywhere-164359122.html
+
+Investors may want to temper their CoreWeave (CRWV) enthusiasm, which is on full display Wednesday.
+
+This is far from a perfect business, and don't lose sight of that.
+
+CoreWeave stock popped 24% in morning trading as the company came out swinging against the bears that have shredded the stock more than 40% inside of a month.
+
+The company beat on third quarter sales estimates. Its loss was better than expected. It raised the bottom end of full-year revenue guidance by $1 billion.
+
+Less than 30 minutes into the earnings call, CEO Michael Intrator even attempted to take the bears head-on again.
+
+"Looking ahead, we will not use the unsecured debt market to fund our business at current yields, nor do we need to," Intrator said. "Consistent with our historical approach, we expect to finance the majority of the remaining CapEx needed to deliver our backlog through delayed draw term loans matched to specific customer contracts. Through 2027, more than 75% of committed CapEx is tied to investment-grade and enterprise customers, with the remainder tied to the world's leading AI labs and AI-native companies. The pricing of these facilities reflects the underlying customer commitments and our proven ability to deliver. They can finance anywhere from 70%-100% of the associated CapEx,"
+
+But all of this doesn't sweep this important issue under the rug regarding CoreWeave: It has a lot of debt and an insane amount of associated interest expense!
+
+For the nine months ended Sept. 30, CoreWeave's interest expense tallied $2 billion — up sharply from $841 million a year earlier. The excessive interest expense easily toppled the $14 million in operating income CoreWeave generated in the same period.
+
+In the third quarter alone, CoreWeave racked up $846 million in interest expense.
+
+The company's non-current recourse debt ballooned to $32.4 billion from $14.6 billion a year earlier.
+
+In short, CoreWeave needs a lot to go right over the next 12 months to support a balance sheet that's throwing off this high level of interest expense.
+
+"CoreWeave delivered about the best quarter we could have asked for," Bernstein analyst Madison Rezaei said. "They're continuing to mature as a company, executing better with every print, and managing the narrative more competently than they ever have. Stats were good-to-great, funding concerns were addressed, the strategic moves make sense, and, much as we were after 2Q earnings, we're left grappling with our Underperform. We want to be believers, especially with the stock off 65% from its May high. If we were sitting in Intrator's chair, we'd make many of the same calls, and we congratulate the CRWV team on the trajectory. But we just can't get over our long-term fundamental concerns about this business model."
+
+CoreWeave's business was — and is — reliant on customers, and markets have confidence in the model working as designed. Expect said confidence to continue to be tested.

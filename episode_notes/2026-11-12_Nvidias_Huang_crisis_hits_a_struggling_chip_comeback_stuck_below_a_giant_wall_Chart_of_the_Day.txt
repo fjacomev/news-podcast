@@ -1,0 +1,33 @@
+Nvidia’s Huang crisis hits a struggling chip comeback stuck below a giant wall: Chart of the Day
+
+2026-11-12
+
+Por Jared Blikre
+
+https://finance.yahoo.com/markets/article/nvidias-boardroom-bombshell-hits-a-fragile-chip-rally-chart-of-the-day-110000355.html
+
+Chip stocks spent four sessions clawing out of last week's AI rout. Nvidia's boardroom crisis just pulled the rug out from under them.
+
+The comeback was fragile to begin with. A Yahoo Finance basket of 62 chip stocks had won back less than a third of the market value it lost from early October to last week's low, and the PHLX Semiconductor Index (^SOX) was still stuck below its 200-day moving average despite a rally of about 17% off that low.
+
+Then came Nvidia (NVDA). The stock tumbled after the bell Wednesday following reports that its board is preparing to oust CEO Jensen Huang, falling below a floor near $164 that had held twice in the past 14 months.
+
+The scandal-plagued chipmaker had already shed about $190 billion in market value since last week's low, even as TSMC (TSM), Broadcom (AVGO) and AMD (AMD) each added roughly a quarter of a trillion dollars. At its overnight low, Nvidia's loss swelled to more than $600 billion, putting the stock at its lowest level since July 2025.
+
+The rest of the market had been in better shape. The S&P 500 (^GSPC) clawed back about $2.5 trillion in market value over the same stretch, nearly 60% of what it lost in its monthlong slide from a record, according to Yahoo Finance calculations.
+
+Software had lagged, too. Microsoft (MSFT) has slipped since last week's low, and the iShares Expanded Tech-Software ETF (IGV) has managed only about 3%.
+
+Brian Mulberry, chief market strategist at Zacks Investment Management, called it "not a relief rally but a belief rally that everything is still going to be okay" on Yahoo Finance's Market Hang on Wednesday.
+
+The broader market has bought in. The equal-weight S&P 500 (RSP), which gives the smallest member the same weight as Nvidia, is a whisker from its record. Apple (AAPL) closed at a record Wednesday.
+
+Bespoke Investment Group noted that the S&P 500 itself is still oversold, even though most of its sectors are overbought. The index is being held back by its heavyweights.
+
+Tech's old floors are now its ceilings
+
+Rebounds from a washout tend to stall where the selling first got serious, at old floors that have turned into ceilings.
+
+For chip stocks, that wall sits near 11,100 to 11,200 on the chip index. That area held as a floor from May into October before it cracked, and it's roughly halfway back from the October high. First, though, the index has to get back above its 200-day average, which it fell short of Wednesday.
+
+The Nasdaq-100 (^NDX) jumped back above its 200-day level. Its line in the sand is 29,000, where the halfway mark of its slide meets its mid-October lows and early November highs. Traders who bought on the way down and got trapped may be happy to sell there just to break even.
