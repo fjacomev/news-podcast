@@ -1,0 +1,33 @@
+Nvidia executive Ian Buck emerges as CEO frontrunner on prediction markets
+
+2026-11-13
+
+Por Daniel Howley
+
+https://finance.yahoo.com/technology/article/nvidia-executive-ian-buck-emerges-as-ceo-frontrunner-on-prediction-markets-202512437.html
+
+With Jensen Huang out as CEO at Nvidia (NVDA) and CFO Colette Kress taking on the role of interim CEO, Wall Street, the company's partners, and its customers are waiting to find out who the next permanent CEO will be.
+
+There are a number of candidates inside and outside of the company who could fill the position. But prediction markets Kalshi and Polymarket have zeroed in on Nvidia VP of hyperscale and high-performance computing Ian Buck as the company's next leader.
+
+Both sites rank the odds of Buck taking over at roughly 40%.
+
+Buck has worked at Nvidia for the last 22 years, rising from a systems engineer to his current role as the head of the company's biggest businesses.
+
+The executive also has the kind of engineering chops that Nvidia's board may find compelling for the CEO role.
+
+Buck has a Ph.D. from Stanford University in computer science and, more importantly, developed Nvidia's CUDA technology.
+
+CUDA allows companies to use the chip giant's graphics processing units (GPUs) for general computing, a capability that was instrumental in turning Nvidia into the AI powerhouse it is today.
+
+But Buck has a hard act to follow. Huang's charismatic personality drew customers and investors, turning him into one of the tech industry's biggest stars.
+
+And his penchant for elaborate keynotes at massive venues, where he regularly offered technical deep dives, drew thousands of attendees. It's unclear if any other executive could check all of the same boxes.
+
+For now, Wall Street analysts see Kress as a steady hand to guide Nvidia through the current storm.
+
+KeyBanc Capital Markets analyst John Vinh wrote in a note to investors that Kress's appointment as interim CEO is constructive "given her tenure as CFO since 2013 and deep institutional knowledge of Nvidia's business and strategy."
+
+Whoever Nvidia's board eventually chooses to lead the company will have plenty of questions to answer about its future and whether it can continue to dominate the industry as it did under Huang.
+
+Email Daniel Howley at dhowley@yahoofinance.com. Follow him on X at @DanielHowley or reach out on Signal or Telegram.

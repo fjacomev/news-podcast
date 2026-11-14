@@ -1,0 +1,33 @@
+Qualcomm CEO on tech stock meltdown: 'There is no AI correction' for us
+
+2026-11-13
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/technology/article/qualcomm-ceo-on-tech-stock-meltdown-there-is-no-ai-correction-for-us-142155683.html
+
+Qualcomm (QCOM) CEO Cristiano Amon doesn't think his tech giant should be lumped in with other AI stocks recently being dumped hand over fist.
+
+"We're new to the data center, so all of these things don't really apply to us. There is no AI correction in Qualcomm," Amon said at Yahoo Finance Invest when asked about the tech stock rout following the midterm elections.
+
+"We are just starting on our journey on the data center," he added. "But here's one thing that is important to look at. When I look at the semiconductor industry today, it's on an extreme shortage. We're short on wafers, we're short on substrate, we're short on assembly. Everything is short because demand is very, very high. The second thing is everybody talks about it. In some cases, you have energy lead times that sometimes are not the same as the compute lead time. And sometimes energy projects take you longer. So I think there may be a disconnect in what the market probably expects on the rate of build-out and the actual rate of build-out, which is probably paced by energy and supply."
+
+The markets remain on high alert amid fears that a slowdown in data center build-outs will upset the profit boom of the world's biggest companies — all of which are in tech.
+
+Those fears have been amplified in the wake of the blue wave that erupted on Election Day, which could see newly elected Democratic senators and governors muck up the AI expansion.
+
+This led to a historic and painful session for investors on Nov. 5.
+
+The S&P 500 (^GSPC) lost 4.4% of its market value, wiping out $3 trillion in the process.
+
+The Dow Jones Industrial Average (^DJI) plunged 1,280 points in its worst single-day rout since 2020. The tech-heavy Nasdaq (^IXIC) cratered 4.8%, dragged down by semiconductor and cloud giants such as Micron (MU) and Sandisk (SNDK).
+
+Stocks have continued to trade with a downward bias, especially tech names.
+
+Qualcomm isn't exactly 100% immune from the AI infrastructure risk-off trade.
+
+The company is aggressively pushing into the US data center build-out by positioning itself as a power-efficient alternative to AI chipmaker Nvidia (NVDA), specifically targeting large-scale AI inference workloads with its new Dragonfly architecture and high-bandwidth compute platforms.
+
+Qualcomm said in early September that hyperscaler Amazon (AMZN) could buy up to $60 billion of its AI data center chips and related products under a long-term partnership.
+
+On the market dynamics, Amon added, "I think the market is probably getting to the realization of what exactly the speed of build-out which is available by the supply of the industry. And look, it's very high volatility right now. So it's really difficult to have a precise opinion on this. And what I said coming back to Qualcomm is we're new to this, we're being modest, and for everything that I outlined out there, I have the supply, I have the demand."

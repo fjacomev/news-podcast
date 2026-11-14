@@ -1,0 +1,31 @@
+AMD CEO Lisa Su on data center backlash: Tech has to sell the vision
+
+2026-11-13
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/technology/article/amd-ceo-lisa-su-on-data-center-backlash-tech-has-to-sell-the-vision-162604989.html
+
+AMD (AMD) CEO Lisa Su says it's on the tech community to convince the American public that data centers in their backyards are OK.
+
+"I actually think the work starts right now. I'm actually pretty energized about this. I believe we as a tech industry have a responsibility to be very proactive, to be very front-footed, and to make sure that everyone gets to benefit from this technology wave," Su said at Yahoo Finance Invest. "I think there are lots of good examples where the hyperscalers or the companies contracting data centers have gone into communities and explained how they're going to help on energy costs, help on local infrastructure, how the local community is going to benefit from the investments and the job creation and the economic adds into the region. I think we just need to tell that story, and it's going to be told at the local level."
+
+To be sure, data centers are a hot-button issue in the US.
+
+About 40 cities and towns across the nation considered measures to restrict data center development in the latest midterm elections, according to an analysis by USA Today. A total of 33 voted in favor of reining in the industry, supporting moratoriums, new regulations, and outright bans.
+
+Roughly 76% of voters said they would oppose the construction of new data centers in their communities, according to exit polls from NBC News.
+
+"Everyone should be proud of the fact that America leads in AI and technology, and we want to continue to sustain that lead going forward, and we can do that so that everyone gets a part of the benefit," Su said.
+
+The AI boom continues to be a major tailwind for AMD's business.
+
+AMD delivered a strong double beat in its third quarter earnings report on Nov. 3. Sales jumped 45% year over year to a record $13.38 billion, comfortably surpassing Wall Street consensus estimates of roughly $13.06 billion.
+
+Adjusted earnings climbed 74% to $2.09 per share, easily topping analyst projections of $1.94 per share.
+
+The blowout performance was anchored by the Data Center segment, where revenue surged 97% to a record $8.5 billion on robust demand for EPYC server processors and the production ramp of Instinct MI450 AI accelerators.
+
+For the fourth quarter, AMD said it sees 50% sequential growth in data centers. In 2027, Su guided to revenue growing more than 80% with server revenue doubling and data center AI more than doubling.
+
+The company's sterling year financially and strong execution by Su — including a host of big deals with Meta (META) and the like — earned her Yahoo Finance's annual "CEO of the Year" award for 2026.

@@ -1,0 +1,51 @@
+Intel CEO Lip-Bu Tan on turnaround efforts amid stock slump: 'I feel called to do this'
+
+2026-11-13
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/technology/article/intel-ceo-lip-bu-tan-on-turnaround-efforts-amid-stock-slump-i-feel-called-to-do-this-191138450.html
+
+Intel (INTC) CEO Lip-Bu Tan has been charging hard all year long to bring America's iconic chipmaker back to top-tier status in tech land and among investors.
+
+And for much of 2026, the successes had been quite evident — especially on the sales and profit lines — as tech veteran Tan used his vast network of contacts to secure new business, reinvigorated Intel's engineering culture, and benefited from sweeping cost cuts.
+
+Sales for the nine months ended Sept. 30 increased 18% to $46.2 billion. Operating profits clocked in at $1.2 billion, compared to a year-ago loss of $2.8 billion. Intel's stock price hit a record high in mid-June of $135.
+
+For Tan (armed with a wealth of chip industry knowledge and deep relationships to match), 66, the early wins were validation of his decision to take the turnaround CEO role at Intel in March 2025. He took the role after leading Cadence Design Systems (CDNS) for 12 years and working as a venture capital investor, and after he left Intel's board of directors in August 2024, reportedly amid disagreements with then CEO Pat Gelsinger.
+
+"I think you know this is a difficult decision I made, and with my family support to do this," Tan told Yahoo Finance at Intel's headquarters in Santa Clara, Calif. "I thought that after I turned around Cadence, I'm done, and I go back to my venture capital investments. But I just felt that this is an iconic company, and it's so important for the industry, and also very important for United States, and a lot of my friends, even my competitors, they are cheering for me to be successful. Somehow, you find the motivation to do something, and it's not easy. It's a multiyear turnaround, and I'm in the middle of it. But I think I feel called to do this."
+
+But as is often the case with corporate turnarounds at legacy giants, a few bumps in the road tend to spring up along the path back to greatness. Intel is no exception, as investors have been reminded of in recent weeks.
+
+We sat down with Tan at Intel's HQ — outfitted with a museum as soon as you walk through the doors, showing the company's immense history of innovation — on Oct. 21, ahead of the company's Oct. 29 third quarter earnings report.
+
+Under Tan's leadership, Intel has won deserved praise on Wall Street. The company's execution and competitiveness in its core client and data center compute markets have improved. Next-generation manufacturing execution has steadied, notably yields, manufacturability, foundry process, and advanced packaging.
+
+These are all metrics foundational to the Intel comeback story, and the Street tracks them like a hawk.
+
+One couldn't be blamed for finally becoming a believer in Intel as a viable foundry in the US and a strong competitor to behemoth Taiwan Semiconductor (TSM) after several years of losing a lot of money building the infrastructure to pull this off.
+
+The stock collapsed after Intel's forecast for fourth quarter sales fell well shy of expectations due to a worse-than-expected decline in PC sales. At the center of the PC weakness is a shortage of memory chips, which are being snapped up by AI hyperscalers, pushing prices up and causing consumers to delay purchases.
+
+At the same time, an explosion at Intel's Kiryat Gat chip fabrication facility in Israel in early October will cost the company about $600 million in lost sales across two quarters, the company said. The lost sales include 10-nanometer server shipments.
+
+Intel stock is down 38% over the past month.
+
+"We continue to expect Intel to be a beneficiary of rising server demand (driven by agentic AI), and we see upside optionality from Intel's role as a US champion with its foundry business — with near-term traction in advanced packaging, and longer-term potential in wafer outsourcing. However, we are Neutral rated as we believe the stock is likely to remain under pressure until visibility stabilizes and execution improves — and we believe Intel's closest peers AMD, Nvidia and Broadcom offer more favorable risk/reward at current levels," Goldman Sachs analyst James Schneider wrote in a note.
+
+Yahoo Finance caught back up with Tan via email ahead of this publication.
+
+He highlighted several specific signposts that Intel investors should look for as evidence of progress over the next couple of quarters.
+
+"Intel is executing a multi-year turnaround story driven by unprecedented demand for x86 processors and AI," Tan said. "While certain market segments are subject to cyclical, industry-wide headwinds, like higher memory prices and substrate constraints, we are taking concrete measures to address this by increasing Intel 3 output, improving yields and cycle times, reallocating capacity where appropriate, and working with suppliers to expand substrate capacity."
+
+When we originally talked with Tan, we asked him how long he plans to stay in the Intel CEO job. He doesn't sound like someone who will be going anywhere anytime soon or, frankly, like someone who will let one unexpectedly poor outlook unsettle his mission.
+
+And to be clear, that's how Tan sees what he is doing at Intel: It's a mission to put Intel back on the map in the US for the next generation. That's why Tan still has all of Intel's engineers report directly to him, so he stays in the trenches to drive the product outcomes he believes are required to win. That's why he says he is up until 1:00 a.m. working, only to wake at 5:30 a.m. for a swim and a meditation session. His only true "me" time is Sunday morning, he told us.
+
+The climb back up the hill after the stock sell-off won't be easy.
+
+Tan is the guy to lead it, though.
+
+"One of the main reasons I stay on to be the CEO of Intel is because foundry has become very important," Tan said. "All these chips that we all enjoy: your cell phone, your PC, your laptop, your Apple iPhone, and iPad. They all need semiconductors, and then semiconductors need to manufacturing in the US. I'm glad TSMC, Samsung, they all move to the US, and meanwhile we are the only one that do the R&D development in the US and so with that, I think there's a role we can play to support."
