@@ -1,0 +1,43 @@
+3 signs AI stocks may be a great trade again
+
+2026-11-14
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/markets/article/3-signs-ai-stocks-may-be-a-great-trade-again-130410381.html
+
+Many AI stock bulls may be mourning the loss of Jensen Huang as the CEO of Nvidia (NVDA), but they shouldn't sulk for too long.
+
+The AI trade may be back, for now, after an early fall slumber. Here are several under-the-radar moves in the AI sector this week that investors may have overlooked amid the outsized focus on the Huang scandals.
+
+Cisco's strong guidance
+
+If AI demand is beginning to slow, you didn't see it in the quarter or outlook from networking giant Cisco (CSCO) late Thursday.
+
+The company beat on the top and bottom lines for the most recent quarter. Guidance for the current quarter was also above estimates.
+
+Cisco raised its expectation for AI infrastructure sales from hyperscalers to $9 billion this fiscal year. That would be more than double the results from the previous fiscal year.
+
+"We're executing against our strategy and seeing growing demand as customers invest in the infrastructure they need for the AI or SI era," Cisco CEO Chuck Robbins said.
+
+KeyBanc analyst Brandon Nispel said the stock looks "attractively" valued in the wake of earnings.
+
+Cerebras mirrors Cisco
+
+The AI infrastructure play, similar to Cisco, beat on sales and earnings in the most recent quarter late Thursday.
+
+Cerebras (CBRS) said it sees a core gross margin of 47% to 49% and sales of $310 million to $330 million for the current quarter. Analysts had estimated a 42.1% gross margin and $271 million in sales.
+
+"Net-net, key customers remain intact, CBRS is adding new hyperscalers, but the industry is experiencing LPS delays across many providers, which is causing slowness in the OAI ramp and could push timing of revenue," Barclays analyst Tom O'Malley said. "With the level of pressure the company saw over the last month (-33% vs. SOX -14%), we think the clearing of the bear case and new customers should more than offset industry-wide concerns on LPS delays in the near term. The new focus should be on execution of OAI and the new customer set."
+
+Shares surged 13% in premarket trading on Friday.
+
+CoreWeave calms the bears
+
+CoreWeave (CRWV) left nothing for the bears to chew on when it reported earnings earlier this week.
+
+The company beat on the top and bottom lines. It signaled strong demand trends. And it fought back against the view that it would need to tap high-yield debt markets to fuel its growth.
+
+"We already have a robust pipeline of customers competing for this capacity. At current pricing levels, 2027 renewals would generate approaching $4 billion of incremental annualized revenue with no additional capex required," CoreWeave CEO Michael Intrator said. "This grows to nearly $10 billion of annualized incremental revenue when including 2028 renewals. Furthermore, if data center construction across the sector were to slow, installed compute becomes scarcer, and the knock-on effect is that GPU pricing may stay higher for longer."
+
+Shares of CoreWeave are up 22% this week.
