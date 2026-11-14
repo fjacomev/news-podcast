@@ -1,0 +1,27 @@
+Qualcomm CEO: Elon Musk is serious about SpaceX's cellular network ambitions
+
+2026-11-13
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/markets/stocks/article/qualcomm-ceo-elon-musk-is-serious-about-spacexs-cellular-network-ambitions-133405046.html
+
+Qualcomm (QCOM) CEO Cristiano Amon thinks Elon Musk is super serious about being a major player in the cellular business with SpaceX's (SPCX) Starlink.
+
+"If you look at Starlink and what they have done in communication, that's a very, very important telecom business. It's kind of a natural evolution of that," Amon said at Yahoo Finance Invest.
+
+Earlier this month, Qualcomm signed a multiyear agreement with SpaceX to supply radio equipment, baseband units, and software for Starlink's planned nationwide 5G network.
+
+Musk called Qualcomm's technology "excellent" in a response to Amon on X. The equipment will begin being deployed in 2027.
+
+"I think what's happening is SpaceX is building a nationwide terrestrial network. It's a 5G nationwide terrestrial network in the United States. It's among the largest deployments of infrastructure in the United States," Amon said, adding, "It's a great partnership, and I think it's going to continue to drive innovation cycle in the cellular industry."
+
+Musk has spent the last few months sending clear messages to legacy telecom players like T-Mobile (TMUS), AT&T (T) and Verizon (VZ).
+
+The company is looking to lease space on 80,000 cell sites across the US. Bloomberg reported in late October that SpaceX is reportedly in talks with two of the largest owners of cellular towers, Crown Castle (CCI) and American Tower (AMT).
+
+"Committing ~$30 billion into spectrum is serious enough. Committing to 80K macro sites could be a point of no return," Bernstein analyst Laurent Yoon wrote. "That is a meaningful number, broadly consistent with the scale required for a nationwide terrestrial wireless network. Whether SpaceX ultimately leases anything close to that figure remains uncertain, but the reported scope suggests a far greater level of commitment than spectrum accumulation alone."
+
+SpaceX also recently acquired a nationwide low-band spectrum portfolio.
+
+"Starlink broadband is the threat investors can see today and one that incumbents are beginning to acknowledge," Yoon said. "Starlink Mobile remains the larger long-term question given the size and profitability of the wireless market. The competitive impact may still be years away, but anticipation alone, reinforced by each successive spectrum and infrastructure move, is likely to remain an overhang on sector sentiment."
