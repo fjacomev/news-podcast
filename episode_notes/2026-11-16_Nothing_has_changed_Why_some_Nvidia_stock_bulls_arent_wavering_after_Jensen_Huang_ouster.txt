@@ -1,0 +1,39 @@
+'Nothing has changed': Why some Nvidia stock bulls aren't wavering after Jensen Huang ouster
+
+2026-11-16
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/technology/article/nothing-has-changed-why-some-nvidia-stock-bulls-arent-wavering-after-jensen-huang-ouster-204522204.html
+
+Wall Street hasn't totally given up on Nvidia's (NVDA) stock. While there has been a steady stream of price targets this week and a few downgrades, a lot of analysts who cover the company are staying bullish.
+
+Their argument is captured in one note from Wedbush analyst Matthew Bryson.
+
+"Nothing has changed," Bryson wrote on Friday ahead of Nvidia's earnings next week.
+
+"We again expect NVDA to exceed its forecast and to guide FQ4 above Street."
+
+His rationale hinges on three points:
+
+-       "Management has tended to leave a fair bit [of] wiggle room in guidance, allowing for meaningful upside when reporting numbers and we expect NVDA will deliver another beat and raise quarter."
+
+-       "A strong hyperscaler spending backdrop augmented by increased spending at neoclouds and model builders (in particular xAI) is persisting into the out quarters as highlighted by results and guidance from Taiwan Semiconductor, AMD, SuperMicro, Foxconn, etc. as well as our own supply chain checks."
+
+-       "We believe NVDA has built a best in industry position with material and component suppliers through at least next year at a point where component and material access, not end demand, is defining shipments."
+
+It has been a brutal week for the once-untouchable Nvidia founder Jensen Huang.
+
+Huang was ousted as CEO of the company he founded in 1993 amid a shocking turn of events.
+
+According to the New York Times, Huang, whose relationship with a woman alleged to be a Chinese spy has embroiled the company in scandal this week, also had a relationship with Nvidia executive Kimberly Powell, one of Huang's 60 or so direct reports.
+
+Reuters reported late Thursday that Huang had a relationship with another Nvidia employee. The employee's name was not released. Huang has been married to his wife Lori for more than 40 years.
+
+While Nvidia looks for a successor, the board has installed longtime CFO Colette Kress as interim CEO.
+
+Interestingly, Nvidia's stock is only down 12% for the week. We say only because, at one point, not seeing Huang atop Nvidia would have been unthinkable, and given the leadership uncertainty, one would think the stock would be down a lot more.
+
+"Questions about data center financing, politics, and most significantly, former CEO Jensen Huang's sudden resignation have seemingly sucked up the oxygen that had been fueling NVDA's momentum since the release of ChatGPT4.0," Bryson said.
+
+Some oxygen is still being pumped into Nvidia's stock, it appears.
