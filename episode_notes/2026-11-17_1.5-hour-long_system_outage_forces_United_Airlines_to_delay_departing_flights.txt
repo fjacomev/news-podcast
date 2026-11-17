@@ -1,0 +1,43 @@
+1.5-hour-long system outage forces United Airlines to delay departing flights
+
+2026-11-17
+
+Por JOSH FUNK
+
+https://www.yahoo.com/news/us/articles/united-airlines-says-widespread-system-220949098.html
+
+1.5-hour-long system outage forces United Airlines to delay departing flights
+
+A system outage that lasted more than 90 minutes forced United Airlines to delay departing flights Monday, just days after a malfunction in the Federal Aviation Administration's network prompted a nationwide ground stop.
+
+Chicago-based United said in a statement that flights that were in the air and flights on its United Express regional network were not affected. The airline also said there was "no indication that this was a cybersecurity-related issue."
+
+United apologized on social media to customers for the inconvenience. It resolved the issue about one hour and 40 minutes after pilots first began reporting problems to air traffic controllers.
+
+United did not immediately provide details about which of its systems were affected, but pilots told air traffic controllers that the problem was related to a system that helps them determine a plane's final weight.
+
+Before every departure, pilots use performance software, often on a cockpit tablet, to check that the aircraft can safely take off under current weather and runway conditions. The preflight calculations include the aircraft's weight along with information about the fuel, baggage, cargo and passengers the plane is carrying.
+
+The information is also used to guide the autopilot system and the decisions pilots make, aviation safety expert Steve Arroyo said.
+
+"It is extremely important to have all of these numbers accurate and precise," said Arroyo, who flew for United. "Pilots use that information to establish guidance and performance for their flights from takeoff to landing."
+
+Arroyo said he has seen problems with the weight and balance system before in his career, but the airline did the right thing by delaying flights to ensure safety.
+
+Years ago, pilots used to do all those weight calculations manually with a pencil and paper and then radio in the numbers, but today it is all calculated electronically and then loaded into the plane's computers.
+
+In August 2025, United grounded planes at major U.S. airports, delaying more than 1,000 flights because of an hourslong outage of a system called Unimatic, which houses flight information that is fed to other systems including those that calculate weight and balance and track flight times.
+
+United said in response to a message from The Associated Press that it had no further information to provide about whether the same system was affected by Monday's outage.
+
+A recording posted Monday on the ATC app showed a United pilot in Houston asking the tower for permission to stay put at the gate until the system was working again. The app combines live air traffic control radio feeds with real-time visual aircraft tracking.
+
+The flight-tracking website FlightAware showed United with about 600 delayed flights Monday evening, though it was unclear how many were directly related to the system outage.
+
+The United computer problem is just the latest high-profile technology meltdown in recent days.
+
+Earlier Monday, thousands of people reported being unable to access their online accounts at several major U.S. banks after JPMorgan Chase had a technical problem.
+
+On Friday, the FAA ordered every flight grounded because a newly installed router malfunctioned, overwhelming the aging air traffic control system.
+
+And one day earlier, Microsoft experienced a major disruption to its Outlook email service. Microsoft said Saturday that services were fully restored.
