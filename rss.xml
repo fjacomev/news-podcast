@@ -7,7 +7,7 @@
     <link>https://fjacomev.github.io/news-podcast</link>
     <description>Podcast personal de noticias, leido en voz local</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 11:37:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 13:11:46 GMT</lastBuildDate>
     <image>
       <url>https://fjacomev.github.io/news-podcast/cover.jpg</url>
       <title>Fernando AI News</title>
@@ -18,6 +18,67 @@
     <itunes:summary>Podcast personal de noticias, leido en voz local</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
+
+    <item>
+      <title>Nvidia posts Q3 beat</title>
+      <author>Texto propio</author>
+      <description>Nvidia posts Q3 beat
+
+2026-11-18
+
+Por Texto propio
+
+Nvidia posts Q3 beat as revenue rose 103% YOY to $115.8B, board says it will not reinstate Jensen Huang as CEO
+
+By Daniel Howley
+
+Nvidia (NVDA) reported its Q3 results after the bell Tuesday, beating Wall Street&#x27;s expectations on the top and bottom lines and offering a better-than-anticipated Q4 outlook. The company also announced a $150 billion stock buyback. Nvidia stock rose on the news.
+
+For the fourth quarter, Nvidia expects revenue between $127.4 billion and $132.6 billion. Analysts were anticipating $125.25 billion
+
+For the quarter, Nvidia saw earnings per share of $2.68 on revenue of $115.8 billion. Wall Street analysts were projecting EPS of $2.47 and revenue of $109.15 billion, based on Bloomberg consensus estimates.
+
+Nvidia stock rose 3% during premarket trading on Wednesday.
+
+The company reported EPS of $1.30 and revenue of $57 billion in Q3 last year.
+
+Data Center revenue topped out at $107.6 billion versus an anticipated $101.85 billion. The company&#x27;s Edge Computing segment brought in $8.2 billion versus an expected $7.49 billion.
+
+This is Nvidia&#x27;s first earnings report since CFO Colette Kress took over as interim CEO, following Jensen Huang&#x27;s resignation last week.
+
+Huang left the company after revelations regarding a series of affairs, including one with a suspected Chinese spy and another with an alleged Nvidia employee.</description>
+      <content:encoded><![CDATA[<p>Nvidia posts Q3 beat</p><p>2026-11-18</p><p>Por Texto propio</p><p>Nvidia posts Q3 beat as revenue rose 103% YOY to $115.8B, board says it will not reinstate Jensen Huang as CEO</p><p>By Daniel Howley</p><p>Nvidia (NVDA) reported its Q3 results after the bell Tuesday, beating Wall Street&#x27;s expectations on the top and bottom lines and offering a better-than-anticipated Q4 outlook. The company also announced a $150 billion stock buyback. Nvidia stock rose on the news.</p><p>For the fourth quarter, Nvidia expects revenue between $127.4 billion and $132.6 billion. Analysts were anticipating $125.25 billion</p><p>For the quarter, Nvidia saw earnings per share of $2.68 on revenue of $115.8 billion. Wall Street analysts were projecting EPS of $2.47 and revenue of $109.15 billion, based on Bloomberg consensus estimates.</p><p>Nvidia stock rose 3% during premarket trading on Wednesday.</p><p>The company reported EPS of $1.30 and revenue of $57 billion in Q3 last year.</p><p>Data Center revenue topped out at $107.6 billion versus an anticipated $101.85 billion. The company&#x27;s Edge Computing segment brought in $8.2 billion versus an expected $7.49 billion.</p><p>This is Nvidia&#x27;s first earnings report since CFO Colette Kress took over as interim CEO, following Jensen Huang&#x27;s resignation last week.</p><p>Huang left the company after revelations regarding a series of affairs, including one with a suspected Chinese spy and another with an alleged Nvidia employee.</p>]]></content:encoded>
+      <pubDate>Wed, 18 Nov 2026 13:11:46 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-11-18_Nvidia_posts_Q3_beat.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-11-18_Nvidia_posts_Q3_beat.mp3" length="1095943" type="audio/mpeg"/>
+      <itunes:duration>00:01:56</itunes:duration>
+      <itunes:author>Texto propio</itunes:author>
+      <itunes:summary>Nvidia posts Q3 beat
+
+2026-11-18
+
+Por Texto propio
+
+Nvidia posts Q3 beat as revenue rose 103% YOY to $115.8B, board says it will not reinstate Jensen Huang as CEO
+
+By Daniel Howley
+
+Nvidia (NVDA) reported its Q3 results after the bell Tuesday, beating Wall Street&#x27;s expectations on the top and bottom lines and offering a better-than-anticipated Q4 outlook. The company also announced a $150 billion stock buyback. Nvidia stock rose on the news.
+
+For the fourth quarter, Nvidia expects revenue between $127.4 billion and $132.6 billion. Analysts were anticipating $125.25 billion
+
+For the quarter, Nvidia saw earnings per share of $2.68 on revenue of $115.8 billion. Wall Street analysts were projecting EPS of $2.47 and revenue of $109.15 billion, based on Bloomberg consensus estimates.
+
+Nvidia stock rose 3% during premarket trading on Wednesday.
+
+The company reported EPS of $1.30 and revenue of $57 billion in Q3 last year.
+
+Data Center revenue topped out at $107.6 billion versus an anticipated $101.85 billion. The company&#x27;s Edge Computing segment brought in $8.2 billion versus an expected $7.49 billion.
+
+This is Nvidia&#x27;s first earnings report since CFO Colette Kress took over as interim CEO, following Jensen Huang&#x27;s resignation last week.
+
+Huang left the company after revelations regarding a series of affairs, including one with a suspected Chinese spy and another with an alleged Nvidia employee.</itunes:summary>
+    </item>
 
     <item>
       <title>US 10-Year Yield Set for Historic Run Above 5% on Fed Rate Cycle</title>
@@ -7420,67 +7481,6 @@ Nvidia stock fell 4.27% on Monday as a dark cloud settled over Nvidia and its on
 &quot;We&#x27;ve seen the government involved in semis historically. We saw a 10% stake in Intel from the US Treasury. So we&#x27;ve seen this support mechanism come through,&quot; Subramanian said. &quot;I think that it&#x27;s paramount for the US to remain No. 1 in terms of tech primacy. And that&#x27;s where I see almost a put on the tech story from here.&quot;
 
 &quot;I don&#x27;t think it ends. I don&#x27;t think it gets derailed by a blue sweep. I think there&#x27;s bipartisan support to remain No. 1 when it comes to tech,&quot; she added. &quot;But I do think that issues over the last week, the cost of capital rising onerously for these companies that are trying to build out capacity, some of those aspects might be more scrutinized.&quot;</itunes:summary>
-    </item>
-
-    <item>
-      <title>Micron stock is a screaming buy at current valuation levels: Goldman Sachs</title>
-      <author>Brian Sozzi</author>
-      <description>Micron stock is a screaming buy at current valuation levels: Goldman Sachs
-
-2026-11-11
-
-Por Brian Sozzi
-
-https://finance.yahoo.com/markets/stocks/article/micron-stock-is-a-screaming-buy-at-current-valuation-levels-goldman-sachs-172852076.html
-
-Micron&#x27;s (MU) valuation has reached a level where it&#x27;s simply too cheap to ignore given its fundamentals, says Goldman Sachs analyst James Schneider.
-
-Schneider reiterated his $1,250 price target on the once red-hot AI momentum trade. It assumes about 70% upside from current levels.
-
-&quot;We also believe risk/reward is becoming more attractive for Neutral-rated Micron in light of the high probability of strong free cash flow in the coming quarters,&quot; Schneider said.
-
-Micron is currently approaching tangible book value, Schneider noted. When a stock trades below tangible book value, investors value the company at less than the estimated value of its assets after subtracting its liabilities and intangible assets.
-
-In a sense, the market is saying the company&#x27;s physical and financial assets are worth more than the entire company&#x27;s stock market value.
-
-That seems to be bordering on an unwarranted disconnect, at least in assessing Schneider&#x27;s work on the chip player.
-
-Micron&#x27;s stock is down 17% over the past month amid fears that a blue wave on Election Day could slow the build-out of AI infrastructure. That could have ramifications for orders for Micron&#x27;s memory chips.
-
-The rout has brought Micron&#x27;s forward price-to-earnings (P/E) ratio down to an almost laughable 4.2 times, according to Yahoo Finance AlphaSpace data. Keep in mind Micron is coming off a quarter of strong demand amid memory chip shortages driving up prices.
-
-The Street still expects Micron to grow earnings by at least 17% in its next fiscal year.</description>
-      <content:encoded><![CDATA[<p>Micron stock is a screaming buy at current valuation levels: Goldman Sachs</p><p>2026-11-11</p><p>Por Brian Sozzi</p><p>https://finance.yahoo.com/markets/stocks/article/micron-stock-is-a-screaming-buy-at-current-valuation-levels-goldman-sachs-172852076.html</p><p>Micron&#x27;s (MU) valuation has reached a level where it&#x27;s simply too cheap to ignore given its fundamentals, says Goldman Sachs analyst James Schneider.</p><p>Schneider reiterated his $1,250 price target on the once red-hot AI momentum trade. It assumes about 70% upside from current levels.</p><p>&quot;We also believe risk/reward is becoming more attractive for Neutral-rated Micron in light of the high probability of strong free cash flow in the coming quarters,&quot; Schneider said.</p><p>Micron is currently approaching tangible book value, Schneider noted. When a stock trades below tangible book value, investors value the company at less than the estimated value of its assets after subtracting its liabilities and intangible assets.</p><p>In a sense, the market is saying the company&#x27;s physical and financial assets are worth more than the entire company&#x27;s stock market value.</p><p>That seems to be bordering on an unwarranted disconnect, at least in assessing Schneider&#x27;s work on the chip player.</p><p>Micron&#x27;s stock is down 17% over the past month amid fears that a blue wave on Election Day could slow the build-out of AI infrastructure. That could have ramifications for orders for Micron&#x27;s memory chips.</p><p>The rout has brought Micron&#x27;s forward price-to-earnings (P/E) ratio down to an almost laughable 4.2 times, according to Yahoo Finance AlphaSpace data. Keep in mind Micron is coming off a quarter of strong demand amid memory chip shortages driving up prices.</p><p>The Street still expects Micron to grow earnings by at least 17% in its next fiscal year.</p>]]></content:encoded>
-      <pubDate>Wed, 11 Nov 2026 12:16:40 GMT</pubDate>
-      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-11-11_Micron_stock_is_a_screaming_buy_at_current_valuation_levels_Goldman_Sachs.mp3</guid>
-      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-11-11_Micron_stock_is_a_screaming_buy_at_current_valuation_levels_Goldman_Sachs.mp3" length="968982" type="audio/mpeg"/>
-      <itunes:duration>00:01:42</itunes:duration>
-      <itunes:author>Brian Sozzi</itunes:author>
-      <itunes:summary>Micron stock is a screaming buy at current valuation levels: Goldman Sachs
-
-2026-11-11
-
-Por Brian Sozzi
-
-https://finance.yahoo.com/markets/stocks/article/micron-stock-is-a-screaming-buy-at-current-valuation-levels-goldman-sachs-172852076.html
-
-Micron&#x27;s (MU) valuation has reached a level where it&#x27;s simply too cheap to ignore given its fundamentals, says Goldman Sachs analyst James Schneider.
-
-Schneider reiterated his $1,250 price target on the once red-hot AI momentum trade. It assumes about 70% upside from current levels.
-
-&quot;We also believe risk/reward is becoming more attractive for Neutral-rated Micron in light of the high probability of strong free cash flow in the coming quarters,&quot; Schneider said.
-
-Micron is currently approaching tangible book value, Schneider noted. When a stock trades below tangible book value, investors value the company at less than the estimated value of its assets after subtracting its liabilities and intangible assets.
-
-In a sense, the market is saying the company&#x27;s physical and financial assets are worth more than the entire company&#x27;s stock market value.
-
-That seems to be bordering on an unwarranted disconnect, at least in assessing Schneider&#x27;s work on the chip player.
-
-Micron&#x27;s stock is down 17% over the past month amid fears that a blue wave on Election Day could slow the build-out of AI infrastructure. That could have ramifications for orders for Micron&#x27;s memory chips.
-
-The rout has brought Micron&#x27;s forward price-to-earnings (P/E) ratio down to an almost laughable 4.2 times, according to Yahoo Finance AlphaSpace data. Keep in mind Micron is coming off a quarter of strong demand amid memory chip shortages driving up prices.
-
-The Street still expects Micron to grow earnings by at least 17% in its next fiscal year.</itunes:summary>
     </item>
   </channel>
 </rss>
