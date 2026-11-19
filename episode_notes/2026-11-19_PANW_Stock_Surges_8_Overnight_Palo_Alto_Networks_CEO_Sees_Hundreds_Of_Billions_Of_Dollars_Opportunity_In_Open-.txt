@@ -1,0 +1,39 @@
+PANW Stock Surges 8% Overnight: Palo Alto Networks CEO Sees ‘Hundreds Of Billions Of Dollars’ Opportunity In Open-Weight AI Models Security
+
+2026-11-19
+
+Por StockTwits Inc; Shivani Kumaresan
+
+https://stocktwits.com/news-articles/markets/equity/panw-stock-palo-alto-networks-ceo-open-weight-ai-security-applied-compute/cNbLCSDR9ik
+
+Advertisement|Remove ads.
+
+Palo Alto Networks (PANW) stock jumped 8% overnight after a third-quarter (Q3) earnings beat, as CEO Nikesh Arora highlighted a market worth billions for securing open-weight AI models. Speaking on the Q3 earnings call, Arora outlined the company's Applied Compute acquisition, which aims to expand enterprise AI security and bring in $1 billion in annual recurring revenue by fiscal 2029.
+
+Palo Alto Networks’ stock is on track for a second straight weekly gain.
+
+Arora said during the Q3 earnings call that businesses are opting for AI models that give them greater ownership and control over their technology. Open-weight models have gained traction, making up more than 60% of token usage, compared with less than 5% a year earlier.
+
+“When organizations put AI at the center of their operations, they want to retain control of their proprietary data, institutional judgment and competitive edge inside their own 4 walls. We expect a future with a serving opportunity in the hundreds of billions of dollars when enterprise applications are driven by open weight and open source adoption.”
+
+To address the enormous security opportunity, Arora said Palo Alto Networks examined potential partners across the AI industry before selecting Applied Compute, citing its engineering capabilities and experience in developing open-weight models through post-training. Palo Alto Networks agreed to acquire Applied Compute in an all-stock deal valued at $4.5 billion.
+
+The Palo Alto-Applied Compute deal will focus on two things. Networks plans to integrate AI into its existing cybersecurity products, developing more than 35 specialized applications that will help customers counter AI-led threats with AI-driven defenses.
+
+The second focus will be developing and delivering secure, sovereign versions of open-weight models for enterprise customers. “To support our efforts, we plan to build out a diversified global influence capability of north of 100-plus megawatts over the next 3 to 5 years,” Arora said.
+
+“This will be supported by a modest CapEx commitment at least – of less than $3 billion through fiscal 2030, representing approximately half a year of our annual free cash flow.”
+
+On Stocktwits, retail sentiment around the stock improved to ‘extremely bullish’ from ‘bullish’ territory. The stock recorded an 884% surge in message volume over the past 24 hours.
+
+A user said, “Applied Compute acquisition to bolster PANW’s enterprise capabilities in open-weight AI models.”
+
+Another user said, “$PANW agreed to pay $4.5B in stock for Applied Compute, which helps companies customize and run AI models. That’s a pretty big bet that the folks who buy their cybersecurity will also trust them to help run the models. I’d like to see how many customers sign up for both.”
+
+PANW stock has gained 84% year-to-date.
+
+Read Next: Why Did DIS, TGT, ASO Stocks Surge To 52-Week Highs Today?
+
+For updates and corrections, email newsroom[at]stocktwits[dot]com.
+
+Comments posted here will also appear on symbol pages.
