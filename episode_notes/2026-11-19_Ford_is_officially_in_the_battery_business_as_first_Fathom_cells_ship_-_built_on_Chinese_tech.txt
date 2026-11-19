@@ -1,0 +1,29 @@
+Ford is ‘officially in the battery business’ as first Fathom cells ship - built on Chinese tech
+
+2026-11-19
+
+Por Pras Subramanian
+
+https://finance.yahoo.com/markets/stocks/article/ford-is-officially-in-the-battery-business-as-its-first-fathom-cells-ship--built-on-chinese-tech-185120961.html
+
+Ford (F) announced on Wednesday that the first lithium iron phosphate (LFP) battery cells are coming off the line at its BlueOval Battery Park Michigan, as part of a plan to license China's CATL battery designs. The move comes against the complicated backdrop of using Chinese tech in US made components.
+
+The batteries are headed to Ford's Louisville Assembly Plant in Kentucky to power prototypes of the Fathom, Ford's upcoming midsize electric pickup. Ford hopes to build an EV cheap enough to win over gas truck buyers, with the Fathom set to start under $30,000 — and key to that is using lower-cost batteries.
+
+"Ford is officially in the battery business. We'll be the first to deliver LFP batteries in the US for mainstream consumer automotive use, and I couldn't be prouder of the Ford team," CEO Jim Farley said on X.
+
+LFP batteries don't use nickel or cobalt, which Ford said helps hold down costs, and the chemistry holds up over years of charging. Ford went with prismatic, or rectangular, cells that fit directly into the chassis. That makes the battery pack part of the truck's structure and cuts costs.
+
+Ford said the Michigan lines can produce 40 cells per minute, making them among the fastest LFP prismatic lines outside China.
+
+But the technology inside those cells produced some controversy.
+
+Ford said its search for a proven LFP design "led us to the world's leading battery manufacturer, CATL," the Chinese giant whose batteries power 30 million vehicles globally. Ford called the deal a "limited technology-licensing and services agreement," not a joint venture. It says it owns the plant, controls operations, and employs the workforce.
+
+That hasn't satisfied Washington. In a letter to Farley sent in early September, Transportation Secretary Sean Duffy expressed "profound concern" over Ford's "reliance on technologies of foreign adversaries." He cited the CATL tech in Marshall, Ford's joint factory with Geely in Spain, and its talks with BYD on hybrid components.
+
+Chief communications officer Mark Truby called it a "head-scratcher of a letter" that came "a week after [the] White House touted the very same job-creating Michigan project he's questioning."
+
+Ford's official response called the letter a "wrongheaded attempt to capture headlines."
+
+With that in the rearview mirror (for now), Ford plans to have its battery pack plant in Marshall running in 2027, ahead of the Fathom's launch. Ford said what it learns there will also feed Ford Energy, its battery energy storage business, which is preparing production in Glendale, Kentucky.

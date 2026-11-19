@@ -1,0 +1,25 @@
+Anthropic IPO: Why token usage could become a key metric for AI investors
+
+2026-11-19
+
+Por Ines Ferré
+
+https://finance.yahoo.com/markets/article/anthropic-is-betting-big-that-ai-token-usage-will-surge-heres-why-that-matters-for-investors-145557721.html
+
+With Anthropic (ANT) heading toward the public markets on Thursday, industry watchers say AI token usage could become an increasingly important metric for investors, much like subscriber counts were for video streaming services. But they also warn that token usage remains an opaque measure to assess.
+
+Most of Anthropic's revenue comes from customers paying based on how much they use its AI models, a pricing structure the frontier lab describes in its IPO filing as "metered in tokens and priced according to the model selected." A token is a small chunk of text, roughly a short word or part of a word, that an AI model reads or generates.
+
+In an amended filing this month, Anthropic reported $33.2 billion in revenue for the first nine months of 2026, up from $16.3 billion in the first half of the year. During the first six months, consumption-based revenue, which is tied to customer usage and measured in tokens, accounted for roughly 80% of sales, while subscription-based revenue made up the remaining 20%.
+
+Industry bulls point out that even as token prices have fallen across the industry, lower model rates can make AI cheaper to use, thereby driving higher consumption. AI frontier lab: OpenAI CFO Sarah Friar recently noted higher usage after cutting prices on Luna, its cheapest model series.
+
+"We saw use go up 10x," Friar said last month. "So that tells you there's a lot of price elasticity of demand right now."
+
+Anthropic said in its filing that a growing number of business customers have signed multiyear contracts with minimum-spend commitments that cannot be canceled and with locked-in pricing. Even with those contracts, Anthropic only books revenue as tokens are actually consumed.
+
+But without total token volume or data showing how much Anthropic actually earns per token, industry watchers point out investors cannot tell how much growth comes from discounted enterprise commitments versus steady demand or how much committed spending remains unused.
+
+This is where Claire Husson-Citanna, founder of Bondcoins and formerly FX swap line principal at the Federal Reserve Bank of New York, sees an opportunity: Investors would likely reward labs that disclose not just how much customers have prepaid in token credits, but also how much they actually use and how future revenue and costs are expected to grow.
+
+That visibility matters as cheaper open-weight rivals and advances in quantum computing threaten to put downward pressure on token prices, even as Anthropic faces commitments of nearly $900 billion in long-term computing and infrastructure spending.
