@@ -1,0 +1,35 @@
+Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade
+
+2026-11-19
+
+Por Sidhartha Shukla
+
+https://finance.yahoo.com/news/bitcoin-erases-bessent-rally-leverage-094509953.html
+
+(Bloomberg) -- Bitcoin (BTC-USD) has erased all the gains from its late-summer rally as fading risk appetite and the record hack at exchange Binance drove investors to retreat, leaving the largest token trading in a thinner market increasingly vulnerable to sharp price swings.
+
+Liquidity has deteriorated sharply since the hack, meaning large trades can push prices further in either direction. The value of buy and sell orders sitting within 1% of Bitcoin's mid-price, a measure of the liquidity available close to the current price, is down nearly 38% from this year's pre-Binance hack high, according to digital-asset technology firm Talos. Put another way, a large seller may now have to accept lower prices to complete a trade, while a large buyer may have to pay more.
+
+Bitcoin was trading above $64,000 on Wednesday, about 49% below its record high. The selloff since last week has erased the rebound that began in August after Treasury Secretary Scott Bessent said the US would increase buybacks of long-dated government debt.
+
+That rally had offered a rare respite for crypto. Digital tokens had struggled to regain momentum since the October 2025 market crash, and Bitcoin's summer advance briefly revived the idea that it could benefit from a "debasement" trade alongside assets such as gold. Recent buyers — holders of coins acquired within the past six months — took heavy losses in early 2026, booked profits during the rally into September and October, and are now selling at a loss again, according to data provider Glassnode.
+
+The backdrop has deteriorated sharply since then. An AI-led equity selloff and a more hawkish Federal Reserve have pushed investors away from riskier assets. The Binance hack then dealt a crypto-specific blow to a market already losing momentum.
+
+"In general, crypto has been at the mercy of the broader risk complex, especially big-tech momentum names all year," said Rajiv Sawhney, head of international portfolio management at Wave Digital Assets. Bitcoin's correlation with the S&P 500 and Nasdaq has risen in recent weeks, he said, suggesting investors are again treating it primarily as a risk asset rather than a haven from currency debasement.
+
+Leverage is also draining from one of crypto's deepest and most actively traded markets. Open interest in Bitcoin perpetual futures, contracts with no expiry date, has fallen to about $41.6 billion, the lowest since November 2024, according to Coinglass, as repeated liquidations of bullish positions drained leverage from the market. About $7.6 billion worth of bullish bets across tokens have been liquidated since the Binance hack.
+
+"Fast money leverage has certainly been exhausted in the system," Sawhney said. But that does not necessarily remove selling pressure. He pointed to miners selling Bitcoin to raise cash as they invest in artificial intelligence and high-performance-computing infrastructure, as well as digital-asset treasury companies facing higher financing costs as the token's prices fall.
+
+Miners MARA and Riot have reported sales of about 60,000 Bitcoin this month as they fund their shift toward AI and data center infrastructure.
+
+The lack of demand for the token is also reflected in exchange-traded funds flows. Investors have pulled about $2.6 billion from US-listed spot Bitcoin ETFs in November so far, removing a source of steady buying that had previously helped support the token.
+
+Jasper de Maere, an OTC trader at Wintermute, said the late summer rebound increasingly looks like a false start. "It is now clear we haven't cleared the bear market yet, and the rally off the July low was a fake-out," he said.
+
+"This is a rates tape in which Bitcoin is the non-yielding funding leg, the ETF bid is gone and the technicals have broken," de Maere said, adding every channel "across ETF, DATs, retail and institutional flow is all pointing flat to down."
+
+For a sustained rebound, Sawhney said Bitcoin would need to begin decoupling from equities and other risk assets, while inflation and energy pressures would have to ease enough to give central banks room to pause tightening or cut rates. A clearer turn toward monetary easing would provide an even stronger catalyst.
+
+Until then, the market is carrying less leverage, less liquidity and fewer obvious sources of fresh demand. Thin holiday trading could exaggerate moves in either direction, de Maere said. But after the Bessent boost, the equity selloff and the Binance shock, Bitcoin enters the year-end stretch with less cushion to absorb the next bout of selling.

@@ -1,0 +1,35 @@
+Waymo pulls robotaxis off highways after California ban, with tech seen as 'far from perfect'
+
+2026-11-19
+
+Por Pras Subramanian
+
+https://finance.yahoo.com/markets/stocks/article/waymo-pulls-robotaxis-off-highways-after-california-ban-with-tech-seen-as-far-from-perfect-161031372.html
+
+The robotaxi rollout in America hit a roadblock.
+
+Alphabet-owned (GOOGL) Waymo pulled its robotaxis off freeways in every US market where it offers them, after California regulators banned the company's driverless cars from state highways.
+
+The move comes as Waymo races to scale its ride-hailing business, where freeway rides are key to growth.
+
+The California Department of Motor Vehicles imposed the restrictions on Nov. 11, though they weren't made public until Tuesday. The agency said Waymo's driverless freeway operations pose an "imminent hazard to public safety," citing "recurring incursions" by its vehicles into active construction zones, per the AP.
+
+According to the DMV, three Waymo vehicles entered an active construction zone on US Highway 101 near Burlingame. In a separate incident, video showed a Waymo trying to pass two California Highway Patrol cruisers on Interstate 280 in San Francisco while officers slowed traffic to clear debris. Waymo said the Highway 101 encounters caused no injuries or collisions.
+
+The ban stays in place until Waymo shows the DMV "effective corrective actions."
+
+A Waymo spokesperson said the company had "temporarily restricted freeway operations across our other operating markets to evaluate our performance." That includes Phoenix, where Waymo launched freeway rides last November alongside San Francisco and Los Angeles.
+
+Yahoo Finance reached out to Waymo for comment but did not immediately hear back.
+
+It's not the first time Waymo pulled service from the highway. In May, seven of its robotaxis drove into active freeway construction lanes in the Bay Area, following similar events in Phoenix in April. Waymo pulled its fleet off freeways and filed a voluntary software recall covering nearly 3,900 vehicles before freeway rides resumed.
+
+Waymo's street coverage is unaffected. Waymo says it handles more than half a million trips a week across 15 US cities, and the map keeps growing.
+
+Last month, Waymo added nearly 250 square miles of service across five cities, including Torrance in Los Angeles, La Jolla in San Diego, and a connection to BART's Berryessa Station in the Bay Area. It also opened rides to everyone in San Antonio, San Diego, and Tampa, and added pickups at Las Vegas' Harry Reid International Airport for existing riders.
+
+Tesla (TSLA) expanded its robotaxi service in Miami recently, as well as Austin.
+
+But the freeway pullback shows that regulators, not companies like Waymo, set the pace of the robotaxi rollout.
+
+"Local regulation is the biggest barrier right now, but that's a good thing," Anthony Townsend, senior research associate at Cornell Tech and author of "Ghost Road: Beyond the Driverless Car," said to Yahoo Finance. "This technology is far from perfect, and right now it's mostly a tool for perpetuating auto dependency."

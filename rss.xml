@@ -7,7 +7,7 @@
     <link>https://fjacomev.github.io/news-podcast</link>
     <description>Podcast personal de noticias, leido en voz local</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 00:03:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 12:25:25 GMT</lastBuildDate>
     <image>
       <url>https://fjacomev.github.io/news-podcast/cover.jpg</url>
       <title>Fernando AI News</title>
@@ -18,6 +18,310 @@
     <itunes:summary>Podcast personal de noticias, leido en voz local</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
+
+    <item>
+      <title>Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade</title>
+      <author>Sidhartha Shukla</author>
+      <description>Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade
+
+2026-11-19
+
+Por Sidhartha Shukla
+
+https://finance.yahoo.com/news/bitcoin-erases-bessent-rally-leverage-094509953.html
+
+(Bloomberg) -- Bitcoin (BTC-USD) has erased all the gains from its late-summer rally as fading risk appetite and the record hack at exchange Binance drove investors to retreat, leaving the largest token trading in a thinner market increasingly vulnerable to sharp price swings.
+
+Liquidity has deteriorated sharply since the hack, meaning large trades can push prices further in either direction. The value of buy and sell orders sitting within 1% of Bitcoin&#x27;s mid-price, a measure of the liquidity available close to the current price, is down nearly 38% from this year&#x27;s pre-Binance hack high, according to digital-asset technology firm Talos. Put another way, a large seller may now have to accept lower prices to complete a trade, while a large buyer may have to pay more.
+
+Bitcoin was trading above $64,000 on Wednesday, about 49% below its record high. The selloff since last week has erased the rebound that began in August after Treasury Secretary Scott Bessent said the US would increase buybacks of long-dated government debt.
+
+That rally had offered a rare respite for crypto. Digital tokens had struggled to regain momentum since the October 2025 market crash, and Bitcoin&#x27;s summer advance briefly revived the idea that it could benefit from a &quot;debasement&quot; trade alongside assets such as gold. Recent buyers — holders of coins acquired within the past six months — took heavy losses in early 2026, booked profits during the rally into September and October, and are now selling at a loss again, according to data provider Glassnode.
+
+The backdrop has deteriorated sharply since then. An AI-led equity selloff and a more hawkish Federal Reserve have pushed investors away from riskier assets. The Binance hack then dealt a crypto-specific blow to a market already losing momentum.
+
+&quot;In general, crypto has been at the mercy of the broader risk complex, especially big-tech momentum names all year,&quot; said Rajiv Sawhney, head of international portfolio management at Wave Digital Assets. Bitcoin&#x27;s correlation with the S&amp;P 500 and Nasdaq has risen in recent weeks, he said, suggesting investors are again treating it primarily as a risk asset rather than a haven from currency debasement.
+
+Leverage is also draining from one of crypto&#x27;s deepest and most actively traded markets. Open interest in Bitcoin perpetual futures, contracts with no expiry date, has fallen to about $41.6 billion, the lowest since November 2024, according to Coinglass, as repeated liquidations of bullish positions drained leverage from the market. About $7.6 billion worth of bullish bets across tokens have been liquidated since the Binance hack.
+
+&quot;Fast money leverage has certainly been exhausted in the system,&quot; Sawhney said. But that does not necessarily remove selling pressure. He pointed to miners selling Bitcoin to raise cash as they invest in artificial intelligence and high-performance-computing infrastructure, as well as digital-asset treasury companies facing higher financing costs as the token&#x27;s prices fall.
+
+Miners MARA and Riot have reported sales of about 60,000 Bitcoin this month as they fund their shift toward AI and data center infrastructure.
+
+The lack of demand for the token is also reflected in exchange-traded funds flows. Investors have pulled about $2.6 billion from US-listed spot Bitcoin ETFs in November so far, removing a source of steady buying that had previously helped support the token.
+
+Jasper de Maere, an OTC trader at Wintermute, said the late summer rebound increasingly looks like a false start. &quot;It is now clear we haven&#x27;t cleared the bear market yet, and the rally off the July low was a fake-out,&quot; he said.
+
+&quot;This is a rates tape in which Bitcoin is the non-yielding funding leg, the ETF bid is gone and the technicals have broken,&quot; de Maere said, adding every channel &quot;across ETF, DA
+
+[Transcripcion recortada]</description>
+      <content:encoded><![CDATA[<p>Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade</p><p>2026-11-19</p><p>Por Sidhartha Shukla</p><p>https://finance.yahoo.com/news/bitcoin-erases-bessent-rally-leverage-094509953.html</p><p>(Bloomberg) -- Bitcoin (BTC-USD) has erased all the gains from its late-summer rally as fading risk appetite and the record hack at exchange Binance drove investors to retreat, leaving the largest token trading in a thinner market increasingly vulnerable to sharp price swings.</p><p>Liquidity has deteriorated sharply since the hack, meaning large trades can push prices further in either direction. The value of buy and sell orders sitting within 1% of Bitcoin&#x27;s mid-price, a measure of the liquidity available close to the current price, is down nearly 38% from this year&#x27;s pre-Binance hack high, according to digital-asset technology firm Talos. Put another way, a large seller may now have to accept lower prices to complete a trade, while a large buyer may have to pay more.</p><p>Bitcoin was trading above $64,000 on Wednesday, about 49% below its record high. The selloff since last week has erased the rebound that began in August after Treasury Secretary Scott Bessent said the US would increase buybacks of long-dated government debt.</p><p>That rally had offered a rare respite for crypto. Digital tokens had struggled to regain momentum since the October 2025 market crash, and Bitcoin&#x27;s summer advance briefly revived the idea that it could benefit from a &quot;debasement&quot; trade alongside assets such as gold. Recent buyers — holders of coins acquired within the past six months — took heavy losses in early 2026, booked profits during the rally into September and October, and are now selling at a loss again, according to data provider Glassnode.</p><p>The backdrop has deteriorated sharply since then. An AI-led equity selloff and a more hawkish Federal Reserve have pushed investors away from riskier assets. The Binance hack then dealt a crypto-specific blow to a market already losing momentum.</p><p>&quot;In general, crypto has been at the mercy of the broader risk complex, especially big-tech momentum names all year,&quot; said Rajiv Sawhney, head of international portfolio management at Wave Digital Assets. Bitcoin&#x27;s correlation with the S&amp;P 500 and Nasdaq has risen in recent weeks, he said, suggesting investors are again treating it primarily as a risk asset rather than a haven from currency debasement.</p><p>Leverage is also draining from one of crypto&#x27;s deepest and most actively traded markets. Open interest in Bitcoin perpetual futures, contracts with no expiry date, has fallen to about $41.6 billion, the lowest since November 2024, according to Coinglass, as repeated liquidations of bullish positions drained leverage from the market. About $7.6 billion worth of bullish bets across tokens have been liquidated since the Binance hack.</p><p>&quot;Fast money leverage has certainly been exhausted in the system,&quot; Sawhney said. But that does not necessarily remove selling pressure. He pointed to miners selling Bitcoin to raise cash as they invest in artificial intelligence and high-performance-computing infrastructure, as well as digital-asset treasury companies facing higher financing costs as the token&#x27;s prices fall.</p><p>Miners MARA and Riot have reported sales of about 60,000 Bitcoin this month as they fund their shift toward AI and data center infrastructure.</p><p>The lack of demand for the token is also reflected in exchange-traded funds flows. Investors have pulled about $2.6 billion from US-listed spot Bitcoin ETFs in November so far, removing a source of steady buying that had previously helped support the token.</p><p>Jasper de Maere, an OTC trader at Wintermute, said the late summer rebound increasingly looks like a false start. &quot;It is now clear we haven&#x27;t cleared the bear market yet, and the rally off the July low was a fake-out,&quot; he said.</p><p>&quot;This is a rates tape in which Bitcoin is the non-yielding funding leg, the ETF bid is gone and the technicals have broken,&quot; de Maere said, adding every channel &quot;across ETF, DA</p>]]></content:encoded>
+      <pubDate>Thu, 19 Nov 2026 12:25:24 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-11-19_Bitcoin_Erases_Bessent_Rally_as_Leverage_and_Liquidity_Fade.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-11-19_Bitcoin_Erases_Bessent_Rally_as_Leverage_and_Liquidity_Fade.mp3" length="2655010" type="audio/mpeg"/>
+      <itunes:duration>00:04:57</itunes:duration>
+      <itunes:author>Sidhartha Shukla</itunes:author>
+      <itunes:summary>Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade
+
+2026-11-19
+
+Por Sidhartha Shukla
+
+https://finance.yahoo.com/news/bitcoin-erases-bessent-rally-leverage-094509953.html
+
+(Bloomberg) -- Bitcoin (BTC-USD) has erased all the gains from its late-summer rally as fading risk appetite and the record hack at exchange Binance drove investors to retreat, leaving the largest token trading in a thinner market increasingly vulnerable to sharp price swings.
+
+Liquidity has deteriorated sharply since the hack, meaning large trades can push prices further in either direction. The value of buy and sell orders sitting within 1% of Bitcoin&#x27;s mid-price, a measure of the liquidity available close to the current price, is down nearly 38% from this year&#x27;s pre-Binance hack high, according to digital-asset technology firm Talos. Put another way, a large seller may now have to accept lower prices to complete a trade, while a large buyer may have to pay more.
+
+Bitcoin was trading above $64,000 on Wednesday, about 49% below its record high. The selloff since last week has erased the rebound that began in August after Treasury Secretary Scott Bessent said the US would increase buybacks of long-dated government debt.
+
+That rally had offered a rare respite for crypto. Digital tokens had struggled to regain momentum since the October 2025 market crash, and Bitcoin&#x27;s summer advance briefly revived the idea that it could benefit from a &quot;debasement&quot; trade alongside assets such as gold. Recent buyers — holders of coins acquired within the past six months — took heavy losses in early 2026, booked profits during the rally into September and October, and are now selling at a loss again, according to data provider Glassnode.
+
+The backdrop has deteriorated sharply since then. An AI-led equity selloff and a more hawkish Federal Reserve have pushed investors away from riskier assets. The Binance hack then dealt a crypto-specific blow to a market already losing momentum.
+
+&quot;In general, crypto has been at the mercy of the broader risk complex, especially big-tech momentum names all year,&quot; said Rajiv Sawhney, head of international portfolio management at Wave Digital Assets. Bitcoin&#x27;s correlation with the S&amp;P 500 and Nasdaq has risen in recent weeks, he said, suggesting investors are again treating it primarily as a risk asset rather than a haven from currency debasement.
+
+Leverage is also draining from one of crypto&#x27;s deepest and most actively traded markets. Open interest in Bitcoin perpetual futures, contracts with no expiry date, has fallen to about $41.6 billion, the lowest since November 2024, according to Coinglass, as repeated liquidations of bullish positions drained leverage from the market. About $7.6 billion worth of bullish bets across tokens have been liquidated since the Binance hack.
+
+&quot;Fast money leverage has certainly been exhausted in the system,&quot; Sawhney said. But that does not necessarily remove selling pressure. He pointed to miners selling Bitcoin to raise cash as they invest in artificial intelligence and high-performance-computing infrastructure, as well as digital-asset treasury companies facing higher financing costs as the token&#x27;s prices fall.
+
+Miners MARA and Riot have reported sales of about 60,000 Bitcoin this month as they fund their shift toward AI and data center infrastructure.
+
+The lack of demand for the token is also reflected in exchange-traded funds flows. Investors have pulled about $2.6 billion from US-listed spot Bitcoin ETFs in November so far, removing a source of steady buying that had previously helped support the token.
+
+Jasper de Maere, an OTC trader at Wintermute, said the late summer rebound increasingly looks like a false start. &quot;It is now clear we haven&#x27;t cleared the bear market yet, and the rally off the July low was a fake-out,&quot; he said.
+
+&quot;This is a rates tape in which Bitcoin is the non-yielding funding leg, the ETF bid is gone and the technicals have broken,&quot; de Maere said, adding every channel &quot;across ETF, DA
+
+[Transcripcion recortada]</itunes:summary>
+    </item>
+
+    <item>
+      <title>Waymo pulls robotaxis off highways after California ban, with tech seen as &#x27;far from perfect&#x27;</title>
+      <author>Pras Subramanian</author>
+      <description>Waymo pulls robotaxis off highways after California ban, with tech seen as &#x27;far from perfect&#x27;
+
+2026-11-19
+
+Por Pras Subramanian
+
+https://finance.yahoo.com/markets/stocks/article/waymo-pulls-robotaxis-off-highways-after-california-ban-with-tech-seen-as-far-from-perfect-161031372.html
+
+The robotaxi rollout in America hit a roadblock.
+
+Alphabet-owned (GOOGL) Waymo pulled its robotaxis off freeways in every US market where it offers them, after California regulators banned the company&#x27;s driverless cars from state highways.
+
+The move comes as Waymo races to scale its ride-hailing business, where freeway rides are key to growth.
+
+The California Department of Motor Vehicles imposed the restrictions on Nov. 11, though they weren&#x27;t made public until Tuesday. The agency said Waymo&#x27;s driverless freeway operations pose an &quot;imminent hazard to public safety,&quot; citing &quot;recurring incursions&quot; by its vehicles into active construction zones, per the AP.
+
+According to the DMV, three Waymo vehicles entered an active construction zone on US Highway 101 near Burlingame. In a separate incident, video showed a Waymo trying to pass two California Highway Patrol cruisers on Interstate 280 in San Francisco while officers slowed traffic to clear debris. Waymo said the Highway 101 encounters caused no injuries or collisions.
+
+The ban stays in place until Waymo shows the DMV &quot;effective corrective actions.&quot;
+
+A Waymo spokesperson said the company had &quot;temporarily restricted freeway operations across our other operating markets to evaluate our performance.&quot; That includes Phoenix, where Waymo launched freeway rides last November alongside San Francisco and Los Angeles.
+
+Yahoo Finance reached out to Waymo for comment but did not immediately hear back.
+
+It&#x27;s not the first time Waymo pulled service from the highway. In May, seven of its robotaxis drove into active freeway construction lanes in the Bay Area, following similar events in Phoenix in April. Waymo pulled its fleet off freeways and filed a voluntary software recall covering nearly 3,900 vehicles before freeway rides resumed.
+
+Waymo&#x27;s street coverage is unaffected. Waymo says it handles more than half a million trips a week across 15 US cities, and the map keeps growing.
+
+Last month, Waymo added nearly 250 square miles of service across five cities, including Torrance in Los Angeles, La Jolla in San Diego, and a connection to BART&#x27;s Berryessa Station in the Bay Area. It also opened rides to everyone in San Antonio, San Diego, and Tampa, and added pickups at Las Vegas&#x27; Harry Reid International Airport for existing riders.
+
+Tesla (TSLA) expanded its robotaxi service in Miami recently, as well as Austin.
+
+But the freeway pullback shows that regulators, not companies like Waymo, set the pace of the robotaxi rollout.
+
+&quot;Local regulation is the biggest barrier right now, but that&#x27;s a good thing,&quot; Anthony Townsend, senior research associate at Cornell Tech and author of &quot;Ghost Road: Beyond the Driverless Car,&quot; said to Yahoo Finance. &quot;This technology is far from perfect, and right now it&#x27;s mostly a tool for perpetuating auto dependency.&quot;</description>
+      <content:encoded><![CDATA[<p>Waymo pulls robotaxis off highways after California ban, with tech seen as &#x27;far from perfect&#x27;</p><p>2026-11-19</p><p>Por Pras Subramanian</p><p>https://finance.yahoo.com/markets/stocks/article/waymo-pulls-robotaxis-off-highways-after-california-ban-with-tech-seen-as-far-from-perfect-161031372.html</p><p>The robotaxi rollout in America hit a roadblock.</p><p>Alphabet-owned (GOOGL) Waymo pulled its robotaxis off freeways in every US market where it offers them, after California regulators banned the company&#x27;s driverless cars from state highways.</p><p>The move comes as Waymo races to scale its ride-hailing business, where freeway rides are key to growth.</p><p>The California Department of Motor Vehicles imposed the restrictions on Nov. 11, though they weren&#x27;t made public until Tuesday. The agency said Waymo&#x27;s driverless freeway operations pose an &quot;imminent hazard to public safety,&quot; citing &quot;recurring incursions&quot; by its vehicles into active construction zones, per the AP.</p><p>According to the DMV, three Waymo vehicles entered an active construction zone on US Highway 101 near Burlingame. In a separate incident, video showed a Waymo trying to pass two California Highway Patrol cruisers on Interstate 280 in San Francisco while officers slowed traffic to clear debris. Waymo said the Highway 101 encounters caused no injuries or collisions.</p><p>The ban stays in place until Waymo shows the DMV &quot;effective corrective actions.&quot;</p><p>A Waymo spokesperson said the company had &quot;temporarily restricted freeway operations across our other operating markets to evaluate our performance.&quot; That includes Phoenix, where Waymo launched freeway rides last November alongside San Francisco and Los Angeles.</p><p>Yahoo Finance reached out to Waymo for comment but did not immediately hear back.</p><p>It&#x27;s not the first time Waymo pulled service from the highway. In May, seven of its robotaxis drove into active freeway construction lanes in the Bay Area, following similar events in Phoenix in April. Waymo pulled its fleet off freeways and filed a voluntary software recall covering nearly 3,900 vehicles before freeway rides resumed.</p><p>Waymo&#x27;s street coverage is unaffected. Waymo says it handles more than half a million trips a week across 15 US cities, and the map keeps growing.</p><p>Last month, Waymo added nearly 250 square miles of service across five cities, including Torrance in Los Angeles, La Jolla in San Diego, and a connection to BART&#x27;s Berryessa Station in the Bay Area. It also opened rides to everyone in San Antonio, San Diego, and Tampa, and added pickups at Las Vegas&#x27; Harry Reid International Airport for existing riders.</p><p>Tesla (TSLA) expanded its robotaxi service in Miami recently, as well as Austin.</p><p>But the freeway pullback shows that regulators, not companies like Waymo, set the pace of the robotaxi rollout.</p><p>&quot;Local regulation is the biggest barrier right now, but that&#x27;s a good thing,&quot; Anthony Townsend, senior research associate at Cornell Tech and author of &quot;Ghost Road: Beyond the Driverless Car,&quot; said to Yahoo Finance. &quot;This technology is far from perfect, and right now it&#x27;s mostly a tool for perpetuating auto dependency.&quot;</p>]]></content:encoded>
+      <pubDate>Thu, 19 Nov 2026 12:24:12 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-11-19_Waymo_pulls_robotaxis_off_highways_after_California_ban_with_tech_seen_as_far_from_perfect.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-11-19_Waymo_pulls_robotaxis_off_highways_after_California_ban_with_tech_seen_as_far_from_perfect.mp3" length="1712657" type="audio/mpeg"/>
+      <itunes:duration>00:03:08</itunes:duration>
+      <itunes:author>Pras Subramanian</itunes:author>
+      <itunes:summary>Waymo pulls robotaxis off highways after California ban, with tech seen as &#x27;far from perfect&#x27;
+
+2026-11-19
+
+Por Pras Subramanian
+
+https://finance.yahoo.com/markets/stocks/article/waymo-pulls-robotaxis-off-highways-after-california-ban-with-tech-seen-as-far-from-perfect-161031372.html
+
+The robotaxi rollout in America hit a roadblock.
+
+Alphabet-owned (GOOGL) Waymo pulled its robotaxis off freeways in every US market where it offers them, after California regulators banned the company&#x27;s driverless cars from state highways.
+
+The move comes as Waymo races to scale its ride-hailing business, where freeway rides are key to growth.
+
+The California Department of Motor Vehicles imposed the restrictions on Nov. 11, though they weren&#x27;t made public until Tuesday. The agency said Waymo&#x27;s driverless freeway operations pose an &quot;imminent hazard to public safety,&quot; citing &quot;recurring incursions&quot; by its vehicles into active construction zones, per the AP.
+
+According to the DMV, three Waymo vehicles entered an active construction zone on US Highway 101 near Burlingame. In a separate incident, video showed a Waymo trying to pass two California Highway Patrol cruisers on Interstate 280 in San Francisco while officers slowed traffic to clear debris. Waymo said the Highway 101 encounters caused no injuries or collisions.
+
+The ban stays in place until Waymo shows the DMV &quot;effective corrective actions.&quot;
+
+A Waymo spokesperson said the company had &quot;temporarily restricted freeway operations across our other operating markets to evaluate our performance.&quot; That includes Phoenix, where Waymo launched freeway rides last November alongside San Francisco and Los Angeles.
+
+Yahoo Finance reached out to Waymo for comment but did not immediately hear back.
+
+It&#x27;s not the first time Waymo pulled service from the highway. In May, seven of its robotaxis drove into active freeway construction lanes in the Bay Area, following similar events in Phoenix in April. Waymo pulled its fleet off freeways and filed a voluntary software recall covering nearly 3,900 vehicles before freeway rides resumed.
+
+Waymo&#x27;s street coverage is unaffected. Waymo says it handles more than half a million trips a week across 15 US cities, and the map keeps growing.
+
+Last month, Waymo added nearly 250 square miles of service across five cities, including Torrance in Los Angeles, La Jolla in San Diego, and a connection to BART&#x27;s Berryessa Station in the Bay Area. It also opened rides to everyone in San Antonio, San Diego, and Tampa, and added pickups at Las Vegas&#x27; Harry Reid International Airport for existing riders.
+
+Tesla (TSLA) expanded its robotaxi service in Miami recently, as well as Austin.
+
+But the freeway pullback shows that regulators, not companies like Waymo, set the pace of the robotaxi rollout.
+
+&quot;Local regulation is the biggest barrier right now, but that&#x27;s a good thing,&quot; Anthony Townsend, senior research associate at Cornell Tech and author of &quot;Ghost Road: Beyond the Driverless Car,&quot; said to Yahoo Finance. &quot;This technology is far from perfect, and right now it&#x27;s mostly a tool for perpetuating auto dependency.&quot;</itunes:summary>
+    </item>
+
+    <item>
+      <title>Is the AI party over? Anthropic is about to find out.</title>
+      <author>Brian Sozzi</author>
+      <description>Is the AI party over? Anthropic is about to find out.
+
+2026-11-19
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/technology/article/is-the-ai-party-over-anthropic-is-about-to-find-out-230000591.html
+
+Thursday is supposed to be a celebration of AI.
+
+Anthropic (ANT) is heading toward its long-awaited IPO at the Nasdaq, potentially giving Wall Street one of the biggest new pure-play AI investment stories in years.
+
+Before you hit me up on X, Elon Musk-led SpaceX (SPCX) is not a pure-play AI company. It&#x27;s an industrial company with a whole lot of AI bolted on.
+
+But there&#x27;s a problem amid all the Anthropic IPO hoopla.
+
+The very stocks that fueled this AI boom are still under pressure. Just look at the sell-offs this week in top tech names like CoreWeave (CRWV), Salesforce (CRM), and even AMD (AMD).
+
+Read more: Follow along for live updates on the Anthropic IPO
+
+Investors are questioning the AI spending, the valuations, the financing arrangements — and whether the returns will ever justify the billions being poured into this technology.
+
+And the timing couldn&#x27;t be more fascinating.
+
+Truist chief market strategist Keith Lerner noted that tech valuations have fallen 42% over the past year. The sector has gone from outperforming the S&amp;P 500 (^GSPC) by 25% over six months to underperforming it by 6%. Bank of America&#x27;s latest fund manager survey shows investors have cut tech exposure by the most since June 2006.
+
+That&#x27;s a serious reset.
+
+The question pre-Anthropic IPO: Is Wall Street finally getting too negative?
+
+The AI build-out isn&#x27;t disappearing, as we saw from Nvidia (NVDA) on Tuesday. Companies are still spending. The technology is still evolving. And as Lerner pointed out, previous tech pullbacks of more than 10% during this bull market were followed by an average rebound of 47%.
+
+That doesn&#x27;t guarantee a repeat. There are real risks — and this AI stock sell-off could get worse.
+
+Anthropic&#x27;s IPO arrives at a moment when investors are suddenly asking what could go wrong with AI.
+
+Maybe it&#x27;s time to ask the other question: What could go right?
+
+Investing in Anthropic is like investing in a young Amazon (AMZN), &quot;Shark Tank&quot; star Kevin O&#x27;Leary told me on Sozzi Unleashed. Valid point.
+
+Indeed, the biggest opportunity in tech may emerge when Wall Street least wants to own it.
+
+That&#x27;s the trade I&#x27;m watching. Well, that and the first few ticks in ticker symbol ANT!</description>
+      <content:encoded><![CDATA[<p>Is the AI party over? Anthropic is about to find out.</p><p>2026-11-19</p><p>Por Brian Sozzi</p><p>https://finance.yahoo.com/technology/article/is-the-ai-party-over-anthropic-is-about-to-find-out-230000591.html</p><p>Thursday is supposed to be a celebration of AI.</p><p>Anthropic (ANT) is heading toward its long-awaited IPO at the Nasdaq, potentially giving Wall Street one of the biggest new pure-play AI investment stories in years.</p><p>Before you hit me up on X, Elon Musk-led SpaceX (SPCX) is not a pure-play AI company. It&#x27;s an industrial company with a whole lot of AI bolted on.</p><p>But there&#x27;s a problem amid all the Anthropic IPO hoopla.</p><p>The very stocks that fueled this AI boom are still under pressure. Just look at the sell-offs this week in top tech names like CoreWeave (CRWV), Salesforce (CRM), and even AMD (AMD).</p><p>Read more: Follow along for live updates on the Anthropic IPO</p><p>Investors are questioning the AI spending, the valuations, the financing arrangements — and whether the returns will ever justify the billions being poured into this technology.</p><p>And the timing couldn&#x27;t be more fascinating.</p><p>Truist chief market strategist Keith Lerner noted that tech valuations have fallen 42% over the past year. The sector has gone from outperforming the S&amp;P 500 (^GSPC) by 25% over six months to underperforming it by 6%. Bank of America&#x27;s latest fund manager survey shows investors have cut tech exposure by the most since June 2006.</p><p>That&#x27;s a serious reset.</p><p>The question pre-Anthropic IPO: Is Wall Street finally getting too negative?</p><p>The AI build-out isn&#x27;t disappearing, as we saw from Nvidia (NVDA) on Tuesday. Companies are still spending. The technology is still evolving. And as Lerner pointed out, previous tech pullbacks of more than 10% during this bull market were followed by an average rebound of 47%.</p><p>That doesn&#x27;t guarantee a repeat. There are real risks — and this AI stock sell-off could get worse.</p><p>Anthropic&#x27;s IPO arrives at a moment when investors are suddenly asking what could go wrong with AI.</p><p>Maybe it&#x27;s time to ask the other question: What could go right?</p><p>Investing in Anthropic is like investing in a young Amazon (AMZN), &quot;Shark Tank&quot; star Kevin O&#x27;Leary told me on Sozzi Unleashed. Valid point.</p><p>Indeed, the biggest opportunity in tech may emerge when Wall Street least wants to own it.</p><p>That&#x27;s the trade I&#x27;m watching. Well, that and the first few ticks in ticker symbol ANT!</p>]]></content:encoded>
+      <pubDate>Thu, 19 Nov 2026 12:23:29 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-11-19_Is_the_AI_party_over_Anthropic_is_about_to_find_out.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-11-19_Is_the_AI_party_over_Anthropic_is_about_to_find_out.mp3" length="1373116" type="audio/mpeg"/>
+      <itunes:duration>00:02:29</itunes:duration>
+      <itunes:author>Brian Sozzi</itunes:author>
+      <itunes:summary>Is the AI party over? Anthropic is about to find out.
+
+2026-11-19
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/technology/article/is-the-ai-party-over-anthropic-is-about-to-find-out-230000591.html
+
+Thursday is supposed to be a celebration of AI.
+
+Anthropic (ANT) is heading toward its long-awaited IPO at the Nasdaq, potentially giving Wall Street one of the biggest new pure-play AI investment stories in years.
+
+Before you hit me up on X, Elon Musk-led SpaceX (SPCX) is not a pure-play AI company. It&#x27;s an industrial company with a whole lot of AI bolted on.
+
+But there&#x27;s a problem amid all the Anthropic IPO hoopla.
+
+The very stocks that fueled this AI boom are still under pressure. Just look at the sell-offs this week in top tech names like CoreWeave (CRWV), Salesforce (CRM), and even AMD (AMD).
+
+Read more: Follow along for live updates on the Anthropic IPO
+
+Investors are questioning the AI spending, the valuations, the financing arrangements — and whether the returns will ever justify the billions being poured into this technology.
+
+And the timing couldn&#x27;t be more fascinating.
+
+Truist chief market strategist Keith Lerner noted that tech valuations have fallen 42% over the past year. The sector has gone from outperforming the S&amp;P 500 (^GSPC) by 25% over six months to underperforming it by 6%. Bank of America&#x27;s latest fund manager survey shows investors have cut tech exposure by the most since June 2006.
+
+That&#x27;s a serious reset.
+
+The question pre-Anthropic IPO: Is Wall Street finally getting too negative?
+
+The AI build-out isn&#x27;t disappearing, as we saw from Nvidia (NVDA) on Tuesday. Companies are still spending. The technology is still evolving. And as Lerner pointed out, previous tech pullbacks of more than 10% during this bull market were followed by an average rebound of 47%.
+
+That doesn&#x27;t guarantee a repeat. There are real risks — and this AI stock sell-off could get worse.
+
+Anthropic&#x27;s IPO arrives at a moment when investors are suddenly asking what could go wrong with AI.
+
+Maybe it&#x27;s time to ask the other question: What could go right?
+
+Investing in Anthropic is like investing in a young Amazon (AMZN), &quot;Shark Tank&quot; star Kevin O&#x27;Leary told me on Sozzi Unleashed. Valid point.
+
+Indeed, the biggest opportunity in tech may emerge when Wall Street least wants to own it.
+
+That&#x27;s the trade I&#x27;m watching. Well, that and the first few ticks in ticker symbol ANT!</itunes:summary>
+    </item>
+
+    <item>
+      <title>AMD, Broadcom, CoreWeave stocks mixed on Nvidia Q3 earnings beat</title>
+      <author>Ines Ferré</author>
+      <description>AMD, Broadcom, CoreWeave stocks mixed on Nvidia Q3 earnings beat
+
+2026-11-19
+
+Por Ines Ferré
+
+https://finance.yahoo.com/markets/stocks/article/amd-broadcom-tsmc-stocks-rise-on-nvidia-earnings-coreweave-nebius-shares-also-rally-220159436.html
+
+Semiconductor and cloud provider stocks were mixed on Wednesday after AI chip giant Nvidia (NVDA) reported Q3 results that beat Wall Street&#x27;s expectations. Peers AMD (AMD) and Broadcom (AVGO) shares rose more than 3%. Taiwan Semiconductor Manufacturing Company (TSM), which manufactures Nvidia&#x27;s chips, also saw its stock rise modestly.
+
+The semiconductor trade has been volatile since Jensen Huang resigned as CEO last Thursday following reports of extramarital affairs. Wall Street&#x27;s questions over a succession plan have kept shares of the AI chip heavyweight and the AI trade under pressure.
+
+&quot;I hope that this helps to calm some jitters in the market about the transition,&quot; Brian Colello, Morningstar analyst, told Deirdre Bosa Live on Tuesday.
+
+&quot;Seems like business as usual and the forecast is really encouraging as well,&quot; he added.
+
+Other areas of the chip trade wavered, including memory chipmaker Micron Technology (MU) and SK Hynix (SKHY), which fell modestly.
+
+Meanwhile, Nvidia-backed CoreWeave (CRWV) fell 4%. Nvidia owns more than 10% of CoreWeave and is a major chip supplier to the AI infrastructure provider. Peer Nebius (NBIS) rose 1%.</description>
+      <content:encoded><![CDATA[<p>AMD, Broadcom, CoreWeave stocks mixed on Nvidia Q3 earnings beat</p><p>2026-11-19</p><p>Por Ines Ferré</p><p>https://finance.yahoo.com/markets/stocks/article/amd-broadcom-tsmc-stocks-rise-on-nvidia-earnings-coreweave-nebius-shares-also-rally-220159436.html</p><p>Semiconductor and cloud provider stocks were mixed on Wednesday after AI chip giant Nvidia (NVDA) reported Q3 results that beat Wall Street&#x27;s expectations. Peers AMD (AMD) and Broadcom (AVGO) shares rose more than 3%. Taiwan Semiconductor Manufacturing Company (TSM), which manufactures Nvidia&#x27;s chips, also saw its stock rise modestly.</p><p>The semiconductor trade has been volatile since Jensen Huang resigned as CEO last Thursday following reports of extramarital affairs. Wall Street&#x27;s questions over a succession plan have kept shares of the AI chip heavyweight and the AI trade under pressure.</p><p>&quot;I hope that this helps to calm some jitters in the market about the transition,&quot; Brian Colello, Morningstar analyst, told Deirdre Bosa Live on Tuesday.</p><p>&quot;Seems like business as usual and the forecast is really encouraging as well,&quot; he added.</p><p>Other areas of the chip trade wavered, including memory chipmaker Micron Technology (MU) and SK Hynix (SKHY), which fell modestly.</p><p>Meanwhile, Nvidia-backed CoreWeave (CRWV) fell 4%. Nvidia owns more than 10% of CoreWeave and is a major chip supplier to the AI infrastructure provider. Peer Nebius (NBIS) rose 1%.</p>]]></content:encoded>
+      <pubDate>Thu, 19 Nov 2026 12:22:55 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-11-19_AMD_Broadcom_CoreWeave_stocks_mixed_on_Nvidia_Q3_earnings_beat.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-11-19_AMD_Broadcom_CoreWeave_stocks_mixed_on_Nvidia_Q3_earnings_beat.mp3" length="818208" type="audio/mpeg"/>
+      <itunes:duration>00:01:25</itunes:duration>
+      <itunes:author>Ines Ferré</itunes:author>
+      <itunes:summary>AMD, Broadcom, CoreWeave stocks mixed on Nvidia Q3 earnings beat
+
+2026-11-19
+
+Por Ines Ferré
+
+https://finance.yahoo.com/markets/stocks/article/amd-broadcom-tsmc-stocks-rise-on-nvidia-earnings-coreweave-nebius-shares-also-rally-220159436.html
+
+Semiconductor and cloud provider stocks were mixed on Wednesday after AI chip giant Nvidia (NVDA) reported Q3 results that beat Wall Street&#x27;s expectations. Peers AMD (AMD) and Broadcom (AVGO) shares rose more than 3%. Taiwan Semiconductor Manufacturing Company (TSM), which manufactures Nvidia&#x27;s chips, also saw its stock rise modestly.
+
+The semiconductor trade has been volatile since Jensen Huang resigned as CEO last Thursday following reports of extramarital affairs. Wall Street&#x27;s questions over a succession plan have kept shares of the AI chip heavyweight and the AI trade under pressure.
+
+&quot;I hope that this helps to calm some jitters in the market about the transition,&quot; Brian Colello, Morningstar analyst, told Deirdre Bosa Live on Tuesday.
+
+&quot;Seems like business as usual and the forecast is really encouraging as well,&quot; he added.
+
+Other areas of the chip trade wavered, including memory chipmaker Micron Technology (MU) and SK Hynix (SKHY), which fell modestly.
+
+Meanwhile, Nvidia-backed CoreWeave (CRWV) fell 4%. Nvidia owns more than 10% of CoreWeave and is a major chip supplier to the AI infrastructure provider. Peer Nebius (NBIS) rose 1%.</itunes:summary>
+    </item>
 
     <item>
       <title>Stable Growth in 2027 Economic Outlook</title>
@@ -7301,286 +7605,6 @@ In response, Nvidia&#x27;s board said it is launching an independent investigati
 Email Daniel Howley at dhowley@yahoofinance.com. Follow him on X at @DanielHowley or reach out on Signal or Telegram.
 
 This is a developing story. Check back for updates.</itunes:summary>
-    </item>
-
-    <item>
-      <title>Meta is losing its longtime head of infrastructure</title>
-      <author>Lucas Ropek</author>
-      <description>Meta is losing its longtime head of infrastructure
-
-2026-11-12
-
-Por Lucas Ropek
-
-https://finance.yahoo.com/technology/articles/meta-losing-longtime-head-infrastructure-201201421.html
-
-A key figure in Meta&#x27;s growth into a social media and tech industry powerhouse is leaving the company.
-
-It sounds like Janardhan will remain at Meta for a little bit, although he is expected to leave next year. &quot;Santosh will stay on for transition and he is moving into an advisory role on Meta Compute,&quot; said a Meta representative.
-
-Janardhan, who originally joined the company in 2009, helped the firm grow into the massive internet presence that it is today. Bloomberg originally reported Janardhan&#x27;s departure, citing an internal memo that had recently been circulated. It&#x27;s unclear why Janardhan is stepping down from the role. The memo did not specify the reasons for his departure and Meta didn&#x27;t immediately respond to a request for clarity on the issue. However, Janardhan&#x27;s memo apparently cited the need to &quot;pass the baton.&quot;
-
-In recent years, the company&#x27;s investment in infrastructure has exploded, as it seeks to keep up with its competitors in the AI race. Earlier this year, Janardhan was tasked with leading Meta Compute, the company initiative to scale its data center investments and strategy.</description>
-      <content:encoded><![CDATA[<p>Meta is losing its longtime head of infrastructure</p><p>2026-11-12</p><p>Por Lucas Ropek</p><p>https://finance.yahoo.com/technology/articles/meta-losing-longtime-head-infrastructure-201201421.html</p><p>A key figure in Meta&#x27;s growth into a social media and tech industry powerhouse is leaving the company.</p><p>It sounds like Janardhan will remain at Meta for a little bit, although he is expected to leave next year. &quot;Santosh will stay on for transition and he is moving into an advisory role on Meta Compute,&quot; said a Meta representative.</p><p>Janardhan, who originally joined the company in 2009, helped the firm grow into the massive internet presence that it is today. Bloomberg originally reported Janardhan&#x27;s departure, citing an internal memo that had recently been circulated. It&#x27;s unclear why Janardhan is stepping down from the role. The memo did not specify the reasons for his departure and Meta didn&#x27;t immediately respond to a request for clarity on the issue. However, Janardhan&#x27;s memo apparently cited the need to &quot;pass the baton.&quot;</p><p>In recent years, the company&#x27;s investment in infrastructure has exploded, as it seeks to keep up with its competitors in the AI race. Earlier this year, Janardhan was tasked with leading Meta Compute, the company initiative to scale its data center investments and strategy.</p>]]></content:encoded>
-      <pubDate>Thu, 12 Nov 2026 13:35:57 GMT</pubDate>
-      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-11-12_Meta_is_losing_its_longtime_head_of_infrastructure.mp3</guid>
-      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-11-12_Meta_is_losing_its_longtime_head_of_infrastructure.mp3" length="699605" type="audio/mpeg"/>
-      <itunes:duration>00:01:11</itunes:duration>
-      <itunes:author>Lucas Ropek</itunes:author>
-      <itunes:summary>Meta is losing its longtime head of infrastructure
-
-2026-11-12
-
-Por Lucas Ropek
-
-https://finance.yahoo.com/technology/articles/meta-losing-longtime-head-infrastructure-201201421.html
-
-A key figure in Meta&#x27;s growth into a social media and tech industry powerhouse is leaving the company.
-
-It sounds like Janardhan will remain at Meta for a little bit, although he is expected to leave next year. &quot;Santosh will stay on for transition and he is moving into an advisory role on Meta Compute,&quot; said a Meta representative.
-
-Janardhan, who originally joined the company in 2009, helped the firm grow into the massive internet presence that it is today. Bloomberg originally reported Janardhan&#x27;s departure, citing an internal memo that had recently been circulated. It&#x27;s unclear why Janardhan is stepping down from the role. The memo did not specify the reasons for his departure and Meta didn&#x27;t immediately respond to a request for clarity on the issue. However, Janardhan&#x27;s memo apparently cited the need to &quot;pass the baton.&quot;
-
-In recent years, the company&#x27;s investment in infrastructure has exploded, as it seeks to keep up with its competitors in the AI race. Earlier this year, Janardhan was tasked with leading Meta Compute, the company initiative to scale its data center investments and strategy.</itunes:summary>
-    </item>
-
-    <item>
-      <title>Goldman Sachs calls chip stocks &#x27;oversold.&#x27; Here are the names it says to buy.</title>
-      <author>Brian Sozzi</author>
-      <description>Goldman Sachs calls chip stocks &#x27;oversold.&#x27; Here are the names it says to buy.
-
-2026-11-11
-
-Por Brian Sozzi
-
-https://finance.yahoo.com/markets/article/goldman-sachs-calls-chip-stocks-oversold-here-are-the-names-it-says-to-buy-165654250.html
-
-Goldman Sachs is sifting through the AI stock rubble in search of bargains.
-
-&quot;We believe stocks are now clearly in oversold territory,&quot; Goldman Sachs analyst James Schneider said about semiconductor stocks.
-
-Three of his top names to buy: Nvidia (NVDA), Broadcom (AVGO), and AMD (AMD).
-
-&quot;Even in a &#x27;no growth&#x27; scenario for 2028 (which we see as relatively unlikely), NVDA/AVGO are trading 12X/13X this baseline — which we believe valuations are compelling at current levels,&quot; Schneider wrote in a note. &quot;We find AMD to be very attractive given the growth we believe it can achieve, albeit at a less compelling valuation.&quot;
-
-It has been a brutal run for tech stocks in November.
-
-The S&amp;P 500 (^GSPC) lost 4.3% of its market value on Nov. 5 as investors assessed what a blue wave on Election Day would mean for the build-out of AI data centers. The move wiped out $3 trillion in value.
-
-The Dow Jones Industrial Average (^DJI) plunged 1,800 points in its worst single-day rout since 2020. The tech-heavy Nasdaq (^IXIC) cratered 5.5%, dragged down by semiconductor and cloud giants such as Micron (MU) and Sandisk (SNDK).
-
-Stocks have continued to trade with a downward bias, especially semiconductor names.
-
-The Philadelphia Semiconductor Index (^SOX) is down 21% in the past month, and 6% in November alone.
-
-&quot;We believe the market has been contending with competing tensions relative to semiconductors: (1) How does the funding gap between current capex and free cash flows for hyperscalers and AI model labs levels get closed? (2) Is there sufficient land/power/shell coming on line to match current Street estimates for Semis?&quot; Schneider explained. &quot;Following the US elections on Nov. 3, the second of these tensions came into greater focus with greater uncertainty around the pace of datacenter builds in states such as Texas.&quot;
-
-He added, &quot;[Although] we recognize there may be few catalysts for stocks to move higher before year end, we think risk/reward is compelling for select names at current levels.&quot;</description>
-      <content:encoded><![CDATA[<p>Goldman Sachs calls chip stocks &#x27;oversold.&#x27; Here are the names it says to buy.</p><p>2026-11-11</p><p>Por Brian Sozzi</p><p>https://finance.yahoo.com/markets/article/goldman-sachs-calls-chip-stocks-oversold-here-are-the-names-it-says-to-buy-165654250.html</p><p>Goldman Sachs is sifting through the AI stock rubble in search of bargains.</p><p>&quot;We believe stocks are now clearly in oversold territory,&quot; Goldman Sachs analyst James Schneider said about semiconductor stocks.</p><p>Three of his top names to buy: Nvidia (NVDA), Broadcom (AVGO), and AMD (AMD).</p><p>&quot;Even in a &#x27;no growth&#x27; scenario for 2028 (which we see as relatively unlikely), NVDA/AVGO are trading 12X/13X this baseline — which we believe valuations are compelling at current levels,&quot; Schneider wrote in a note. &quot;We find AMD to be very attractive given the growth we believe it can achieve, albeit at a less compelling valuation.&quot;</p><p>It has been a brutal run for tech stocks in November.</p><p>The S&amp;P 500 (^GSPC) lost 4.3% of its market value on Nov. 5 as investors assessed what a blue wave on Election Day would mean for the build-out of AI data centers. The move wiped out $3 trillion in value.</p><p>The Dow Jones Industrial Average (^DJI) plunged 1,800 points in its worst single-day rout since 2020. The tech-heavy Nasdaq (^IXIC) cratered 5.5%, dragged down by semiconductor and cloud giants such as Micron (MU) and Sandisk (SNDK).</p><p>Stocks have continued to trade with a downward bias, especially semiconductor names.</p><p>The Philadelphia Semiconductor Index (^SOX) is down 21% in the past month, and 6% in November alone.</p><p>&quot;We believe the market has been contending with competing tensions relative to semiconductors: (1) How does the funding gap between current capex and free cash flows for hyperscalers and AI model labs levels get closed? (2) Is there sufficient land/power/shell coming on line to match current Street estimates for Semis?&quot; Schneider explained. &quot;Following the US elections on Nov. 3, the second of these tensions came into greater focus with greater uncertainty around the pace of datacenter builds in states such as Texas.&quot;</p><p>He added, &quot;[Although] we recognize there may be few catalysts for stocks to move higher before year end, we think risk/reward is compelling for select names at current levels.&quot;</p>]]></content:encoded>
-      <pubDate>Wed, 11 Nov 2026 12:20:24 GMT</pubDate>
-      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-11-11_Goldman_Sachs_calls_chip_stocks_oversold._Here_are_the_names_it_says_to_buy.mp3</guid>
-      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-11-11_Goldman_Sachs_calls_chip_stocks_oversold._Here_are_the_names_it_says_to_buy.mp3" length="1293020" type="audio/mpeg"/>
-      <itunes:duration>00:02:20</itunes:duration>
-      <itunes:author>Brian Sozzi</itunes:author>
-      <itunes:summary>Goldman Sachs calls chip stocks &#x27;oversold.&#x27; Here are the names it says to buy.
-
-2026-11-11
-
-Por Brian Sozzi
-
-https://finance.yahoo.com/markets/article/goldman-sachs-calls-chip-stocks-oversold-here-are-the-names-it-says-to-buy-165654250.html
-
-Goldman Sachs is sifting through the AI stock rubble in search of bargains.
-
-&quot;We believe stocks are now clearly in oversold territory,&quot; Goldman Sachs analyst James Schneider said about semiconductor stocks.
-
-Three of his top names to buy: Nvidia (NVDA), Broadcom (AVGO), and AMD (AMD).
-
-&quot;Even in a &#x27;no growth&#x27; scenario for 2028 (which we see as relatively unlikely), NVDA/AVGO are trading 12X/13X this baseline — which we believe valuations are compelling at current levels,&quot; Schneider wrote in a note. &quot;We find AMD to be very attractive given the growth we believe it can achieve, albeit at a less compelling valuation.&quot;
-
-It has been a brutal run for tech stocks in November.
-
-The S&amp;P 500 (^GSPC) lost 4.3% of its market value on Nov. 5 as investors assessed what a blue wave on Election Day would mean for the build-out of AI data centers. The move wiped out $3 trillion in value.
-
-The Dow Jones Industrial Average (^DJI) plunged 1,800 points in its worst single-day rout since 2020. The tech-heavy Nasdaq (^IXIC) cratered 5.5%, dragged down by semiconductor and cloud giants such as Micron (MU) and Sandisk (SNDK).
-
-Stocks have continued to trade with a downward bias, especially semiconductor names.
-
-The Philadelphia Semiconductor Index (^SOX) is down 21% in the past month, and 6% in November alone.
-
-&quot;We believe the market has been contending with competing tensions relative to semiconductors: (1) How does the funding gap between current capex and free cash flows for hyperscalers and AI model labs levels get closed? (2) Is there sufficient land/power/shell coming on line to match current Street estimates for Semis?&quot; Schneider explained. &quot;Following the US elections on Nov. 3, the second of these tensions came into greater focus with greater uncertainty around the pace of datacenter builds in states such as Texas.&quot;
-
-He added, &quot;[Although] we recognize there may be few catalysts for stocks to move higher before year end, we think risk/reward is compelling for select names at current levels.&quot;</itunes:summary>
-    </item>
-
-    <item>
-      <title>Energy prices matter way more for inflation than they used to: Fed report</title>
-      <author>Hamza Shaban</author>
-      <description>Energy prices matter way more for inflation than they used to: Fed report
-
-2026-11-11
-
-Por Hamza Shaban
-
-https://finance.yahoo.com/economy/article/energy-prices-matter-way-more-for-inflation-than-they-used-to-fed-report-110000366.html
-
-Since the start of the Iran war, investors have been wrestling with what elevated oil prices mean for the economy.
-
-Trump and his economic advisers advanced the traditional view that price increases from an oil supply shock would be short-lived, rather than a persistent threat to stability.
-
-But many agitated consumers — and economists — saw higher gas prices and more expensive goods as a new, stubborn feature of everyday spending, a consequence of the conflict permeating deeper into the economy.
-
-Read more: How oil price shocks ripple through your wallet, from gas to groceries
-
-A new research note from the Federal Reserve offers a fresh take on the energy price debate. The &quot;transitory&quot; or temporary shocks are adding up to make a meaningful — and unpleasant — difference.
-
-Inflation in the post-pandemic economy sticks around for longer, the report found, and oil shocks more strongly leak into core inflation, presenting a challenge for central bankers. Where in a previous era the Fed might have been correct to &quot;look through&quot; an oil spike as a fleeting event, the new research suggests energy shocks matter a lot more now.
-
-Which makes sense: Between the post-COVID inflation boom, Russia-Ukraine, and Iran/Hormuz, it&#x27;s been, as many analysts have punned, &quot;one supply shock after another.&quot;
-
-&quot;Our estimated model implies that the recent rise in oil prices could significantly raise core inflation in the advanced economies over the next few years were the greater persistence and higher pass-through to continue,&quot; the Fed&#x27;s report said.
-
-Before the pandemic and subsequent crises, central bankers could more easily manage oil-price shocks. Inflation didn&#x27;t persist as long, so any increases faded quickly. That helps explain the belief that the closure of the Strait of Hormuz (assuming the war would end) wouldn&#x27;t amount to a dramatic and extended economic event. Oil price increases also tended to stay within headline inflation metrics. That meant gas and energy costs would rise, but those pricing pressures would stay confined and woudn&#x27;t spread into core inflation.
-
-Those dynamics gave central bankers, political leaders, and consumers protections from geopolitical instability.
-
-A conflict over energy might create an economic ripple that would soon subside. But the post-pandemic data, the Fed&#x27;s research shows, points to a shift in the inflation process. If it continues, it means the economy is more sensitive to oil price shocks. And higher energy prices could easily bleed into core inflation.
-
-The Fed offered a note of caution, however: This is still a very short period, post-pandemic. This could be the new normal, or it could be a weird anomaly.
-
-&quot;Nevertheless,&quot; the report said, &quot;they illustrate an upside risk to inflation should oil prices remain elevated or supply-chain disruptions persist for an extended period.&quot;
-
-Follow Hamza Shaban on X @hshaban.</description>
-      <content:encoded><![CDATA[<p>Energy prices matter way more for inflation than they used to: Fed report</p><p>2026-11-11</p><p>Por Hamza Shaban</p><p>https://finance.yahoo.com/economy/article/energy-prices-matter-way-more-for-inflation-than-they-used-to-fed-report-110000366.html</p><p>Since the start of the Iran war, investors have been wrestling with what elevated oil prices mean for the economy.</p><p>Trump and his economic advisers advanced the traditional view that price increases from an oil supply shock would be short-lived, rather than a persistent threat to stability.</p><p>But many agitated consumers — and economists — saw higher gas prices and more expensive goods as a new, stubborn feature of everyday spending, a consequence of the conflict permeating deeper into the economy.</p><p>Read more: How oil price shocks ripple through your wallet, from gas to groceries</p><p>A new research note from the Federal Reserve offers a fresh take on the energy price debate. The &quot;transitory&quot; or temporary shocks are adding up to make a meaningful — and unpleasant — difference.</p><p>Inflation in the post-pandemic economy sticks around for longer, the report found, and oil shocks more strongly leak into core inflation, presenting a challenge for central bankers. Where in a previous era the Fed might have been correct to &quot;look through&quot; an oil spike as a fleeting event, the new research suggests energy shocks matter a lot more now.</p><p>Which makes sense: Between the post-COVID inflation boom, Russia-Ukraine, and Iran/Hormuz, it&#x27;s been, as many analysts have punned, &quot;one supply shock after another.&quot;</p><p>&quot;Our estimated model implies that the recent rise in oil prices could significantly raise core inflation in the advanced economies over the next few years were the greater persistence and higher pass-through to continue,&quot; the Fed&#x27;s report said.</p><p>Before the pandemic and subsequent crises, central bankers could more easily manage oil-price shocks. Inflation didn&#x27;t persist as long, so any increases faded quickly. That helps explain the belief that the closure of the Strait of Hormuz (assuming the war would end) wouldn&#x27;t amount to a dramatic and extended economic event. Oil price increases also tended to stay within headline inflation metrics. That meant gas and energy costs would rise, but those pricing pressures would stay confined and woudn&#x27;t spread into core inflation.</p><p>Those dynamics gave central bankers, political leaders, and consumers protections from geopolitical instability.</p><p>A conflict over energy might create an economic ripple that would soon subside. But the post-pandemic data, the Fed&#x27;s research shows, points to a shift in the inflation process. If it continues, it means the economy is more sensitive to oil price shocks. And higher energy prices could easily bleed into core inflation.</p><p>The Fed offered a note of caution, however: This is still a very short period, post-pandemic. This could be the new normal, or it could be a weird anomaly.</p><p>&quot;Nevertheless,&quot; the report said, &quot;they illustrate an upside risk to inflation should oil prices remain elevated or supply-chain disruptions persist for an extended period.&quot;</p><p>Follow Hamza Shaban on X @hshaban.</p>]]></content:encoded>
-      <pubDate>Wed, 11 Nov 2026 12:19:50 GMT</pubDate>
-      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-11-11_Energy_prices_matter_way_more_for_inflation_than_they_used_to_Fed_report.mp3</guid>
-      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-11-11_Energy_prices_matter_way_more_for_inflation_than_they_used_to_Fed_report.mp3" length="1650170" type="audio/mpeg"/>
-      <itunes:duration>00:03:01</itunes:duration>
-      <itunes:author>Hamza Shaban</itunes:author>
-      <itunes:summary>Energy prices matter way more for inflation than they used to: Fed report
-
-2026-11-11
-
-Por Hamza Shaban
-
-https://finance.yahoo.com/economy/article/energy-prices-matter-way-more-for-inflation-than-they-used-to-fed-report-110000366.html
-
-Since the start of the Iran war, investors have been wrestling with what elevated oil prices mean for the economy.
-
-Trump and his economic advisers advanced the traditional view that price increases from an oil supply shock would be short-lived, rather than a persistent threat to stability.
-
-But many agitated consumers — and economists — saw higher gas prices and more expensive goods as a new, stubborn feature of everyday spending, a consequence of the conflict permeating deeper into the economy.
-
-Read more: How oil price shocks ripple through your wallet, from gas to groceries
-
-A new research note from the Federal Reserve offers a fresh take on the energy price debate. The &quot;transitory&quot; or temporary shocks are adding up to make a meaningful — and unpleasant — difference.
-
-Inflation in the post-pandemic economy sticks around for longer, the report found, and oil shocks more strongly leak into core inflation, presenting a challenge for central bankers. Where in a previous era the Fed might have been correct to &quot;look through&quot; an oil spike as a fleeting event, the new research suggests energy shocks matter a lot more now.
-
-Which makes sense: Between the post-COVID inflation boom, Russia-Ukraine, and Iran/Hormuz, it&#x27;s been, as many analysts have punned, &quot;one supply shock after another.&quot;
-
-&quot;Our estimated model implies that the recent rise in oil prices could significantly raise core inflation in the advanced economies over the next few years were the greater persistence and higher pass-through to continue,&quot; the Fed&#x27;s report said.
-
-Before the pandemic and subsequent crises, central bankers could more easily manage oil-price shocks. Inflation didn&#x27;t persist as long, so any increases faded quickly. That helps explain the belief that the closure of the Strait of Hormuz (assuming the war would end) wouldn&#x27;t amount to a dramatic and extended economic event. Oil price increases also tended to stay within headline inflation metrics. That meant gas and energy costs would rise, but those pricing pressures would stay confined and woudn&#x27;t spread into core inflation.
-
-Those dynamics gave central bankers, political leaders, and consumers protections from geopolitical instability.
-
-A conflict over energy might create an economic ripple that would soon subside. But the post-pandemic data, the Fed&#x27;s research shows, points to a shift in the inflation process. If it continues, it means the economy is more sensitive to oil price shocks. And higher energy prices could easily bleed into core inflation.
-
-The Fed offered a note of caution, however: This is still a very short period, post-pandemic. This could be the new normal, or it could be a weird anomaly.
-
-&quot;Nevertheless,&quot; the report said, &quot;they illustrate an upside risk to inflation should oil prices remain elevated or supply-chain disruptions persist for an extended period.&quot;
-
-Follow Hamza Shaban on X @hshaban.</itunes:summary>
-    </item>
-
-    <item>
-      <title>American paychecks are losing to inflation again — here are the most painful categories</title>
-      <author>Jared Blikre</author>
-      <description>American paychecks are losing to inflation again — here are the most painful categories
-
-2026-11-11
-
-Por Jared Blikre
-
-https://finance.yahoo.com/economy/article/american-paychecks-are-losing-to-inflation-again--here-are-the-most-painful-categories-144702833.html
-
-The gas pump is about the only place Americans are getting relief from inflation. Plane tickets, restaurant meals, and electric bills have all risen faster than the average worker&#x27;s pay over the past two years.
-
-Pump prices have fallen for six straight weeks. Even so, a gallon of gas still costs about 37% more than it did a year ago.
-
-That&#x27;s one of the few yearly numbers the government could publish Tuesday. The Bureau of Labor Statistics did not collect October 2025 prices during last year&#x27;s shutdown, so the usual annual inflation rate is missing.
-
-Read more: October inflation breakdown includes cheaper gas, bigger grocery bills
-
-So we estimated it. According to Yahoo Finance&#x27;s calculations, consumer prices rose about 4% in the year through October, up from 3.7% in September.
-
-Paychecks didn&#x27;t keep up. Average hourly pay rose about 3%, which leaves pay down nearly 1% after inflation. That&#x27;s the seventh straight month workers have lost ground, matching May as the worst stretch of the run.
-
-And prices are speeding up. They rose 0.4% in October, while &quot;core&quot; prices, which leave out food and energy, rose 0.3%. Both came in hotter than Wall Street expected.
-
-Over the past three months, core prices climbed at a nearly 4% annual pace, noted Kevin Gordon, head of macro research and strategy at the Schwab Center for Financial Research. That&#x27;s the fastest since April 2024, per Yahoo Finance&#x27;s calculations.
-
-&quot;For households, the reduced purchasing power from inflation hits twice as hard when your wages aren&#x27;t keeping up,&quot; Elizabeth Renter, lead economist at Life360, said in emailed comments.
-
-The most painful categories
-
-Since October 2024, average hourly pay has increased by about 7%. Here&#x27;s what outran it.
-
-Airfares jumped more than 20%. Car repairs rose by about 13%, hospital services by about 12%, and electricity by nearly 10%. A meal at a sit-down restaurant costs about 9% more.
-
-Groceries are the exception, up only about 5%.
-
-Take the average of four costs most households can&#x27;t skip — the &quot;utility, gasoline, grocery, and electricity components&quot; of the index — and they&#x27;re up 12% from a year ago, Gordon wrote on X.
-
-The war in the Middle East is a major reason, according to RSM chief economist Joe Brusuelas. He pointed to &quot;the passing through of higher energy prices — think diesel prices — to transportation services and food at home.&quot; Diesel, the fuel that powers nearly everything else, is still near its record high.
-
-That leaves the Federal Reserve on track to raise interest rates, which would push up borrowing costs on credit cards, car loans, and other debt. Fed governor Chris Waller said Tuesday he&#x27;s leaning toward a December hike and would consider a half point, double the usual move, if inflation runs hot. Traders on Polymarket see a better-than-90% chance of a hike when the Fed meets on Dec. 8-9.</description>
-      <content:encoded><![CDATA[<p>American paychecks are losing to inflation again — here are the most painful categories</p><p>2026-11-11</p><p>Por Jared Blikre</p><p>https://finance.yahoo.com/economy/article/american-paychecks-are-losing-to-inflation-again--here-are-the-most-painful-categories-144702833.html</p><p>The gas pump is about the only place Americans are getting relief from inflation. Plane tickets, restaurant meals, and electric bills have all risen faster than the average worker&#x27;s pay over the past two years.</p><p>Pump prices have fallen for six straight weeks. Even so, a gallon of gas still costs about 37% more than it did a year ago.</p><p>That&#x27;s one of the few yearly numbers the government could publish Tuesday. The Bureau of Labor Statistics did not collect October 2025 prices during last year&#x27;s shutdown, so the usual annual inflation rate is missing.</p><p>Read more: October inflation breakdown includes cheaper gas, bigger grocery bills</p><p>So we estimated it. According to Yahoo Finance&#x27;s calculations, consumer prices rose about 4% in the year through October, up from 3.7% in September.</p><p>Paychecks didn&#x27;t keep up. Average hourly pay rose about 3%, which leaves pay down nearly 1% after inflation. That&#x27;s the seventh straight month workers have lost ground, matching May as the worst stretch of the run.</p><p>And prices are speeding up. They rose 0.4% in October, while &quot;core&quot; prices, which leave out food and energy, rose 0.3%. Both came in hotter than Wall Street expected.</p><p>Over the past three months, core prices climbed at a nearly 4% annual pace, noted Kevin Gordon, head of macro research and strategy at the Schwab Center for Financial Research. That&#x27;s the fastest since April 2024, per Yahoo Finance&#x27;s calculations.</p><p>&quot;For households, the reduced purchasing power from inflation hits twice as hard when your wages aren&#x27;t keeping up,&quot; Elizabeth Renter, lead economist at Life360, said in emailed comments.</p><p>The most painful categories</p><p>Since October 2024, average hourly pay has increased by about 7%. Here&#x27;s what outran it.</p><p>Airfares jumped more than 20%. Car repairs rose by about 13%, hospital services by about 12%, and electricity by nearly 10%. A meal at a sit-down restaurant costs about 9% more.</p><p>Groceries are the exception, up only about 5%.</p><p>Take the average of four costs most households can&#x27;t skip — the &quot;utility, gasoline, grocery, and electricity components&quot; of the index — and they&#x27;re up 12% from a year ago, Gordon wrote on X.</p><p>The war in the Middle East is a major reason, according to RSM chief economist Joe Brusuelas. He pointed to &quot;the passing through of higher energy prices — think diesel prices — to transportation services and food at home.&quot; Diesel, the fuel that powers nearly everything else, is still near its record high.</p><p>That leaves the Federal Reserve on track to raise interest rates, which would push up borrowing costs on credit cards, car loans, and other debt. Fed governor Chris Waller said Tuesday he&#x27;s leaning toward a December hike and would consider a half point, double the usual move, if inflation runs hot. Traders on Polymarket see a better-than-90% chance of a hike when the Fed meets on Dec. 8-9.</p>]]></content:encoded>
-      <pubDate>Wed, 11 Nov 2026 12:19:06 GMT</pubDate>
-      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-11-11_American_paychecks_are_losing_to_inflation_again_here_are_the_most_painful_categories.mp3</guid>
-      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-11-11_American_paychecks_are_losing_to_inflation_again_here_are_the_most_painful_categories.mp3" length="1728858" type="audio/mpeg"/>
-      <itunes:duration>00:03:10</itunes:duration>
-      <itunes:author>Jared Blikre</itunes:author>
-      <itunes:summary>American paychecks are losing to inflation again — here are the most painful categories
-
-2026-11-11
-
-Por Jared Blikre
-
-https://finance.yahoo.com/economy/article/american-paychecks-are-losing-to-inflation-again--here-are-the-most-painful-categories-144702833.html
-
-The gas pump is about the only place Americans are getting relief from inflation. Plane tickets, restaurant meals, and electric bills have all risen faster than the average worker&#x27;s pay over the past two years.
-
-Pump prices have fallen for six straight weeks. Even so, a gallon of gas still costs about 37% more than it did a year ago.
-
-That&#x27;s one of the few yearly numbers the government could publish Tuesday. The Bureau of Labor Statistics did not collect October 2025 prices during last year&#x27;s shutdown, so the usual annual inflation rate is missing.
-
-Read more: October inflation breakdown includes cheaper gas, bigger grocery bills
-
-So we estimated it. According to Yahoo Finance&#x27;s calculations, consumer prices rose about 4% in the year through October, up from 3.7% in September.
-
-Paychecks didn&#x27;t keep up. Average hourly pay rose about 3%, which leaves pay down nearly 1% after inflation. That&#x27;s the seventh straight month workers have lost ground, matching May as the worst stretch of the run.
-
-And prices are speeding up. They rose 0.4% in October, while &quot;core&quot; prices, which leave out food and energy, rose 0.3%. Both came in hotter than Wall Street expected.
-
-Over the past three months, core prices climbed at a nearly 4% annual pace, noted Kevin Gordon, head of macro research and strategy at the Schwab Center for Financial Research. That&#x27;s the fastest since April 2024, per Yahoo Finance&#x27;s calculations.
-
-&quot;For households, the reduced purchasing power from inflation hits twice as hard when your wages aren&#x27;t keeping up,&quot; Elizabeth Renter, lead economist at Life360, said in emailed comments.
-
-The most painful categories
-
-Since October 2024, average hourly pay has increased by about 7%. Here&#x27;s what outran it.
-
-Airfares jumped more than 20%. Car repairs rose by about 13%, hospital services by about 12%, and electricity by nearly 10%. A meal at a sit-down restaurant costs about 9% more.
-
-Groceries are the exception, up only about 5%.
-
-Take the average of four costs most households can&#x27;t skip — the &quot;utility, gasoline, grocery, and electricity components&quot; of the index — and they&#x27;re up 12% from a year ago, Gordon wrote on X.
-
-The war in the Middle East is a major reason, according to RSM chief economist Joe Brusuelas. He pointed to &quot;the passing through of higher energy prices — think diesel prices — to transportation services and food at home.&quot; Diesel, the fuel that powers nearly everything else, is still near its record high.
-
-That leaves the Federal Reserve on track to raise interest rates, which would push up borrowing costs on credit cards, car loans, and other debt. Fed governor Chris Waller said Tuesday he&#x27;s leaning toward a December hike and would consider a half point, double the usual move, if inflation runs hot. Traders on Polymarket see a better-than-90% chance of a hike when the Fed meets on Dec. 8-9.</itunes:summary>
     </item>
   </channel>
 </rss>
