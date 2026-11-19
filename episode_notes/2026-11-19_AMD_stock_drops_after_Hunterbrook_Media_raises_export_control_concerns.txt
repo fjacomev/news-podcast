@@ -1,0 +1,33 @@
+AMD stock drops after Hunterbrook Media raises export control concerns
+
+2026-11-19
+
+Por Daniel Howley
+
+https://finance.yahoo.com/technology/article/amd-stock-drops-after-hunterbrook-media-raises-export-control-concerns-171508145.html
+
+AMD (AMD) stock plunged more than 8% on Thursday after Hunterbrook Media published an investigation raising questions about potential export-control issues related to the chipmaker's products.
+
+Hunterbrook Media is associated with Hunterbrook Capital, which has a short position on AMD.
+
+According to the outlet, Chinese server maker IEIT continued to receive firmware updates for AMD's chips, despite being blacklisted by the US Department of Commerce.
+
+Hunterbrook also claims three companies associated with IEIT, but not blacklisted, used software virtually identical to the firmware used by IEIT.
+
+AMD, however, refuted Hunterbrook's claims in a statement to Yahoo Finance.
+
+"The claims misrepresent AMD's business practices and relationships," a company spokesperson wrote.
+
+"AMD complies with applicable US export control laws and regulations and maintains rigorous processes to ensure compliance across our global operations. We remain focused on serving our customers and upholding the highest standards of integrity."
+
+AMD rival Nvidia (NVDA) has also faced scrutiny over former CEO Jensen Huang's alleged affair with a suspected Chinese spy and over concerns that customers circumvented export controls by shipping chips to China.
+
+Huang resigned from Nvidia late last week and was replaced by interim CEO Colette Kress.
+
+AMD is viewed as a potential beneficiary of Nvidia's stumbles.
+
+The company's stock is up more than 110% over the past 12 months, while Nvidia shares are down as much as 18%.
+
+The AI trade has faced a number of headwinds recently as investors question the stability of the AI build-out and whether the boom will continue at its current pace.
+
+Email Daniel Howley at dhowley@yahoofinance.com. Follow him on X at @DanielHowley or reach out on Signal or Telegram.
