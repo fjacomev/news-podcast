@@ -7,7 +7,7 @@
     <link>https://fjacomev.github.io/news-podcast</link>
     <description>Podcast personal de noticias, leido en voz local</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 12:38:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 14:09:05 GMT</lastBuildDate>
     <image>
       <url>https://fjacomev.github.io/news-podcast/cover.jpg</url>
       <title>Fernando AI News</title>
@@ -18,6 +18,132 @@
     <itunes:summary>Podcast personal de noticias, leido en voz local</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
+
+    <item>
+      <title>Palo Alto Networks CEO just dropped a truth bomb on the network outages sweeping through major companies</title>
+      <author>Brian Sozzi</author>
+      <description>Palo Alto Networks CEO just dropped a truth bomb on the network outages sweeping through major companies
+
+2026-11-19
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/technology/article/palo-alto-networks-ceo-just-dropped-a-truth-bomb-on-the-network-outages-sweeping-through-major-companies-101129581.html
+
+Palo Alto Networks CEO just dropped a truth bomb on the network outages sweeping through major companies
+
+A cybersecurity CEO offers plain talk on the outages sweeping through major companies and disrupting everything from your email to your flight.
+
+&quot;I want to be clear, there are two distinct parallel effects that are driving this environment. The first effect is a massive surge in vulnerabilities and patches being deployed. We&#x27;re seeing critical and severe vulnerabilities discovered nearly seven times the monthly average of last year. These discoveries are happening at a speed and intensity which is hard for IT teams to cope with,&quot; Palo Alto Networks (PANW) CEO Nikesh Arora said on his earnings call Wednesday evening.
+
+Added Arora, &quot;We believe many of the major disruptions of the last few weeks, including outages across major enterprises and governments, were partially due to unintended consequences of patching and configuration changes, as IT teams simply cannot patch these vulnerabilities fast enough without compromising their production environments. The second effect is the rise of AI-assisted cyberattacks. Bad actors are using open-weight models and new agentic frameworks to find and exploit vulnerabilities at unprecedented speed and scale. New agentic frameworks like ARTEX are enabling bad actors to turn simple instructions into autonomous, multi-stage attacks, allowing a handful of operators to compromise dozens of targets simultaneously. As we look ahead, we anticipate an elevated threat environment.&quot;
+
+Something is breaking across corporate America — and the timing is getting harder to ignore.
+
+United Airlines (UAL) suffered a system outage that delayed departing flights. JPMorgan Chase (JPM) experienced a software bug that slowed transactions and caused knock-on problems for customers at other banks, including Bank of America (BAC).
+
+Just days earlier, an FAA network failure grounded flights nationwide for more than four hours. Microsoft&#x27;s (MSFT) Outlook outage last week disrupted businesses around the world.
+
+These incidents appear unrelated, and there is no evidence of a coordinated cyberattack. But when airlines, banks, and critical government systems all stumble within days of each other, it raises questions about critical infrastructure&#x27;s vulnerability amid the push to advance AI.
+
+The backdrop continues to be fertile ground for a cybersecurity player like Palo Alto Networks (PANW).
+
+Revenue and operating profit for the most recent quarter surged 39% and 47%, respectively, from the year-ago period. Guidance for the current quarter and full year was also ahead of consensus estimates.</description>
+      <content:encoded><![CDATA[<p>Palo Alto Networks CEO just dropped a truth bomb on the network outages sweeping through major companies</p><p>2026-11-19</p><p>Por Brian Sozzi</p><p>https://finance.yahoo.com/technology/article/palo-alto-networks-ceo-just-dropped-a-truth-bomb-on-the-network-outages-sweeping-through-major-companies-101129581.html</p><p>Palo Alto Networks CEO just dropped a truth bomb on the network outages sweeping through major companies</p><p>A cybersecurity CEO offers plain talk on the outages sweeping through major companies and disrupting everything from your email to your flight.</p><p>&quot;I want to be clear, there are two distinct parallel effects that are driving this environment. The first effect is a massive surge in vulnerabilities and patches being deployed. We&#x27;re seeing critical and severe vulnerabilities discovered nearly seven times the monthly average of last year. These discoveries are happening at a speed and intensity which is hard for IT teams to cope with,&quot; Palo Alto Networks (PANW) CEO Nikesh Arora said on his earnings call Wednesday evening.</p><p>Added Arora, &quot;We believe many of the major disruptions of the last few weeks, including outages across major enterprises and governments, were partially due to unintended consequences of patching and configuration changes, as IT teams simply cannot patch these vulnerabilities fast enough without compromising their production environments. The second effect is the rise of AI-assisted cyberattacks. Bad actors are using open-weight models and new agentic frameworks to find and exploit vulnerabilities at unprecedented speed and scale. New agentic frameworks like ARTEX are enabling bad actors to turn simple instructions into autonomous, multi-stage attacks, allowing a handful of operators to compromise dozens of targets simultaneously. As we look ahead, we anticipate an elevated threat environment.&quot;</p><p>Something is breaking across corporate America — and the timing is getting harder to ignore.</p><p>United Airlines (UAL) suffered a system outage that delayed departing flights. JPMorgan Chase (JPM) experienced a software bug that slowed transactions and caused knock-on problems for customers at other banks, including Bank of America (BAC).</p><p>Just days earlier, an FAA network failure grounded flights nationwide for more than four hours. Microsoft&#x27;s (MSFT) Outlook outage last week disrupted businesses around the world.</p><p>These incidents appear unrelated, and there is no evidence of a coordinated cyberattack. But when airlines, banks, and critical government systems all stumble within days of each other, it raises questions about critical infrastructure&#x27;s vulnerability amid the push to advance AI.</p><p>The backdrop continues to be fertile ground for a cybersecurity player like Palo Alto Networks (PANW).</p><p>Revenue and operating profit for the most recent quarter surged 39% and 47%, respectively, from the year-ago period. Guidance for the current quarter and full year was also ahead of consensus estimates.</p>]]></content:encoded>
+      <pubDate>Thu, 19 Nov 2026 14:08:41 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-11-19_Palo_Alto_Networks_CEO_just_dropped_a_truth_bomb_on_the_network_outages_sweeping_through_major_companies.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-11-19_Palo_Alto_Networks_CEO_just_dropped_a_truth_bomb_on_the_network_outages_sweeping_through_major_companies.mp3" length="1596326" type="audio/mpeg"/>
+      <itunes:duration>00:02:54</itunes:duration>
+      <itunes:author>Brian Sozzi</itunes:author>
+      <itunes:summary>Palo Alto Networks CEO just dropped a truth bomb on the network outages sweeping through major companies
+
+2026-11-19
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/technology/article/palo-alto-networks-ceo-just-dropped-a-truth-bomb-on-the-network-outages-sweeping-through-major-companies-101129581.html
+
+Palo Alto Networks CEO just dropped a truth bomb on the network outages sweeping through major companies
+
+A cybersecurity CEO offers plain talk on the outages sweeping through major companies and disrupting everything from your email to your flight.
+
+&quot;I want to be clear, there are two distinct parallel effects that are driving this environment. The first effect is a massive surge in vulnerabilities and patches being deployed. We&#x27;re seeing critical and severe vulnerabilities discovered nearly seven times the monthly average of last year. These discoveries are happening at a speed and intensity which is hard for IT teams to cope with,&quot; Palo Alto Networks (PANW) CEO Nikesh Arora said on his earnings call Wednesday evening.
+
+Added Arora, &quot;We believe many of the major disruptions of the last few weeks, including outages across major enterprises and governments, were partially due to unintended consequences of patching and configuration changes, as IT teams simply cannot patch these vulnerabilities fast enough without compromising their production environments. The second effect is the rise of AI-assisted cyberattacks. Bad actors are using open-weight models and new agentic frameworks to find and exploit vulnerabilities at unprecedented speed and scale. New agentic frameworks like ARTEX are enabling bad actors to turn simple instructions into autonomous, multi-stage attacks, allowing a handful of operators to compromise dozens of targets simultaneously. As we look ahead, we anticipate an elevated threat environment.&quot;
+
+Something is breaking across corporate America — and the timing is getting harder to ignore.
+
+United Airlines (UAL) suffered a system outage that delayed departing flights. JPMorgan Chase (JPM) experienced a software bug that slowed transactions and caused knock-on problems for customers at other banks, including Bank of America (BAC).
+
+Just days earlier, an FAA network failure grounded flights nationwide for more than four hours. Microsoft&#x27;s (MSFT) Outlook outage last week disrupted businesses around the world.
+
+These incidents appear unrelated, and there is no evidence of a coordinated cyberattack. But when airlines, banks, and critical government systems all stumble within days of each other, it raises questions about critical infrastructure&#x27;s vulnerability amid the push to advance AI.
+
+The backdrop continues to be fertile ground for a cybersecurity player like Palo Alto Networks (PANW).
+
+Revenue and operating profit for the most recent quarter surged 39% and 47%, respectively, from the year-ago period. Guidance for the current quarter and full year was also ahead of consensus estimates.</itunes:summary>
+    </item>
+
+    <item>
+      <title>Alibaba&#x27;s AI Ambitions Face Steep Challenge in US Chip Controls</title>
+      <author>Jeanny Yu</author>
+      <description>Alibaba&#x27;s AI Ambitions Face Steep Challenge in US Chip Controls
+
+2026-11-19
+
+Por Jeanny Yu
+
+https://finance.yahoo.com/technology/ai/articles/alibaba-ai-ambitions-face-steep-000021461.html
+
+(Bloomberg) -- Alibaba Group Holding Ltd. (BABA) is facing mounting pressure to show it can deliver on its artificial intelligence business plan despite new limits on its access to data center chips.
+
+Most Read from Bloomberg
+
+Its Hong Kong-listed shares capped a nine-day losing streak ahead of results due later Thursday from the internet firm. Alibaba&#x27;s market value stands at $216 billion, less than half its level just over a year ago when investors were betting on it to lead the China&#x27;s AI industry.
+
+Draft US rules announced Monday would close a key workaround for Chinese hyperscalers to use advanced chips. That&#x27;s making analysts turn more cautious on Chinese AI companies&#x27; cloud growth potential as well as their ability to train and run next-generation models.
+
+&quot;For Alibaba, they depend heavily on access to computing power, so this will be an important setback,&quot; said Matt Maley, chief market strategist at Miller Tabak. &quot;It&#x27;s likely going to create a situation where it will take longer for them to build an ecosystem that can compete with the most advanced American technology.&quot;
+
+The new US rules are aimed at preventing Chinese firms from renting cutting-edge chips at data centres abroad. Alibaba and its peers are already banned from direct buying the most advanced processors, and Nvidia Corp. (NVDA) said this week it is no longer shipping lower-end Hopper data center chips to China as well.
+
+Part of Alibaba&#x27;s ambition to build 20 gigawatts of data center capacity before 2032 depends on expansion across regions like Southeast Asia. Chips made in house by its T-Head unit may provide some buffer, but still trail the performance of Nvidia&#x27;s top products.
+
+Fresh challenges aside, Alibaba&#x27;s results are expected to show a continued drag on its e-commerce business from sluggish Chinese consumption and tough competition. Focus will be on whether that can be offset by its fast-growing cloud operation, which accounted for 18% of total revenue in the June quarter.
+
+Among its peers, Tencent Holdings Ltd. posted results after Wednesday&#x27;s close showing a negative profit impact from heavy AI spending. The company also warned that Washington curbs on Chinese access to overseas data centers will hamper development of its next AI model.</description>
+      <content:encoded><![CDATA[<p>Alibaba&#x27;s AI Ambitions Face Steep Challenge in US Chip Controls</p><p>2026-11-19</p><p>Por Jeanny Yu</p><p>https://finance.yahoo.com/technology/ai/articles/alibaba-ai-ambitions-face-steep-000021461.html</p><p>(Bloomberg) -- Alibaba Group Holding Ltd. (BABA) is facing mounting pressure to show it can deliver on its artificial intelligence business plan despite new limits on its access to data center chips.</p><p>Most Read from Bloomberg</p><p>Its Hong Kong-listed shares capped a nine-day losing streak ahead of results due later Thursday from the internet firm. Alibaba&#x27;s market value stands at $216 billion, less than half its level just over a year ago when investors were betting on it to lead the China&#x27;s AI industry.</p><p>Draft US rules announced Monday would close a key workaround for Chinese hyperscalers to use advanced chips. That&#x27;s making analysts turn more cautious on Chinese AI companies&#x27; cloud growth potential as well as their ability to train and run next-generation models.</p><p>&quot;For Alibaba, they depend heavily on access to computing power, so this will be an important setback,&quot; said Matt Maley, chief market strategist at Miller Tabak. &quot;It&#x27;s likely going to create a situation where it will take longer for them to build an ecosystem that can compete with the most advanced American technology.&quot;</p><p>The new US rules are aimed at preventing Chinese firms from renting cutting-edge chips at data centres abroad. Alibaba and its peers are already banned from direct buying the most advanced processors, and Nvidia Corp. (NVDA) said this week it is no longer shipping lower-end Hopper data center chips to China as well.</p><p>Part of Alibaba&#x27;s ambition to build 20 gigawatts of data center capacity before 2032 depends on expansion across regions like Southeast Asia. Chips made in house by its T-Head unit may provide some buffer, but still trail the performance of Nvidia&#x27;s top products.</p><p>Fresh challenges aside, Alibaba&#x27;s results are expected to show a continued drag on its e-commerce business from sluggish Chinese consumption and tough competition. Focus will be on whether that can be offset by its fast-growing cloud operation, which accounted for 18% of total revenue in the June quarter.</p><p>Among its peers, Tencent Holdings Ltd. posted results after Wednesday&#x27;s close showing a negative profit impact from heavy AI spending. The company also warned that Washington curbs on Chinese access to overseas data centers will hamper development of its next AI model.</p>]]></content:encoded>
+      <pubDate>Thu, 19 Nov 2026 14:08:02 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-11-19_Alibabas_AI_Ambitions_Face_Steep_Challenge_in_US_Chip_Controls.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-11-19_Alibabas_AI_Ambitions_Face_Steep_Challenge_in_US_Chip_Controls.mp3" length="1354412" type="audio/mpeg"/>
+      <itunes:duration>00:02:27</itunes:duration>
+      <itunes:author>Jeanny Yu</itunes:author>
+      <itunes:summary>Alibaba&#x27;s AI Ambitions Face Steep Challenge in US Chip Controls
+
+2026-11-19
+
+Por Jeanny Yu
+
+https://finance.yahoo.com/technology/ai/articles/alibaba-ai-ambitions-face-steep-000021461.html
+
+(Bloomberg) -- Alibaba Group Holding Ltd. (BABA) is facing mounting pressure to show it can deliver on its artificial intelligence business plan despite new limits on its access to data center chips.
+
+Most Read from Bloomberg
+
+Its Hong Kong-listed shares capped a nine-day losing streak ahead of results due later Thursday from the internet firm. Alibaba&#x27;s market value stands at $216 billion, less than half its level just over a year ago when investors were betting on it to lead the China&#x27;s AI industry.
+
+Draft US rules announced Monday would close a key workaround for Chinese hyperscalers to use advanced chips. That&#x27;s making analysts turn more cautious on Chinese AI companies&#x27; cloud growth potential as well as their ability to train and run next-generation models.
+
+&quot;For Alibaba, they depend heavily on access to computing power, so this will be an important setback,&quot; said Matt Maley, chief market strategist at Miller Tabak. &quot;It&#x27;s likely going to create a situation where it will take longer for them to build an ecosystem that can compete with the most advanced American technology.&quot;
+
+The new US rules are aimed at preventing Chinese firms from renting cutting-edge chips at data centres abroad. Alibaba and its peers are already banned from direct buying the most advanced processors, and Nvidia Corp. (NVDA) said this week it is no longer shipping lower-end Hopper data center chips to China as well.
+
+Part of Alibaba&#x27;s ambition to build 20 gigawatts of data center capacity before 2032 depends on expansion across regions like Southeast Asia. Chips made in house by its T-Head unit may provide some buffer, but still trail the performance of Nvidia&#x27;s top products.
+
+Fresh challenges aside, Alibaba&#x27;s results are expected to show a continued drag on its e-commerce business from sluggish Chinese consumption and tough competition. Focus will be on whether that can be offset by its fast-growing cloud operation, which accounted for 18% of total revenue in the June quarter.
+
+Among its peers, Tencent Holdings Ltd. posted results after Wednesday&#x27;s close showing a negative profit impact from heavy AI spending. The company also warned that Washington curbs on Chinese access to overseas data centers will hamper development of its next AI model.</itunes:summary>
+    </item>
 
     <item>
       <title>T.J. Maxx owner&#x27;s secret weapon: Catering to last-minute gift buyers</title>
@@ -7635,124 +7761,6 @@ While the overall number of doctors who choose not to take on Medicare patients 
 &quot;While provider payment can certainly lead to provider choices about whether or not to participate in the Medicare p
 
 [Transcripcion recortada]</itunes:summary>
-    </item>
-
-    <item>
-      <title>Blackstone Aims to Raise $3 Billion for Real Estate Secondaries</title>
-      <author>Texto propio</author>
-      <description>Blackstone Aims to Raise $3 Billion for Real Estate Secondaries
-
-2026-11-12
-
-Por Texto propio
-
-Blackstone Aims to Raise $3 Billion for Real Estate Secondaries
-
-(Bloomberg) -- Blackstone Inc. is pitching a fund that will snap up stakes in other asset managers&#x27; real estate vehicles, expecting to raise at least $3 billion amid a prolonged need for liquidity in the sector.
-
-Strategic Partners, the firm&#x27;s secondary business, raised $2.6 billion for a prior iteration of the fund in 2023, with executives citing a growing demand for cash among both money managers and their investors, known as limited partners.
-
-The latest fund aims to acquire interests in core real estate funds from asset managers and their clients, at a discount to the net asset value, according to people familiar with the matter. It will look to invest primarily in funds with data center, rental housing and industrial assets, the people said, requesting not to be identified because the fundraising isn&#x27;t public.
-
-A representative for Blackstone declined to comment.
-
-The US real estate market has been hammered in recent years, with the Covid-19 pandemic hitting offices particularly hard. The Federal Reserve&#x27;s rate increases starting in 2022 further curbed deals, and Blackstone&#x27;s own real estate division is still recovering from the brutal stretch.
-
-Slower fundraising and a deal lull have fueled a boom on secondaries for real estate and other private assets. Real estate secondaries deals led by fund managers rose to $14.5 billion last year, up 60% from a year earlier, according to a report from Ares Management Corp. The report projected volumes to double over the next several years.
-
-Continuation vehicles, which move existing assets into a new fund and raise fresh cash, have become increasingly popular among fund managers. In real estate, private-asset firms have increasingly used these funds to hold onto trophy assets in sectors such as logistics, data centers and senior housing, according to a report from Jefferies Financial Group Inc.</description>
-      <content:encoded><![CDATA[<p>Blackstone Aims to Raise $3 Billion for Real Estate Secondaries</p><p>2026-11-12</p><p>Por Texto propio</p><p>Blackstone Aims to Raise $3 Billion for Real Estate Secondaries</p><p>(Bloomberg) -- Blackstone Inc. is pitching a fund that will snap up stakes in other asset managers&#x27; real estate vehicles, expecting to raise at least $3 billion amid a prolonged need for liquidity in the sector.</p><p>Strategic Partners, the firm&#x27;s secondary business, raised $2.6 billion for a prior iteration of the fund in 2023, with executives citing a growing demand for cash among both money managers and their investors, known as limited partners.</p><p>The latest fund aims to acquire interests in core real estate funds from asset managers and their clients, at a discount to the net asset value, according to people familiar with the matter. It will look to invest primarily in funds with data center, rental housing and industrial assets, the people said, requesting not to be identified because the fundraising isn&#x27;t public.</p><p>A representative for Blackstone declined to comment.</p><p>The US real estate market has been hammered in recent years, with the Covid-19 pandemic hitting offices particularly hard. The Federal Reserve&#x27;s rate increases starting in 2022 further curbed deals, and Blackstone&#x27;s own real estate division is still recovering from the brutal stretch.</p><p>Slower fundraising and a deal lull have fueled a boom on secondaries for real estate and other private assets. Real estate secondaries deals led by fund managers rose to $14.5 billion last year, up 60% from a year earlier, according to a report from Ares Management Corp. The report projected volumes to double over the next several years.</p><p>Continuation vehicles, which move existing assets into a new fund and raise fresh cash, have become increasingly popular among fund managers. In real estate, private-asset firms have increasingly used these funds to hold onto trophy assets in sectors such as logistics, data centers and senior housing, according to a report from Jefferies Financial Group Inc.</p>]]></content:encoded>
-      <pubDate>Thu, 12 Nov 2026 13:47:50 GMT</pubDate>
-      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-11-12_Blackstone_Aims_to_Raise_3_Billion_for_Real_Estate_Secondaries.mp3</guid>
-      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-11-12_Blackstone_Aims_to_Raise_3_Billion_for_Real_Estate_Secondaries.mp3" length="1234719" type="audio/mpeg"/>
-      <itunes:duration>00:02:12</itunes:duration>
-      <itunes:author>Texto propio</itunes:author>
-      <itunes:summary>Blackstone Aims to Raise $3 Billion for Real Estate Secondaries
-
-2026-11-12
-
-Por Texto propio
-
-Blackstone Aims to Raise $3 Billion for Real Estate Secondaries
-
-(Bloomberg) -- Blackstone Inc. is pitching a fund that will snap up stakes in other asset managers&#x27; real estate vehicles, expecting to raise at least $3 billion amid a prolonged need for liquidity in the sector.
-
-Strategic Partners, the firm&#x27;s secondary business, raised $2.6 billion for a prior iteration of the fund in 2023, with executives citing a growing demand for cash among both money managers and their investors, known as limited partners.
-
-The latest fund aims to acquire interests in core real estate funds from asset managers and their clients, at a discount to the net asset value, according to people familiar with the matter. It will look to invest primarily in funds with data center, rental housing and industrial assets, the people said, requesting not to be identified because the fundraising isn&#x27;t public.
-
-A representative for Blackstone declined to comment.
-
-The US real estate market has been hammered in recent years, with the Covid-19 pandemic hitting offices particularly hard. The Federal Reserve&#x27;s rate increases starting in 2022 further curbed deals, and Blackstone&#x27;s own real estate division is still recovering from the brutal stretch.
-
-Slower fundraising and a deal lull have fueled a boom on secondaries for real estate and other private assets. Real estate secondaries deals led by fund managers rose to $14.5 billion last year, up 60% from a year earlier, according to a report from Ares Management Corp. The report projected volumes to double over the next several years.
-
-Continuation vehicles, which move existing assets into a new fund and raise fresh cash, have become increasingly popular among fund managers. In real estate, private-asset firms have increasingly used these funds to hold onto trophy assets in sectors such as logistics, data centers and senior housing, according to a report from Jefferies Financial Group Inc.</itunes:summary>
-    </item>
-
-    <item>
-      <title>Anthropic&#x27;s new Claude product drop just sent a message to these 3 tech stocks </title>
-      <author>Texto propio</author>
-      <description>Anthropic&#x27;s new Claude product drop just sent a message to these 3 tech stocks 
-
-2026-11-12
-
-Por Texto propio
-
-Anthropic&#x27;s new Claude product drop just sent a message to these 3 tech stocks
-
-On the eve of its much-hyped IPO, Anthropic (ANTH.PVT) is sending its latest message to the software space: We want a large piece of your business… in part to justify our exorbitant valuation.
-
-Coinciding with its roadshow launch, Anthropic released several new features late Tuesday, including Claude Whiteboards and Claude Sheets in beta. It also pushed Claude Dashboards to general availability as Claude Data. The tools are available on all paid plans and extend Anthropic&#x27;s efforts to bring more functionality directly within Claude.
-
-The unveiling sent Microsoft (MSFT) shares down 2.2% amid fears of a true new rival to the tech giant&#x27;s Office franchise.
-
-&quot;There is no question given Anthropic&#x27;s unprecedented growth, deep technical expertise and substantial financial resources this new product offering bears watching,&quot; Stifel analyst Brad Reback wrote to clients. &quot;That said, we do NOT expect these products to have any meaningful impact on M365 growth rates for the foreseeable future based on deep enterprise integration, security/governance and MSFT&#x27;s complete commitment to ensuring customer IP sovereignty.&quot;
-
-Anthropic&#x27;s release could impact three other tech stocks more quickly than Microsoft, KeyBanc analyst Jackson Ader pointed out. They include Monday.com (MNDY), Asana (ASAN), and Zoom (ZM). All three stocks traded lower on Tuesday amid Anthropic news.
-
-Here&#x27;s how Ader is thinking through it.
-
-Claude Whiteboards overlaps with Monday.com, Asana, and Zoom.
-
-&quot;Teams can talk through a complex plan, and Claude turns it into a board with deliverables, timelines, assignments, and more for each member of the team,&quot; Ader said. &quot;It also competes more directly with Zoom Whiteboard, whose AI capabilities generate diagrams, organize sticky notes, and turn board content into summaries and action items. Where Claude Whiteboards differs from MNDY and ASAN is what happens after the plan is made. The board Claude makes is saved as an artifact. It is not a system of record with the automation, workload views, reporting, and admin controls the work management platforms have. Since a plan has to be run somewhere, MNDY and ASAN will retain their moat for where work gets tracked and executed. A Claude Whiteboard is more of a snapshot, capturing the plan when it&#x27;s made, but does not stay current on its own as the work moves forward.&quot;
-
-Claude Meetings overlaps with AI Notetaker from Monday.com, AI Meetings from Asana, and Zoom&#x27;s MyNotes and ZoomMate.
-
-&quot;Claude Meetings, which has been marked as &#x27;coming soon&#x27; by Anthropic, lets a user add Claude to a call to take notes on the conversation as well as update documents and take actions on behalf of the user regarding items that came up on the call,&quot; Ader wrote. &quot;Monday recently launched &#x27;AI Notetaker&#x27; and Asana launched &#x27;AI Meetings&#x27; where their tools perform similar tasks as Claude Meetings. Join a call, transcribe the conversation, and take action deliverables exiting the meeting. For Zoom, the overlap spans My Notes for transcription, summaries and next steps, built-in Meeting Summary for shared meeting recaps, and ZoomMate for creating deliverables and executing follow-up workflows across connected apps. My Notes already works across Zoom, third-party platforms, and in-person conversations without a meeting bot, so the competitive overlap is in capturing meeting context and turning it into completed work, rather than replacing Zoom&#x27;s underlying video platform.&quot;</description>
-      <content:encoded><![CDATA[<p>Anthropic&#x27;s new Claude product drop just sent a message to these 3 tech stocks </p><p>2026-11-12</p><p>Por Texto propio</p><p>Anthropic&#x27;s new Claude product drop just sent a message to these 3 tech stocks</p><p>On the eve of its much-hyped IPO, Anthropic (ANTH.PVT) is sending its latest message to the software space: We want a large piece of your business… in part to justify our exorbitant valuation.</p><p>Coinciding with its roadshow launch, Anthropic released several new features late Tuesday, including Claude Whiteboards and Claude Sheets in beta. It also pushed Claude Dashboards to general availability as Claude Data. The tools are available on all paid plans and extend Anthropic&#x27;s efforts to bring more functionality directly within Claude.</p><p>The unveiling sent Microsoft (MSFT) shares down 2.2% amid fears of a true new rival to the tech giant&#x27;s Office franchise.</p><p>&quot;There is no question given Anthropic&#x27;s unprecedented growth, deep technical expertise and substantial financial resources this new product offering bears watching,&quot; Stifel analyst Brad Reback wrote to clients. &quot;That said, we do NOT expect these products to have any meaningful impact on M365 growth rates for the foreseeable future based on deep enterprise integration, security/governance and MSFT&#x27;s complete commitment to ensuring customer IP sovereignty.&quot;</p><p>Anthropic&#x27;s release could impact three other tech stocks more quickly than Microsoft, KeyBanc analyst Jackson Ader pointed out. They include Monday.com (MNDY), Asana (ASAN), and Zoom (ZM). All three stocks traded lower on Tuesday amid Anthropic news.</p><p>Here&#x27;s how Ader is thinking through it.</p><p>Claude Whiteboards overlaps with Monday.com, Asana, and Zoom.</p><p>&quot;Teams can talk through a complex plan, and Claude turns it into a board with deliverables, timelines, assignments, and more for each member of the team,&quot; Ader said. &quot;It also competes more directly with Zoom Whiteboard, whose AI capabilities generate diagrams, organize sticky notes, and turn board content into summaries and action items. Where Claude Whiteboards differs from MNDY and ASAN is what happens after the plan is made. The board Claude makes is saved as an artifact. It is not a system of record with the automation, workload views, reporting, and admin controls the work management platforms have. Since a plan has to be run somewhere, MNDY and ASAN will retain their moat for where work gets tracked and executed. A Claude Whiteboard is more of a snapshot, capturing the plan when it&#x27;s made, but does not stay current on its own as the work moves forward.&quot;</p><p>Claude Meetings overlaps with AI Notetaker from Monday.com, AI Meetings from Asana, and Zoom&#x27;s MyNotes and ZoomMate.</p><p>&quot;Claude Meetings, which has been marked as &#x27;coming soon&#x27; by Anthropic, lets a user add Claude to a call to take notes on the conversation as well as update documents and take actions on behalf of the user regarding items that came up on the call,&quot; Ader wrote. &quot;Monday recently launched &#x27;AI Notetaker&#x27; and Asana launched &#x27;AI Meetings&#x27; where their tools perform similar tasks as Claude Meetings. Join a call, transcribe the conversation, and take action deliverables exiting the meeting. For Zoom, the overlap spans My Notes for transcription, summaries and next steps, built-in Meeting Summary for shared meeting recaps, and ZoomMate for creating deliverables and executing follow-up workflows across connected apps. My Notes already works across Zoom, third-party platforms, and in-person conversations without a meeting bot, so the competitive overlap is in capturing meeting context and turning it into completed work, rather than replacing Zoom&#x27;s underlying video platform.&quot;</p>]]></content:encoded>
-      <pubDate>Thu, 12 Nov 2026 13:47:18 GMT</pubDate>
-      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-11-12_Anthropics_new_Claude_product_drop_just_sent_a_message_to_these_3_tech_stocks.mp3</guid>
-      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-11-12_Anthropics_new_Claude_product_drop_just_sent_a_message_to_these_3_tech_stocks.mp3" length="2054412" type="audio/mpeg"/>
-      <itunes:duration>00:03:46</itunes:duration>
-      <itunes:author>Texto propio</itunes:author>
-      <itunes:summary>Anthropic&#x27;s new Claude product drop just sent a message to these 3 tech stocks 
-
-2026-11-12
-
-Por Texto propio
-
-Anthropic&#x27;s new Claude product drop just sent a message to these 3 tech stocks
-
-On the eve of its much-hyped IPO, Anthropic (ANTH.PVT) is sending its latest message to the software space: We want a large piece of your business… in part to justify our exorbitant valuation.
-
-Coinciding with its roadshow launch, Anthropic released several new features late Tuesday, including Claude Whiteboards and Claude Sheets in beta. It also pushed Claude Dashboards to general availability as Claude Data. The tools are available on all paid plans and extend Anthropic&#x27;s efforts to bring more functionality directly within Claude.
-
-The unveiling sent Microsoft (MSFT) shares down 2.2% amid fears of a true new rival to the tech giant&#x27;s Office franchise.
-
-&quot;There is no question given Anthropic&#x27;s unprecedented growth, deep technical expertise and substantial financial resources this new product offering bears watching,&quot; Stifel analyst Brad Reback wrote to clients. &quot;That said, we do NOT expect these products to have any meaningful impact on M365 growth rates for the foreseeable future based on deep enterprise integration, security/governance and MSFT&#x27;s complete commitment to ensuring customer IP sovereignty.&quot;
-
-Anthropic&#x27;s release could impact three other tech stocks more quickly than Microsoft, KeyBanc analyst Jackson Ader pointed out. They include Monday.com (MNDY), Asana (ASAN), and Zoom (ZM). All three stocks traded lower on Tuesday amid Anthropic news.
-
-Here&#x27;s how Ader is thinking through it.
-
-Claude Whiteboards overlaps with Monday.com, Asana, and Zoom.
-
-&quot;Teams can talk through a complex plan, and Claude turns it into a board with deliverables, timelines, assignments, and more for each member of the team,&quot; Ader said. &quot;It also competes more directly with Zoom Whiteboard, whose AI capabilities generate diagrams, organize sticky notes, and turn board content into summaries and action items. Where Claude Whiteboards differs from MNDY and ASAN is what happens after the plan is made. The board Claude makes is saved as an artifact. It is not a system of record with the automation, workload views, reporting, and admin controls the work management platforms have. Since a plan has to be run somewhere, MNDY and ASAN will retain their moat for where work gets tracked and executed. A Claude Whiteboard is more of a snapshot, capturing the plan when it&#x27;s made, but does not stay current on its own as the work moves forward.&quot;
-
-Claude Meetings overlaps with AI Notetaker from Monday.com, AI Meetings from Asana, and Zoom&#x27;s MyNotes and ZoomMate.
-
-&quot;Claude Meetings, which has been marked as &#x27;coming soon&#x27; by Anthropic, lets a user add Claude to a call to take notes on the conversation as well as update documents and take actions on behalf of the user regarding items that came up on the call,&quot; Ader wrote. &quot;Monday recently launched &#x27;AI Notetaker&#x27; and Asana launched &#x27;AI Meetings&#x27; where their tools perform similar tasks as Claude Meetings. Join a call, transcribe the conversation, and take action deliverables exiting the meeting. For Zoom, the overlap spans My Notes for transcription, summaries and next steps, built-in Meeting Summary for shared meeting recaps, and ZoomMate for creating deliverables and executing follow-up workflows across connected apps. My Notes already works across Zoom, third-party platforms, and in-person conversations without a meeting bot, so the competitive overlap is in capturing meeting context and turning it into completed work, rather than replacing Zoom&#x27;s underlying video platform.&quot;</itunes:summary>
     </item>
   </channel>
 </rss>

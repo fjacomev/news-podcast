@@ -1,0 +1,27 @@
+Palo Alto Networks CEO just dropped a truth bomb on the network outages sweeping through major companies
+
+2026-11-19
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/technology/article/palo-alto-networks-ceo-just-dropped-a-truth-bomb-on-the-network-outages-sweeping-through-major-companies-101129581.html
+
+Palo Alto Networks CEO just dropped a truth bomb on the network outages sweeping through major companies
+
+A cybersecurity CEO offers plain talk on the outages sweeping through major companies and disrupting everything from your email to your flight.
+
+"I want to be clear, there are two distinct parallel effects that are driving this environment. The first effect is a massive surge in vulnerabilities and patches being deployed. We're seeing critical and severe vulnerabilities discovered nearly seven times the monthly average of last year. These discoveries are happening at a speed and intensity which is hard for IT teams to cope with," Palo Alto Networks (PANW) CEO Nikesh Arora said on his earnings call Wednesday evening.
+
+Added Arora, "We believe many of the major disruptions of the last few weeks, including outages across major enterprises and governments, were partially due to unintended consequences of patching and configuration changes, as IT teams simply cannot patch these vulnerabilities fast enough without compromising their production environments. The second effect is the rise of AI-assisted cyberattacks. Bad actors are using open-weight models and new agentic frameworks to find and exploit vulnerabilities at unprecedented speed and scale. New agentic frameworks like ARTEX are enabling bad actors to turn simple instructions into autonomous, multi-stage attacks, allowing a handful of operators to compromise dozens of targets simultaneously. As we look ahead, we anticipate an elevated threat environment."
+
+Something is breaking across corporate America — and the timing is getting harder to ignore.
+
+United Airlines (UAL) suffered a system outage that delayed departing flights. JPMorgan Chase (JPM) experienced a software bug that slowed transactions and caused knock-on problems for customers at other banks, including Bank of America (BAC).
+
+Just days earlier, an FAA network failure grounded flights nationwide for more than four hours. Microsoft's (MSFT) Outlook outage last week disrupted businesses around the world.
+
+These incidents appear unrelated, and there is no evidence of a coordinated cyberattack. But when airlines, banks, and critical government systems all stumble within days of each other, it raises questions about critical infrastructure's vulnerability amid the push to advance AI.
+
+The backdrop continues to be fertile ground for a cybersecurity player like Palo Alto Networks (PANW).
+
+Revenue and operating profit for the most recent quarter surged 39% and 47%, respectively, from the year-ago period. Guidance for the current quarter and full year was also ahead of consensus estimates.
