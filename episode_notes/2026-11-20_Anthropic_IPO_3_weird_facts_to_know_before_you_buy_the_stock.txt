@@ -1,0 +1,29 @@
+Anthropic IPO: 3 weird facts to know before you buy the stock
+
+2026-11-20
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/markets/stocks/article/anthropic-ipo-3-weird-facts-to-know-before-you-buy-the-stock-130027579.html
+
+If you are eyeing a purchase of Anthropic's (ANT) stock on its IPO day today or in the coming days, you will have to accept that this isn't exactly a normal public company.
+
+Seven somewhat strange founders control all the shots at Anthropic, for one. And two, there is basically a competitor in OpenAI's (OPAI.PVT) ChatGPT doing the same thing as Anthropic.
+
+But if you dig deeper into Anthropic's business, there are more interesting factoids you will also have to get comfortable with if you want to be a shareholder.
+
+-       Anthropic has a donation-matching program in which employees can pledge a meaningful portion of their equity awards or the equivalent cash proceeds to a donor-advised fund or other nonprofit organization, and the company then matches those donations with shares of its Class N common stock. The company incurred $2.1 billion in expenses in the first nine months of 2026 related to this program, representing about 6% of total operating expenses. It saw $541 million in these expenses in 2025.
+
+-       Water is a legitimate risk to Anthropic's ability to grow its business quickly. "Our facilities separately depend on access to reliable water for cooling, which in some regions is scarce, subject to use restrictions, or increasingly costly. Any of the foregoing could adversely affect the availability of the power or water we require, increase our costs, or limit our ability to develop, expand, or operate our data center facilities, which could adversely affect our business, financial condition, and results of operations," the company noted in its S-1 filing.
+
+-       Anthropic may have to pay for compute whether or not it uses it. The company noted in its S-1 filing, "Our equipment supply framework agreements and similar arrangements may expose us to further risks, including minimum purchase or take-or-pay commitments, price escalation, and obligations that we are unable to align with our actual deployment needs."
+
+The market debut is shaping up to be big for Anthropic despite its many quirks. Anthropic raised $81.3 billion in its IPO, valuing the Claude maker at $1.5 trillion.
+
+Follow live updates of Anthropic's IPO here.
+
+The company priced its shares at $83 each, above its initial range of $70 to $78. It will debut on the Nasdaq under the ticker symbol "ANT".
+
+While the IPO saw strong demand, it does come with an asterisk: The earnings results haven't been great.
+
+In an amended S-1 filing, Anthropic said that third quarter sales rose 1,127% to $17 billion. Revenue growth slowed on a quarter-over-quarter basis. Third quarter sales increased 47% compared with a 144% growth rate in the second quarter. Sales increased 132% in the first quarter.

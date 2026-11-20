@@ -1,0 +1,21 @@
+Memory supply constraints will be even 'tighter' in 2027: Micron CTO
+
+2026-11-20
+
+Por Paige Oamek
+
+https://finance.yahoo.com/technology/ai/article/memory-supply-constraints-will-be-even-tighter-in-2027-micron-cto-173141999.html
+
+Laptops are getting more expensive, and chipmakers are feeling the squeeze. The culprit? The ongoing memory shortage that's been plaguing the sector.
+
+Unfortunately, it doesn't look like relief will arrive anytime soon, according to Micron (MU) president and CTO Scott DeBoer. In a recent interview on Deirdre Bosa Live (video above), he said supply and demand for memory won't line up for a long while.
+
+"Our supply, we don't see it coming into balance anytime we can actually pick in the future right now," DeBoer said. The Micron president reiterated that 2027 is expected to be "tighter than 2026."
+
+During fellow chipmaker Nvidia's (NVDA) Tuesday fiscal 2027 Q3 earnings call, its interim CEO Colette Kress noted that rising memory costs will cut into its margins.
+
+As chipmakers race to build powerful AI systems, they need far more memory — especially DRAM — and Micron has been a beneficiary of this ever-climbing demand. DeBoer pointed to AI agents, which "are driving a significant amount of compute demand, memory demand," and that growth shows no signs of slowing.
+
+Micron is investing over $250 billion in the US to expand DRAM capacity, along with expansions at existing fabs worldwide, but that kind of capacity takes "a long time to build, and that's a big part of the supply story that we're working to mitigate," DeBoer said.
+
+Micron' stock is up roughly 145% since the beginning of the year.

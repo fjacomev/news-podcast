@@ -1,0 +1,347 @@
+Morning Brief: People treated Anthropic way differently than SpaceX
+
+2026-11-20
+
+Por Newsletter
+
+Plus: Kalshi hired its GTA researcher after 33,000 applications.
+
+Friday, November 20   |
+
+View in your browser
+
+Good morning!
+
+Anthropic's stock skyrocketed after the opening bell Thursday morning,
+
+opening 34% above its IPO price
+
+and cresting the $111 mark before closing at $97 per share.
+
+After the $81 billion raise, the biggest IPO ever,
+
+we finally know what the company is "worth
+
+." At the close, Anthropic held a market-tested valuation of $1.27 trillion, answering the huge question we've all wanted to know.
+
+Congratulations to Anthropic.
+
+But not to the stock market. Despite that frenzy, markets had a rough day, with the S&P 500 (
+
+^GSPC
+
+) falling 1.4%, the Nasdaq (
+
+^IXIC
+
+) 1.5%, and the Dow (
+
+^DJI
+
+) 1.7% as the
+
+tech trade continued to falter
+
+We would say one can only imagine how big Anthropic would be if it had picked a different moment. But given previous estimates pegging the company at up to $2 trillion, we do have some idea of what it might be worth if 2026's boom times boomerang back.
+
+In today's issue
+
+Anthropic's IPO ties the fate of the US economy closer to AI
+
+Retail investors are treating Anthropic much differently than SpaceX
+
+Kalshi hired its GTA researcher after 33,000 applications
+
+Roaring Kitty posts, and GameStop roars
+
+What we're watching Friday:
+
+Anthropic's first
+
+full
+
+day of trading on Friday will still be the main thing we're watching as the hype and FOMO fade and reality sets in.
+
+A light day on the calendar centers on consumer sentiment readings from the University of Michigan.
+
+Yahoo Finance Morning Brief is written by
+
+Ethan Wolff-Mann
+
+and
+
+Hamza Shaban
+
+Headlines
+
+Cyberattacks continue as
+
+JPMorgan, Visa, and Mastercard disclose cyberattack on vendors.
+
+Why token usage could become a key metric
+
+for AI investors amid the Anthropic IPO.
+
+Micron president warns memory supply constraints
+
+will be even 'tighter.'
+
+Walmart beats Q3 earnings expectations,
+
+raises 2026 outlook again
+
+Palo Alto Networks CEO has a theory
+
+on the outages hitting major US companies
+
+How Anthropic retail trading compares to SpaceX's
+
+IPO.
+
+Market snapshot
+
+Key market moves from last session
+
+Powered by
+
+See the bigger picture.
+
+Anthropic's IPO ties the fate of the US economy closer to AI
+
+Digital billboards advertise Anthropic on the day of its IPO in Times Square, New York, Thursday, Nov. 19, 2026. (AP Photo/Seth Wenig)
+
+The day finally arrived. Anthropic (
+
+ANT
+
+) began trading on Thursday at $111.50 per share, surging above its $83 IPO price and briefly attaining a market capitalization of $2 trillion before settling into a still-respectable market cap of $1.2 trillion. What took years for the tech giants to achieve,
+
+the frontier AI lab grabbed in an instant
+
+But
+
+the historic IPO is notable not just for its size
+
+, but for what it says — and will say — about the makeup of the stock market and the outsized influence of its largest players.
+
+The top 10 biggest companies make up close to 40% of the S&P 500. A bad day for tech means a bad day for the market. And now that
+
+Anthropic has joined the trillion-dollar ticker club
+
+— though it won’t join the S&P 500 (
+
+^GSPC
+
+) anytime soon — Wall Street's fate is tightly bound to another huge tech company which also happens to be an AI lab without a long track record of financial stability.
+
+The top-heavy nature of the S&P 500 means the benchmark index is less diverse than it looks. Sure, investors are buying into a basket of hundreds of names. But since the tickers with the largest market caps get the highest proportional weights, a handful of names can move the entire index.
+
+That's how you can get such different performances from the equal- weighted S&P 500 (
+
+^SPXEW
+
+) index (up 11% so far this year) versus the standard, market-weighted version (up 6%).
+
+Big Tech's importance in the stock market has attracted praise and concern for years, even before the arrival of ChatGPT.
+
+AI has only deepened
+
+that concentration. The tech giants have adopted the AI boom as their new reason for being. And, in a very literal sense, they have poured huge investments into their own AI operations and a sprawling ecosystem of chipmakers, LLM suppliers, power generators, and infrastructure firms.
+
+Anthropic's IPO adds to tech's significance and amplifies the industry's financial gravity. But the frontier lab is also a (the?) primary supplier of AI tools.
+
+Read More  ➝
+
+Retail investors are treating Anthropic much differently than SpaceX
+
+Dario Amodei, co-founder and CEO of Anthropic, right, and Daniela Amodei, co-founder and president, left, react during the opening bell ceremony at Nasdaq MarketSite as part of the Anthropic IPO in New York, Thursday, Nov. 19, 2026. (AP Photo/Seth Wenig)
+
+One of the most interesting things we saw on Thursday was how retail investors treated Anthropic.
+
+While it may be the most important IPO in many ways, leading the AI trade where humans actually touch the technology, it had a very different reception than SpaceX.
+
+According to data from Vanda Research, which monitors retail investors, far fewer regular investors were buying stock compared to SpaceX's June IPO, by a pretty big margin.
+
+In its first 30 minutes, SpaceX's $26 million in net retail stock volume beat Anthropic's $19 million. In the first three hours, it was $99 million to $37 million.
+
+But it gets even more interesting!
+
+Those numbers are
+
+net
+
+buying
+
+. In terms of actual volume, which includes
+
+selling
+
+, Anthropic saw $820 million in total volume, compared to SpaceX's $669 million.
+
+In other words, people were way more bullish on SpaceX, but willing to try to "win" the market with Anthropic.
+
+Maybe this makes sense. Elon Musk is not just a multi-CEO but a cult figure whose moonshots are so big they're actually Mars-shots. Anthropic and its CEO Dario Amodei just don't have that brand yet.
+
+Let us know what you think: emann+morningbrief@yahooinc.com.
+
+Read more ➝
+
+Quote of the day
+
+"We believe we are basically at the bottom. I don't believe that there's any action that the Fed can take that's going to make the housing market more stagnated than it is."
+
+Lowe's CEO Marvin Ellison,
+
+speaking to Yahoo Finance
+
+about the housing market.
+
+Kalshi hired its GTA researcher after 33,000 applications
+
+A billboard for Rockstar Games' Grand Theft Auto VI is seen near Times Square in New York, on November 16, 2026. (CHARLY TRIBALLEAU / AFP via Getty Images) · CHARLY TRIBALLEAU via Getty Images
+
+It was the type of job posting that didn't look real, as we wrote a week ago.
+
+Which is why the job posting began with: "This is a real job."
+
+Kalshi, the prediction market,
+
+was looking for a "GTA VI researcher,"
+
+someone to livestream their playthrough of Take-Two's (
+
+TTWO
+
+) blockbuster title, with an eye for studying the game's economy.
+
+Ahead of
+
+the game's midnight launch Thursday
+
+, Kalshi announced its newest hire, the winner of this wild sweepstakes. He goes by Cliff Savage, a recording artist, streamer, and content creator, who will now add playing GTA VI to his resume.
+
+Kalshi's co-founder and CEO Tarek Mansour said in a post on X that Savage stood out for his work ethic and his passion for the game. Savage has nearly 16,000 monthly listeners on Spotify and more than 2,000 followers on Twitch.
+
+Mansour's announcement also noted that Kalshi received over 33,000 applications, a staggering number that
+
+highlights the intense interest around GTA VI
+
+and the idea of getting paid to play video games and talk about them.
+
+Besides showcasing the interest, the moment was a snapshot of the modern AI-powered labor market. Perhaps even thousands of these applications were AI-generated. But almost certainly, they were AI-screened too, as employees and employers fight fire with fire.
+
+While we may not see these same numbers, 100 applications to a single role isn't uncommon, and getting your resume to a human is becoming a success of its own.
+
+Read more ➝
+
+Popular on Yahoo Finance
+
+Mortgage rates move higher again
+
+as inflation jitters mount.
+
+Traders are betting on interest rates staying high
+
+for years
+
+Trump sold Home Depot and McDonald's as portfolio
+
+shifted to ETFs.
+
+Microsoft CEO explains why he asked 60,000 employees
+
+to quit
+
+Anthropic IPO: 3 weird facts to know
+
+before you buy the stock
+
+AMD stock drops after Hunterbrook Media
+
+raises export control concerns
+
+'Kind of cool': Early Anthropic investor and actor Ashton Kutcher
+
+celebrates IPO.
+
+Musk says ousting Huang is like
+
+'kicking Michael Jordan off your team'
+
+Trump departs China with little progress
+
+on semiconductors or rare earths
+
+Coinbase plans its own prediction markets
+
+by mid-2027
+
+Walmart, Costco see some panic-buying
+
+after tech outages.
+
+See what else is trending on
+
+Yahoo Finance
+
+Roaring Kitty posts, and GameStop jumps
+
+In this image from video provided by the House Financial Services Committee, Keith Gill, testifies during a virtual hearing on GameStop in Washington Feb. 18, 2021. (House Financial Services Committee via AP, File)
+
+After almost two years of silence, Keith Gill a.k.a. Roaring Kitty, posted into the video game discourse as gamers and non-gamers talked GTA VI.
+
+The
+
+post on X
+
+had little of consequence at first blush. It was a picture Mario as an excited cat.
+
+A closer look revealed: absolutely nothing more.
+
+No matter, GameStop (
+
+GME
+
+) immediately jumped 3% on the news.
+
+While we're all waiting for further explanation, posts, or new investment thesis about GameStop — or anything else — the reemergence of the guy who brought a hedge fund to its knees injected a frisson into a market that needed a little pick-me-up.
+
+GameStop, for what its worth, is up over 30% this year, trouncing Nvidia, Google, Amazon, and even Apple (barely).
+
+Read more ➝
+
+Earnings and economic calendar
+
+Friday
+
+Economic data:
+
+U. Mich. sentiment, November final reading (53.3 expected, 51 prior); U. Mich. current conditions, November final reading (51 prior); U. Mich. expectations, November final reading (50.9 prior); U. Mich. 1-year inflation, November final reading (+4.3% prior); U. Mich. 5-10 year inflation, November final reading (+3.4% prior); Kansas City Fed services activity, November (10 prior)
+
+Earnings calendar:
+
+Bending Spoons (
+
+BSP
+
+), BJ's Wholesale Club (
+
+BJ
+
+), Moog (
+
+MOG-A
+
+), Frontline (
+
+FRO
+
+Yahoo Finance App: Portfolio performance, news and alerts, stock data and all you need in a finance app. Download now.
+
+If you like what we do, please forward us to a friend. If you're not already subscribed,
+
+sign up right here
+
+Customer Support
+
+770 Broadway, New York, NY
