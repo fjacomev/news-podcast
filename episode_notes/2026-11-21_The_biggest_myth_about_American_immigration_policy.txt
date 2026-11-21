@@ -1,0 +1,85 @@
+The biggest myth about American immigration policy
+
+2026-11-21
+
+Por Matthew Yglesias
+
+https://www.slowboring.com/p/the-biggest-myth-about-american-immigration
+
+For a while now I’ve been wanting to write about a widespread misunderstanding about the history of American immigration policy. Fortunately, Donald Trump’s decision to respond to the blue wave by promoting Stephen Miller to chief of staff gives us a news hook, because he is a frequent purveyor of this misunderstanding.
+
+This is from an April profile of Miller in the New York Times, and even though the authors quibble with Miller, they actually miss his biggest mistake:
+
+Mr. Miller has blamed many of the country’s problems on a landmark 1965 law that paved the way for more Hispanic and Asian immigrants, a shift from primarily allowing in Europeans.
+
+Despite decades of data showing that immigrants outperform native-born Americans on major indicators, including crime rates and use of welfare, Mr. Miller contends that those who entered after the 1965 law, as well as their descendants, have largely been unsuccessful.
+
+“If you bring those societies into our country and then give them unlimited free welfare, what do we think’s going to happen?” he told Fox News in December. “We need a moratorium on immigration from third world countries until we can heal ourselves as a nation.”
+
+Here’s the issue: While it is true that the United States enacted a major change in immigration policy in 1965 and it is also true that Hispanic immigration to the United States increased significantly after 1965, it’s simply not the case that the 1965 law paved the way for more Hispanic immigrants. It’s actually the complete opposite — the 1965 law imposed quantitative restrictions on immigration from Latin America that didn’t exist previously.
+
+It would probably be going too far to say that it’s a total coincidence that these things changed at around the same time, but the relationship is indirect and unrelated to the text of the immigration law.
+
+What Hart-Celler did
+
+The law at issue is the Immigration and Nationality Act of 1965, also known as the Hart-Celler Act after its main authors.
+
+This law was a major reversal of immigration policy from the National Origins Formula adopted back in 1921. These 1921 immigration quotas were not adopted to keep out people from the “third world” as Miller would understand it. The point of the 1921 law was to prevent people from Southern and Eastern Europe — people like Miller’s ancestors or First Lady Melania Trump — from coming to the United States.
+
+It also restricted immigration from Asia, though Asian immigration was already severely limited by laws such as the Chinese Exclusion Act of 1882 and the 1907 “Gentlemen’s Agreement” with the Japanese government to stop giving passports to U.S.-bound Japanese laborers. The Naturalization Act of 1870 made it impossible for immigrants from Asia to become American citizens while for the first time explicitly creating a process of naturalization for “aliens of African nativity and to persons of African descent.”
+
+Which is just to say that this was all happening under a very different political paradigm than the contemporary immigration debate.
+
+You often hear restrictionists express nostalgia for the midcentury immigration system. But they’re really just saying they liked the low level of immigration — or maybe that they approve of the broad principle of discriminating on the basis of nationality — not that we should replicate the specific details of the quota system. Nobody today thinks the United States should prefer immigrants from Western Europe over immigrants from Eastern Europe.
+
+At any rate, the impetus for the Hart-Celler Act was to create a non-discriminatory immigration system in which your ability to get a visa would be based on individual-level criteria rather than nation of origin.
+
+But in the case of Latin America and the Caribbean, that meant making policy more restrictive.
+
+The old National Origins Formula didn’t apply any cap at all to migration from within the Western Hemisphere. Which isn’t to say the border was per se “open” — there were border controls and often intrusive sanitation procedures at the U.S.-Mexico border, along with literacy tests and other qualitative controls. Legally speaking, you needed a visa to work in the United States, and the ability to get those waxed and waned over time. During the Great Depression, there was a big push to repatriate Mexicans back south of the border, but then during World War II, the Bracero Program was started up to bring in more seasonal workers.
+
+Hart-Celler neither intended to increase Latin American immigration nor had any provisions to increase Latin American immigration. In 1965, when the law passed, there were just under 150,000 legal immigrants admitted from the Western Hemisphere, and 37,000 of these were Canadians. The new system capped Western Hemisphere immigration at 120,000 per year, and the Bracero Program ended in 1964. So in theory, there should have been a modest cut in permanent immigration from Latin America as a whole and a large cut in temporary labor migration from Mexico specifically.
+
+So what happened?
+
+It’s kind of funny that immigration restrictionists forget this, but what happened was illegal immigration.
+
+The Hart-Celler law created a more restrictive environment for legal migration, but it didn’t actually do anything about the fact that the U.S.-Mexico border is extremely long and sparsely populated in many places. Even during the Bracero years, there was a good amount of illegal agricultural and other casual labor happening, and with the legal temporary migration channel shut down, more people started coming illegally.
+
+Scholars seem to disagree as to why the volume of illegal immigration was so much higher than the prior volume of legal immigration. But part of the issue is clearly just that Mexico had a huge baby boom and there were literally more people around who could migrate. The United States was also becoming richer, meaning plenty of opportunity for people willing to do unpleasant jobs like agricultural work.
+
+Still, the really big surge in Mexican immigration to the United States took off quite a bit after the 1965 law’s passage, because it was basically unrelated to those policy changes.
+
+Ironically, the 1996 Illegal Immigration Reform and Immigrant Responsibility Act, which was supposed to clamp down on illegal immigration, seems to have accelerated the growth of the Mexican-born population in the United States.
+
+That’s because by making it substantially harder — but still doable — to cross the border, it shifted the balance of illegal workers toward “cross once and stay” rather than “go back and forth seasonally.” Eventually, the cratering of Mexican population growth plus ever-hardening border security plus the collapse of the American labor market in 2008 brought this to an end.
+
+Then as the economy started to recover in 2014, you started to see a very different set of immigration problems largely driven by people (mostly not from Mexico) making asylum claims rather than trying to sneak past the Border Patrol.
+
+Long story short, though, the transformation of American demographics driven by immigration from Mexico was not the result of the 1965 immigration bill or of any other deliberate shift in immigration policy.
+
+The other large Hispanic populations in the United States (Puerto Ricans and Cubans) also don’t have anything to do with the 1965 bill. Puerto Ricans are American citizens who can move to the mainland as they wish. Meanwhile, until around 2016, the United States maintained a policy of welcoming basically anyone from Cuba as a refugee.
+
+Real debate and real reforms
+
+Who cares about all this history except pedants? Maybe nobody. But I always do hold out vague hope that a clearer understanding can create space for better policy, more compromises, and a happier outcome.
+
+Donald Trump, for example, in his interview with Ross Douthat seemed to float the idea of an amnesty program for people who’ve been living and working illegally in the United States for a long time.
+
+This is not the first time that Trump has seemed to embrace the logic of comprehensive immigration reform. Part of the power of Trumpian immigration politics is that he’s been happy to just lie and say that the typical person who immigrates to the United States illegally or tries to exploit loopholes in asylum laws is a criminal or a terrorist. Whenever he’s confronted with the reality that it’s mostly people just trying to make more money and that millions of them have been quietly working in restaurants or cleaning houses or doing casual construction labor, he kind of glitches out.
+
+It’s not good to expend a large amount of resources on rounding these people up and kicking them out, and it drives political backlash to interior enforcement in general.
+
+Obviously, though, Republicans aren’t going to flip and give Democrats what they want on this. The old concept was that a deal would include lots of measures on border security, but Republicans aren’t going to want that now, because they’ve already achieved what they wanted on border security through partisan bills. What I can imagine, though, are changes to real features of the Hart-Celler system.
+
+One potential area for negotiation is that a very large fraction of America’s immigration visas are allocated on the basis of “family reunification” — i.e., you get in based on having relatives in the United States. Conservatives reasonably believe that immigration should be selective, aimed at bringing over people who are most likely to make large positive economic contributions to the United States. Cosmopolitans reasonably want to make room in the system for refugees and others with strong humanitarian claims. Family reunification is neither of these things and seems ripe for reform in favor of mostly skills-based immigration, spousal visas, and some number of refugees.
+
+Another is that asylum law should be tightened on a permanent basis. But Trump hasn’t even tried to pass an immigration bill, so there’s been no discussion during his second term of what conservatives actually want out of immigration policy and what they might be willing to give up to get it.
+
+But I think that starts with setting aside this paranoid and inaccurate view of immigration history where somebody decided in the mid-1960s to dramatically increase immigration from the “third world.” There was a ton of illegal immigration specifically from Mexico in the 1980s and 1990s for reasons that are basically unrelated to official acts of Congress. Excavating the political history of why the federal government was relatively slow to crack down on this could be interesting, but the crackdown really did happen, and over the past 10 years, immigrants have been coming from different countries through completely different channels.
+
+> Nobody today thinks the United States should prefer immigrants from Western Europe over immigrants from Eastern Europe.
+
+There are more strange racial ideologies online than are dreamed of in your philosophy, Horatio.
+
+I'm teaching a class on this precise topic today and while I started reading this post thinking I'd be able to make some smart-assed pedantic comment at the end, the post is so good that I've got nothing!

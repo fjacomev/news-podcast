@@ -1,0 +1,27 @@
+Nvidia drops 12%, Broadcom and AMD extend declines as the AI trade melts down
+
+2026-11-21
+
+Por Ines Ferré
+
+https://finance.yahoo.com/markets/article/nvidia-amd-and-broadcom-lead-chip-stocks-lower-133658985.html
+
+Chip giant Nvidia (NVDA) extended its declines on Friday, dropping 12%. The stock headed for seven straight days of losses amid a reported SEC probe into the chip maker's accounting practices.
+
+Shares of peers AMD (AMD) and Broadcom (AVGO) also tanked double-digit percentages as a broader AI trade sell-off intensified. Broadcom has significant financial ties to Anthropic (ANT), which made its public debut on Thursday. Under an arrangement disclosed in Anthropic's prospectus, the chipmaker agreed to lend the AI developer up to $42 billion to help finance its infrastructure build-out and purchase about $1 billion of Anthropic shares as part of its IPO-related private placement.
+
+On Friday, Anthropic's stock fell as much as 12% amid a broader tech sell-off.
+
+Memory chipmaker Micron Technology (MU) and peer SK Hynix (SKHY) dropped more than 10%. Shares of Taiwan Semiconductor Manufacturing Company (TSM) and equipment maker ASML (ASML) also declined.
+
+Yorkville Ives' Dan Ives said the AI trade weakness "is a panic-driven sell-off" in tech "rather than a red flag moment indicating darker times ahead for tech and the market."
+
+"Big Tech will be spending capex next year in the $1.5 trillion range, and that is not changing because of the panic in the market the last few months," he wrote on Friday.
+
+The broader chip sector fell on Thursday following the public debut of AI model maker Anthropic. The sector was already on shaky ground following the exit of Nvidia CEO Jensen Huang and concerns over AI financing.
+
+Nvidia is down more than 22% year to date, putting it on pace for its first annual decline since 2022, when the Federal Reserve began a rate-hiking cycle, according to Yahoo Finance's AlphaSpace data.
+
+Other areas of the AI trade were under pressure Friday, with optical equipment maker Coherent (COHR) and Bloom Energy (BE) stocks sinking 6% and 7%, respectively.
+
+Neocloud providers CoreWeave (CRWV) and Nebius (NBIS) both extended losses from the prior session, declining roughly 9%.
