@@ -1,0 +1,37 @@
+Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jitters
+
+2026-11-23
+
+Por Ines Ferré
+
+https://finance.yahoo.com/markets/article/stocks-are-on-fire-sale-as-anthropic-ipo-fails-to-calm-ai-trade-jitters-190051253.html
+
+Anthropic's (ANT) IPO did little to stem the AI trade's meltdown this week, as the Nasdaq erased its year-to-date gains, leaving it roughly 18% off its October all-time high.
+
+The biggest winners of the artificial intelligence boom are down double-digit percentages for the week, and even more so over the past month, as seen on Yahoo Finance's AlphaSpace chart.
+
+Nvidia (NVDA) shares are down 42% over the past four weeks, as Jensen Huang's departure as CEO intensified pressure on an already shaky chip sector. Peer AMD (AMD) is down roughly 20%. Meanwhile, memory maker Micron (MU) has fallen more than 33% over the past month and is down 50% from its June all-time high.
+
+Concerns over tighter data center regulations, restrictions on chip exports to China, and broader financing worries have weighed across the sector.
+
+Although Anthropic's IPO wasn't the clearing event markets had hoped for, some strategists see the debut as a net positive for the AI trade.
+
+"We're finally getting details with respect to what's underneath the curtain" when it comes to the AI developers, Raymond James Investment Management chief market strategist Matt Orton said on Yahoo Finance's Market Hang.
+
+"Hopefully the market will kind of start to calm down and realize that there's a lot of really high-quality companies that are on fire sale right now," he added.
+
+Orton wouldn't compare the meltdown seen in the AI trade to the 2000 dot-com bubble, noting that startups are now staying private longer as they receive the financing they need and that some of the selling may be year-end positioning to protect gains.
+
+"The market is really healthy," Orton said.
+
+Nomura's Charlie McElligott points out that in recent sessions investors have been broadly selling rather than just rotating into defensive sectors. Instead of "buying the dip," money is moving out of equities and into cash and US Treasurys, where prices move inversely with yields. On Friday, the 10-year Treasury (^TNX) yield sank by 14 basis points to 4.91%.
+
+McElligott will be watching this upcoming week, when computer-driven, volatility-targeted funds could step in and buy, testing whether the recent sell-off is just a dip or a sign that investors are heading for the exits.
+
+"IF by early next week we find the Equities tape STILL unable to stabilize and move higher…it's telling me there are larger structural forces at play, that somebody wants OUT," wrote McElligott on Friday.
+
+UBS strategists noted they still expect the S&P 500 to reach new highs in the months ahead. But "the risk-reward is becoming more balanced," David Lefkowitz, UBS head of US equities, wrote on Friday.
+
+The firm recently downgraded US equities from Attractive to Neutral.
+
+Strategists advise reducing tech concentration and moving into intermediate-duration bonds, such as 2- to 10-year maturities, as they can offer strong yields and portfolio protection.

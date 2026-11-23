@@ -1,0 +1,21 @@
+Goldman Traders See Entry Point in US Stocks But Warn of Risks
+
+2026-11-23
+
+Por Natalia Kniazhevich
+
+https://finance.yahoo.com/markets/stocks/articles/goldman-traders-see-entry-point-190502514.html
+
+(Bloomberg) -- Goldman Sachs Group Inc.'s trading desk says last week's selloff has created an attractive opportunity to snap up US stocks. Still, the bank cautions that overall investor positioning remains elevated, signaling the broader capitulation needed for a meaningful rally could be missing.
+
+Most Read from Bloomberg
+
+The bank's Volatility Panic Index spiked to 9.8 out of 10 on Friday, approaching historical extremes. Hedge funds have aggressively reduced exposure, with the bank's prime brokerage data showing a third consecutive week of global equity selling. Short sales outpaced long purchases by 1.5 to 1, while US single-stock shorting reached the highest level since June 2022 on a weekly level. Fundamental long-short funds have pushed a measure of their risk appetite known as net leverage to 42.3%, the lowest level in a year.
+
+Hedge funds' equity unwind has become "quite extended" and markets are nearing a "tactical entry" point, the bank's trading desk wrote in a note to clients on Sunday. But a few major headwinds are still in place: the broader stock-market positioning remains elevated, the Federal Reserve is expected to keep raising interest rates and future profits from massive artificial intelligence investments remain uncertain.
+
+"Generally speaking, panic like we've recently seen has been a good opportunity to start adding risk," the bank's traders wrote in the note. "But there are two important differences with today's setup that we're getting pushback on."
+
+The first major risk to a meaningful rally in US equities is the Fed, according to Goldman. The bank's traders pointed to parallels with the fourth quarter of 2018, when the Fed's tightening cycle and weakening risk appetite pushed US stocks to the brink of a bear market. After a sharp selloff in October 2018, the S&P 500 proceeded to fall another 6.8% before reaching a bottom. In the five historical instances when Goldman's panic index exceeded 9 during a rate-hiking cycle, the S&P 500 has gained just 0.4% on average in the next three months.
+
+The second important variable is broader investor positioning, which hasn't followed hedge funds in slashing equity exposure. Goldman's US Equity Sentiment Indicator, which tracks nine positioning measures across groups like mutual funds and retail investors, remains in the 75th percentile of historical observations. Investors have poured nearly $170 billion into US equity mutual funds and exchange-traded funds since the start of the fourth quarter, while asset managers' equity futures exposure sits in the 82nd percentile of readings going back 10 years ago.
