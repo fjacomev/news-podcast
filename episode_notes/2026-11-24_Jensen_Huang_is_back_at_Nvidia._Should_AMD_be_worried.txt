@@ -1,0 +1,35 @@
+Jensen Huang is back at Nvidia. Should AMD be worried?
+
+2026-11-24
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/markets/stocks/article/jensen-huang-is-back-at-nvidia-should-amd-be-worried-130012666.html
+
+When it comes to the AI trade, this has been the year of AMD (AMD). AMD's stock has sizzled, up 112% year to date compared to an 11.5% drop for its top rival Nvidia.
+
+As Nvidia's (NVDA) founder Jensen Huang has been embroiled in scandal and the tech trade has been pressured, AMD shares have hung tough. The stock is down 12.2% over the past month versus a 22% decline for Nvidia.
+
+The biggest question for AMD right now is this: Does Huang's stunning return as CEO of Nvidia mean bad news for AMD in 2027 and beyond?
+
+Pros think AMD will be just fine, for now.
+
+"I don't see how this changes it completely," Moor Insights & Strategy founder Patrick Moorhead said on Sozzi Unleashed. "I was saying early on when Jensen left that nothing changes for 18 months. And the reason is the supply chain is locked, the wafers are locked, data center configurations are locked around Nvidia design. So nothing would change, I think, if Jensen had been removed permanently."
+
+Shares of Nvidia fell 5% in premarket trading on Tuesday after a 31.2% surge on news that founder Jensen Huang had been reinstated as CEO. That came just 12 days after he resigned amid a personal scandal and federal chip-export probes.
+
+Interestingly, AMD shares rose 6.3% yesterday — a telling move that investors continue to believe in the AMD story.
+
+It's a good story to buy into.
+
+CEO Lisa Su — Yahoo Finance's 2026 CEO of the Year award winner — surprised everyone by spending $8.2 billion to scoop up World Labs, gaining a true AI innovator that focuses on software for 3D environments.
+
+World Labs was founded in 2024 and is led by Fei-Fei Li, a leading AI researcher known in tech circles as the "Godmother of AI." She was once the chief scientist at Google Cloud (GOOG).
+
+Just a few weeks ago, AMD delivered a strong double beat in its third quarter earnings report. Third quarter sales jumped 45% year over year to a record $13.38 billion, comfortably surpassing Wall Street consensus estimates of roughly $13.06 billion.
+
+Adjusted earnings climbed 74% to $2.09 per share, easily topping analyst projections of $1.94 per share.
+
+The blowout performance was anchored by AMD's Data Center segment, where revenue surged 97% to a record $8.5 billion on robust demand for EPYC server processors and the production ramp of Instinct MI450 AI accelerators.
+
+For the fourth quarter, AMD said it sees 50% sequential growth in data centers. In 2027, Su guided to revenue growing more than 80%, with server revenue doubling and data center AI more than doubling.
