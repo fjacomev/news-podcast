@@ -1,0 +1,29 @@
+How fear of AI displacement is fueling a hiring recession
+
+2026-11-24
+
+Por Hamza Shaban
+
+https://finance.yahoo.com/technology/article/how-fear-of-ai-displacement-is-fueling-a-hiring-recession-110000769.html
+
+The US labor market has proved remarkably resilient in the post-pandemic era. But as anyone looking for a job can tell you, it's rough out there. Just getting your resume past AI screeners and in front of a real person is a small victory in itself.
+
+What's been described as a hiring recession is a labor market that has low unemployment but also one that has settled into a low-hire, low-fire environment. One of the reasons workers are staying put and fewer people are being welcomed aboard is artificial intelligence.
+
+After a surge in people quitting their jobs or switching careers during the pandemic, workers are settling back in. But the lower levels of churn, or workers moving between jobs, are especially evident in industries closer to AI, suggesting a connection between a lack of labor dynamism and concerns around the technology.
+
+"Churn has fallen further below pre-pandemic levels in industries with greater AI adoption and automation potential, as workers increasingly stay put amid rising job insecurity," analysts at Goldman Sachs wrote in a research report published Monday.
+
+Consistent with that finding, the analysts said, workers' perceptions of their job prospects have recently deteriorated. Young people especially are registering sharper pessimism, as they "likely feel more exposed to AI displacement risk."
+
+Even as Wall Street and much of corporate America tout the productivity benefits of AI, how the technology will ultimately impact the American workforce is a topic of intense debate.
+
+Just last week, Federal Reserve Chair Kevin Warsh kicked off a landmark hearing examining how AI could reshape US productivity and the job market, highlighting its potential to drive economic growth while warning that its risks could be costly if overlooked.
+
+In the short term, AI is already influencing hiring decisions. Managers are streamlining teams and offloading some work to LLMs and specialty agents. And roles that used to go to junior-level employees are being folded into AI workloads.
+
+And at the same time, AI has caused a chill in much of the workforce. According to Goldman's report, fears around AI displacement are keeping workers in place.
+
+Because even if your salary hasn't gone up much, the fact that jobs are harder to get makes them all the more valuable.
+
+Follow Hamza Shaban on X @hshaban.

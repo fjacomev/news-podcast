@@ -1,0 +1,23 @@
+Tesla's autonomy ambitions just got a Wall Street vote of confidence
+
+2026-11-24
+
+Por Brian Sozzi
+
+https://finance.yahoo.com/markets/stocks/article/teslas-autonomy-ambitions-just-got-a-wall-street-vote-of-confidence-130035595.html
+
+Wall Street is taking an early bullish stance on Tesla's (TSLA) new v15 software.
+
+"With Rivian preparing to showcase its autonomy roadmap at its December 9 Autonomy & AI Day, Ford advancing toward the 2027 Fathom launch, and GM navigating CEO succession discussions ahead of its 2028 launch of 'eyes-off' highway on Cadillac Escalade IQ, we see the breadth of the v15 release as another illustration of TSLA's head start in consumer autonomy, raising the (already high) bar another notch," JPMorgan analyst Rajat Gupta wrote on Monday.
+
+Tesla said this past weekend it has begun rolling out its highly anticipated Full Self-Driving (FSD) v15 software.
+
+The centerpiece of the release is "Tesla Reality View." It's being described as an interactive, real-time AI visualization that re-renders the surrounding street like a video game while using less total compute.
+
+Under the hood, a new vision encoder shared with Tesla's Robotaxi and Optimus programs is trained on millions of internet videos. It reportedly delivers a 25x improvement in handling safety-critical interventions.
+
+The update also targets longtime driving weak spots with sharper detection of potholes, road signs, and standing water, as well as automatic slowdowns at speed cameras and a dedicated Bike Rack Mode.
+
+Tesla stock rose 4% in premarket trading today on the news.
+
+"Moreover, TSLA indicated that compute efficiency improvements need not mandate a near-term upgrade to AI5 hardware (~10-12x more compute), reducing the complexities associated with moving the consumer fleet to a next-gen hardware and limiting hardware upgrade complexities to pre-HW4 vehicles," Gupta added.

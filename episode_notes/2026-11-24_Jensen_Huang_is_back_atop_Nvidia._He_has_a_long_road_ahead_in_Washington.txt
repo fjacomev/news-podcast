@@ -1,0 +1,67 @@
+Jensen Huang is back atop Nvidia. He has a long road ahead in Washington.
+
+2026-11-24
+
+Por Jake Conley
+
+https://finance.yahoo.com/markets/article/jensen-huang-is-back-atop-nvidia-he-has-a-long-road-ahead-in-washington-164747640.html
+
+Returning Jensen Huang to Nvidia's top job was hailed in Silicon Valley as essential to the future of the AI trade, and on Monday his supporters got their wish. But the embattled CEO's road back to the job may prove easier than the one awaiting him in Washington.
+
+Huang's reinstatement comes less than two weeks after revelations of his relationship with a suspected Chinese intelligence operative forced his resignation, setting off a political firestorm over Nvidia's dealings with China and its influence within the Trump administration.
+
+Now back atop the company he co-founded more than three decades ago, Huang faces a growing list of congressional inquiries, federal and state scrutiny, and lawmakers on both sides of the aisle demanding answers about whether his relationship compromised US national security.
+
+"All the questions that people have been raising in the press and in social media, all those questions are still out there," Martijn Rasser, vice president of technology leadership at the Special Competitive Studies Project (SCSP), told Yahoo Finance.
+
+"That aspect of the story is still very much in play," said Rasser, a former officer at the Central Intelligence Agency and former director of the technology and national security program at the Center for a New American Security.
+
+Nvidia's board of directors said on Monday that the decision to reinstate Huang came after they "received input from senior levels of the United States government, and based on that input, the Board is confident that Mr. Huang's reinstatement poses no national security risk."
+
+President Trump, who had pushed for Huang's reinstatement since his ouster on Nov. 12, confirmed that he had called the company's board of directors to personally lobby for Huang, telling CNBC that he had been speaking to the board "directly and indirectly" and had offered assurances on national security.
+
+The president noted in a Truth Social post that the US government "has no reason to believe that Jensen's return to NVIDIA poses any risk to National Security," and that "the Attorney General of the United States has confirmed that the U.S. Government does not possess evidence that he has engaged in any unlawful conduct."
+
+Lawmakers, including prominent members from the president's own party, have disputed those assertions. Republican Sen. John Cornyn, who sits on the Senate Foreign Affairs Committee and the Select Committee on Intelligence, wrote shortly after the news broke Monday, "No national security risk? Based on what?"
+
+Republican Representatives Brian Mast, John Moolenaar, and Rick Crawford wrote in a letter last week requesting Huang's testimony before their respective House committees, saying that "recent reports raise significant national security concerns regarding the PRC's access to sensitive U.S. technology and information."
+
+Democrats made similar calls on Monday, following on prior statements condemning potential national security violations at Nvidia (NVDA).
+
+"This reckless decision to bring back Jensen Huang does not change the fact that Huang and NVIDIA still owe Congress answers," Sen. Elizabeth Warren (D-Mass.), ranking member of the Senate Banking Committee, wrote on Monday. "Huang's return only increases the urgency to pass bipartisan export control bills and make sure NVIDIA does not lobby to kill that legislation and put our national security at risk."
+
+In a similar tone to Cornyn, Delaware Democratic Sen. Chris Coons wrote on X, "No national security risk? The guy who was having an affair with a Chinese spy while working relentlessly to help China get access to as many AI chips as possible? Really?"
+
+Calls for change at Nvidia came from inside the White House as well, despite the president's statements. Treasury Secretary Scott Bessent told Fox News last week that Nvidia's board needed to "go outside the company" as it searched for a new leader, arguing that the company needed a "dramatic shake-up."
+
+Bessent, however, softened his tone in interviews on Sunday.
+
+Republicans have also pushed on wider questions surrounding the US government's involvement with Nvidia, including coming congressional interrogations of Commerce Secretary Howard Lutnick, whom Huang has called "the person I talk to most in the administration."
+
+"If Howard Lutnick wanted my support, perhaps he should have responded to my many letters warning about these Chinese communist front companies and, more importantly, taking the threats of communist China more seriously," Arkansas Sen. Tom Cotton said in an interview with the Wall Street Journal.
+
+Nvidia has said in multiple quarterly reports that it projects no compute revenue from China in forward-looking estimates, stating in its fiscal second quarter report, "Under the current rules and geopolitical landscape, we are unable to create and deliver a competitive product for wide distribution in China's data center market with the approval from both the USG and the Chinese government."
+
+Huang's first major test will come next week on Dec. 1, when he is scheduled to appear before three House committees investigating his ties to the suspected Chinese operative, Alice Huang, and the potential diversion of advanced Nvidia chips to China. Nvidia general counsel Tim Teter is also set to face questioning alongside senior Commerce Department officials responsible for enforcing restrictions on chip exports.
+
+An inquiry by the Commerce Department into Singapore-based Megaspeed — the company Alice Huang was once associated with — over alleged violations of US semiconductor export controls was transferred to the Justice Department after Teter asked the Commerce Department for information on the investigation, The New York Times reported."
+
+Huang has separately agreed to testify publicly before the Senate Banking Committee on Dec. 3, setting up an appearance alongside Lutnick, who has also agreed to testify and is facing scrutiny over reports he slowed investigations into companies suspected of funneling controlled semiconductors into China.
+
+Amid a feud with Lutnick that has spilled into public light over the past two weeks, Bessent said investigators would need to ask about any potential export control violations by Nvidia or its customers such as Megaspeed, were they "a low-level fail, was it in the middle, or was it up in the C-suite? Who knew?"
+
+The controversy has also drawn investigators beyond Capitol Hill. California's attorney general has subpoenaed Nvidia as part of an investigation connected to Huang's affair. The Securities and Exchange Commission is reportedly investigating Nvidia over accounting violations, per Reuters.
+
+Proposed national legislation could also present further complications for Nvidia's business.
+
+The so-called AI Overwatch Act would tighten export controls on shipments of advanced dual-use AI chips to foreign nations such as China, while the Chip Security Act would impose new verification measures on the locations of chips exported abroad. The Multilateral Alignment of Technology Controls on Hardware (MATCH) Act would impose more restrictive export controls on the equipment needed to make advanced AI chips.
+
+"I think the news of the past few weeks has underscored in the mind of many legislators on Capitol Hill that not enough is being done to ensure that critical US technologies stay out of the hands of our adversaries," SCSP's Rasser told Yahoo Finance.
+
+As Huang prepares to appear before Congress, he will have an important ally in Trump, who has repeatedly referred to Huang as a close associate.
+
+The president said on Monday that he personally weighed in on the Nvidia board's decision to reinstate Huang and believes his intervention was "very important" to the decision, telling CNBC, "I convinced them."
+
+"If I thought he did something wrong, I wouldn't be recommending to his board to hire him," Trump said.
+
+Follow Jake Conley on X @byjakeconley or email him at jake.conley@yahooinc.com.
