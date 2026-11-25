@@ -1,0 +1,105 @@
+10 big money topics you might have to tackle over turkey: A Yahoo Finance guide to Nvidia, markets, and more
+
+2026-11-25
+
+Por Hamza Shaban
+
+https://finance.yahoo.com/markets/article/10-big-money-topics-you-might-have-to-tackle-over-turkey-a-yahoo-finance-guide-to-nvidia-markets-and-more-110000381.html
+
+There's something about Thanksgiving and the world of finance. Family members — both alike and different — thrust together in a pressure cooker of food, football, and more food. Pressure that squeezes opinions out and volumes up.
+
+As Bloomberg's Joe Weisenthal mused on this week, the "Thanksgiving effect" is real. Remember the bitcoin boom of 2017 that had everyone buying post-turkey? The same thing happened in 1999 with internet stocks. Maybe we'll get something this week.
+
+We've decided to put together a little cheat sheet of 10 big topics to give you an edge on your family. Or, in the generous spirit of Thanksgiving, to "educate."
+
+Remember to be nice!
+
+The stock market
+
+The main takeaway for the stock market these days is "wow." We have had an extremely zesty month, from the midterm elections pouring water on companies building data centers and raising hopes the Iran war will end to the Anthropic IPO to the Nvidia… drama (more on that below).
+
+Remember: The stock market is still up over 5% for the year. Not a great return, historically, but it's still positive.
+
+The bullish take: With stocks down (or somewhat down), this is a great buying opportunity — just look at the favorable price-to-earnings ratio the S&P 500 has! Corporate earnings are the backbone of any valuation, and companies are earning well and expect that to continue. The consumer is still strong, stocks usually do well after a period of fear, and as the TKer's Sam Ro likes to remind us, "stocks usually go up over the long term."
+
+The bearish take: The stock market's foundation may be strong consumer spending, but its big gains are largely AI-driven. Have you seen how concentrated the S&P 500 is in just a few Big Tech companies? If the AI trade can't pay for itself, those massive investments (and degrading chips) will cause some big problems. Plus, do normal people want AI? Will they pay for it? Because at these spending rates, the math looks tough. And the Fed is going to hike rates.
+
+The economy, inflation, and jobs
+
+Heading into the final month of the year, inflation isn't where the Fed needs it to be, and it's been going in the wrong direction. This has all but locked in a rate hike in December, and now there's chatter of a jumbo rate hike (50 basis points) possible at the next meeting or in the future. (Remember, a basis point is a hundredth of a percentage point.) Meanwhile, the labor market is in a low-hire, low-fire framework. Both unemployment and hiring are low. If you have a job, great. If you don't, ouch. Overall GDP is strong, but things are still K-shaped. Great for the haves — the top of the K — rough for the have-nots.
+
+The bullish take: By the numbers, the economy is solid. If anything, it's too hot, as inflation shows us. Unemployment is low. GDP is strong. Overall consumer spending is strong.
+
+The bearish take: The vibes are bad. The rich are doing most of the spending, holding up the economy. It's crazy hard to get hired, AI is making it worse, and inflation doesn't seem to be going anywhere and seems less sensitive to the Fed hikes — Big Tech and AI companies have the money to spend through high interest rates.
+
+Jensen's ouster — and reinstatement as Nvidia CEO
+
+The former CEO of Nvidia is now the current CEO of Nvidia (NVDA). The chipmaker that sits at the center of the AI boom reinstated Huang in a dramatic reversal following revelations of several extramarital affairs (including one with an alleged Chinese spy!) that engulfed the company in scandal, prompted Jensen Huang to resign, and rocked the stock market. But less than two weeks later, he was back. President Trump said he was pivotal in pressuring the board to reinstate Huang. Shares of the company surged on Monday, prompting one of the biggest stock comebacks in history.
+
+The bullish take: Nvidia is worth a lot more with Huang than without him. One man can move markets. Huang's vision is key for the company, the AI trade that relies on him, and the country, according to the White House. Nvidia makes a ton of money, and the comparative valuation looks pretty enticing.
+
+The bearish take: Huang's return does not resolve the board's independent investigation or the government's ongoing inquiries. The debate over exports to China is still a hot topic in Washington, and Huang's reinstatement may attract even more scrutiny and accusations of political interference. The board looks ineffectual at best, and Nvidia faces plenty of headwinds, including intensifying competition in the chip space and questions around whether its circular financing will pay off.
+
+The bond market flex
+
+Few people may ask about the bond market this holiday season, and that's exactly why you should bring up the world of debt. Everyone can talk about the stock market. But the bond market is where you can prove yourself. Remember: When no one wants to buy bonds (i.e., stocks are more attractive, inflation makes them worth less), their prices go down, and yields go up.
+
+This year's sticky inflation, swelling government deficits, surging oil prices, and the enormous borrowing needs tied to the AI boom have helped push bond yields to multidecade highs. The benchmark 10-year Treasury yield (^TNX) climbed to a high of 5.34% in early October, its highest level since 2002, before retreating to 4.9%.
+
+The bullish take: The bond market is giving stock investors something to envy. With Treasury yields hovering around 5%, investors can earn significant income without chasing the next tech giant betting its balance sheet on AI. And if inflation cools as interest rates ease next year, bond prices could rise. Goldman Sachs expects US 10-year Treasury bonds to return 7.5% in 2027.
+
+The bearish take: There's a reason bonds are paying investors so much. Persistent inflation and growing borrowing needs could send yields higher, driving bond prices lower. Goldman Sachs has called out bond market turbulence as one of the major global economic risks for 2027. Need we mention that the 10-year yield has pushed mortgages well over 7%?
+
+AI vs. your job
+
+If Robert Pattinson hasn't already taken your job, you still might be living in fear that AI will. Employers want leaner teams, fewer middle managers, and a smaller cohort of junior-level employees. AI is supposed to supercharge our productivity, unlocking the potential for more substantive work and lessening the load of more tedious labor. And while the bigger question of whether AI will mass-displace American workers is still years or even decades away, AI is already steering employment decisions.
+
+The bullish take: AI is a transformative technology that will boost GDP growth and keep the US economy close to full employment, with broadly shared economic gains. Jensen Huang believes that good companies will hire more with AI.
+
+The bearish take: Mass automation leads to a substantial disruption in the labor market, eradicating jobs rather than complementing human work, leaving the country with an elevated unemployment rate. Right now, it's already indirectly a factor in reduced hiring as companies try to stay lean. Anthropic (ANT) CEO Dario Amodei takes the opposite view of Huang, and has said AI will eat jobs.
+
+Data centers in the US
+
+As the centerpiece of the AI trade's infrastructure and financial vehicle, data centers are everything. As a political symbol, they are toxic. Data centers have become stand-ins for the broader AI build-out, and because they have such imposing physical footprints (e.g., three football fields long) and have sucked resources and labor from other parts of the economy, communities are rightfully upset. They featured as a key theme in the US midterm elections, rallying opposition. But any AI transformation can't happen without them.
+
+The bullish take: Tech companies taking a more community-focused approach to their construction will relieve some of the backlash. And friendlier jurisdictions will continue to welcome them, on more equitable terms, with billions of dollars flowing into the economy. Have you seen what they're paying electricians?
+
+The bearish take: Data center opposition continues to spread, forcing companies like Amazon, Microsoft, Google, and OpenAI to build them abroad, even as President Trump has vowed to penalize firms that do. They're a giant thumb on the economy's scale and have literally made it hard for other parts of the construction sector. Did we mention that they're a major factor in keeping inflation high?
+
+The state of bitcoin and crypto
+
+For years, crypto investors have joked about the inevitably awkward Thanksgiving ritual of explaining digital assets to skeptical friends and family. Some years the crypto faithful have the last laugh. This won't be one of them.
+
+Bitcoin (BTC) has fallen more than 30% year to date, with most of those losses coming in November alone.
+
+Bullish take: Bitcoin's boom and bust cycles have followed an uncanny four-year rhythm tied to its so-called halving event, which cuts the supply of new coins it issues by half. The coin's new all-time high came roughly 1,426 to 1,428 days after the last four halving events, according to Yahoo Finance's calculations. The last three bear markets bottomed 12 to 13 months after the peak.
+
+Bearish take: Even if bitcoin's bull market returns, the wider crypto world faces some existential reckoning. AI has captured investors' attention while crypto is still struggling to prove its real-world usefulness. Congress' failure to pass sweeping legislation earlier this year has also dealt a blow to hopes for faster adoption on Wall Street. Meanwhile, some of the industry's biggest players are increasingly expanding beyond digital assets.
+
+Anthropic's IPO
+
+After months of investors viewing Anthropic's (ANT) initial public offering as a bellwether for the artificial intelligence boom's Wall Street takeover, the company and its bankers pulled off a record debut.
+
+Anthropic's stock delivered a 17% first-day pop from its listing price of $83 per share. It has since tumbled below the listing threshold.
+
+Bullish take: Needham analysts expect the company to deliver nearly $100 billion in annual recurring revenue by the end of this year so long as it can hold its technological edge, while billionaire Bill Ackman has described the company as "the most amazing business story of this century" for the growth it has already achieved.
+
+Bearish take: The dilemma for investors comes down to whether Anthropic can maintain the explosive growth as the AI trade has faced mounting headwinds. Needham added that investors have little visibility into the company's revenue prospects for 2027. The firm has also flagged potential selling pressure in light of Anthropic's unusual lockup schedule for insider stock sales.
+
+For now, investors have had more success holding exposure to last week's other major release — "Grand Theft Auto VI" — with shares of Rockstar Games parent company Take-Two (TTWO) outperforming the AI giant's stock so far.
+
+The new Fed president
+
+The new head of the central bank has a big job ahead of him. Kevin Warsh has set out to clarify the central bank's strategy, bring down stubborn inflation, and rebuild confidence in the Fed's independence. Less urgent but equally significant is working from under the long shadow of his predecessor, Jerome Powell. The former chair presided over the COVID economic crisis and attempted to execute a "soft landing," initiating hikes without triggering a recession. Powell never quite finished the job. And now it's Warsh's watch.
+
+The bullish take: After raising rates for the first time in three years, Warsh showed that he is committed to bringing pricing pressures down, even if that meant withstanding pressure from the White House. He also signaled interest and curiosity about the impacts of AI, keeping a close eye on the data center build-out for risks to the financial system.
+
+The bearish take: Warsh is like Powell in that he and his colleagues are already behind the curve. Rates have been elevated for years, and now AI volatility makes the market more vulnerable to rate hikes, creating another tension between efforts to cool inflation and the risk of a sharp sell-off on Wall Street. His preference for speaking less than Powell and for skipping forward guidance means the market has to keep guessing.
+
+Tech outages
+
+A wave of mainstream technology failures has left Americans physically stranded, locked out of accounts, and unable to work. In some cases, it was old systems to blame; in others, it was maintenance gone wrong, or a rush to fix a bug or prevent an exploit uncovered by AI tools. While the incidents weren't strictly connected, their rapid succession left the impression that we are in a new era of vulnerability.
+
+The bullish take: In a cybersecurity arms race, the spate of outages serves as a wake-up call to update antiquated systems and take seriously the threat from both AI-wielding hackers and the vulnerabilities of interconnected systems filled with AI-produced code.
+
+The bearish take: AI is supercharging bad actors' capabilities and increasing the likelihood of a catastrophic outage. We can't properly review and understand code as fast as AI can write it, so companies are shipping (an industry term for implementing) fixes that break stuff. These factors are overrunning our abilities and are going to cause a lot more problems.
