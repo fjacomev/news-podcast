@@ -7,7 +7,7 @@
     <link>https://fjacomev.github.io/news-podcast</link>
     <description>Podcast personal de noticias, leido en voz local</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2026 19:55:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 21:10:13 GMT</lastBuildDate>
     <image>
       <url>https://fjacomev.github.io/news-podcast/cover.jpg</url>
       <title>Fernando AI News</title>
@@ -18,6 +18,107 @@
     <itunes:summary>Podcast personal de noticias, leido en voz local</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
+
+    <item>
+      <title>OpenAI Says Apple Pressured Suppliers to Shun Its Devices</title>
+      <author>Erik Larson</author>
+      <description>OpenAI Says Apple Pressured Suppliers to Shun Its Devices
+
+2026-11-27
+
+Por Erik Larson
+
+https://finance.yahoo.com/technology/ai/articles/openai-says-apple-pressured-suppliers-190210134.html
+
+OpenAI Says Apple Pressured Suppliers to Shun Its Devices
+
+Erik Larson
+
+4 min read
+
+(Bloomberg) -- The trade-secrets fight between OpenAI and Apple Inc. is widening, with the artificial intelligence company accusing the iPhone maker of undermining its supplier relationships and using unfair employment agreements to prevent talent from jumping ship.
+
+OpenAI filed counterclaims against Apple on Friday in federal court in San Jose, California, transforming the lawsuit Apple brought earlier against OpenAI into a two-way battle over the companies&#x27; intellectual property.
+
+The case has overshadowed OpenAI&#x27;s bid to sell its own devices, a move that would put it in competition with the iPhone maker. Former Apple design guru Jony Ive is helping the AI company develop a family of products, starting with what&#x27;s expected to be a doughnut-shaped smart speaker.
+
+&quot;Apple has responded to OpenAI&#x27;s anticipated entry into the hardware market by unlawfully pressuring vendors not to work with OpenAI and using expansive employment restraints to limit OpenAI&#x27;s access to talented engineers,&quot; OpenAI said in the filing. &quot;Apple&#x27;s power over suppliers and engineers cannot lawfully be used to exclude competing purchasers and employers from the market.&quot;
+
+Apple did not immediately respond to a message seeking comment.
+
+Apple in July sued OpenAI and Tang Tan, the AI company&#x27;s chief hardware officer, alleging the ChatGPT maker orchestrated a campaign to steal trade secrets via job candidates and hires from Apple. The companies had earlier collaborated to integrate ChatGPT directly into iPhone, iPad and Mac software, only to see that relationship cool more recently.
+
+In the new counterclaims, OpenAI alleges Apple unfairly pressures industry suppliers to &quot;identify their OpenAI projects and the names, locations, and assignments of workers with Apple experience.&quot;
+
+Apple then seeks to exclude workers with OpenAI experience from doing further work for the iPhone maker, effectively discouraging suppliers from committing workers to OpenAI projects, according to the filing.
+
+Another industry supplier that provides specialist finishing services moved its manufacturing work for OpenAI products to the night shift to avoid overlapping with work for Apple, increasing costs for OpenAI, according to the filing. The supplier did so under pressure from Apple, OpenAI says.
+
+&quot;Suppliers have expressed fear of losing Apple business and have moved or rescheduled meetings with OpenAI to avoid Apple seeing them,&quot; according to OpenAI&#x27;s counterclaims. &quot;Other suppliers have told OpenAI personnel that they must be cautious about devoting staff, production resources, or managerial attention to OpenAI.&quot;
+
+OpenAI has denied wrongdoing and has asked a judge to toss out Apple&#x27;s lawsuit. In October, OpenAI voluntarily agreed not to use trade secrets that Apple claims were stolen when a judge said he was likely to issue an order to that effect.
+
+The counterclaims accuse Apple of stealing OpenAI&#x27;s trade secrets, an allegation that the AI company previously made in a filing in the case.
+
+OpenAI alleges that a former employee — who had left Apple for OpenAI but later returned to Apple — had sent &quot;over a hundred highly confidential files&quot; about at least one unreleased OpenAI device to personal accounts. The files included images of unreleased hardware, engineering and manufacturing data and supplier information, OpenAI said.
+
+In response, Apple said it has policies in place to prevent the use of confidential information from former employers, that it found no evidence to substantiate OpenAI&#x27;s claims and that the AI company is simply trying to distract from the &quot;significant evidence&quot; that its employees took Apple product information.
+
+The new counterclaims also accuse Apple of using unfair employment agreements to
+
+[Transcripcion recortada]</description>
+      <content:encoded><![CDATA[<p>OpenAI Says Apple Pressured Suppliers to Shun Its Devices</p><p>2026-11-27</p><p>Por Erik Larson</p><p>https://finance.yahoo.com/technology/ai/articles/openai-says-apple-pressured-suppliers-190210134.html</p><p>OpenAI Says Apple Pressured Suppliers to Shun Its Devices</p><p>Erik Larson</p><p>4 min read</p><p>(Bloomberg) -- The trade-secrets fight between OpenAI and Apple Inc. is widening, with the artificial intelligence company accusing the iPhone maker of undermining its supplier relationships and using unfair employment agreements to prevent talent from jumping ship.</p><p>OpenAI filed counterclaims against Apple on Friday in federal court in San Jose, California, transforming the lawsuit Apple brought earlier against OpenAI into a two-way battle over the companies&#x27; intellectual property.</p><p>The case has overshadowed OpenAI&#x27;s bid to sell its own devices, a move that would put it in competition with the iPhone maker. Former Apple design guru Jony Ive is helping the AI company develop a family of products, starting with what&#x27;s expected to be a doughnut-shaped smart speaker.</p><p>&quot;Apple has responded to OpenAI&#x27;s anticipated entry into the hardware market by unlawfully pressuring vendors not to work with OpenAI and using expansive employment restraints to limit OpenAI&#x27;s access to talented engineers,&quot; OpenAI said in the filing. &quot;Apple&#x27;s power over suppliers and engineers cannot lawfully be used to exclude competing purchasers and employers from the market.&quot;</p><p>Apple did not immediately respond to a message seeking comment.</p><p>Apple in July sued OpenAI and Tang Tan, the AI company&#x27;s chief hardware officer, alleging the ChatGPT maker orchestrated a campaign to steal trade secrets via job candidates and hires from Apple. The companies had earlier collaborated to integrate ChatGPT directly into iPhone, iPad and Mac software, only to see that relationship cool more recently.</p><p>In the new counterclaims, OpenAI alleges Apple unfairly pressures industry suppliers to &quot;identify their OpenAI projects and the names, locations, and assignments of workers with Apple experience.&quot;</p><p>Apple then seeks to exclude workers with OpenAI experience from doing further work for the iPhone maker, effectively discouraging suppliers from committing workers to OpenAI projects, according to the filing.</p><p>Another industry supplier that provides specialist finishing services moved its manufacturing work for OpenAI products to the night shift to avoid overlapping with work for Apple, increasing costs for OpenAI, according to the filing. The supplier did so under pressure from Apple, OpenAI says.</p><p>&quot;Suppliers have expressed fear of losing Apple business and have moved or rescheduled meetings with OpenAI to avoid Apple seeing them,&quot; according to OpenAI&#x27;s counterclaims. &quot;Other suppliers have told OpenAI personnel that they must be cautious about devoting staff, production resources, or managerial attention to OpenAI.&quot;</p><p>OpenAI has denied wrongdoing and has asked a judge to toss out Apple&#x27;s lawsuit. In October, OpenAI voluntarily agreed not to use trade secrets that Apple claims were stolen when a judge said he was likely to issue an order to that effect.</p><p>The counterclaims accuse Apple of stealing OpenAI&#x27;s trade secrets, an allegation that the AI company previously made in a filing in the case.</p><p>OpenAI alleges that a former employee — who had left Apple for OpenAI but later returned to Apple — had sent &quot;over a hundred highly confidential files&quot; about at least one unreleased OpenAI device to personal accounts. The files included images of unreleased hardware, engineering and manufacturing data and supplier information, OpenAI said.</p><p>In response, Apple said it has policies in place to prevent the use of confidential information from former employers, that it found no evidence to substantiate OpenAI&#x27;s claims and that the AI company is simply trying to distract from the &quot;significant evidence&quot; that its employees took Apple product information.</p><p>The new counterclaims also accuse Apple of using unfair employment agreements to</p>]]></content:encoded>
+      <pubDate>Fri, 27 Nov 2026 21:10:12 GMT</pubDate>
+      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-11-27_OpenAI_Says_Apple_Pressured_Suppliers_to_Shun_Its_Devices.mp3</guid>
+      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-11-27_OpenAI_Says_Apple_Pressured_Suppliers_to_Shun_Its_Devices.mp3" length="3066139" type="audio/mpeg"/>
+      <itunes:duration>00:05:44</itunes:duration>
+      <itunes:author>Erik Larson</itunes:author>
+      <itunes:summary>OpenAI Says Apple Pressured Suppliers to Shun Its Devices
+
+2026-11-27
+
+Por Erik Larson
+
+https://finance.yahoo.com/technology/ai/articles/openai-says-apple-pressured-suppliers-190210134.html
+
+OpenAI Says Apple Pressured Suppliers to Shun Its Devices
+
+Erik Larson
+
+4 min read
+
+(Bloomberg) -- The trade-secrets fight between OpenAI and Apple Inc. is widening, with the artificial intelligence company accusing the iPhone maker of undermining its supplier relationships and using unfair employment agreements to prevent talent from jumping ship.
+
+OpenAI filed counterclaims against Apple on Friday in federal court in San Jose, California, transforming the lawsuit Apple brought earlier against OpenAI into a two-way battle over the companies&#x27; intellectual property.
+
+The case has overshadowed OpenAI&#x27;s bid to sell its own devices, a move that would put it in competition with the iPhone maker. Former Apple design guru Jony Ive is helping the AI company develop a family of products, starting with what&#x27;s expected to be a doughnut-shaped smart speaker.
+
+&quot;Apple has responded to OpenAI&#x27;s anticipated entry into the hardware market by unlawfully pressuring vendors not to work with OpenAI and using expansive employment restraints to limit OpenAI&#x27;s access to talented engineers,&quot; OpenAI said in the filing. &quot;Apple&#x27;s power over suppliers and engineers cannot lawfully be used to exclude competing purchasers and employers from the market.&quot;
+
+Apple did not immediately respond to a message seeking comment.
+
+Apple in July sued OpenAI and Tang Tan, the AI company&#x27;s chief hardware officer, alleging the ChatGPT maker orchestrated a campaign to steal trade secrets via job candidates and hires from Apple. The companies had earlier collaborated to integrate ChatGPT directly into iPhone, iPad and Mac software, only to see that relationship cool more recently.
+
+In the new counterclaims, OpenAI alleges Apple unfairly pressures industry suppliers to &quot;identify their OpenAI projects and the names, locations, and assignments of workers with Apple experience.&quot;
+
+Apple then seeks to exclude workers with OpenAI experience from doing further work for the iPhone maker, effectively discouraging suppliers from committing workers to OpenAI projects, according to the filing.
+
+Another industry supplier that provides specialist finishing services moved its manufacturing work for OpenAI products to the night shift to avoid overlapping with work for Apple, increasing costs for OpenAI, according to the filing. The supplier did so under pressure from Apple, OpenAI says.
+
+&quot;Suppliers have expressed fear of losing Apple business and have moved or rescheduled meetings with OpenAI to avoid Apple seeing them,&quot; according to OpenAI&#x27;s counterclaims. &quot;Other suppliers have told OpenAI personnel that they must be cautious about devoting staff, production resources, or managerial attention to OpenAI.&quot;
+
+OpenAI has denied wrongdoing and has asked a judge to toss out Apple&#x27;s lawsuit. In October, OpenAI voluntarily agreed not to use trade secrets that Apple claims were stolen when a judge said he was likely to issue an order to that effect.
+
+The counterclaims accuse Apple of stealing OpenAI&#x27;s trade secrets, an allegation that the AI company previously made in a filing in the case.
+
+OpenAI alleges that a former employee — who had left Apple for OpenAI but later returned to Apple — had sent &quot;over a hundred highly confidential files&quot; about at least one unreleased OpenAI device to personal accounts. The files included images of unreleased hardware, engineering and manufacturing data and supplier information, OpenAI said.
+
+In response, Apple said it has policies in place to prevent the use of confidential information from former employers, that it found no evidence to substantiate OpenAI&#x27;s claims and that the AI company is simply trying to distract from the &quot;significant evidence&quot; that its employees took Apple product information.
+
+The new counterclaims also accuse Apple of using unfair employment agreements to
+
+[Transcripcion recortada]</itunes:summary>
+    </item>
 
     <item>
       <title>Fernández: «El Diario revela el corazón de Francisco y su espiritualidad» - Vatican News</title>
@@ -7772,67 +7873,6 @@ For Ian Lyngen, head of US rate strategy at BMO Capital Markets, the current ele
 &quot;The impact on the real estate market has been to effectively freeze activity,&quot; he said. That&#x27;s &quot;a foreseeable outcome given the fact that 30-year mortgages have remained above 7% since mid-September.&quot;
 
 The trajectory of Treasury yields this year, while not in a straight line, has generally followed an upward path, with the 10-year&#x27;s rising from under 4% when President Donald Trump launched his war on Iran in late February, disrupting the supply of Middle Eastern oil and gas.</itunes:summary>
-    </item>
-
-    <item>
-      <title>Google Buys AI Scheduling Tool Howie in Latest Agents Push</title>
-      <author>Natalie Lung</author>
-      <description>Google Buys AI Scheduling Tool Howie in Latest Agents Push
-
-2026-11-18
-
-Por Natalie Lung
-
-https://finance.yahoo.com/technology/ai/articles/google-buys-ai-scheduling-tool-161136571.html
-
-(Bloomberg) -- Alphabet Inc.&#x27;s Google has bought Howie, an artificial intelligence-powered scheduling and calendar management tool, the tech giant&#x27;s latest move to win over consumers with AI agents.
-
-Most Read from Bloomberg
-
-Google&#x27;s experimental arm, Google Labs, announced the purchase Monday in an X post, without disclosing terms. Howie, whose tool lets users loop the AI agent into emails as they would a human secretary, was valued at $14 million in 2024, according to PitchBook data.
-
-&quot;We can&#x27;t wait to learn from them as we build the next generation of intuitive AI tools together for small businesses,&quot; Google Labs said in the post.
-
-Tech and AI companies have been intensely focused on developing AI agents that can do things on behalf of the user, an advancement beyond question-and-answer chatbots. In May, Google released Gemini Spark, a 24/7 agent that proactively completes digital tasks such as scan an inbox for emails, organize files or build a spreadsheet. That market is growing increasingly crowded, with offerings from OpenAI, Anthropic PBC, Meta Platforms Inc. and Elon Musk&#x27;s xAI.
-
-Petersmith and Google Labs did not immediately respond to requests for comment on the deal terms, or whether Howie will eventually be integrated into Google apps and services.
-
-Google Labs has previously acquired AI tools built on Google technology. In February, it bought ProducerAI, a music generation platform that uses Google DeepMind&#x27;s Lyria model.
-
-Most Read from Bloomberg Businessweek
-
-2026 Bloomberg L.P.</description>
-      <content:encoded><![CDATA[<p>Google Buys AI Scheduling Tool Howie in Latest Agents Push</p><p>2026-11-18</p><p>Por Natalie Lung</p><p>https://finance.yahoo.com/technology/ai/articles/google-buys-ai-scheduling-tool-161136571.html</p><p>(Bloomberg) -- Alphabet Inc.&#x27;s Google has bought Howie, an artificial intelligence-powered scheduling and calendar management tool, the tech giant&#x27;s latest move to win over consumers with AI agents.</p><p>Most Read from Bloomberg</p><p>Google&#x27;s experimental arm, Google Labs, announced the purchase Monday in an X post, without disclosing terms. Howie, whose tool lets users loop the AI agent into emails as they would a human secretary, was valued at $14 million in 2024, according to PitchBook data.</p><p>&quot;We can&#x27;t wait to learn from them as we build the next generation of intuitive AI tools together for small businesses,&quot; Google Labs said in the post.</p><p>Tech and AI companies have been intensely focused on developing AI agents that can do things on behalf of the user, an advancement beyond question-and-answer chatbots. In May, Google released Gemini Spark, a 24/7 agent that proactively completes digital tasks such as scan an inbox for emails, organize files or build a spreadsheet. That market is growing increasingly crowded, with offerings from OpenAI, Anthropic PBC, Meta Platforms Inc. and Elon Musk&#x27;s xAI.</p><p>Petersmith and Google Labs did not immediately respond to requests for comment on the deal terms, or whether Howie will eventually be integrated into Google apps and services.</p><p>Google Labs has previously acquired AI tools built on Google technology. In February, it bought ProducerAI, a music generation platform that uses Google DeepMind&#x27;s Lyria model.</p><p>Most Read from Bloomberg Businessweek</p><p>2026 Bloomberg L.P.</p>]]></content:encoded>
-      <pubDate>Wed, 18 Nov 2026 11:36:36 GMT</pubDate>
-      <guid isPermaLink="true">https://fjacomev.github.io/news-podcast/mp3/2026-11-18_Google_Buys_AI_Scheduling_Tool_Howie_in_Latest_Agents_Push.mp3</guid>
-      <enclosure url="https://fjacomev.github.io/news-podcast/mp3/2026-11-18_Google_Buys_AI_Scheduling_Tool_Howie_in_Latest_Agents_Push.mp3" length="994727" type="audio/mpeg"/>
-      <itunes:duration>00:01:45</itunes:duration>
-      <itunes:author>Natalie Lung</itunes:author>
-      <itunes:summary>Google Buys AI Scheduling Tool Howie in Latest Agents Push
-
-2026-11-18
-
-Por Natalie Lung
-
-https://finance.yahoo.com/technology/ai/articles/google-buys-ai-scheduling-tool-161136571.html
-
-(Bloomberg) -- Alphabet Inc.&#x27;s Google has bought Howie, an artificial intelligence-powered scheduling and calendar management tool, the tech giant&#x27;s latest move to win over consumers with AI agents.
-
-Most Read from Bloomberg
-
-Google&#x27;s experimental arm, Google Labs, announced the purchase Monday in an X post, without disclosing terms. Howie, whose tool lets users loop the AI agent into emails as they would a human secretary, was valued at $14 million in 2024, according to PitchBook data.
-
-&quot;We can&#x27;t wait to learn from them as we build the next generation of intuitive AI tools together for small businesses,&quot; Google Labs said in the post.
-
-Tech and AI companies have been intensely focused on developing AI agents that can do things on behalf of the user, an advancement beyond question-and-answer chatbots. In May, Google released Gemini Spark, a 24/7 agent that proactively completes digital tasks such as scan an inbox for emails, organize files or build a spreadsheet. That market is growing increasingly crowded, with offerings from OpenAI, Anthropic PBC, Meta Platforms Inc. and Elon Musk&#x27;s xAI.
-
-Petersmith and Google Labs did not immediately respond to requests for comment on the deal terms, or whether Howie will eventually be integrated into Google apps and services.
-
-Google Labs has previously acquired AI tools built on Google technology. In February, it bought ProducerAI, a music generation platform that uses Google DeepMind&#x27;s Lyria model.
-
-Most Read from Bloomberg Businessweek
-
-2026 Bloomberg L.P.</itunes:summary>
     </item>
   </channel>
 </rss>
